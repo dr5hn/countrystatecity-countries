@@ -1,4 +1,4 @@
-name: Publish to NPM
+name: Publish Package
 
 on:
   push:
@@ -15,6 +15,7 @@ jobs:
     permissions:
       contents: write
       id-token: write
+      packages: write
     
     steps:
       - name: Checkout code
@@ -54,11 +55,25 @@ jobs:
             echo "Version $PACKAGE_VERSION not yet published"
           fi
 
-      - name: Publish @countrystatecity/countries
+      - name: Publish to NPM
         if: steps.check-version.outputs.published == 'false'
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Setup Node.js for GitHub Packages
+        if: steps.check-version.outputs.published == 'false'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@countrystatecity'
+
+      - name: Publish to GitHub Packages
+        if: steps.check-version.outputs.published == 'false'
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create GitHub Release
         if: steps.check-version.outputs.published == 'false'
@@ -69,7 +84,9 @@ jobs:
           body: |
             ## @countrystatecity/countries v${{ steps.check-version.outputs.version }}
 
-            Published to NPM: https://www.npmjs.com/package/@countrystatecity/countries
+            Published to:
+            - **NPM**: https://www.npmjs.com/package/@countrystatecity/countries
+            - **GitHub Packages**: https://github.com/dr5hn/countrystatecity-countries/pkgs/npm/countries
 
             ### Installation
             ```bash
