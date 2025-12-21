@@ -1,0 +1,100 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.success {
+  color: #4ade80;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.card {
+  padding: 2em;
+  background: #1a1a1a;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+.form-group {
+  margin: 1.5rem 0;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.form-group select {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid #404040;
+  background: #2a2a2a;
+  color: white;
+}
+
+.form-group select:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.form-group small {
+  display: block;
+  margin-top: 0.5rem;
+  color: #888;
+  font-size: 0.875rem;
+}
+
+.info {
+  text-align: left;
+  background: #1e293b;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+
+.info h3 {
+  margin-top: 0;
+  color: #60a5fa;
+}
+
+.info ul {
+  padding-left: 1.5rem;
+}
+
+.info li {
+  margin: 0.5rem 0;
+}
+
+.info code {
+  background: #334155;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.875rem;
+}

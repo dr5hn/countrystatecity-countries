@@ -1,0 +1,81 @@
+name: CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  lint-test-build:
+    name: Lint, Test & Build
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint || echo "Linting not configured yet"
+
+      - name: Type check
+        run: npm run typecheck
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build package
+        run: npm run build
+      
+      - name: Test Vite integration
+        run: |
+          cd tests/vite-integration
+          bash test.sh
+
+      - name: Check bundle sizes
+        run: |
+          echo "=== Bundle Sizes ==="
+          du -sh dist/index.js
+          du -sh dist/index.cjs
+          du -sh dist/data/countries.json
+          echo "=== Total dist size ==="
+          du -sh dist/
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist-package
+          path: dist/
+          retention-days: 7
+
+  ios-compatibility:
+    name: iOS Safari Compatibility Tests
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build package
+        run: npm run build
+
+      - name: Run iOS compatibility tests
+        run: npm run test:ios

@@ -1,0 +1,58 @@
+ODC Open Database License (ODbL) v1.0
+
+This package and its data are made available under the Open Database License:
+http://opendatacommons.org/licenses/odbl/1.0/
+
+Any rights in individual contents of the database are licensed under the
+Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+You are free:
+- To share: To copy, distribute and use the database.
+- To create: To produce works from the database.
+- To adapt: To modify, transform and build upon the database.
+
+As long as you:
+- Attribute: You must attribute any public use of the database, or works
+  produced from the database, in the manner specified in the ODbL. For any
+  use or redistribution of the database, or works produced from it, you must
+  make clear to others the license of the database and keep intact any notices
+  on the original database.
+  
+- Share-Alike: If you publicly use any adapted version of this database, or
+  works produced from an adapted database, you must also offer that adapted
+  database under the ODbL.
+  
+- Keep open: If you redistribute the database, or an adapted version of it,
+  then you may use technological measures that restrict the work (such as DRM)
+  as long as you also redistribute a version without such measures.
+
+---
+
+Full Legal Code: https://opendatacommons.org/licenses/odbl/1-0/
+
+---
+
+## Attribution
+
+This package contains data sourced from:
+https://github.com/dr5hn/countries-states-cities-database
+
+The original database is licensed under ODbL 1.0.
+
+When using this package, please provide attribution to:
+- The Countries States Cities Database (https://github.com/dr5hn/countries-states-cities-database)
+- This package: @countrystatecity/countries (https://github.com/dr5hn/countrystatecity)
+
+---
+
+## Summary (Not Legal Advice)
+
+This is a human-readable summary of the ODbL 1.0 license. Please see the full
+legal code for exact terms.
+
+The Open Database License is a license agreement intended to allow users to
+freely share, modify, and use databases while maintaining freedom for others
+to do the same. The main conditions are attribution and share-alike.
+
+For more information about the ODbL, please see:
+https://opendatacommons.org/licenses/odbl/summary/

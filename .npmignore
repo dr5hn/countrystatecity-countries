@@ -1,0 +1,20 @@
+# Source files
+src/
+tests/
+scripts/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+
+# Development files
+*.log
+.DS_Store
+node_modules/
+
+# Test coverage
+coverage/
+
+# Build artifacts (we only publish dist/)
+*.tsbuildinfo

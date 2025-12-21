@@ -1,0 +1,14 @@
+node_modules/
+dist/
+src/data/
+coverage/
+*.log
+.DS_Store
+*.tsbuildinfo
+.env
+.env.local
+
+# NextJS integration test
+tests/nextjs-integration/.next/
+tests/nextjs-integration/out/
+tests/nextjs-integration/next-env.d.ts

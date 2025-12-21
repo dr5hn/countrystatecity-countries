@@ -1,0 +1,128 @@
+name: Update Data
+
+on:
+  # Run weekly on Sundays at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * 0'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    name: Update Countries/States/Cities Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Download latest data
+        run: |
+          curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json.gz" \
+            -o /tmp/countries-data.json.gz
+          gunzip /tmp/countries-data.json.gz
+          echo "Downloaded data size:"
+          ls -lh /tmp/countries-data.json
+      
+      - name: Backup current data statistics
+        run: |
+          echo "=== Current Data Statistics ===" > /tmp/data-stats-before.txt
+          if [ -f src/data/countries.json ]; then
+            echo "Countries: $(cat src/data/countries.json | grep -o '"id"' | wc -l)" >> /tmp/data-stats-before.txt
+            echo "Data files: $(find src/data -type f | wc -l)" >> /tmp/data-stats-before.txt
+          else
+            echo "No existing data found" >> /tmp/data-stats-before.txt
+          fi
+          cat /tmp/data-stats-before.txt
+
+      - name: Generate new data structure
+        run: node scripts/generate-data.cjs /tmp/countries-data.json
+      
+      - name: Collect new data statistics
+        id: data-stats
+        run: |
+          echo "=== New Data Statistics ===" > /tmp/data-stats-after.txt
+          echo "Countries: $(cat src/data/countries.json | grep -o '"id"' | wc -l)" >> /tmp/data-stats-after.txt
+          echo "Data files: $(find src/data -type f | wc -l)" >> /tmp/data-stats-after.txt
+          cat /tmp/data-stats-after.txt
+
+          # Export for PR description
+          COUNTRIES=$(cat src/data/countries.json | grep -o '"id"' | wc -l)
+          FILES=$(find src/data -type f | wc -l)
+          echo "countries=$COUNTRIES" >> $GITHUB_OUTPUT
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Build and test with new data
+        run: |
+          npm run build
+          npm test
+      
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add src/data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No data changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Data changes detected"
+          fi
+      
+      - name: Create Pull Request
+        if: steps.check-changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore: update countries/states/cities data'
+          title: '🔄 Automated Data Update from countries-states-cities-database'
+          body: |
+            ## Automated Data Update
+
+            This PR contains the latest data from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
+
+            ### Statistics
+            - Countries: ${{ steps.data-stats.outputs.countries }}
+            - Total data files: ${{ steps.data-stats.outputs.files }}
+
+            ### Changes
+            - Downloaded latest dataset from source repository
+            - Regenerated countries/states/cities split data structure
+            - All tests passing ✅
+
+            ### Verification
+            - ✅ Data generation completed successfully
+            - ✅ Build successful
+            - ✅ All tests passing
+
+            This is an automated pull request. Please review the changes before merging.
+          branch: automated-data-update
+          delete-branch: true
+          labels: |
+            automated
+            data-update
+      
+      - name: No changes detected
+        if: steps.check-changes.outputs.changed == 'false'
+        run: |
+          echo "✅ Data is already up to date. No PR created."
