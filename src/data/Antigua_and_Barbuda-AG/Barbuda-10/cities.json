@@ -1,0 +1,15 @@
+[
+  {
+    "id": 144,
+    "name": "Codrington",
+    "state_id": 3708,
+    "state_code": "10",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.63333000",
+    "longitude": "-61.83333000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  }
+]

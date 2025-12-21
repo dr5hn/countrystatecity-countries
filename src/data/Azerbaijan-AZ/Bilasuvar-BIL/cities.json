@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8133,
+    "name": "Pushkino",
+    "state_id": 532,
+    "state_code": "BIL",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.45833000",
+    "longitude": "48.54500000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

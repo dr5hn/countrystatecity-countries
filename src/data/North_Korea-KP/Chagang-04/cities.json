@@ -1,0 +1,54 @@
+[
+  {
+    "id": 65186,
+    "name": "Changgang-gun",
+    "state_id": 3998,
+    "state_code": "04",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "41.06333000",
+    "longitude": "126.72556000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65188,
+    "name": "Chasŏng",
+    "state_id": 3998,
+    "state_code": "04",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "41.46083000",
+    "longitude": "126.64139000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65208,
+    "name": "Kanggye",
+    "state_id": 3998,
+    "state_code": "04",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "40.96946000",
+    "longitude": "126.58523000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65221,
+    "name": "Manp’o",
+    "state_id": 3998,
+    "state_code": "04",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "41.15472000",
+    "longitude": "126.28944000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  }
+]

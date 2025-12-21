@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8233,
+    "name": "Brčko",
+    "state_id": 460,
+    "state_code": "BRC",
+    "country_id": 28,
+    "country_code": "BA",
+    "latitude": "44.86995000",
+    "longitude": "18.81012000",
+    "native": null,
+    "timezone": "Europe/Sarajevo",
+    "translations": {}
+  },
+  {
+    "id": 8230,
+    "name": "Brka",
+    "state_id": 460,
+    "state_code": "BRC",
+    "country_id": 28,
+    "country_code": "BA",
+    "latitude": "44.82837000",
+    "longitude": "18.72420000",
+    "native": null,
+    "timezone": "Europe/Sarajevo",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 62,
+  "name": "Dominican Republic",
+  "iso2": "DO",
+  "iso3": "DOM",
+  "numeric_code": "214",
+  "phonecode": "1",
+  "capital": "Santo Domingo",
+  "currency": "DOP",
+  "currency_name": "Dominican peso",
+  "currency_symbol": "$",
+  "tld": ".do",
+  "native": "República Dominicana",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Dominican",
+  "latitude": "19.00000000",
+  "longitude": "-70.66666666",
+  "emoji": "🇩🇴",
+  "emojiU": "U+1F1E9 U+1F1F4",
+  "timezones": [
+    {
+      "zoneName": "America/Santo_Domingo",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Republik Dominikan",
+    "ko": "도미니카 공화국",
+    "pt-BR": "República Dominicana",
+    "pt": "República Dominicana",
+    "nl": "Dominicaanse Republiek",
+    "hr": "Dominikanska Republika",
+    "fa": "جمهوری دومینیکن",
+    "de": "Dominikanische Republik",
+    "es": "República Dominicana",
+    "fr": "République dominicaine",
+    "ja": "ドミニカ共和国",
+    "it": "Repubblica Dominicana",
+    "zh-CN": "多明尼加共和国",
+    "tr": "Dominik Cumhuriyeti",
+    "ru": "Доминиканская Республика",
+    "uk": "Домініканська Республіка",
+    "pl": "Republika Dominikańska",
+    "hi": "डोमिनिकन गणराज्य",
+    "ar": "جمهورية الدومينيكان"
+  }
+}

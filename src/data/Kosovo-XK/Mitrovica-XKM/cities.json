@@ -1,0 +1,80 @@
+[
+  {
+    "id": 160167,
+    "name": "Leposaviq",
+    "state_id": 4878,
+    "state_code": "XKM",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "43.10389000",
+    "longitude": "20.80278000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160166,
+    "name": "Mitrovicë",
+    "state_id": 4878,
+    "state_code": "XKM",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.88333000",
+    "longitude": "20.86667000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160168,
+    "name": "Srbica",
+    "state_id": 4878,
+    "state_code": "XKM",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.74667000",
+    "longitude": "20.78861000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160169,
+    "name": "Vushtrri",
+    "state_id": 4878,
+    "state_code": "XKM",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.82306000",
+    "longitude": "20.96750000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160170,
+    "name": "Zubin Potok",
+    "state_id": 4878,
+    "state_code": "XKM",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.91444000",
+    "longitude": "20.68972000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160171,
+    "name": "Zvečan",
+    "state_id": 4878,
+    "state_code": "XKM",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.90750000",
+    "longitude": "20.84028000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

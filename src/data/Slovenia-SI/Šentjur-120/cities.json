@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104347,
+    "name": "Šentjur",
+    "state_id": 4171,
+    "state_code": "120",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.21722000",
+    "longitude": "15.39750000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

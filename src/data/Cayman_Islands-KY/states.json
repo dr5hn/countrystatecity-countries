@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5252,
+    "name": "Cayman Brac",
+    "country_id": 41,
+    "country_code": "KY",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "",
+    "latitude": "19.71988620",
+    "longitude": "-79.79314000",
+    "native": "Cayman Brac",
+    "timezone": "America/Cayman",
+    "translations": {}
+  },
+  {
+    "id": 5251,
+    "name": "Grand Cayman",
+    "country_id": 41,
+    "country_code": "KY",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "",
+    "latitude": "19.32984710",
+    "longitude": "-81.17122160",
+    "native": "Grand Cayman",
+    "timezone": "America/Cayman",
+    "translations": {}
+  },
+  {
+    "id": 5253,
+    "name": "Little Cayman",
+    "country_id": 41,
+    "country_code": "KY",
+    "fips_code": null,
+    "iso2": "03",
+    "type": "",
+    "latitude": "19.68533460",
+    "longitude": "-80.04778240",
+    "native": "Little Cayman",
+    "timezone": "America/Cayman",
+    "translations": {}
+  }
+]

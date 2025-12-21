@@ -1,0 +1,51 @@
+{
+  "id": 173,
+  "name": "Peru",
+  "iso2": "PE",
+  "iso3": "PER",
+  "numeric_code": "604",
+  "phonecode": "51",
+  "capital": "Lima",
+  "currency": "PEN",
+  "currency_name": "Peruvian sol",
+  "currency_symbol": "S/.",
+  "tld": ".pe",
+  "native": "Perú",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Peruvian",
+  "latitude": "-10.00000000",
+  "longitude": "-76.00000000",
+  "emoji": "🇵🇪",
+  "emojiU": "U+1F1F5 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "America/Lima",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "PET",
+      "tzName": "Peru Time"
+    }
+  ],
+  "translations": {
+    "br": "Perou",
+    "ko": "페루",
+    "pt-BR": "Peru",
+    "pt": "Peru",
+    "nl": "Peru",
+    "hr": "Peru",
+    "fa": "پرو",
+    "de": "Peru",
+    "es": "Perú",
+    "fr": "Pérou",
+    "ja": "ペルー",
+    "it": "Perù",
+    "zh-CN": "秘鲁",
+    "tr": "Peru",
+    "ru": "Перу",
+    "uk": "Перу",
+    "pl": "Peru",
+    "hi": "पेरू",
+    "ar": "بيرو"
+  }
+}

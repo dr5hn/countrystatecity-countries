@@ -1,0 +1,80 @@
+[
+  {
+    "id": 48277,
+    "name": "Armagh",
+    "state_id": 2324,
+    "state_code": "ABC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.35000000",
+    "longitude": "-6.66667000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48278,
+    "name": "Armagh City Banbridge and Craigavon",
+    "state_id": 2324,
+    "state_code": "ABC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.36922000",
+    "longitude": "-6.45651000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50099,
+    "name": "Keady",
+    "state_id": 2324,
+    "state_code": "ABC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.25000000",
+    "longitude": "-6.70000000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50644,
+    "name": "Moy",
+    "state_id": 2324,
+    "state_code": "ABC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.45000000",
+    "longitude": "-6.66667000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50956,
+    "name": "Portadown",
+    "state_id": 2324,
+    "state_code": "ABC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.42302000",
+    "longitude": "-6.44434000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51553,
+    "name": "Tandragee",
+    "state_id": 2324,
+    "state_code": "ABC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.35486000",
+    "longitude": "-6.41396000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

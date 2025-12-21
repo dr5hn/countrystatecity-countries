@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135162,
+    "name": "Akranes",
+    "state_id": 5554,
+    "state_code": "AKN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.32179000",
+    "longitude": "-22.07490000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

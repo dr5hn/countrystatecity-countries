@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160051,
+    "name": "La Source",
+    "state_id": 5671,
+    "state_code": "SO",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73650000",
+    "longitude": "7.41950000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

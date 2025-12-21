@@ -1,0 +1,54 @@
+[
+  {
+    "id": 104120,
+    "name": "Hrušica",
+    "state_id": 4337,
+    "state_code": "041",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.44500000",
+    "longitude": "14.01778000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104130,
+    "name": "Jesenice",
+    "state_id": 4337,
+    "state_code": "041",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.43056000",
+    "longitude": "14.06694000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104143,
+    "name": "Koroška Bela",
+    "state_id": 4337,
+    "state_code": "041",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.44913000",
+    "longitude": "14.11135000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104274,
+    "name": "Slovenski Javornik",
+    "state_id": 4337,
+    "state_code": "041",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.42611000",
+    "longitude": "14.08722000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

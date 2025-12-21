@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8147,
+    "name": "Qazax",
+    "state_id": 521,
+    "state_code": "QAZ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.09246000",
+    "longitude": "45.36561000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

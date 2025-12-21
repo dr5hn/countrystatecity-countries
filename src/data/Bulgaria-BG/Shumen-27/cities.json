@@ -1,0 +1,15 @@
+[
+  {
+    "id": 146184,
+    "name": "Shumen",
+    "state_id": 4882,
+    "state_code": "27",
+    "country_id": 34,
+    "country_code": "BG",
+    "latitude": "43.28333300",
+    "longitude": "26.93333300",
+    "native": null,
+    "timezone": "Europe/Sofia",
+    "translations": {}
+  }
+]

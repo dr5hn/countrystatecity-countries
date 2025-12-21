@@ -1,0 +1,67 @@
+[
+  {
+    "id": 160337,
+    "name": "Kangani",
+    "state_id": 5418,
+    "state_code": "17",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.73186000",
+    "longitude": "45.18694000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160335,
+    "name": "Koungou",
+    "state_id": 5418,
+    "state_code": "17",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.73361000",
+    "longitude": "45.20417000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160338,
+    "name": "Longoni",
+    "state_id": 5418,
+    "state_code": "17",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.73426000",
+    "longitude": "45.16298000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160334,
+    "name": "Majikavo Koropa",
+    "state_id": 5418,
+    "state_code": "17",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.74701000",
+    "longitude": "45.22058000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160336,
+    "name": "Trévani",
+    "state_id": 5418,
+    "state_code": "17",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.73437000",
+    "longitude": "45.19861000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

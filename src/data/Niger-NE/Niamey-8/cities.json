@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160096,
+    "name": "Niamey",
+    "state_id": 5685,
+    "state_code": "8",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "13.51361111",
+    "longitude": "2.10888889",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  }
+]

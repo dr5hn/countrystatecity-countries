@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31495,
+    "name": "Cayambe",
+    "state_id": 2927,
+    "state_code": "P",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "0.04084000",
+    "longitude": "-78.14524000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31525,
+    "name": "Machachi",
+    "state_id": 2927,
+    "state_code": "P",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.51011000",
+    "longitude": "-78.56712000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31560,
+    "name": "Quito",
+    "state_id": 2927,
+    "state_code": "P",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.22985000",
+    "longitude": "-78.52495000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31572,
+    "name": "Sangolquí",
+    "state_id": 2927,
+    "state_code": "P",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.33405000",
+    "longitude": "-78.45217000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

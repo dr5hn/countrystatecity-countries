@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67373,
+    "name": "Ulcinj",
+    "state_id": 33,
+    "state_code": "20",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "41.92936000",
+    "longitude": "19.22436000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

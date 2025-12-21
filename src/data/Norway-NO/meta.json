@@ -1,0 +1,58 @@
+{
+  "id": 165,
+  "name": "Norway",
+  "iso2": "NO",
+  "iso3": "NOR",
+  "numeric_code": "578",
+  "phonecode": "47",
+  "capital": "Oslo",
+  "currency": "NOK",
+  "currency_name": "Norwegian krone",
+  "currency_symbol": "ko",
+  "tld": ".no",
+  "native": "Norge",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Norwegian",
+  "latitude": "62.00000000",
+  "longitude": "10.00000000",
+  "emoji": "🇳🇴",
+  "emojiU": "U+1F1F3 U+1F1F4",
+  "timezones": [
+    {
+      "zoneName": "Europe/Oslo",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    },
+    {
+      "zoneName": "Arctic/Longyearbyen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Norvegia",
+    "ko": "노르웨이",
+    "pt-BR": "Noruega",
+    "pt": "Noruega",
+    "nl": "Noorwegen",
+    "hr": "Norveška",
+    "fa": "نروژ",
+    "de": "Norwegen",
+    "es": "Noruega",
+    "fr": "Norvège",
+    "ja": "ノルウェー",
+    "it": "Norvegia",
+    "zh-CN": "挪威",
+    "tr": "Norveç",
+    "ru": "Норвегия",
+    "uk": "Норвегія",
+    "pl": "Norwegia",
+    "hi": "नॉर्वे",
+    "ar": "النرويج"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9772,
+    "name": "Muramvya",
+    "state_id": 3193,
+    "state_code": "MU",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.26820000",
+    "longitude": "29.60790000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

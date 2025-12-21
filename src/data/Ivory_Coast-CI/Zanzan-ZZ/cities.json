@@ -1,0 +1,80 @@
+[
+  {
+    "id": 18878,
+    "name": "Bondoukou",
+    "state_id": 2641,
+    "state_code": "ZZ",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "8.04020000",
+    "longitude": "-2.80003000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18884,
+    "name": "Bouna",
+    "state_id": 2641,
+    "state_code": "ZZ",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "9.26927000",
+    "longitude": "-2.99510000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18885,
+    "name": "Bounkani",
+    "state_id": 2641,
+    "state_code": "ZZ",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "9.47841000",
+    "longitude": "-3.31238000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18902,
+    "name": "Gontougo",
+    "state_id": 2641,
+    "state_code": "ZZ",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "7.87132000",
+    "longitude": "-3.07068000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18930,
+    "name": "Sinfra",
+    "state_id": 2641,
+    "state_code": "ZZ",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.62103000",
+    "longitude": "-5.91144000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18934,
+    "name": "Tanda",
+    "state_id": 2641,
+    "state_code": "ZZ",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "7.80335000",
+    "longitude": "-3.16832000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9824,
+    "name": "Tutong",
+    "state_id": 1219,
+    "state_code": "TU",
+    "country_id": 33,
+    "country_code": "BN",
+    "latitude": "4.80278000",
+    "longitude": "114.64917000",
+    "native": null,
+    "timezone": "Asia/Brunei",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135215,
+    "name": "Skeiða- og Gnúpverjahreppur",
+    "state_id": 5606,
+    "state_code": "SOG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.34738000",
+    "longitude": "-19.37757000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

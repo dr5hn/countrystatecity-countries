@@ -1,0 +1,28 @@
+[
+  {
+    "id": 130141,
+    "name": "San Carlos",
+    "state_id": 2034,
+    "state_code": "H",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.66124000",
+    "longitude": "-68.58268000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130157,
+    "name": "Tinaquillo",
+    "state_id": 2034,
+    "state_code": "H",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.91861000",
+    "longitude": "-68.30472000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

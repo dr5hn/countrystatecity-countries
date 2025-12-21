@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67459,
+    "name": "Kriva Palanka",
+    "state_id": 677,
+    "state_code": "702",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.20088000",
+    "longitude": "22.33244000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

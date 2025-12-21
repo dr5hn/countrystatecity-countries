@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65939,
+    "name": "Caza de Aakkar",
+    "state_id": 2285,
+    "state_code": "AK",
+    "country_id": 121,
+    "country_code": "LB",
+    "latitude": "34.53333000",
+    "longitude": "36.16667000",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "translations": {}
+  }
+]

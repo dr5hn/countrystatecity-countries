@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17331,
+    "name": "Obo",
+    "state_id": 1258,
+    "state_code": "HM",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "5.39586000",
+    "longitude": "26.49211000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17338,
+    "name": "Zemio",
+    "state_id": 1258,
+    "state_code": "HM",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "5.03144000",
+    "longitude": "25.13614000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

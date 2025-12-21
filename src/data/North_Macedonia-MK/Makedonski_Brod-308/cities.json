@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67477,
+    "name": "Makedonski Brod",
+    "state_id": 692,
+    "state_code": "308",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.51361000",
+    "longitude": "21.21528000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67520,
+    "name": "Samokov",
+    "state_id": 692,
+    "state_code": "308",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.68331000",
+    "longitude": "21.14625000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

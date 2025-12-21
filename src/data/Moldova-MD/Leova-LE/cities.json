@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67310,
+    "name": "Iargara",
+    "state_id": 5667,
+    "state_code": "LE",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.42750001",
+    "longitude": "28.43666668",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 160063,
+    "name": "Leova",
+    "state_id": 5667,
+    "state_code": "LE",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.48333333",
+    "longitude": "28.25000000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

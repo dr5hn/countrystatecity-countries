@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8152,
+    "name": "Qubadlı",
+    "state_id": 548,
+    "state_code": "QBI",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.34441000",
+    "longitude": "46.58183000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

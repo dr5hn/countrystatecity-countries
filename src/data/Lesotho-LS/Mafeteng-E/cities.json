@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66566,
+    "name": "Mafeteng",
+    "state_id": 3022,
+    "state_code": "E",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-29.82299000",
+    "longitude": "27.23744000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  }
+]

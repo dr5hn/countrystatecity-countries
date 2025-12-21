@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104207,
+    "name": "Nova Vas",
+    "state_id": 4278,
+    "state_code": "150",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.77167000",
+    "longitude": "14.50583000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

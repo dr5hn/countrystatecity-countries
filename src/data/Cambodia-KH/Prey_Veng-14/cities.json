@@ -1,0 +1,54 @@
+[
+  {
+    "id": 64972,
+    "name": "Prey Veng",
+    "state_id": 3974,
+    "state_code": "14",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.48682000",
+    "longitude": "105.32533000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65006,
+    "name": "Srŏk Kâmpóng Léav",
+    "state_id": 3974,
+    "state_code": "14",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.50970000",
+    "longitude": "105.30110000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65010,
+    "name": "Srŏk Mésang",
+    "state_id": 3974,
+    "state_code": "14",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.35528000",
+    "longitude": "105.57235000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65016,
+    "name": "Srŏk Preăh Sdéch",
+    "state_id": 3974,
+    "state_code": "14",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.08690000",
+    "longitude": "105.37497000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

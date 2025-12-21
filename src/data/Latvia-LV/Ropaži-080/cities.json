@@ -1,0 +1,54 @@
+[
+  {
+    "id": 66895,
+    "name": "Garkalne",
+    "state_id": 4493,
+    "state_code": "080",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.04486000",
+    "longitude": "24.41951000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66950,
+    "name": "Ropaži",
+    "state_id": 4493,
+    "state_code": "080",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.97470000",
+    "longitude": "24.63295000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66974,
+    "name": "Ulbroka",
+    "state_id": 4493,
+    "state_code": "080",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.93630000",
+    "longitude": "24.30387000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66979,
+    "name": "Vangaži",
+    "state_id": 4493,
+    "state_code": "080",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.09358000",
+    "longitude": "24.54468000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

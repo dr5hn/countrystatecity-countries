@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64941,
+    "name": "Cheung Prey",
+    "state_id": 3991,
+    "state_code": "3",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.10000000",
+    "longitude": "105.07000000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64944,
+    "name": "Kampong Cham",
+    "state_id": 3991,
+    "state_code": "3",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.98000000",
+    "longitude": "105.44500000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64990,
+    "name": "Srŏk Bathéay",
+    "state_id": 3991,
+    "state_code": "3",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.02986000",
+    "longitude": "104.93171000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

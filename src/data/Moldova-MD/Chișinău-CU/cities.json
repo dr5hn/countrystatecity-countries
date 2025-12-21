@@ -1,0 +1,93 @@
+[
+  {
+    "id": 67285,
+    "name": "Chisinau",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.00556000",
+    "longitude": "28.85750000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67288,
+    "name": "Ciorescu",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.13000000",
+    "longitude": "28.88937000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67292,
+    "name": "Cricova",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.13835000",
+    "longitude": "28.86156000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67327,
+    "name": "Sîngera",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.91557000",
+    "longitude": "28.96673000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67326,
+    "name": "Stăuceni",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.09643000",
+    "longitude": "28.86791000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67336,
+    "name": "Vadul lui Vodă",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.09009000",
+    "longitude": "29.07570000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67338,
+    "name": "Vatra",
+    "state_id": 4373,
+    "state_code": "CU",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.07460000",
+    "longitude": "28.73685000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

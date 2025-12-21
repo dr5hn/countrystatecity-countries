@@ -1,0 +1,67 @@
+[
+  {
+    "id": 106888,
+    "name": "Bayramaly",
+    "state_id": 3369,
+    "state_code": "M",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.61852000",
+    "longitude": "62.16715000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106899,
+    "name": "Mary",
+    "state_id": 3369,
+    "state_code": "M",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.59378000",
+    "longitude": "61.83031000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106902,
+    "name": "Serhetabat",
+    "state_id": 3369,
+    "state_code": "M",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "35.27992000",
+    "longitude": "62.34383000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106903,
+    "name": "Seydi",
+    "state_id": 3369,
+    "state_code": "M",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "39.48160000",
+    "longitude": "62.91374000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106908,
+    "name": "Yolöten",
+    "state_id": 3369,
+    "state_code": "M",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.29886000",
+    "longitude": "62.35975000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66546,
+    "name": "Barclayville",
+    "state_id": 3045,
+    "state_code": "GK",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "4.67443000",
+    "longitude": "-8.23306000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

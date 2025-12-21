@@ -1,0 +1,51 @@
+{
+  "id": 185,
+  "name": "Saint Kitts and Nevis",
+  "iso2": "KN",
+  "iso3": "KNA",
+  "numeric_code": "659",
+  "phonecode": "1",
+  "capital": "Basseterre",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "tld": ".kn",
+  "native": "Saint Kitts and Nevis",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Kittitian or Nevisian",
+  "latitude": "17.33333333",
+  "longitude": "-62.75000000",
+  "emoji": "🇰🇳",
+  "emojiU": "U+1F1F0 U+1F1F3",
+  "timezones": [
+    {
+      "zoneName": "America/St_Kitts",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Saint Kitts ha Nevis",
+    "ko": "세인트키츠 네비스",
+    "pt-BR": "São Cristóvão e Neves",
+    "pt": "São Cristóvão e Neves",
+    "nl": "Saint Kitts en Nevis",
+    "hr": "Sveti Kristof i Nevis",
+    "fa": "سنت کیتس و نویس",
+    "de": "St. Kitts und Nevis",
+    "es": "San Cristóbal y Nieves",
+    "fr": "Saint-Christophe-et-Niévès",
+    "ja": "セントクリストファー・ネイビス",
+    "it": "Saint Kitts e Nevis",
+    "zh-CN": "圣基茨和尼维斯",
+    "tr": "Saint Kitts Ve Nevis",
+    "ru": "Сент-Китс и Невис",
+    "uk": "Сент-Кітс і Невіс",
+    "pl": "Saint Kitts i Nevis",
+    "hi": "सेंट किट्स एंड नेविस",
+    "ar": "سانت كيتس ونيفيس"
+  }
+}

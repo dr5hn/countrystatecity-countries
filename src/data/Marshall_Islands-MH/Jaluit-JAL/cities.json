@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160080,
+    "name": "Jabor",
+    "state_id": 5651,
+    "state_code": "JAL",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "6.00000000",
+    "longitude": "169.56666667",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

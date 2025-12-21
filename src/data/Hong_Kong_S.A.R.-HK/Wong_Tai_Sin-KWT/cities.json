@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153503,
+    "name": "Wong Tai Sin",
+    "state_id": 4896,
+    "state_code": "KWT",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.34100000",
+    "longitude": "114.19300000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154073,
+    "name": "Al 'Aqaba",
+    "state_id": 5132,
+    "state_code": "TBS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.35257060",
+    "longitude": "35.32674760",
+    "native": null,
+    "timezone": "Asia/Hebron",
+    "translations": {}
+  },
+  {
+    "id": 154074,
+    "name": "Tammun",
+    "state_id": 5132,
+    "state_code": "TBS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.28315510",
+    "longitude": "35.36518930",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154072,
+    "name": "Tubas",
+    "state_id": 5132,
+    "state_code": "TBS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.32112010",
+    "longitude": "35.34935330",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

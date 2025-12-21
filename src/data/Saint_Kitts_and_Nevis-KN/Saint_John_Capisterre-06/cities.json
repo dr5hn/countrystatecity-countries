@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65170,
+    "name": "Dieppe Bay Town",
+    "state_id": 3845,
+    "state_code": "06",
+    "country_id": 185,
+    "country_code": "KN",
+    "latitude": "17.41473000",
+    "longitude": "-62.81390000",
+    "native": null,
+    "timezone": "America/St_Kitts",
+    "translations": {}
+  }
+]

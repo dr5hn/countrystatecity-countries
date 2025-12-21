@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154943,
+    "name": "Ammassalik",
+    "state_id": 5383,
+    "state_code": "SM",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "65.61452670",
+    "longitude": "-37.65014660",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154944,
+    "name": "Ittoqqortoormiit",
+    "state_id": 5383,
+    "state_code": "SM",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "70.48634210",
+    "longitude": "-21.97986600",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154945,
+    "name": "Ivittuut",
+    "state_id": 5383,
+    "state_code": "SM",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "61.20651840",
+    "longitude": "-48.18198510",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154946,
+    "name": "Nuuk",
+    "state_id": 5383,
+    "state_code": "SM",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "64.17910090",
+    "longitude": "-51.74800910",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154947,
+    "name": "Paamiut",
+    "state_id": 5383,
+    "state_code": "SM",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "62.00259620",
+    "longitude": "-49.70519590",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  }
+]

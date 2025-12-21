@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67569,
+    "name": "Češinovo",
+    "state_id": 644,
+    "state_code": "210",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.87148000",
+    "longitude": "22.28961000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67494,
+    "name": "Oblesevo",
+    "state_id": 644,
+    "state_code": "210",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.88333000",
+    "longitude": "22.33389000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 53822,
+    "name": "Bartica",
+    "state_id": 2760,
+    "state_code": "CU",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "6.40799000",
+    "longitude": "-58.62192000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  }
+]

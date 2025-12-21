@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104158,
+    "name": "Laško",
+    "state_id": 4338,
+    "state_code": "057",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.15463000",
+    "longitude": "15.23555000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

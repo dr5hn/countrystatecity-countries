@@ -1,0 +1,15 @@
+[
+  {
+    "id": 22000,
+    "name": "Praia",
+    "state_id": 2988,
+    "state_code": "PR",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "14.93152000",
+    "longitude": "-23.51254000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

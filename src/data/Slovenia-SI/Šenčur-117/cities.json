@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104117,
+    "name": "Hrastje",
+    "state_id": 4299,
+    "state_code": "117",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.21667000",
+    "longitude": "14.40000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104351,
+    "name": "Šenčur",
+    "state_id": 4299,
+    "state_code": "117",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.24556000",
+    "longitude": "14.41972000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

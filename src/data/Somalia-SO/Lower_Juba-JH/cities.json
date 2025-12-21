@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104785,
+    "name": "Buur Gaabo",
+    "state_id": 924,
+    "state_code": "JH",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "-1.21917000",
+    "longitude": "41.83725000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104802,
+    "name": "Jamaame",
+    "state_id": 924,
+    "state_code": "JH",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "0.06968000",
+    "longitude": "42.74497000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104805,
+    "name": "Kismayo",
+    "state_id": 924,
+    "state_code": "JH",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "-0.35817000",
+    "longitude": "42.54536000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

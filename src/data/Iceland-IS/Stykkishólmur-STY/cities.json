@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135187,
+    "name": "Helgafellssveit",
+    "state_id": 5610,
+    "state_code": "STY",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.99069000",
+    "longitude": "-22.78948000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135220,
+    "name": "Stykkishólmur",
+    "state_id": 5610,
+    "state_code": "STY",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.07537000",
+    "longitude": "-22.72977000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

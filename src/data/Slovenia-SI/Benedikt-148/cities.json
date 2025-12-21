@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104064,
+    "name": "Benedikt",
+    "state_id": 4166,
+    "state_code": "148",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.60861000",
+    "longitude": "15.88833000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

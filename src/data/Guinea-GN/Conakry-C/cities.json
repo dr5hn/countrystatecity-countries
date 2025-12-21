@@ -1,0 +1,28 @@
+[
+  {
+    "id": 52326,
+    "name": "Camayenne",
+    "state_id": 2686,
+    "state_code": "C",
+    "country_id": 92,
+    "country_code": "GN",
+    "latitude": "9.53500000",
+    "longitude": "-13.68778000",
+    "native": null,
+    "timezone": "Africa/Conakry",
+    "translations": {}
+  },
+  {
+    "id": 52327,
+    "name": "Conakry",
+    "state_id": 2686,
+    "state_code": "C",
+    "country_id": 92,
+    "country_code": "GN",
+    "latitude": "9.53795000",
+    "longitude": "-13.67729000",
+    "native": null,
+    "timezone": "Africa/Conakry",
+    "translations": {}
+  }
+]

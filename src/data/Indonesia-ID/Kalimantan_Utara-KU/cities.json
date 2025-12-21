@@ -1,0 +1,80 @@
+[
+  {
+    "id": 56381,
+    "name": "Bulungan",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.00000000",
+    "longitude": "117.16667000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56512,
+    "name": "Malinau",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.45000000",
+    "longitude": "115.68333000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56562,
+    "name": "Nunukan",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.13333000",
+    "longitude": "116.70000000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56661,
+    "name": "Tana Tidung",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.55000000",
+    "longitude": "117.25000000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 57019,
+    "name": "Tanjung Selor",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.83750000",
+    "longitude": "117.36528000",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "translations": {}
+  },
+  {
+    "id": 57023,
+    "name": "Tarakan",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.31332000",
+    "longitude": "117.59152000",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "translations": {}
+  }
+]

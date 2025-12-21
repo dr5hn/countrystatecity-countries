@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67460,
+    "name": "Krivogashtani",
+    "state_id": 647,
+    "state_code": "504",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.33611000",
+    "longitude": "21.33306000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67495,
+    "name": "Obršani",
+    "state_id": 647,
+    "state_code": "504",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.28168000",
+    "longitude": "21.36150000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67576,
+    "name": "Клечовце",
+    "state_id": 647,
+    "state_code": "504",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.11611000",
+    "longitude": "21.85722000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

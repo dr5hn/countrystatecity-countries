@@ -1,0 +1,80 @@
+[
+  {
+    "id": 67440,
+    "name": "Ilinden",
+    "state_id": 690,
+    "state_code": "807",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.99451000",
+    "longitude": "21.58002000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67446,
+    "name": "Kadino",
+    "state_id": 690,
+    "state_code": "807",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.96889000",
+    "longitude": "21.60139000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67478,
+    "name": "Marino",
+    "state_id": 690,
+    "state_code": "807",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.98776000",
+    "longitude": "21.59148000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67482,
+    "name": "Miladinovci",
+    "state_id": 690,
+    "state_code": "807",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.98029000",
+    "longitude": "21.64982000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67575,
+    "name": "Идризово",
+    "state_id": 690,
+    "state_code": "807",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.96083000",
+    "longitude": "21.57556000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67573,
+    "name": "Јурумлери",
+    "state_id": 690,
+    "state_code": "807",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.96722000",
+    "longitude": "21.55694000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

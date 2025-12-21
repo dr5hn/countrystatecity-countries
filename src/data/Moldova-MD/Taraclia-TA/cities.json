@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67329,
+    "name": "Taraclia",
+    "state_id": 4372,
+    "state_code": "TA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "45.90273000",
+    "longitude": "28.66816000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67333,
+    "name": "Tvardița",
+    "state_id": 4372,
+    "state_code": "TA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.14826000",
+    "longitude": "28.96491000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

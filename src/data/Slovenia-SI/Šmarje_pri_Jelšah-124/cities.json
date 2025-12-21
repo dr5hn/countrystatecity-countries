@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104356,
+    "name": "Šmarje pri Jelšah",
+    "state_id": 4285,
+    "state_code": "124",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.22722000",
+    "longitude": "15.51917000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

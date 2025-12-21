@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67811,
+    "name": "Sliema",
+    "state_id": 104,
+    "state_code": "56",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.91250000",
+    "longitude": "14.50194000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

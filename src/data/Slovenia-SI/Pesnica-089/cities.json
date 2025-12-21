@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104220,
+    "name": "Pesnica pri Mariboru",
+    "state_id": 4172,
+    "state_code": "089",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.60694000",
+    "longitude": "15.67667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

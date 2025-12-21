@@ -1,0 +1,67 @@
+[
+  {
+    "id": 104706,
+    "name": "Dara",
+    "state_id": 485,
+    "state_code": "LG",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "15.34844000",
+    "longitude": "-15.47993000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  },
+  {
+    "id": 104717,
+    "name": "Guéoul",
+    "state_id": 485,
+    "state_code": "LG",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "15.48333000",
+    "longitude": "-16.35000000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  },
+  {
+    "id": 104729,
+    "name": "Linguere Department",
+    "state_id": 485,
+    "state_code": "LG",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "15.35900000",
+    "longitude": "-15.15800000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  },
+  {
+    "id": 104730,
+    "name": "Louga",
+    "state_id": 485,
+    "state_code": "LG",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "15.61867000",
+    "longitude": "-16.22436000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  },
+  {
+    "id": 104739,
+    "name": "Ndibène Dahra",
+    "state_id": 485,
+    "state_code": "LG",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "15.33380000",
+    "longitude": "-15.47660000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  }
+]

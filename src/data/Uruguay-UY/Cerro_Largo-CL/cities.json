@@ -1,0 +1,67 @@
+[
+  {
+    "id": 129773,
+    "name": "Aceguá",
+    "state_id": 3211,
+    "state_code": "CL",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-31.87178000",
+    "longitude": "-54.16351000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129808,
+    "name": "Isidoro Noblía",
+    "state_id": 3211,
+    "state_code": "CL",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-31.96218000",
+    "longitude": "-54.12309000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129827,
+    "name": "Melo",
+    "state_id": 3211,
+    "state_code": "CL",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-32.37028000",
+    "longitude": "-54.16750000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129856,
+    "name": "Río Branco",
+    "state_id": 3211,
+    "state_code": "CL",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-32.59802000",
+    "longitude": "-53.38583000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129885,
+    "name": "Tupambaé",
+    "state_id": 3211,
+    "state_code": "CL",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-32.83333000",
+    "longitude": "-54.76667000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  }
+]

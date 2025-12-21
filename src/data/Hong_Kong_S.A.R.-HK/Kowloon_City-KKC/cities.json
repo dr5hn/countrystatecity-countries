@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153500,
+    "name": "Kowloon Tong",
+    "state_id": 4895,
+    "state_code": "KKC",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.33700000",
+    "longitude": "114.17900000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

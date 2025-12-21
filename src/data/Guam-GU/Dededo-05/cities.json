@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160261,
+    "name": "Dededo Village",
+    "state_id": 5258,
+    "state_code": "05",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.51777000",
+    "longitude": "144.83910000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

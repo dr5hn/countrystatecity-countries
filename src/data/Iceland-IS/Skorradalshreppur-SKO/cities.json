@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135216,
+    "name": "Skorradalshreppur",
+    "state_id": 5603,
+    "state_code": "SKO",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.51667000",
+    "longitude": "-21.50000000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

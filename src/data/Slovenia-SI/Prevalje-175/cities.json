@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104236,
+    "name": "Prevalje",
+    "state_id": 4274,
+    "state_code": "175",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.54694000",
+    "longitude": "14.92083000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

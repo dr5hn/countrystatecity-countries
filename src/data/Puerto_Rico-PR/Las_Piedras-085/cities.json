@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153592,
+    "name": "Las Piedras",
+    "state_id": 5177,
+    "state_code": "085",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.18557530",
+    "longitude": "-65.87362450",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

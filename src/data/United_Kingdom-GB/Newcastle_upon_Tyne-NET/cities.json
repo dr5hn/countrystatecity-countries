@@ -1,0 +1,93 @@
+[
+  {
+    "id": 48475,
+    "name": "Benwell",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.97296000",
+    "longitude": "-1.66926000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48563,
+    "name": "Blaydon-on-Tyne",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.96461000",
+    "longitude": "-1.71392000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48983,
+    "name": "Chopwell",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.91797000",
+    "longitude": "-1.82013000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49687,
+    "name": "Gosforth",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.00000000",
+    "longitude": "-1.61667000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49884,
+    "name": "Heddon on the Wall",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.99692000",
+    "longitude": "-1.79386000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50705,
+    "name": "Newburn",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.98760000",
+    "longitude": "-1.74415000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50710,
+    "name": "Newcastle upon Tyne",
+    "state_id": 2458,
+    "state_code": "NET",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.00000000",
+    "longitude": "-1.66667000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

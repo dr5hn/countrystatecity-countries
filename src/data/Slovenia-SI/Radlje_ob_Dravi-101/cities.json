@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104243,
+    "name": "Radlje ob Dravi",
+    "state_id": 4275,
+    "state_code": "101",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.61417000",
+    "longitude": "15.22639000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

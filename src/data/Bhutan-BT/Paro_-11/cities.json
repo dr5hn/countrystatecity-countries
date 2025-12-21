@@ -1,0 +1,41 @@
+[
+  {
+    "id": 15714,
+    "name": "Paro",
+    "state_id": 237,
+    "state_code": "11",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.43050000",
+    "longitude": "89.41334000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153834,
+    "name": "Suchha",
+    "state_id": 237,
+    "state_code": "11",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.23330000",
+    "longitude": "89.45000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153833,
+    "name": "Tshalunang",
+    "state_id": 237,
+    "state_code": "11",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.43330000",
+    "longitude": "89.65000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

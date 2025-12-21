@@ -1,0 +1,28 @@
+[
+  {
+    "id": 109003,
+    "name": "Changhua",
+    "state_id": 3404,
+    "state_code": "CHA",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.95361000",
+    "longitude": "120.49083000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109038,
+    "name": "Yuanlin",
+    "state_id": 3404,
+    "state_code": "CHA",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.95671000",
+    "longitude": "120.57608000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

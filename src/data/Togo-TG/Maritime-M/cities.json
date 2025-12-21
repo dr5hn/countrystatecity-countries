@@ -1,0 +1,67 @@
+[
+  {
+    "id": 105158,
+    "name": "Aného",
+    "state_id": 2576,
+    "state_code": "M",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.22798000",
+    "longitude": "1.59190000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105167,
+    "name": "Lomé",
+    "state_id": 2576,
+    "state_code": "M",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.12874000",
+    "longitude": "1.22154000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105175,
+    "name": "Tabligbo",
+    "state_id": 2576,
+    "state_code": "M",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.58333000",
+    "longitude": "1.50000000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105177,
+    "name": "Tsévié",
+    "state_id": 2576,
+    "state_code": "M",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.42611000",
+    "longitude": "1.21333000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105178,
+    "name": "Vogan",
+    "state_id": 2576,
+    "state_code": "M",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.33333000",
+    "longitude": "1.53333000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  }
+]

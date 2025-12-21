@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160323,
+    "name": "Chembényoumba",
+    "state_id": 5414,
+    "state_code": "13",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.76472000",
+    "longitude": "45.07793000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160322,
+    "name": "M'Tsangamouji",
+    "state_id": 5414,
+    "state_code": "13",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.75944000",
+    "longitude": "45.08361000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

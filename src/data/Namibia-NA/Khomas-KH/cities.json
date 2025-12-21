@@ -1,0 +1,28 @@
+[
+  {
+    "id": 76638,
+    "name": "Katutura",
+    "state_id": 44,
+    "state_code": "KH",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-22.52306000",
+    "longitude": "17.06028000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76673,
+    "name": "Windhoek",
+    "state_id": 44,
+    "state_code": "KH",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-22.55941000",
+    "longitude": "17.08323000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  }
+]

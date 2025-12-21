@@ -1,0 +1,58 @@
+{
+  "id": 57,
+  "name": "Cyprus",
+  "iso2": "CY",
+  "iso3": "CYP",
+  "numeric_code": "196",
+  "phonecode": "357",
+  "capital": "Nicosia",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".cy",
+  "native": "Κύπρος",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Cypriot",
+  "latitude": "35.00000000",
+  "longitude": "33.00000000",
+  "emoji": "🇨🇾",
+  "emojiU": "U+1F1E8 U+1F1FE",
+  "timezones": [
+    {
+      "zoneName": "Asia/Famagusta",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    },
+    {
+      "zoneName": "Asia/Nicosia",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Republik Kiprenez",
+    "ko": "키프로스",
+    "pt-BR": "Chipre",
+    "pt": "Chipre",
+    "nl": "Cyprus",
+    "hr": "Cipar",
+    "fa": "قبرس",
+    "de": "Zypern",
+    "es": "Chipre",
+    "fr": "Chypre",
+    "ja": "キプロス",
+    "it": "Cipro",
+    "zh-CN": "塞浦路斯",
+    "tr": "Kuzey Kıbrıs Türk Cumhuriyeti",
+    "ru": "Кипр",
+    "uk": "Кіпр",
+    "pl": "Cypr",
+    "hi": "साइप्रस",
+    "ar": "قبرص"
+  }
+}

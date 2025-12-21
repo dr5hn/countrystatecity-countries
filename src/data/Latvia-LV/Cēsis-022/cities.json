@@ -1,0 +1,67 @@
+[
+  {
+    "id": 66888,
+    "name": "Cēsis",
+    "state_id": 4469,
+    "state_code": "022",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.31188000",
+    "longitude": "25.27456000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66924,
+    "name": "Līgatne",
+    "state_id": 4469,
+    "state_code": "022",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.23429000",
+    "longitude": "25.04059000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66943,
+    "name": "Priekuļi",
+    "state_id": 4469,
+    "state_code": "022",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.31500000",
+    "longitude": "25.36147000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66967,
+    "name": "Stalbe",
+    "state_id": 4469,
+    "state_code": "022",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.37065000",
+    "longitude": "25.03106000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66981,
+    "name": "Vecpiebalga",
+    "state_id": 4469,
+    "state_code": "022",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.06090000",
+    "longitude": "25.81624000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

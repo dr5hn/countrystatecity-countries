@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67430,
+    "name": "Gorno Orizari",
+    "state_id": 651,
+    "state_code": "101",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.68583000",
+    "longitude": "21.73475000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67442,
+    "name": "Ivankovci",
+    "state_id": 651,
+    "state_code": "101",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.84889000",
+    "longitude": "21.82028000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67551,
+    "name": "Veles",
+    "state_id": 651,
+    "state_code": "101",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.71556000",
+    "longitude": "21.77556000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

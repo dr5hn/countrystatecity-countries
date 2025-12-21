@@ -1,0 +1,67 @@
+[
+  {
+    "id": 76632,
+    "name": "Grootfontein",
+    "state_id": 46,
+    "state_code": "OD",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-19.56667000",
+    "longitude": "18.11667000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76645,
+    "name": "Okahandja",
+    "state_id": 46,
+    "state_code": "OD",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-21.98333000",
+    "longitude": "16.91667000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76647,
+    "name": "Okakarara",
+    "state_id": 46,
+    "state_code": "OD",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-20.58333000",
+    "longitude": "17.43333000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76658,
+    "name": "Otavi",
+    "state_id": 46,
+    "state_code": "OD",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-19.65000000",
+    "longitude": "17.33333000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76660,
+    "name": "Otjiwarongo",
+    "state_id": 46,
+    "state_code": "OD",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-20.46369000",
+    "longitude": "16.64772000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  }
+]

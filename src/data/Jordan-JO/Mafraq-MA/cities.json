@@ -1,0 +1,80 @@
+[
+  {
+    "id": 63140,
+    "name": "Al Ḩamrā’",
+    "state_id": 962,
+    "state_code": "MA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "32.44017000",
+    "longitude": "36.15265000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63171,
+    "name": "Mafraq",
+    "state_id": 962,
+    "state_code": "MA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "32.34289000",
+    "longitude": "36.20804000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63179,
+    "name": "Rehab",
+    "state_id": 962,
+    "state_code": "MA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "32.32341000",
+    "longitude": "36.09087000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63180,
+    "name": "Rukban",
+    "state_id": 962,
+    "state_code": "MA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "33.31405000",
+    "longitude": "38.70342000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63198,
+    "name": "Şabḩā",
+    "state_id": 962,
+    "state_code": "MA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "32.32696000",
+    "longitude": "36.50159000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63191,
+    "name": "Umm al Qiţţayn",
+    "state_id": 962,
+    "state_code": "MA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "32.31449000",
+    "longitude": "36.62826000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  }
+]

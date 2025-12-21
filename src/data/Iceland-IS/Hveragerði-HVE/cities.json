@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135190,
+    "name": "Hveragerði",
+    "state_id": 5580,
+    "state_code": "HVE",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.00039000",
+    "longitude": "-21.18602000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

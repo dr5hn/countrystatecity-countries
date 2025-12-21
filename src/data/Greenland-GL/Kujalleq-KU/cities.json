@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154934,
+    "name": "Nanortalik",
+    "state_id": 5380,
+    "state_code": "KU",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "60.14308250",
+    "longitude": "-45.25629050",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154935,
+    "name": "Narsaq",
+    "state_id": 5380,
+    "state_code": "KU",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "60.91140780",
+    "longitude": "-46.06857080",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154936,
+    "name": "Qaqortoq",
+    "state_id": 5380,
+    "state_code": "KU",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "60.71959600",
+    "longitude": "-46.05481630",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  }
+]

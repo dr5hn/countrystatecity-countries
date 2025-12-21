@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160283,
+    "name": "Dzaoudzi",
+    "state_id": 5402,
+    "state_code": "01",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.78339000",
+    "longitude": "45.25693000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160282,
+    "name": "Labattoir",
+    "state_id": 5402,
+    "state_code": "01",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.77698000",
+    "longitude": "45.28234000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

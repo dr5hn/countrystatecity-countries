@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17270,
+    "name": "Lodja",
+    "state_id": 2743,
+    "state_code": "SA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-3.52105000",
+    "longitude": "23.60050000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17275,
+    "name": "Lusambo",
+    "state_id": 2743,
+    "state_code": "SA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-4.97503000",
+    "longitude": "23.44391000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

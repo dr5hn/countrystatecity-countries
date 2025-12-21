@@ -1,0 +1,15 @@
+[
+  {
+    "id": 130037,
+    "name": "Port Elizabeth",
+    "state_id": 3388,
+    "state_code": "06",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.01102000",
+    "longitude": "-61.23548000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  }
+]

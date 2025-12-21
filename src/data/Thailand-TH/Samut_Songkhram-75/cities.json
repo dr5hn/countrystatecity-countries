@@ -1,0 +1,54 @@
+[
+  {
+    "id": 105181,
+    "name": "Amphawa",
+    "state_id": 3502,
+    "state_code": "75",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.36721000",
+    "longitude": "99.91232000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 105227,
+    "name": "Bang Khonthi",
+    "state_id": 3502,
+    "state_code": "75",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.47448000",
+    "longitude": "99.94838000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 105586,
+    "name": "Mueang Samut Songkhram",
+    "state_id": 3502,
+    "state_code": "75",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.39587000",
+    "longitude": "99.99929000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 106682,
+    "name": "Samut Songkhram",
+    "state_id": 3502,
+    "state_code": "75",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.41456000",
+    "longitude": "100.00264000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  }
+]

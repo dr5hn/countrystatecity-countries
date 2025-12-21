@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31623,
+    "name": "Kanepi",
+    "state_id": 3563,
+    "state_code": "64",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "57.98306000",
+    "longitude": "26.75639000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  },
+  {
+    "id": 31624,
+    "name": "Kanepi vald",
+    "state_id": 3563,
+    "state_code": "64",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "57.98058000",
+    "longitude": "26.76151000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  },
+  {
+    "id": 31685,
+    "name": "Põlva",
+    "state_id": 3563,
+    "state_code": "64",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.06028000",
+    "longitude": "27.06944000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  },
+  {
+    "id": 31686,
+    "name": "Põlva vald",
+    "state_id": 3563,
+    "state_code": "64",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.08368000",
+    "longitude": "26.98242000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  },
+  {
+    "id": 31699,
+    "name": "Räpina",
+    "state_id": 3563,
+    "state_code": "64",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.09806000",
+    "longitude": "27.46361000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  },
+  {
+    "id": 31700,
+    "name": "Räpina vald",
+    "state_id": 3563,
+    "state_code": "64",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.10777000",
+    "longitude": "27.38580000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  }
+]

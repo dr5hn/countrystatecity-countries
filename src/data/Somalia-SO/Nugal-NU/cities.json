@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104795,
+    "name": "Eyl",
+    "state_id": 920,
+    "state_code": "NU",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "7.98030000",
+    "longitude": "49.81640000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104798,
+    "name": "Garoowe",
+    "state_id": 920,
+    "state_code": "NU",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "8.40207000",
+    "longitude": "48.48284000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

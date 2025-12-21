@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17306,
+    "name": "Bocaranga",
+    "state_id": 1267,
+    "state_code": "OP",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "6.76546000",
+    "longitude": "15.77873000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17312,
+    "name": "Bozoum",
+    "state_id": 1267,
+    "state_code": "OP",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "6.31933000",
+    "longitude": "16.37992000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17335,
+    "name": "Paoua",
+    "state_id": 1267,
+    "state_code": "OP",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "7.24269000",
+    "longitude": "16.44059000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

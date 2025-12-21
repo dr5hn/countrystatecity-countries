@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67489,
+    "name": "Negotino",
+    "state_id": 664,
+    "state_code": "106",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.48456000",
+    "longitude": "22.09056000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

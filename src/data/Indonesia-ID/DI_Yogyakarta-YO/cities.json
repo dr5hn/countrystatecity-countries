@@ -1,0 +1,67 @@
+[
+  {
+    "id": 56338,
+    "name": "Bantul",
+    "state_id": 1829,
+    "state_code": "YO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.90000000",
+    "longitude": "110.36667000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56414,
+    "name": "Gunung Kidul",
+    "state_id": 1829,
+    "state_code": "YO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.98333000",
+    "longitude": "110.61667000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56473,
+    "name": "Kulon Progo",
+    "state_id": 1829,
+    "state_code": "YO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.64500000",
+    "longitude": "110.02694000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56637,
+    "name": "Sleman",
+    "state_id": 1829,
+    "state_code": "YO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.68167000",
+    "longitude": "110.32333000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 57061,
+    "name": "Yogyakarta",
+    "state_id": 1829,
+    "state_code": "YO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.80139000",
+    "longitude": "110.36472000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  }
+]

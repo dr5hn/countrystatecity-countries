@@ -1,0 +1,41 @@
+[
+  {
+    "id": 76478,
+    "name": "Kangar",
+    "state_id": 1938,
+    "state_code": "09",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "6.44140000",
+    "longitude": "100.19862000",
+    "native": null,
+    "timezone": "Asia/Kuala_Lumpur",
+    "translations": {}
+  },
+  {
+    "id": 76498,
+    "name": "Kuala Perlis",
+    "state_id": 1938,
+    "state_code": "09",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "6.40000000",
+    "longitude": "100.13333000",
+    "native": null,
+    "timezone": "Asia/Kuala_Lumpur",
+    "translations": {}
+  },
+  {
+    "id": 76531,
+    "name": "Pantai Cenang",
+    "state_id": 1938,
+    "state_code": "09",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "6.29369000",
+    "longitude": "99.72786000",
+    "native": null,
+    "timezone": "Asia/Kuala_Lumpur",
+    "translations": {}
+  }
+]

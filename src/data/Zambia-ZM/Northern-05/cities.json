@@ -1,0 +1,93 @@
+[
+  {
+    "id": 131353,
+    "name": "Kaputa",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-8.46887000",
+    "longitude": "29.66193000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131354,
+    "name": "Kasama",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-10.21289000",
+    "longitude": "31.18084000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131366,
+    "name": "Luwingu",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-10.26210000",
+    "longitude": "29.92712000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131370,
+    "name": "Mbala",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-8.84024000",
+    "longitude": "31.36587000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131376,
+    "name": "Mporokoso",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-9.37273000",
+    "longitude": "30.12501000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131377,
+    "name": "Mpulungu",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-8.76234000",
+    "longitude": "31.11405000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131381,
+    "name": "Mungwi",
+    "state_id": 1982,
+    "state_code": "05",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-10.17320000",
+    "longitude": "31.36942000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153560,
+    "name": "Cabo Rojo",
+    "state_id": 5145,
+    "state_code": "023",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.08662650",
+    "longitude": "-67.14573470",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

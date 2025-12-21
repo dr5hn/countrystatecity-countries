@@ -1,0 +1,80 @@
+[
+  {
+    "id": 16315,
+    "name": "Clyde River",
+    "state_id": 876,
+    "state_code": "NU",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "70.47233000",
+    "longitude": "-68.58987000",
+    "native": null,
+    "timezone": "America/Iqaluit",
+    "translations": {}
+  },
+  {
+    "id": 16453,
+    "name": "Gjoa Haven",
+    "state_id": 876,
+    "state_code": "NU",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "68.62602000",
+    "longitude": "-95.87836000",
+    "native": null,
+    "timezone": "America/Cambridge_Bay",
+    "translations": {}
+  },
+  {
+    "id": 16524,
+    "name": "Iqaluit",
+    "state_id": 876,
+    "state_code": "NU",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "63.74697000",
+    "longitude": "-68.51727000",
+    "native": null,
+    "timezone": "America/Iqaluit",
+    "translations": {}
+  },
+  {
+    "id": 16555,
+    "name": "Kugluktuk",
+    "state_id": 876,
+    "state_code": "NU",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "67.82743000",
+    "longitude": "-115.09649000",
+    "native": null,
+    "timezone": "America/Cambridge_Bay",
+    "translations": {}
+  },
+  {
+    "id": 16793,
+    "name": "Pangnirtung",
+    "state_id": 876,
+    "state_code": "NU",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "66.14642000",
+    "longitude": "-65.69996000",
+    "native": null,
+    "timezone": "America/Iqaluit",
+    "translations": {}
+  },
+  {
+    "id": 16869,
+    "name": "Rankin Inlet",
+    "state_id": 876,
+    "state_code": "NU",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "62.80906000",
+    "longitude": "-92.08534000",
+    "native": null,
+    "timezone": "America/Rankin_Inlet",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 22001,
+    "name": "Ribeira Brava",
+    "state_id": 2982,
+    "state_code": "RB",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "16.61583000",
+    "longitude": "-24.29833000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

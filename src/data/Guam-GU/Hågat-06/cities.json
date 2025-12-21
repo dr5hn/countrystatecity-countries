@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160262,
+    "name": "Agat Village",
+    "state_id": 5259,
+    "state_code": "06",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.38300000",
+    "longitude": "144.66003000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

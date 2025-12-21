@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135206,
+    "name": "Reykjavík",
+    "state_id": 5594,
+    "state_code": "RKV",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.13548000",
+    "longitude": "-21.89541000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

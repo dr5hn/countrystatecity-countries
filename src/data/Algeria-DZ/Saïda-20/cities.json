@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31475,
+    "name": "’Aïn el Hadjar",
+    "state_id": 1123,
+    "state_code": "20",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.75846000",
+    "longitude": "0.14528000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31419,
+    "name": "Saïda",
+    "state_id": 1123,
+    "state_code": "20",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.83033000",
+    "longitude": "0.15171000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

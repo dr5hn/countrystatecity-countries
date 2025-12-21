@@ -1,0 +1,93 @@
+[
+  {
+    "id": 80666,
+    "name": "Iberia",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-11.35000000",
+    "longitude": "-69.58333000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80858,
+    "name": "Provincia de Manú",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.25000000",
+    "longitude": "-71.00000000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80898,
+    "name": "Provincia de Tahuamanú",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-11.25000000",
+    "longitude": "-70.50000000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80900,
+    "name": "Provincia de Tambopata",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.19948000",
+    "longitude": "-70.05006000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80918,
+    "name": "Puerto Maldonado",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.59331000",
+    "longitude": "-69.18913000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80939,
+    "name": "Salvación",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.83605000",
+    "longitude": "-71.36490000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80987,
+    "name": "Tambopata",
+    "state_id": 3678,
+    "state_code": "MDD",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.67191000",
+    "longitude": "-69.35547000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  }
+]

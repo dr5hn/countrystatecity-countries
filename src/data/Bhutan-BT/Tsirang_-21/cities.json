@@ -1,0 +1,54 @@
+[
+  {
+    "id": 153854,
+    "name": "Beteni",
+    "state_id": 230,
+    "state_code": "21",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.03330000",
+    "longitude": "90.23330000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153853,
+    "name": "Dagapela",
+    "state_id": 230,
+    "state_code": "21",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "26.93330000",
+    "longitude": "89.95000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 15725,
+    "name": "Damphu",
+    "state_id": 230,
+    "state_code": "21",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.01670000",
+    "longitude": "90.10000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 15727,
+    "name": "Tsirang",
+    "state_id": 230,
+    "state_code": "21",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.02190000",
+    "longitude": "90.12291000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

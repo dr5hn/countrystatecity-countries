@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104099,
+    "name": "Dornava",
+    "state_id": 4290,
+    "state_code": "024",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.43667000",
+    "longitude": "15.95361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

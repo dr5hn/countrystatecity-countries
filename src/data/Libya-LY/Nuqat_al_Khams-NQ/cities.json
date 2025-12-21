@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66995,
+    "name": "Al Ajaylat",
+    "state_id": 2962,
+    "state_code": "NQ",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.75718000",
+    "longitude": "12.37633000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67037,
+    "name": "Zalţan",
+    "state_id": 2962,
+    "state_code": "NQ",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.94699000",
+    "longitude": "11.86668000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67041,
+    "name": "Zuwārah",
+    "state_id": 2962,
+    "state_code": "NQ",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.93120000",
+    "longitude": "12.08199000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

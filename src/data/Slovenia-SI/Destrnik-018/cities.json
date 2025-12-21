@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104087,
+    "name": "Destrnik",
+    "state_id": 4304,
+    "state_code": "018",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.49254000",
+    "longitude": "15.87893000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160044,
+    "name": "Bardia",
+    "state_id": 5641,
+    "state_code": "BU",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "31.76000000",
+    "longitude": "25.07500000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 160045,
+    "name": "Jaghbub",
+    "state_id": 5641,
+    "state_code": "BU",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "29.74250000",
+    "longitude": "24.51694444",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 160043,
+    "name": "Tobruk",
+    "state_id": 5641,
+    "state_code": "BU",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.07611111",
+    "longitude": "23.96138889",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

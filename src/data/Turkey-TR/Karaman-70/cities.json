@@ -1,0 +1,80 @@
+[
+  {
+    "id": 107228,
+    "name": "Ayrancı",
+    "state_id": 2184,
+    "state_code": "70",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.37111000",
+    "longitude": "33.69291000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107320,
+    "name": "Başyayla",
+    "state_id": 2184,
+    "state_code": "70",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.75337000",
+    "longitude": "32.68018000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107596,
+    "name": "Ermenek",
+    "state_id": 2184,
+    "state_code": "70",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.64043000",
+    "longitude": "32.89179000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107958,
+    "name": "Kazımkarabekir",
+    "state_id": 2184,
+    "state_code": "70",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.23028000",
+    "longitude": "32.95889000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107905,
+    "name": "Merkez",
+    "state_id": 2184,
+    "state_code": "70",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.18111000",
+    "longitude": "33.21500000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108407,
+    "name": "Sarıveliler",
+    "state_id": 2184,
+    "state_code": "70",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.69705000",
+    "longitude": "32.61203000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

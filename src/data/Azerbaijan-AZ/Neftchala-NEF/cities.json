@@ -1,0 +1,54 @@
+[
+  {
+    "id": 8122,
+    "name": "Neftçala",
+    "state_id": 530,
+    "state_code": "NEF",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.37680000",
+    "longitude": "49.24700000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8171,
+    "name": "Severo-Vostotchnyi Bank",
+    "state_id": 530,
+    "state_code": "NEF",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.41117000",
+    "longitude": "49.24792000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8178,
+    "name": "Sovetabad",
+    "state_id": 530,
+    "state_code": "NEF",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.33667000",
+    "longitude": "49.21414000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8192,
+    "name": "Xıllı",
+    "state_id": 530,
+    "state_code": "NEF",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.43012000",
+    "longitude": "49.10166000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

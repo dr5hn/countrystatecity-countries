@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160085,
+    "name": "Mejit",
+    "state_id": 5658,
+    "state_code": "MEJ",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "10.28333333",
+    "longitude": "170.88333333",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

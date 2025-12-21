@@ -1,0 +1,51 @@
+{
+  "id": 37,
+  "name": "Cambodia",
+  "iso2": "KH",
+  "iso3": "KHM",
+  "numeric_code": "116",
+  "phonecode": "855",
+  "capital": "Phnom Penh",
+  "currency": "KHR",
+  "currency_name": "Cambodian riel",
+  "currency_symbol": "KHR",
+  "tld": ".kh",
+  "native": "Kâmpŭchéa",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Cambodian",
+  "latitude": "13.00000000",
+  "longitude": "105.00000000",
+  "emoji": "🇰🇭",
+  "emojiU": "U+1F1F0 U+1F1ED",
+  "timezones": [
+    {
+      "zoneName": "Asia/Phnom_Penh",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "ICT",
+      "tzName": "Indochina Time"
+    }
+  ],
+  "translations": {
+    "br": "Kambodja",
+    "ko": "캄보디아",
+    "pt-BR": "Camboja",
+    "pt": "Camboja",
+    "nl": "Cambodja",
+    "hr": "Kambodža",
+    "fa": "کامبوج",
+    "de": "Kambodscha",
+    "es": "Camboya",
+    "fr": "Cambodge",
+    "ja": "カンボジア",
+    "it": "Cambogia",
+    "zh-CN": "柬埔寨",
+    "tr": "Kamboçya",
+    "ru": "Камбоджа",
+    "uk": "Камбоджа",
+    "pl": "Kambodża",
+    "hi": "कंबोडिया",
+    "ar": "كمبوديا"
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 109063,
+    "name": "Dar es Salaam",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.82349000",
+    "longitude": "39.26951000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 153775,
+    "name": "Ilala",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.84873800",
+    "longitude": "39.28471300",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 153776,
+    "name": "Kigamboni",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.84945500",
+    "longitude": "39.31733300",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 153777,
+    "name": "Kinondoni",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.78423100",
+    "longitude": "39.26567600",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109157,
+    "name": "Magomeni",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.80000000",
+    "longitude": "39.25000000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 153778,
+    "name": "Temeke",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.90418400",
+    "longitude": "39.23528200",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 153779,
+    "name": "Ubungo",
+    "state_id": 1490,
+    "state_code": "02",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.80600500",
+    "longitude": "39.24663600",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 89726,
+    "name": "Belén",
+    "state_id": 2779,
+    "state_code": "1",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-23.46611000",
+    "longitude": "-57.26194000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89755,
+    "name": "Concepción",
+    "state_id": 2779,
+    "state_code": "1",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-23.39985000",
+    "longitude": "-57.43236000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89777,
+    "name": "Horqueta",
+    "state_id": 2779,
+    "state_code": "1",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-23.34278000",
+    "longitude": "-57.05972000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  }
+]

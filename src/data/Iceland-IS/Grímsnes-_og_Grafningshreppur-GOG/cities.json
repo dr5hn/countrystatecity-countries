@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135184,
+    "name": "Grímsnes- og Grafningshreppur",
+    "state_id": 5570,
+    "state_code": "GOG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.08533000",
+    "longitude": "-20.96710000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

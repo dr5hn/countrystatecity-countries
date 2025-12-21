@@ -1,0 +1,51 @@
+{
+  "id": 53,
+  "name": "Costa Rica",
+  "iso2": "CR",
+  "iso3": "CRI",
+  "numeric_code": "188",
+  "phonecode": "506",
+  "capital": "San Jose",
+  "currency": "CRC",
+  "currency_name": "Costa Rican colón",
+  "currency_symbol": "₡",
+  "tld": ".cr",
+  "native": "Costa Rica",
+  "region": "Americas",
+  "subregion": "Central America",
+  "nationality": "Costa Rican",
+  "latitude": "10.00000000",
+  "longitude": "-84.00000000",
+  "emoji": "🇨🇷",
+  "emojiU": "U+1F1E8 U+1F1F7",
+  "timezones": [
+    {
+      "zoneName": "America/Costa_Rica",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    }
+  ],
+  "translations": {
+    "br": "Costa Rica",
+    "ko": "코스타리카",
+    "pt-BR": "Costa Rica",
+    "pt": "Costa Rica",
+    "nl": "Costa Rica",
+    "hr": "Kostarika",
+    "fa": "کاستاریکا",
+    "de": "Costa Rica",
+    "es": "Costa Rica",
+    "fr": "Costa Rica",
+    "ja": "コスタリカ",
+    "it": "Costa Rica",
+    "zh-CN": "哥斯达黎加",
+    "tr": "Kosta Rika",
+    "ru": "Коста-Рика",
+    "uk": "Коста-Ріка",
+    "pl": "Kostaryka",
+    "hi": "कोस्टा रिका",
+    "ar": "كوستاريكا"
+  }
+}

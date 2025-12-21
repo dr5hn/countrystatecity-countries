@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104270,
+    "name": "Sežana",
+    "state_id": 4149,
+    "state_code": "111",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.70924000",
+    "longitude": "13.87333000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

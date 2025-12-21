@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153501,
+    "name": "Cheung Sha Wan",
+    "state_id": 4894,
+    "state_code": "KSS",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.33600000",
+    "longitude": "114.15100000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153502,
+    "name": "Lai Chi Kok",
+    "state_id": 4894,
+    "state_code": "KSS",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.33700000",
+    "longitude": "114.14600000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

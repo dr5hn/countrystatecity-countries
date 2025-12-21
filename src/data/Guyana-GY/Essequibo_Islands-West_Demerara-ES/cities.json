@@ -1,0 +1,28 @@
+[
+  {
+    "id": 53831,
+    "name": "Parika",
+    "state_id": 2768,
+    "state_code": "ES",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "6.83712000",
+    "longitude": "-58.42941000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  },
+  {
+    "id": 53834,
+    "name": "Vreed-en-Hoop",
+    "state_id": 2768,
+    "state_code": "ES",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "6.80927000",
+    "longitude": "-58.19798000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  }
+]

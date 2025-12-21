@@ -1,0 +1,67 @@
+[
+  {
+    "id": 160299,
+    "name": "Dembeni",
+    "state_id": 5405,
+    "state_code": "04",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.84360000",
+    "longitude": "45.18436000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160295,
+    "name": "Hajangoua",
+    "state_id": 5405,
+    "state_code": "04",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.86607000",
+    "longitude": "45.19857000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160296,
+    "name": "Iloni",
+    "state_id": 5405,
+    "state_code": "04",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.84553000",
+    "longitude": "45.19037000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160297,
+    "name": "Ongojou",
+    "state_id": 5405,
+    "state_code": "04",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.83883000",
+    "longitude": "45.16012000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160298,
+    "name": "Tsararano",
+    "state_id": 5405,
+    "state_code": "04",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.83528000",
+    "longitude": "45.17355000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

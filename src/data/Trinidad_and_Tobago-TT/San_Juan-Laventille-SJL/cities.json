@@ -1,0 +1,15 @@
+[
+  {
+    "id": 108973,
+    "name": "Laventille",
+    "state_id": 3357,
+    "state_code": "SJL",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.64917000",
+    "longitude": "-61.49889000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

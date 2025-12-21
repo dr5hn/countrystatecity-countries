@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135196,
+    "name": "Kjósarhreppur",
+    "state_id": 5583,
+    "state_code": "KJO",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.30644000",
+    "longitude": "-21.49919000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

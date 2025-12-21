@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160327,
+    "name": "Hamjago",
+    "state_id": 5416,
+    "state_code": "15",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.68832000",
+    "longitude": "45.07450000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160328,
+    "name": "Mtsahara",
+    "state_id": 5416,
+    "state_code": "15",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.68137000",
+    "longitude": "45.08274000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160326,
+    "name": "Mtsamboro",
+    "state_id": 5416,
+    "state_code": "15",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.69982000",
+    "longitude": "45.06894000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

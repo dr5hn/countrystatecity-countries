@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153601,
+    "name": "Naguabo",
+    "state_id": 5186,
+    "state_code": "103",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.21162470",
+    "longitude": "-65.73488410",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

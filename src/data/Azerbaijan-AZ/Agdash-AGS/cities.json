@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8050,
+    "name": "Ağdaş",
+    "state_id": 553,
+    "state_code": "AGS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.64699000",
+    "longitude": "47.47380000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

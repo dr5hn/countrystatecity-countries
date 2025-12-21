@@ -1,0 +1,51 @@
+{
+  "id": 88,
+  "name": "Guadeloupe",
+  "iso2": "GP",
+  "iso3": "GLP",
+  "numeric_code": "312",
+  "phonecode": "590",
+  "capital": "Basse-Terre",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".gp",
+  "native": "Guadeloupe",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Guadeloupe",
+  "latitude": "16.25000000",
+  "longitude": "-61.58333300",
+  "emoji": "🇬🇵",
+  "emojiU": "U+1F1EC U+1F1F5",
+  "timezones": [
+    {
+      "zoneName": "America/Guadeloupe",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Gwadloup",
+    "ko": "과들루프",
+    "pt-BR": "Guadalupe",
+    "pt": "Guadalupe",
+    "nl": "Guadeloupe",
+    "hr": "Gvadalupa",
+    "fa": "جزیره گوادلوپ",
+    "de": "Guadeloupe",
+    "es": "Guadalupe",
+    "fr": "Guadeloupe",
+    "ja": "グアドループ",
+    "it": "Guadeloupa",
+    "zh-CN": "瓜德罗普岛",
+    "tr": "Guadeloupe",
+    "ru": "Гваделупа",
+    "uk": "Гваделупа",
+    "pl": "Gwadelupa",
+    "hi": "ग्वाडेलोप",
+    "ar": "غواديلوب"
+  }
+}

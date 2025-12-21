@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104327,
+    "name": "Zavrč",
+    "state_id": 4182,
+    "state_code": "143",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.39167000",
+    "longitude": "16.04972000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

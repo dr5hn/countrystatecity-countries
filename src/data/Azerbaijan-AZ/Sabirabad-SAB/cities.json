@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8161,
+    "name": "Sabirabad",
+    "state_id": 565,
+    "state_code": "SAB",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.00869000",
+    "longitude": "48.47701000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

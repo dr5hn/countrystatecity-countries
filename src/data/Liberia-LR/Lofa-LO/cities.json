@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66562,
+    "name": "Voinjama",
+    "state_id": 3037,
+    "state_code": "LO",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "8.42194000",
+    "longitude": "-9.74778000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

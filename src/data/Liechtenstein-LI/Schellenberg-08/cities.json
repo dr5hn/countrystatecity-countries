@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66444,
+    "name": "Schellenberg",
+    "state_id": 449,
+    "state_code": "08",
+    "country_id": 125,
+    "country_code": "LI",
+    "latitude": "47.23123000",
+    "longitude": "9.54678000",
+    "native": null,
+    "timezone": "Europe/Vaduz",
+    "translations": {}
+  }
+]

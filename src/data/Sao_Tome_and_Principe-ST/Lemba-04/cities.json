@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160119,
+    "name": "Neves",
+    "state_id": 5731,
+    "state_code": "04",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "0.36667000",
+    "longitude": "6.55000000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

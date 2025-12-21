@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153590,
+    "name": "Lares",
+    "state_id": 5175,
+    "state_code": "081",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "34.02508020",
+    "longitude": "-118.45945930",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

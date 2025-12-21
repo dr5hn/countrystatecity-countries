@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66984,
+    "name": "Ventspils",
+    "state_id": 4421,
+    "state_code": "VEN",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.38988000",
+    "longitude": "21.57288000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

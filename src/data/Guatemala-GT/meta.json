@@ -1,0 +1,51 @@
+{
+  "id": 90,
+  "name": "Guatemala",
+  "iso2": "GT",
+  "iso3": "GTM",
+  "numeric_code": "320",
+  "phonecode": "502",
+  "capital": "Guatemala City",
+  "currency": "GTQ",
+  "currency_name": "Guatemalan quetzal",
+  "currency_symbol": "Q",
+  "tld": ".gt",
+  "native": "Guatemala",
+  "region": "Americas",
+  "subregion": "Central America",
+  "nationality": "Guatemalan",
+  "latitude": "15.50000000",
+  "longitude": "-90.25000000",
+  "emoji": "🇬🇹",
+  "emojiU": "U+1F1EC U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "America/Guatemala",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    }
+  ],
+  "translations": {
+    "br": "Guatemala",
+    "ko": "과테말라",
+    "pt-BR": "Guatemala",
+    "pt": "Guatemala",
+    "nl": "Guatemala",
+    "hr": "Gvatemala",
+    "fa": "گواتمالا",
+    "de": "Guatemala",
+    "es": "Guatemala",
+    "fr": "Guatemala",
+    "ja": "グアテマラ",
+    "it": "Guatemala",
+    "zh-CN": "危地马拉",
+    "tr": "Guatemala",
+    "ru": "Гватемала",
+    "uk": "Гватемала",
+    "pl": "Gwatemala",
+    "hi": "ग्वाटेमाला",
+    "ar": "غواتيمالا"
+  }
+}

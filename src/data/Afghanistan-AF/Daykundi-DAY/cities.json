@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102,
+    "name": "Nīlī",
+    "state_id": 3892,
+    "state_code": "DAY",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.76329000",
+    "longitude": "66.07617000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

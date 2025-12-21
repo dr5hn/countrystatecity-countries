@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104310,
+    "name": "Videm pri Ptuju",
+    "state_id": 4300,
+    "state_code": "135",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.36861000",
+    "longitude": "15.90639000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

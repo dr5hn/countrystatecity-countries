@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104081,
+    "name": "Cerknica",
+    "state_id": 4162,
+    "state_code": "013",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.79306000",
+    "longitude": "14.36250000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104246,
+    "name": "Rakek",
+    "state_id": 4162,
+    "state_code": "013",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.81333000",
+    "longitude": "14.31111000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

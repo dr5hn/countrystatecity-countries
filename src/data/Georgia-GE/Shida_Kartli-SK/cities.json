@@ -1,0 +1,93 @@
+[
+  {
+    "id": 52038,
+    "name": "Agara",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "42.03761000",
+    "longitude": "43.82382000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  },
+  {
+    "id": 52070,
+    "name": "Gori",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "41.98422000",
+    "longitude": "44.11578000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  },
+  {
+    "id": 52071,
+    "name": "Goris Munitsip’alit’et’i",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "42.06667000",
+    "longitude": "44.11667000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  },
+  {
+    "id": 52077,
+    "name": "Kaspi",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "41.92520000",
+    "longitude": "44.42568000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  },
+  {
+    "id": 52080,
+    "name": "Khashuri",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "41.99414000",
+    "longitude": "43.59994000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  },
+  {
+    "id": 52125,
+    "name": "Surami",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "42.02431000",
+    "longitude": "43.55556000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  },
+  {
+    "id": 52139,
+    "name": "Ts’khinvali",
+    "state_id": 903,
+    "state_code": "SK",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "42.22764000",
+    "longitude": "43.96861000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  }
+]

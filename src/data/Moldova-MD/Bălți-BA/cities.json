@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67280,
+    "name": "Bălţi",
+    "state_id": 4393,
+    "state_code": "BA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.76314000",
+    "longitude": "27.92932000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

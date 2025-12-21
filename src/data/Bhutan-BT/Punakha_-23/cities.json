@@ -1,0 +1,28 @@
+[
+  {
+    "id": 15712,
+    "name": "Pajo",
+    "state_id": 235,
+    "state_code": "23",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.53333000",
+    "longitude": "89.88333000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 15717,
+    "name": "Punākha",
+    "state_id": 235,
+    "state_code": "23",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.59137000",
+    "longitude": "89.87743000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

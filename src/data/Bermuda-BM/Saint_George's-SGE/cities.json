@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153514,
+    "name": "St. George's",
+    "state_id": 4866,
+    "state_code": "SGE",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.38100000",
+    "longitude": "-64.67400000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  },
+  {
+    "id": 153517,
+    "name": "Tucker’s Town",
+    "state_id": 4866,
+    "state_code": "SGE",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.33280000",
+    "longitude": "-64.68810000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

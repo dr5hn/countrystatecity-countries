@@ -1,0 +1,41 @@
+[
+  {
+    "id": 102815,
+    "name": "Al Bahah",
+    "state_id": 2859,
+    "state_code": "11",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "20.01288000",
+    "longitude": "41.46767000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 102829,
+    "name": "Al Mindak",
+    "state_id": 2859,
+    "state_code": "11",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "20.15880000",
+    "longitude": "41.28337000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 148708,
+    "name": "Hajrah",
+    "state_id": 2859,
+    "state_code": "11",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "20.23333333",
+    "longitude": "41.05000000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  }
+]

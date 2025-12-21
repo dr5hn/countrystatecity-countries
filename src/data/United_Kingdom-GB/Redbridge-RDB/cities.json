@@ -1,0 +1,67 @@
+[
+  {
+    "id": 48187,
+    "name": "Abridge",
+    "state_id": 2397,
+    "state_code": "RDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.64950000",
+    "longitude": "0.12033000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48964,
+    "name": "Chigwell",
+    "state_id": 2397,
+    "state_code": "RDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.61999000",
+    "longitude": "0.07596000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49696,
+    "name": "Grange Hill",
+    "state_id": 2397,
+    "state_code": "RDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.61185000",
+    "longitude": "0.08612000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49780,
+    "name": "Hainault",
+    "state_id": 2397,
+    "state_code": "RDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.60836000",
+    "longitude": "0.10716000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51592,
+    "name": "Theydon Bois",
+    "state_id": 2397,
+    "state_code": "RDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.67426000",
+    "longitude": "0.09781000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

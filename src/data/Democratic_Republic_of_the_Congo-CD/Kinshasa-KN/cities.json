@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17263,
+    "name": "Kinshasa",
+    "state_id": 2741,
+    "state_code": "KN",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-4.32758000",
+    "longitude": "15.31357000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  }
+]

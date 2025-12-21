@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153727,
+    "name": "Baħrija",
+    "state_id": 83,
+    "state_code": "46",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.89472200",
+    "longitude": "14.34833300",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 153729,
+    "name": "Binġemma",
+    "state_id": 83,
+    "state_code": "46",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.90277800",
+    "longitude": "14.37777800",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "name": "Armenia",
+  "iso2": "AM",
+  "iso3": "ARM",
+  "numeric_code": "051",
+  "phonecode": "374",
+  "capital": "Yerevan",
+  "currency": "AMD",
+  "currency_name": "Armenian dram",
+  "currency_symbol": "֏",
+  "tld": ".am",
+  "native": "Հայաստան",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Armenian",
+  "latitude": "40.00000000",
+  "longitude": "45.00000000",
+  "emoji": "🇦🇲",
+  "emojiU": "U+1F1E6 U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Asia/Yerevan",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "AMT",
+      "tzName": "Armenia Time"
+    }
+  ],
+  "translations": {
+    "br": "Armenia",
+    "ko": "아르메니아",
+    "pt-BR": "Armênia",
+    "pt": "Arménia",
+    "nl": "Armenië",
+    "hr": "Armenija",
+    "fa": "ارمنستان",
+    "de": "Armenien",
+    "es": "Armenia",
+    "fr": "Arménie",
+    "ja": "アルメニア",
+    "it": "Armenia",
+    "zh-CN": "亚美尼亚",
+    "tr": "Ermenistan",
+    "ru": "Армения",
+    "uk": "Вірменія",
+    "pl": "Armenia",
+    "hi": "आर्मीनिया",
+    "ar": "أرمينيا"
+  }
+}

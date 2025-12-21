@@ -1,0 +1,41 @@
+[
+  {
+    "id": 8089,
+    "name": "Hadrut",
+    "state_id": 568,
+    "state_code": "XVD",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.52003000",
+    "longitude": "47.03190000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8125,
+    "name": "Novyy Karanlug",
+    "state_id": 568,
+    "state_code": "XVD",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.79496000",
+    "longitude": "47.11170000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8155,
+    "name": "Qırmızı Bazar",
+    "state_id": 568,
+    "state_code": "XVD",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.67669000",
+    "longitude": "46.95123000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

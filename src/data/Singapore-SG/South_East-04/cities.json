@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153478,
+    "name": "Bedok",
+    "state_id": 4650,
+    "state_code": "04",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.32360000",
+    "longitude": "103.92730000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 153479,
+    "name": "Pasir Ris",
+    "state_id": 4650,
+    "state_code": "04",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.37390000",
+    "longitude": "103.94930000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 153477,
+    "name": "Tampines",
+    "state_id": 4650,
+    "state_code": "04",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.35470000",
+    "longitude": "103.94370000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  }
+]

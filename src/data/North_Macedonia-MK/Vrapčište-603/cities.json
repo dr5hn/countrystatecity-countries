@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67414,
+    "name": "Dobri Dol",
+    "state_id": 689,
+    "state_code": "603",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.86520000",
+    "longitude": "20.89009000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67558,
+    "name": "Vrapčište",
+    "state_id": 689,
+    "state_code": "603",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.83439000",
+    "longitude": "20.88563000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

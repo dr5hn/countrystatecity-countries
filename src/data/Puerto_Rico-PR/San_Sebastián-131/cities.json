@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153615,
+    "name": "San Sebastián",
+    "state_id": 5200,
+    "state_code": "131",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "43.31833400",
+    "longitude": "-1.98123130",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

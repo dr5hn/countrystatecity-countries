@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160260,
+    "name": "Chalan Pago-Ordot Village",
+    "state_id": 5257,
+    "state_code": "04",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.44741000",
+    "longitude": "144.75902000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

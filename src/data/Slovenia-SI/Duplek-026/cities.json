@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104283,
+    "name": "Spodnji Duplek",
+    "state_id": 4213,
+    "state_code": "026",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.50306000",
+    "longitude": "15.74528000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104334,
+    "name": "Zgornji Duplek",
+    "state_id": 4213,
+    "state_code": "026",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.51361000",
+    "longitude": "15.72083000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 16136,
+    "name": "Corozal",
+    "state_id": 266,
+    "state_code": "CZL",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "18.39375000",
+    "longitude": "-88.38849000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  }
+]

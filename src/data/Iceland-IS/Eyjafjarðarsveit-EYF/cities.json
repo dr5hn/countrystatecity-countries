@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135175,
+    "name": "Eyjafjarðarsveit",
+    "state_id": 5564,
+    "state_code": "EYF",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.33333000",
+    "longitude": "-18.16667000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

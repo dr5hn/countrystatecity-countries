@@ -1,0 +1,28 @@
+[
+  {
+    "id": 132432,
+    "name": "Kavaratti",
+    "state_id": 4019,
+    "state_code": "LD",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "10.56688000",
+    "longitude": "72.64203000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 132750,
+    "name": "Lakshadweep",
+    "state_id": 4019,
+    "state_code": "LD",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "11.27333000",
+    "longitude": "74.04582000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  }
+]

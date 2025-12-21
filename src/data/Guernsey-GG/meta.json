@@ -1,0 +1,51 @@
+{
+  "id": 91,
+  "name": "Guernsey",
+  "iso2": "GG",
+  "iso3": "GGY",
+  "numeric_code": "831",
+  "phonecode": "44",
+  "capital": "St Peter Port",
+  "currency": "GBP",
+  "currency_name": "British pound",
+  "currency_symbol": "£",
+  "tld": ".gg",
+  "native": "Guernsey",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Channel Island",
+  "latitude": "49.46666666",
+  "longitude": "-2.58333333",
+  "emoji": "🇬🇬",
+  "emojiU": "U+1F1EC U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Europe/Guernsey",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Gwernenez",
+    "ko": "건지, 올더니",
+    "pt-BR": "Guernsey",
+    "pt": "Guernsey",
+    "nl": "Guernsey",
+    "hr": "Guernsey",
+    "fa": "گرنزی",
+    "de": "Guernsey",
+    "es": "Guernsey",
+    "fr": "Guernesey",
+    "ja": "ガーンジー",
+    "it": "Guernsey",
+    "zh-CN": "根西岛",
+    "tr": "Alderney",
+    "ru": "Гернси и Олдерни",
+    "uk": "Гернсі та Олдерні",
+    "pl": "Guernsey i Alderney",
+    "hi": "ग्वेर्नसे",
+    "ar": "غيرنسي"
+  }
+}

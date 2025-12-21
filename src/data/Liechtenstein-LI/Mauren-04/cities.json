@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66440,
+    "name": "Mauren",
+    "state_id": 455,
+    "state_code": "04",
+    "country_id": 125,
+    "country_code": "LI",
+    "latitude": "47.21805000",
+    "longitude": "9.54420000",
+    "native": null,
+    "timezone": "Europe/Vaduz",
+    "translations": {}
+  }
+]

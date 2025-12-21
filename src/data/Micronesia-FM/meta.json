@@ -1,0 +1,65 @@
+{
+  "id": 143,
+  "name": "Micronesia",
+  "iso2": "FM",
+  "iso3": "FSM",
+  "numeric_code": "583",
+  "phonecode": "691",
+  "capital": "Palikir",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".fm",
+  "native": "Micronesia",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "nationality": "Micronesian",
+  "latitude": "6.91666666",
+  "longitude": "158.25000000",
+  "emoji": "🇫🇲",
+  "emojiU": "U+1F1EB U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Chuuk",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "CHUT",
+      "tzName": "Chuuk Time"
+    },
+    {
+      "zoneName": "Pacific/Kosrae",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "KOST",
+      "tzName": "Kosrae Time"
+    },
+    {
+      "zoneName": "Pacific/Pohnpei",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "PONT",
+      "tzName": "Pohnpei Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Mikronezia",
+    "ko": "미크로네시아 연방",
+    "pt-BR": "Micronésia",
+    "pt": "Micronésia",
+    "nl": "Micronesië",
+    "hr": "Mikronezija",
+    "fa": "ایالات فدرال میکرونزی",
+    "de": "Mikronesien",
+    "es": "Micronesia",
+    "fr": "Micronésie",
+    "ja": "ミクロネシア連邦",
+    "it": "Micronesia",
+    "zh-CN": "密克罗尼西亚",
+    "tr": "Mikronezya",
+    "ru": "Микронезия",
+    "uk": "Мікронезія",
+    "pl": "Mikronezja",
+    "hi": "माइक्रोनेशिया",
+    "ar": "ميكرونيسيا"
+  }
+}

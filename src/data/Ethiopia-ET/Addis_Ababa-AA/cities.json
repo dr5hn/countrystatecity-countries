@@ -1,0 +1,15 @@
+[
+  {
+    "id": 38587,
+    "name": "Addis Ababa",
+    "state_id": 11,
+    "state_code": "AA",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "9.02497000",
+    "longitude": "38.74689000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

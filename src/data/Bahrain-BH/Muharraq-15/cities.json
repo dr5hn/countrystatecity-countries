@@ -1,0 +1,28 @@
+[
+  {
+    "id": 9754,
+    "name": "Al Ḩadd",
+    "state_id": 1995,
+    "state_code": "15",
+    "country_id": 18,
+    "country_code": "BH",
+    "latitude": "26.24556000",
+    "longitude": "50.65417000",
+    "native": null,
+    "timezone": "Asia/Bahrain",
+    "translations": {}
+  },
+  {
+    "id": 9753,
+    "name": "Al Muharraq",
+    "state_id": 1995,
+    "state_code": "15",
+    "country_id": 18,
+    "country_code": "BH",
+    "latitude": "26.25722000",
+    "longitude": "50.61194000",
+    "native": null,
+    "timezone": "Asia/Bahrain",
+    "translations": {}
+  }
+]

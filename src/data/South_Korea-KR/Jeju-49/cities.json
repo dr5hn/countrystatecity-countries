@@ -1,0 +1,54 @@
+[
+  {
+    "id": 65317,
+    "name": "Gaigeturi",
+    "state_id": 3853,
+    "state_code": "49",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "33.46444000",
+    "longitude": "126.31833000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65406,
+    "name": "Jeju City",
+    "state_id": 3853,
+    "state_code": "49",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "33.50972000",
+    "longitude": "126.52194000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65407,
+    "name": "Jeju-si",
+    "state_id": 3853,
+    "state_code": "49",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "33.45578000",
+    "longitude": "126.53928000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65490,
+    "name": "Seogwipo",
+    "state_id": 3853,
+    "state_code": "49",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "33.25333000",
+    "longitude": "126.56181000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  }
+]

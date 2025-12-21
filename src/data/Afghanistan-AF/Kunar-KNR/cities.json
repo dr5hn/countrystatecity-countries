@@ -1,0 +1,28 @@
+[
+  {
+    "id": 51,
+    "name": "Asadabad",
+    "state_id": 3876,
+    "state_code": "KNR",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.87311000",
+    "longitude": "71.14697000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 138,
+    "name": "Āsmār",
+    "state_id": 3876,
+    "state_code": "KNR",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "35.03333000",
+    "longitude": "71.35809000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

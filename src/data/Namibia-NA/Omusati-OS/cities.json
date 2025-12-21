@@ -1,0 +1,41 @@
+[
+  {
+    "id": 76646,
+    "name": "Okahao",
+    "state_id": 39,
+    "state_code": "OS",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-17.88758000",
+    "longitude": "15.06677000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76651,
+    "name": "Ongandjera",
+    "state_id": 39,
+    "state_code": "OS",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-17.88333000",
+    "longitude": "15.06667000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76661,
+    "name": "Outapi",
+    "state_id": 39,
+    "state_code": "OS",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-17.50000000",
+    "longitude": "14.98333000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  }
+]

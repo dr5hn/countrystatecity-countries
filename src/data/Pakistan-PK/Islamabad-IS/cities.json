@@ -1,0 +1,15 @@
+[
+  {
+    "id": 85475,
+    "name": "Islamabad",
+    "state_id": 3169,
+    "state_code": "IS",
+    "country_id": 167,
+    "country_code": "PK",
+    "latitude": "33.72148000",
+    "longitude": "73.04329000",
+    "native": null,
+    "timezone": "Asia/Karachi",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31884,
+    "name": "Assab",
+    "state_id": 3429,
+    "state_code": "DK",
+    "country_id": 68,
+    "country_code": "ER",
+    "latitude": "13.00917000",
+    "longitude": "42.73944000",
+    "native": null,
+    "timezone": "Africa/Asmara",
+    "translations": {}
+  },
+  {
+    "id": 31887,
+    "name": "Edd",
+    "state_id": 3429,
+    "state_code": "DK",
+    "country_id": 68,
+    "country_code": "ER",
+    "latitude": "13.93088000",
+    "longitude": "41.69380000",
+    "native": null,
+    "timezone": "Africa/Asmara",
+    "translations": {}
+  }
+]

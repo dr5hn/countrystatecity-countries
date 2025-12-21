@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65864,
+    "name": "Luang Namtha",
+    "state_id": 992,
+    "state_code": "LM",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "20.94860000",
+    "longitude": "101.40188000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65880,
+    "name": "Muang Louang Namtha",
+    "state_id": 992,
+    "state_code": "LM",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "21.00424000",
+    "longitude": "101.44785000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

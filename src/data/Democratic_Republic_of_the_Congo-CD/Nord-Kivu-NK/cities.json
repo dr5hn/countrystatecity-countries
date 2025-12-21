@@ -1,0 +1,54 @@
+[
+  {
+    "id": 17228,
+    "name": "Beni",
+    "state_id": 2749,
+    "state_code": "NK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "0.49113000",
+    "longitude": "29.47306000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17242,
+    "name": "Butembo",
+    "state_id": 2749,
+    "state_code": "NK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "0.14164000",
+    "longitude": "29.29117000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17246,
+    "name": "Goma",
+    "state_id": 2749,
+    "state_code": "NK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-1.67409000",
+    "longitude": "29.22845000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17287,
+    "name": "Sake",
+    "state_id": 2749,
+    "state_code": "NK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-1.57386000",
+    "longitude": "29.04339000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

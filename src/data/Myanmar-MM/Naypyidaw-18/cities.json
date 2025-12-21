@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67672,
+    "name": "Nay Pyi Taw",
+    "state_id": 2146,
+    "state_code": "18",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "19.74500000",
+    "longitude": "96.12972000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67683,
+    "name": "Pyinmana",
+    "state_id": 2146,
+    "state_code": "18",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "19.73810000",
+    "longitude": "96.20742000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

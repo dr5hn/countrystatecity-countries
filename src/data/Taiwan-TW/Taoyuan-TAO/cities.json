@@ -1,0 +1,28 @@
+[
+  {
+    "id": 109006,
+    "name": "Daxi",
+    "state_id": 3419,
+    "state_code": "TAO",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.88373000",
+    "longitude": "121.29043000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109035,
+    "name": "Taoyuan",
+    "state_id": 3419,
+    "state_code": "TAO",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.89500000",
+    "longitude": "121.24611000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

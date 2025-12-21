@@ -1,0 +1,28 @@
+[
+  {
+    "id": 107009,
+    "name": "Remada",
+    "state_id": 2559,
+    "state_code": "83",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "32.31662000",
+    "longitude": "10.39551000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107034,
+    "name": "Tataouine",
+    "state_id": 2559,
+    "state_code": "83",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "32.92967000",
+    "longitude": "10.45177000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

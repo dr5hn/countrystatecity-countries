@@ -1,0 +1,93 @@
+[
+  {
+    "id": 160159,
+    "name": "Gjilan",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.46045000",
+    "longitude": "21.46986000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160161,
+    "name": "Kamenica",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.57806000",
+    "longitude": "21.58028000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160160,
+    "name": "Klokot",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.37139000",
+    "longitude": "21.37444000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160162,
+    "name": "Partesh",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.40194000",
+    "longitude": "21.43361000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160163,
+    "name": "Pasjane",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.40694000",
+    "longitude": "21.49556000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160164,
+    "name": "Ranilug",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.49222000",
+    "longitude": "21.59889000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160165,
+    "name": "Vitina",
+    "state_id": 4877,
+    "state_code": "XGJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.32139000",
+    "longitude": "21.35833000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

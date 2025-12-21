@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104090,
+    "name": "Dobje pri Planini",
+    "state_id": 4295,
+    "state_code": "154",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.13747000",
+    "longitude": "15.39412000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 235,
+  "name": "Uruguay",
+  "iso2": "UY",
+  "iso3": "URY",
+  "numeric_code": "858",
+  "phonecode": "598",
+  "capital": "Montevideo",
+  "currency": "UYU",
+  "currency_name": "Uruguayan peso",
+  "currency_symbol": "$",
+  "tld": ".uy",
+  "native": "Uruguay",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Uruguayan",
+  "latitude": "-33.00000000",
+  "longitude": "-56.00000000",
+  "emoji": "🇺🇾",
+  "emojiU": "U+1F1FA U+1F1FE",
+  "timezones": [
+    {
+      "zoneName": "America/Montevideo",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "UYT",
+      "tzName": "Uruguay Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Uruguay",
+    "ko": "우루과이",
+    "pt-BR": "Uruguai",
+    "pt": "Uruguai",
+    "nl": "Uruguay",
+    "hr": "Urugvaj",
+    "fa": "اروگوئه",
+    "de": "Uruguay",
+    "es": "Uruguay",
+    "fr": "Uruguay",
+    "ja": "ウルグアイ",
+    "it": "Uruguay",
+    "zh-CN": "乌拉圭",
+    "tr": "Uruguay",
+    "ru": "Уругвай",
+    "uk": "Уругвай",
+    "pl": "Urugwaj",
+    "hi": "उरुग्वे",
+    "ar": "أوروغواي"
+  }
+}

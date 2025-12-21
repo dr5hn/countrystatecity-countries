@@ -1,0 +1,51 @@
+{
+  "id": 229,
+  "name": "Uganda",
+  "iso2": "UG",
+  "iso3": "UGA",
+  "numeric_code": "800",
+  "phonecode": "256",
+  "capital": "Kampala",
+  "currency": "UGX",
+  "currency_name": "Ugandan shilling",
+  "currency_symbol": "USh",
+  "tld": ".ug",
+  "native": "Uganda",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Ugandan",
+  "latitude": "1.00000000",
+  "longitude": "32.00000000",
+  "emoji": "🇺🇬",
+  "emojiU": "U+1F1FA U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Africa/Kampala",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Ouganda",
+    "ko": "우간다",
+    "pt-BR": "Uganda",
+    "pt": "Uganda",
+    "nl": "Oeganda",
+    "hr": "Uganda",
+    "fa": "اوگاندا",
+    "de": "Uganda",
+    "es": "Uganda",
+    "fr": "Uganda",
+    "ja": "ウガンダ",
+    "it": "Uganda",
+    "zh-CN": "乌干达",
+    "tr": "Uganda",
+    "ru": "Уганда",
+    "uk": "Уганда",
+    "pl": "Uganda",
+    "hi": "युगांडा",
+    "ar": "أوغندا"
+  }
+}

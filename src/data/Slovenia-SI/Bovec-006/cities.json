@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104072,
+    "name": "Bovec",
+    "state_id": 4181,
+    "state_code": "006",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.33808000",
+    "longitude": "13.55245000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104190,
+    "name": "Mirna",
+    "state_id": 4181,
+    "state_code": "006",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.95528000",
+    "longitude": "15.06194000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

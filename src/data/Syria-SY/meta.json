@@ -1,0 +1,51 @@
+{
+  "id": 215,
+  "name": "Syria",
+  "iso2": "SY",
+  "iso3": "SYR",
+  "numeric_code": "760",
+  "phonecode": "963",
+  "capital": "Damascus",
+  "currency": "SYP",
+  "currency_name": "Syrian pound",
+  "currency_symbol": "LS",
+  "tld": ".sy",
+  "native": "سوريا",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Syrian",
+  "latitude": "35.00000000",
+  "longitude": "38.00000000",
+  "emoji": "🇸🇾",
+  "emojiU": "U+1F1F8 U+1F1FE",
+  "timezones": [
+    {
+      "zoneName": "Asia/Damascus",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Siria",
+    "ko": "시리아",
+    "pt-BR": "Síria",
+    "pt": "Síria",
+    "nl": "Syrië",
+    "hr": "Sirija",
+    "fa": "سوریه",
+    "de": "Syrien",
+    "es": "Siria",
+    "fr": "Syrie",
+    "ja": "シリア・アラブ共和国",
+    "it": "Siria",
+    "zh-CN": "叙利亚",
+    "tr": "Suriye",
+    "ru": "Сирия",
+    "uk": "Сирія",
+    "pl": "Syria",
+    "hi": "सीरिया",
+    "ar": "سوريا"
+  }
+}

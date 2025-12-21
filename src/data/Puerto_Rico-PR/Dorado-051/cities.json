@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153574,
+    "name": "Dorado",
+    "state_id": 5159,
+    "state_code": "051",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "43.14805560",
+    "longitude": "-77.57722220",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

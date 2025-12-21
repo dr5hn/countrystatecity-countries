@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160116,
+    "name": "Gabiley",
+    "state_id": 5700,
+    "state_code": "WO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "9.70000000",
+    "longitude": "43.62361111",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 160115,
+    "name": "Hargeisa",
+    "state_id": 5700,
+    "state_code": "WO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "9.56305556",
+    "longitude": "44.06750000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17330,
+    "name": "Nola",
+    "state_id": 1252,
+    "state_code": "SE",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "3.52494000",
+    "longitude": "16.04583000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

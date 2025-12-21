@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104115,
+    "name": "Horjul",
+    "state_id": 4193,
+    "state_code": "162",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.02361000",
+    "longitude": "14.29917000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

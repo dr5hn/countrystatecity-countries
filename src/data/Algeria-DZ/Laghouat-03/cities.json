@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31228,
+    "name": "Aflou",
+    "state_id": 1138,
+    "state_code": "03",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.11279000",
+    "longitude": "2.10228000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31367,
+    "name": "Laghouat",
+    "state_id": 1138,
+    "state_code": "03",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "33.80000000",
+    "longitude": "2.86514000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

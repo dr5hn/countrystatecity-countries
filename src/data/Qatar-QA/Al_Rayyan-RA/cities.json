@@ -1,0 +1,28 @@
+[
+  {
+    "id": 89861,
+    "name": "Ar Rayyān",
+    "state_id": 3177,
+    "state_code": "RA",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "25.29194000",
+    "longitude": "51.42444000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  },
+  {
+    "id": 89869,
+    "name": "Umm Bāb",
+    "state_id": 3177,
+    "state_code": "RA",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "25.21417000",
+    "longitude": "50.80722000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  }
+]

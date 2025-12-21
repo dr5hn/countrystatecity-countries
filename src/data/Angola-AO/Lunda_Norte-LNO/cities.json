@@ -1,0 +1,15 @@
+[
+  {
+    "id": 618,
+    "name": "Lucapa",
+    "state_id": 223,
+    "state_code": "LNO",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-8.68337000",
+    "longitude": "20.27045000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

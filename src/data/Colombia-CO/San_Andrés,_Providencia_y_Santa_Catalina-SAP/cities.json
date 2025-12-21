@@ -1,0 +1,28 @@
+[
+  {
+    "id": 21224,
+    "name": "Providencia",
+    "state_id": 2900,
+    "state_code": "SAP",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "12.58231690",
+    "longitude": "-81.69261410",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 21331,
+    "name": "San Andrés",
+    "state_id": 2900,
+    "state_code": "SAP",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "12.53759790",
+    "longitude": "-81.72041550",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8058,
+    "name": "Belokany",
+    "state_id": 560,
+    "state_code": "BAL",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.72626000",
+    "longitude": "46.40478000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8135,
+    "name": "Qabaqçöl",
+    "state_id": 560,
+    "state_code": "BAL",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.75259000",
+    "longitude": "46.27052000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

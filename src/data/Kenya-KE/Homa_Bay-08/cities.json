@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64787,
+    "name": "Homa Bay",
+    "state_id": 195,
+    "state_code": "08",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.52731000",
+    "longitude": "34.45714000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64860,
+    "name": "Oyugis",
+    "state_id": 195,
+    "state_code": "08",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.50974000",
+    "longitude": "34.73067000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64863,
+    "name": "Rachuonyo",
+    "state_id": 195,
+    "state_code": "08",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.44000000",
+    "longitude": "34.73900000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

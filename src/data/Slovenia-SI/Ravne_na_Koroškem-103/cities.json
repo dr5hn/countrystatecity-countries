@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104146,
+    "name": "Kotlje",
+    "state_id": 4155,
+    "state_code": "103",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.52139000",
+    "longitude": "14.98694000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104249,
+    "name": "Ravne na Koroškem",
+    "state_id": 4155,
+    "state_code": "103",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.54306000",
+    "longitude": "14.96917000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 30561,
+    "name": "Ali Sabieh",
+    "state_id": 2933,
+    "state_code": "AS",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.15583000",
+    "longitude": "42.71250000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  },
+  {
+    "id": 30567,
+    "name": "Goubétto",
+    "state_id": 2933,
+    "state_code": "AS",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.42389000",
+    "longitude": "43.00028000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  },
+  {
+    "id": 30569,
+    "name": "Holhol",
+    "state_id": 2933,
+    "state_code": "AS",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.31028000",
+    "longitude": "42.92944000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  }
+]

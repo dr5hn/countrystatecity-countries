@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66998,
+    "name": "Al Jadīd",
+    "state_id": 2965,
+    "state_code": "SB",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "27.05000000",
+    "longitude": "14.40000000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67028,
+    "name": "Sabhā",
+    "state_id": 2965,
+    "state_code": "SB",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "27.03766000",
+    "longitude": "14.42832000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

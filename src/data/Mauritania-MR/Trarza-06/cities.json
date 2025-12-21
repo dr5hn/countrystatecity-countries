@@ -1,0 +1,41 @@
+[
+  {
+    "id": 150073,
+    "name": "Legat",
+    "state_id": 3348,
+    "state_code": "06",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "16.75000000",
+    "longitude": "-14.83333333",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 67753,
+    "name": "Rosso",
+    "state_id": 3348,
+    "state_code": "06",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "16.51378000",
+    "longitude": "-15.80503000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 67755,
+    "name": "Tékane",
+    "state_id": 3348,
+    "state_code": "06",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "16.60175000",
+    "longitude": "-15.34866000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  }
+]

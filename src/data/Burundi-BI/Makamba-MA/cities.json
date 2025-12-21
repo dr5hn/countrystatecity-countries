@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9771,
+    "name": "Makamba",
+    "state_id": 3188,
+    "state_code": "MA",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-4.13480000",
+    "longitude": "29.80400000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

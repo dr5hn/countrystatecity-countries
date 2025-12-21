@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153506,
+    "name": "Aberdeen",
+    "state_id": 4892,
+    "state_code": "HSO",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.24700000",
+    "longitude": "114.15200000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153496,
+    "name": "Stanley",
+    "state_id": 4892,
+    "state_code": "HSO",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.22000000",
+    "longitude": "114.21400000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153507,
+    "name": "Stanley Peninsula",
+    "state_id": 4892,
+    "state_code": "HSO",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.21000000",
+    "longitude": "114.21700000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

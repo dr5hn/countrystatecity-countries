@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160058,
+    "name": "Port-Hercule",
+    "state_id": 5677,
+    "state_code": "PH",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73470000",
+    "longitude": "7.42530000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

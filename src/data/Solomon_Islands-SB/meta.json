@@ -1,0 +1,51 @@
+{
+  "id": 202,
+  "name": "Solomon Islands",
+  "iso2": "SB",
+  "iso3": "SLB",
+  "numeric_code": "090",
+  "phonecode": "677",
+  "capital": "Honiara",
+  "currency": "SBD",
+  "currency_name": "Solomon Islands dollar",
+  "currency_symbol": "Si$",
+  "tld": ".sb",
+  "native": "Solomon Islands",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "nationality": "Solomon Island",
+  "latitude": "-8.00000000",
+  "longitude": "159.00000000",
+  "emoji": "🇸🇧",
+  "emojiU": "U+1F1F8 U+1F1E7",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Guadalcanal",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "SBT",
+      "tzName": "Solomon Islands Time"
+    }
+  ],
+  "translations": {
+    "br": "Inizi Salomon",
+    "ko": "솔로몬 제도",
+    "pt-BR": "Ilhas Salomão",
+    "pt": "Ilhas Salomão",
+    "nl": "Salomonseilanden",
+    "hr": "Solomonski Otoci",
+    "fa": "جزایر سلیمان",
+    "de": "Salomonen",
+    "es": "Islas Salomón",
+    "fr": "Îles Salomon",
+    "ja": "ソロモン諸島",
+    "it": "Isole Salomone",
+    "zh-CN": "所罗门群岛",
+    "tr": "Solomon Adalari",
+    "ru": "Соломоновы острова",
+    "uk": "Соломонові острови",
+    "pl": "Wyspy Salomona",
+    "hi": "सोलोमन आइलैंड्स",
+    "ar": "جزر سليمان"
+  }
+}

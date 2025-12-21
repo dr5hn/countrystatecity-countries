@@ -1,0 +1,28 @@
+[
+  {
+    "id": 9181,
+    "name": "Kadiogo",
+    "state_id": 3136,
+    "state_code": "03",
+    "country_id": 35,
+    "country_code": "BF",
+    "latitude": "12.33333000",
+    "longitude": "-1.50000000",
+    "native": null,
+    "timezone": "Africa/Ouagadougou",
+    "translations": {}
+  },
+  {
+    "id": 9193,
+    "name": "Ouagadougou",
+    "state_id": 3136,
+    "state_code": "03",
+    "country_id": 35,
+    "country_code": "BF",
+    "latitude": "12.36566000",
+    "longitude": "-1.53388000",
+    "native": null,
+    "timezone": "Africa/Ouagadougou",
+    "translations": {}
+  }
+]

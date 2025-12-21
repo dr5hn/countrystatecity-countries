@@ -1,0 +1,15 @@
+[
+  {
+    "id": 22006,
+    "name": "São Domingos",
+    "state_id": 2986,
+    "state_code": "SD",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.02438000",
+    "longitude": "-23.56250000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

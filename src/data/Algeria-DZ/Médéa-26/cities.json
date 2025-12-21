@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31471,
+    "name": "’Aïn Boucif",
+    "state_id": 1109,
+    "state_code": "26",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.89123000",
+    "longitude": "3.15850000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31269,
+    "name": "Berrouaghia",
+    "state_id": 1109,
+    "state_code": "26",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.13516000",
+    "longitude": "2.91085000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31366,
+    "name": "Ksar el Boukhari",
+    "state_id": 1109,
+    "state_code": "26",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.88889000",
+    "longitude": "2.74905000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31390,
+    "name": "Médéa",
+    "state_id": 1109,
+    "state_code": "26",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.26417000",
+    "longitude": "2.75393000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

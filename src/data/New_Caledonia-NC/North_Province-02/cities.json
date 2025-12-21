@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153637,
+    "name": "Houaïlou",
+    "state_id": 5226,
+    "state_code": "02",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-21.29090000",
+    "longitude": "165.62170000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  },
+  {
+    "id": 153635,
+    "name": "Koné",
+    "state_id": 5226,
+    "state_code": "02",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-21.05900000",
+    "longitude": "164.85180000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  },
+  {
+    "id": 153636,
+    "name": "Poindimié",
+    "state_id": 5226,
+    "state_code": "02",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-20.94960000",
+    "longitude": "165.32930000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  }
+]

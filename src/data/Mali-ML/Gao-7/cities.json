@@ -1,0 +1,67 @@
+[
+  {
+    "id": 67584,
+    "name": "Ansongo",
+    "state_id": 258,
+    "state_code": "7",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "15.65970000",
+    "longitude": "0.50220000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67592,
+    "name": "Cercle de Bourem",
+    "state_id": 258,
+    "state_code": "7",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "17.71192000",
+    "longitude": "-0.34284000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67601,
+    "name": "Gao",
+    "state_id": 258,
+    "state_code": "7",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "16.27167000",
+    "longitude": "-0.04472000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67602,
+    "name": "Gao Cercle",
+    "state_id": 258,
+    "state_code": "7",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "16.72237000",
+    "longitude": "0.43984000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67605,
+    "name": "Inékar",
+    "state_id": 258,
+    "state_code": "7",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "15.95944000",
+    "longitude": "3.14111000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  }
+]

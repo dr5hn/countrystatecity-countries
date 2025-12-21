@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160279,
+    "name": "Anao",
+    "state_id": 5271,
+    "state_code": "18",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.52890000",
+    "longitude": "144.91820000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160278,
+    "name": "Chaguian",
+    "state_id": 5271,
+    "state_code": "18",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.57175000",
+    "longitude": "144.88058000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160280,
+    "name": "Yigo Village",
+    "state_id": 5271,
+    "state_code": "18",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.53605000",
+    "longitude": "144.88855000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

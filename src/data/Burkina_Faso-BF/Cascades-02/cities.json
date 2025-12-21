@@ -1,0 +1,54 @@
+[
+  {
+    "id": 9158,
+    "name": "Banfora",
+    "state_id": 3153,
+    "state_code": "02",
+    "country_id": 35,
+    "country_code": "BF",
+    "latitude": "10.63333000",
+    "longitude": "-4.76667000",
+    "native": null,
+    "timezone": "Africa/Ouagadougou",
+    "translations": {}
+  },
+  {
+    "id": 9200,
+    "name": "Province de la Comoé",
+    "state_id": 3153,
+    "state_code": "02",
+    "country_id": 35,
+    "country_code": "BF",
+    "latitude": "10.33333000",
+    "longitude": "-4.41667000",
+    "native": null,
+    "timezone": "Africa/Ouagadougou",
+    "translations": {}
+  },
+  {
+    "id": 9204,
+    "name": "Province de la Léraba",
+    "state_id": 3153,
+    "state_code": "02",
+    "country_id": 35,
+    "country_code": "BF",
+    "latitude": "10.66667000",
+    "longitude": "-5.20000000",
+    "native": null,
+    "timezone": "Africa/Ouagadougou",
+    "translations": {}
+  },
+  {
+    "id": 9241,
+    "name": "Sindou",
+    "state_id": 3153,
+    "state_code": "02",
+    "country_id": 35,
+    "country_code": "BF",
+    "latitude": "10.66667000",
+    "longitude": "-5.16667000",
+    "native": null,
+    "timezone": "Africa/Ouagadougou",
+    "translations": {}
+  }
+]

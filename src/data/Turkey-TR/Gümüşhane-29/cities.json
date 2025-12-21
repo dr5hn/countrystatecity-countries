@@ -1,0 +1,80 @@
+[
+  {
+    "id": 107969,
+    "name": "Kelkit",
+    "state_id": 2204,
+    "state_code": "29",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.12682000",
+    "longitude": "39.43424000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108079,
+    "name": "Köse",
+    "state_id": 2204,
+    "state_code": "29",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.20692000",
+    "longitude": "39.64626000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108090,
+    "name": "Kürtün",
+    "state_id": 2204,
+    "state_code": "29",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.69516000",
+    "longitude": "39.09468000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108181,
+    "name": "Merkez",
+    "state_id": 2204,
+    "state_code": "29",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.46843000",
+    "longitude": "39.67441000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108959,
+    "name": "Şiran",
+    "state_id": 2204,
+    "state_code": "29",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.19064000",
+    "longitude": "39.11747000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108591,
+    "name": "Torul",
+    "state_id": 2204,
+    "state_code": "29",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.55071000",
+    "longitude": "39.28344000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

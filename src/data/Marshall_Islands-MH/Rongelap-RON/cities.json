@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160089,
+    "name": "Rongelap",
+    "state_id": 5662,
+    "state_code": "RON",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "11.31666667",
+    "longitude": "166.78333333",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

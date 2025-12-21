@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160109,
+    "name": "Anse Etoile",
+    "state_id": 5694,
+    "state_code": "03",
+    "country_id": 197,
+    "country_code": "SC",
+    "latitude": "-4.59166667",
+    "longitude": "55.45000000",
+    "native": null,
+    "timezone": "Indian/Mahe",
+    "translations": {}
+  }
+]

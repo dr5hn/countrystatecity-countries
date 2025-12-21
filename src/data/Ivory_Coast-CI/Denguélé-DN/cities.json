@@ -1,0 +1,41 @@
+[
+  {
+    "id": 18898,
+    "name": "Folon",
+    "state_id": 2644,
+    "state_code": "DN",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "9.81241000",
+    "longitude": "-7.51894000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18915,
+    "name": "Kabadougou",
+    "state_id": 2644,
+    "state_code": "DN",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "9.60571000",
+    "longitude": "-7.43774000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18925,
+    "name": "Odienné",
+    "state_id": 2644,
+    "state_code": "DN",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "9.50511000",
+    "longitude": "-7.56433000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  }
+]

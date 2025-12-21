@@ -1,0 +1,93 @@
+[
+  {
+    "id": 76630,
+    "name": "Epupa Constituency",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-17.00388000",
+    "longitude": "13.24825000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76640,
+    "name": "Khorixas",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-20.36667000",
+    "longitude": "14.96667000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76641,
+    "name": "Khorixas Constituency",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-20.36792000",
+    "longitude": "14.95996000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76653,
+    "name": "Opuwo",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-18.06068000",
+    "longitude": "13.83998000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76654,
+    "name": "Opuwo Constituency",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-18.54247000",
+    "longitude": "13.51617000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76662,
+    "name": "Outjo",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-20.11667000",
+    "longitude": "16.15000000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76665,
+    "name": "Sesfontein Constituency",
+    "state_id": 34,
+    "state_code": "KU",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-19.56106000",
+    "longitude": "13.76530000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  }
+]

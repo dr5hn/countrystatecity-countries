@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66549,
+    "name": "Buchanan",
+    "state_id": 3040,
+    "state_code": "GB",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "5.87693000",
+    "longitude": "-10.04964000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

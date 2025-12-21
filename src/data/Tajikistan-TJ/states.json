@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5706,
+    "name": "Dushanbe",
+    "country_id": 217,
+    "country_code": "TJ",
+    "fips_code": null,
+    "iso2": "DU",
+    "type": "capital territory",
+    "latitude": "38.53666667",
+    "longitude": "68.78000000",
+    "native": "Душанбе",
+    "timezone": "Asia/Dushanbe",
+    "translations": {}
+  },
+  {
+    "id": 3399,
+    "name": "Gorno-Badakhshan",
+    "country_id": 217,
+    "country_code": "TJ",
+    "fips_code": null,
+    "iso2": "GB",
+    "type": "autonomous region",
+    "latitude": "38.34924570",
+    "longitude": "72.99881680",
+    "native": "Вилаҳмо-Бадахшон",
+    "timezone": "Asia/Dushanbe",
+    "translations": {}
+  },
+  {
+    "id": 3398,
+    "name": "Khatlon",
+    "country_id": 217,
+    "country_code": "TJ",
+    "fips_code": null,
+    "iso2": "KT",
+    "type": "region",
+    "latitude": "37.88047340",
+    "longitude": "69.26369230",
+    "native": "Вилоят",
+    "timezone": "Asia/Dushanbe",
+    "translations": {}
+  },
+  {
+    "id": 3397,
+    "name": "Nohiyahoi Tobei Jumhurí ",
+    "country_id": 217,
+    "country_code": "TJ",
+    "fips_code": null,
+    "iso2": "RA",
+    "type": "districts under republic administration",
+    "latitude": "39.08579020",
+    "longitude": "70.24083250",
+    "native": "Nohiyahoi Tobei Jumhurí ",
+    "timezone": "Asia/Dushanbe",
+    "translations": {}
+  },
+  {
+    "id": 3400,
+    "name": "Sughd ",
+    "country_id": 217,
+    "country_code": "TJ",
+    "fips_code": null,
+    "iso2": "SU",
+    "type": "region",
+    "latitude": "39.35486020",
+    "longitude": "68.82680120",
+    "native": "Суғд",
+    "timezone": "Asia/Dushanbe",
+    "translations": {}
+  }
+]

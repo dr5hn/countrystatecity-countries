@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153575,
+    "name": "Fajardo",
+    "state_id": 5160,
+    "state_code": "053",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.32521480",
+    "longitude": "-65.65393560",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

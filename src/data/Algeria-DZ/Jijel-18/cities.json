@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31359,
+    "name": "Jijel",
+    "state_id": 1113,
+    "state_code": "18",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.82055000",
+    "longitude": "5.76671000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

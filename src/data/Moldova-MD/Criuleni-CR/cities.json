@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67293,
+    "name": "Criuleni",
+    "state_id": 4390,
+    "state_code": "CR",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.21307000",
+    "longitude": "29.15926000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

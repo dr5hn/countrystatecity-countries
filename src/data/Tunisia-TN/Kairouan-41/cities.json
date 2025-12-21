@@ -1,0 +1,41 @@
+[
+  {
+    "id": 106958,
+    "name": "Haffouz",
+    "state_id": 2564,
+    "state_code": "41",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "35.63235000",
+    "longitude": "9.67624000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106968,
+    "name": "Kairouan",
+    "state_id": 2564,
+    "state_code": "41",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "35.67810000",
+    "longitude": "10.09633000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107016,
+    "name": "Sbikha",
+    "state_id": 2564,
+    "state_code": "41",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "35.93325000",
+    "longitude": "10.02081000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17354,
+    "name": "Sibiti",
+    "state_id": 2868,
+    "state_code": "2",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-3.68192000",
+    "longitude": "13.34985000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  }
+]

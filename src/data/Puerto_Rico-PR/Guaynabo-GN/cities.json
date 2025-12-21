@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153580,
+    "name": "Guaynabo",
+    "state_id": 5080,
+    "state_code": "GN",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.36129540",
+    "longitude": "-66.11029570",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

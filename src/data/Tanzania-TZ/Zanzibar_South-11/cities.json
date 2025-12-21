@@ -1,0 +1,54 @@
+[
+  {
+    "id": 109132,
+    "name": "Koani",
+    "state_id": 1471,
+    "state_code": "11",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.13764180",
+    "longitude": "39.28632640",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109161,
+    "name": "Mahonda",
+    "state_id": 1471,
+    "state_code": "11",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.45000000",
+    "longitude": "39.46667000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109250,
+    "name": "Nganane",
+    "state_id": 1471,
+    "state_code": "11",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.40000000",
+    "longitude": "39.55000000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109281,
+    "name": "Sokoni",
+    "state_id": 1471,
+    "state_code": "11",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.43333000",
+    "longitude": "39.55000000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

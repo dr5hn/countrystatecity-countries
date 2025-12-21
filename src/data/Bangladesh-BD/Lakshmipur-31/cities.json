@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8521,
+    "name": "Lakshmipur",
+    "state_id": 5504,
+    "state_code": "31",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "22.91667000",
+    "longitude": "90.83333000",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

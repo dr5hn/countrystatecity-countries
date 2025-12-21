@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160134,
+    "name": "Ono",
+    "state_id": 5709,
+    "state_code": "AL",
+    "country_id": 243,
+    "country_code": "WF",
+    "latitude": "-14.31055556",
+    "longitude": "-178.10500000",
+    "native": null,
+    "timezone": "Pacific/Wallis",
+    "translations": {}
+  }
+]

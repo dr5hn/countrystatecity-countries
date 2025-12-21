@@ -1,0 +1,28 @@
+[
+  {
+    "id": 16133,
+    "name": "Belize City",
+    "state_id": 264,
+    "state_code": "BZ",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "17.49952000",
+    "longitude": "-88.19756000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  },
+  {
+    "id": 16143,
+    "name": "San Pedro",
+    "state_id": 264,
+    "state_code": "BZ",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "17.91598000",
+    "longitude": "-87.96590000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  }
+]

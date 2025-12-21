@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153484,
+    "name": "Admiralty",
+    "state_id": 4889,
+    "state_code": "HCW",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.27800000",
+    "longitude": "114.16400000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153483,
+    "name": "Central",
+    "state_id": 4889,
+    "state_code": "HCW",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.28100000",
+    "longitude": "114.15900000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

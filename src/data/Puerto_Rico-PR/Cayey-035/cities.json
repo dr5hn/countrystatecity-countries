@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153566,
+    "name": "Cayey",
+    "state_id": 5151,
+    "state_code": "035",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.11190510",
+    "longitude": "-66.16600000",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

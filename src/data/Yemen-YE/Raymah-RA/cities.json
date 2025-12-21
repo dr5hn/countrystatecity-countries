@@ -1,0 +1,80 @@
+[
+  {
+    "id": 130701,
+    "name": "Al Jabin",
+    "state_id": 1248,
+    "state_code": "RA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "14.68990000",
+    "longitude": "43.61960000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  },
+  {
+    "id": 130702,
+    "name": "Al Jafariyah",
+    "state_id": 1248,
+    "state_code": "RA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "14.51960000",
+    "longitude": "43.58170000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  },
+  {
+    "id": 130776,
+    "name": "As Salafiyah",
+    "state_id": 1248,
+    "state_code": "RA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "14.68660000",
+    "longitude": "43.82160000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  },
+  {
+    "id": 130826,
+    "name": "Bilad At Ta'am",
+    "state_id": 1248,
+    "state_code": "RA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "14.83820000",
+    "longitude": "43.60780000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  },
+  {
+    "id": 130899,
+    "name": "Kusmah",
+    "state_id": 1248,
+    "state_code": "RA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "14.54740000",
+    "longitude": "43.68330000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  },
+  {
+    "id": 130920,
+    "name": "Mazhar",
+    "state_id": 1248,
+    "state_code": "RA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "14.57090000",
+    "longitude": "43.76070000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  }
+]

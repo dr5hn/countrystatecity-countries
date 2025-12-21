@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153611,
+    "name": "Salinas",
+    "state_id": 5196,
+    "state_code": "123",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "36.67773720",
+    "longitude": "-121.65550130",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

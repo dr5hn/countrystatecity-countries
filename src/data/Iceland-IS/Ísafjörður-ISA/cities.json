@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135230,
+    "name": "Ísafjarðarbær",
+    "state_id": 5581,
+    "state_code": "ISA",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.07586000",
+    "longitude": "-23.12794000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135231,
+    "name": "Ísafjörður",
+    "state_id": 5581,
+    "state_code": "ISA",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.07475000",
+    "longitude": "-23.13498000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

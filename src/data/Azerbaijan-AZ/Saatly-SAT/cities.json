@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8214,
+    "name": "Əhmədbəyli",
+    "state_id": 557,
+    "state_code": "SAT",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.88074000",
+    "longitude": "48.39158000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8160,
+    "name": "Saatlı",
+    "state_id": 557,
+    "state_code": "SAT",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.93214000",
+    "longitude": "48.36892000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

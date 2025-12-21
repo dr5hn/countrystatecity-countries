@@ -1,0 +1,28 @@
+[
+  {
+    "id": 132399,
+    "name": "Kargil",
+    "state_id": 4852,
+    "state_code": "LA",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "34.55765000",
+    "longitude": "76.12622000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 132762,
+    "name": "Leh",
+    "state_id": 4852,
+    "state_code": "LA",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "34.16504000",
+    "longitude": "77.58402000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  }
+]

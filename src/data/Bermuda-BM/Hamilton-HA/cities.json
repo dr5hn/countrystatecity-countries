@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153515,
+    "name": "Hamilton",
+    "state_id": 4861,
+    "state_code": "HA",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.29400000",
+    "longitude": "-64.78300000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

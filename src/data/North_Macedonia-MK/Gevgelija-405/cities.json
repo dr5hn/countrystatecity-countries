@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67427,
+    "name": "Gevgelija",
+    "state_id": 648,
+    "state_code": "405",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.14166000",
+    "longitude": "22.50141000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67484,
+    "name": "Miravci",
+    "state_id": 648,
+    "state_code": "405",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.30925000",
+    "longitude": "22.43641000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

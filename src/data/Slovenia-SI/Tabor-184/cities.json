@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104293,
+    "name": "Tabor",
+    "state_id": 4194,
+    "state_code": "184",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.23611000",
+    "longitude": "15.01833000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 105152,
+    "name": "Moussoro",
+    "state_id": 3583,
+    "state_code": "BG",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.64143000",
+    "longitude": "16.48941000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 39137,
+    "name": "Kadavu",
+    "state_id": 1932,
+    "state_code": "E",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.99331000",
+    "longitude": "178.22021000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39139,
+    "name": "Lau",
+    "state_id": 1932,
+    "state_code": "E",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.20488000",
+    "longitude": "-178.79251000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39141,
+    "name": "Levuka",
+    "state_id": 1932,
+    "state_code": "E",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.06667000",
+    "longitude": "179.31667000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39142,
+    "name": "Lomaiviti",
+    "state_id": 1932,
+    "state_code": "E",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.66667000",
+    "longitude": "178.80000000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  }
+]

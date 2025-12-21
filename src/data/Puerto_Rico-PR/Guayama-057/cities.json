@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153578,
+    "name": "Guayama",
+    "state_id": 5163,
+    "state_code": "057",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "17.98413280",
+    "longitude": "-66.11377670",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

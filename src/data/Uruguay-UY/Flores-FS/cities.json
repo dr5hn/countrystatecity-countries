@@ -1,0 +1,15 @@
+[
+  {
+    "id": 129884,
+    "name": "Trinidad",
+    "state_id": 3203,
+    "state_code": "FS",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.51650000",
+    "longitude": "-56.89957000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  }
+]

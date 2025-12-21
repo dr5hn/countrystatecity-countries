@@ -1,0 +1,28 @@
+[
+  {
+    "id": 21996,
+    "name": "Pedra Badejo",
+    "state_id": 3004,
+    "state_code": "CR",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.13750000",
+    "longitude": "-23.53083000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  },
+  {
+    "id": 22004,
+    "name": "Santa Cruz",
+    "state_id": 3004,
+    "state_code": "CR",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.13333000",
+    "longitude": "-23.56667000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

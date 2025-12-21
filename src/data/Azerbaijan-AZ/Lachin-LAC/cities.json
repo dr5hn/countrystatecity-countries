@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8109,
+    "name": "Laçın",
+    "state_id": 541,
+    "state_code": "LAC",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.59881000",
+    "longitude": "46.55045000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

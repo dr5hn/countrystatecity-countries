@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153882,
+    "name": "Magura",
+    "state_id": 5507,
+    "state_code": "37",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "23.46557740",
+    "longitude": "89.11547300",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

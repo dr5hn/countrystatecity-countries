@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66953,
+    "name": "Rēzekne",
+    "state_id": 4509,
+    "state_code": "REZ",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.51028000",
+    "longitude": "27.34000000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

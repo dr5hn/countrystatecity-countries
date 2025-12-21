@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160276,
+    "name": "Apotgan",
+    "state_id": 5270,
+    "state_code": "17",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.48817000",
+    "longitude": "144.77644000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160275,
+    "name": "Tamuning",
+    "state_id": 5270,
+    "state_code": "17",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.48754000",
+    "longitude": "144.78143000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160277,
+    "name": "Tamuning-Tumon-Harmon Village",
+    "state_id": 5270,
+    "state_code": "17",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.48773000",
+    "longitude": "144.78138000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

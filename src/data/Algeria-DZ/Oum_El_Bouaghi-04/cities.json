@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31242,
+    "name": "Aïn Beïda",
+    "state_id": 1136,
+    "state_code": "04",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.79639000",
+    "longitude": "7.39278000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31244,
+    "name": "Aïn Fakroun",
+    "state_id": 1136,
+    "state_code": "04",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.97108000",
+    "longitude": "6.87374000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31245,
+    "name": "Aïn Kercha",
+    "state_id": 1136,
+    "state_code": "04",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.92472000",
+    "longitude": "6.69528000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31330,
+    "name": "El Aouinet",
+    "state_id": 1136,
+    "state_code": "04",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.86691000",
+    "longitude": "7.88673000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31384,
+    "name": "Meskiana",
+    "state_id": 1136,
+    "state_code": "04",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.63058000",
+    "longitude": "7.66606000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31404,
+    "name": "Oum el Bouaghi",
+    "state_id": 1136,
+    "state_code": "04",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.87541000",
+    "longitude": "7.11353000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

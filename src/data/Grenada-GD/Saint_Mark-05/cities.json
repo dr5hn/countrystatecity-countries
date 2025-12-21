@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52034,
+    "name": "Victoria",
+    "state_id": 3866,
+    "state_code": "05",
+    "country_id": 87,
+    "country_code": "GD",
+    "latitude": "12.19021000",
+    "longitude": "-61.70677000",
+    "native": null,
+    "timezone": "America/Grenada",
+    "translations": {}
+  }
+]

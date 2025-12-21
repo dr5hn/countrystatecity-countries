@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160059,
+    "name": "Saint-Roman",
+    "state_id": 5678,
+    "state_code": "SR",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.74530000",
+    "longitude": "7.43180000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

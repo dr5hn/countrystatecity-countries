@@ -1,0 +1,28 @@
+[
+  {
+    "id": 64833,
+    "name": "Marsabit",
+    "state_id": 194,
+    "state_code": "25",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "2.33468000",
+    "longitude": "37.99086000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64839,
+    "name": "Moyale",
+    "state_id": 194,
+    "state_code": "25",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "3.52661000",
+    "longitude": "39.05610000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

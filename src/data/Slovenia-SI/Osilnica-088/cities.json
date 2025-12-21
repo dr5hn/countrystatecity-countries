@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104217,
+    "name": "Osilnica",
+    "state_id": 4199,
+    "state_code": "088",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.52914000",
+    "longitude": "14.69838000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

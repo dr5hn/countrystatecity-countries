@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8198,
+    "name": "Yevlakh",
+    "state_id": 538,
+    "state_code": "YE",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.61832000",
+    "longitude": "47.15014000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

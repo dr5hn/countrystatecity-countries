@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104277,
+    "name": "Solčava",
+    "state_id": 4261,
+    "state_code": "180",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.41944000",
+    "longitude": "14.69361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67436,
+    "name": "Gradsko",
+    "state_id": 708,
+    "state_code": "102",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.57750000",
+    "longitude": "21.94278000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66561,
+    "name": "Tubmanburg",
+    "state_id": 3041,
+    "state_code": "BM",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "6.87064000",
+    "longitude": "-10.82110000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "id": 207,
+  "name": "Spain",
+  "iso2": "ES",
+  "iso3": "ESP",
+  "numeric_code": "724",
+  "phonecode": "34",
+  "capital": "Madrid",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".es",
+  "native": "España",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Spanish",
+  "latitude": "40.00000000",
+  "longitude": "-4.00000000",
+  "emoji": "🇪🇸",
+  "emojiU": "U+1F1EA U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Africa/Ceuta",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    },
+    {
+      "zoneName": "Atlantic/Canary",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "WET",
+      "tzName": "Western European Time"
+    },
+    {
+      "zoneName": "Europe/Madrid",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Spagn",
+    "ko": "스페인",
+    "pt-BR": "Espanha",
+    "pt": "Espanha",
+    "nl": "Spanje",
+    "hr": "Španjolska",
+    "fa": "اسپانیا",
+    "de": "Spanien",
+    "es": "España",
+    "fr": "Espagne",
+    "ja": "スペイン",
+    "it": "Spagna",
+    "zh-CN": "西班牙",
+    "tr": "İspanya",
+    "ru": "Испания",
+    "uk": "Іспанія",
+    "pl": "Hiszpania",
+    "hi": "स्पेन",
+    "ar": "إسبانيا"
+  }
+}

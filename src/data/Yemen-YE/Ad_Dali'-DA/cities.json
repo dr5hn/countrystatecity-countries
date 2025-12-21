@@ -1,0 +1,15 @@
+[
+  {
+    "id": 157058,
+    "name": "Ad Dali'",
+    "state_id": 5467,
+    "state_code": "DA",
+    "country_id": 245,
+    "country_code": "YE",
+    "latitude": "13.70000000",
+    "longitude": "44.73000000",
+    "native": null,
+    "timezone": "Asia/Aden",
+    "translations": {}
+  }
+]

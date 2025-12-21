@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67784,
+    "name": "Marsa",
+    "state_id": 109,
+    "state_code": "31",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.87917000",
+    "longitude": "14.49528000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

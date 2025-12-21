@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154916,
+    "name": "Lealataua",
+    "state_id": 5374,
+    "state_code": "01",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.32261520",
+    "longitude": "-170.90849930",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154917,
+    "name": "Leasina",
+    "state_id": 5374,
+    "state_code": "01",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.29581640",
+    "longitude": "-170.80459320",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154918,
+    "name": "Tualatai",
+    "state_id": 5374,
+    "state_code": "01",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.37923540",
+    "longitude": "-170.81033120",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154919,
+    "name": "Tualauta",
+    "state_id": 5374,
+    "state_code": "01",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.35876890",
+    "longitude": "-170.75583320",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160075,
+    "name": "Delap-Uliga-Djarrit",
+    "state_id": 5656,
+    "state_code": "MAJ",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "7.08333333",
+    "longitude": "171.38333333",
+    "native": null,
+    "timezone": "Pacific/Majuro",
+    "translations": {}
+  }
+]

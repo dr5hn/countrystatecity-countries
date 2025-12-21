@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17340,
+    "name": "Djambala",
+    "state_id": 2862,
+    "state_code": "14",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-2.54472000",
+    "longitude": "14.75333000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  },
+  {
+    "id": 17343,
+    "name": "Gamboma",
+    "state_id": 2862,
+    "state_code": "14",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-1.87639000",
+    "longitude": "15.86444000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  }
+]

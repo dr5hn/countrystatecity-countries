@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65914,
+    "name": "Muang Xay",
+    "state_id": 988,
+    "state_code": "OU",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "20.69229000",
+    "longitude": "101.98368000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

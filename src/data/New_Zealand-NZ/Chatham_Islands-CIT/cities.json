@@ -1,0 +1,15 @@
+[
+  {
+    "id": 79908,
+    "name": "Waitangi",
+    "state_id": 4067,
+    "state_code": "CIT",
+    "country_id": 158,
+    "country_code": "NZ",
+    "latitude": "-43.95353000",
+    "longitude": "-176.55973000",
+    "native": null,
+    "timezone": "Pacific/Chatham",
+    "translations": {}
+  }
+]

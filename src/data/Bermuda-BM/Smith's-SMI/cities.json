@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153512,
+    "name": "Flatts",
+    "state_id": 4868,
+    "state_code": "SMI",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.32800000",
+    "longitude": "-64.73600000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

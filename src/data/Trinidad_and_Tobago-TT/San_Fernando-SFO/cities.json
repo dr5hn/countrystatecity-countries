@@ -1,0 +1,41 @@
+[
+  {
+    "id": 108974,
+    "name": "Marabella",
+    "state_id": 3359,
+    "state_code": "SFO",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.30618000",
+    "longitude": "-61.44671000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108975,
+    "name": "Mon Repos",
+    "state_id": 3359,
+    "state_code": "SFO",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.27979000",
+    "longitude": "-61.44590000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108984,
+    "name": "San Fernando",
+    "state_id": 3359,
+    "state_code": "SFO",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.27969000",
+    "longitude": "-61.46835000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

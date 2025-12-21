@@ -1,0 +1,28 @@
+[
+  {
+    "id": 58,
+    "name": "Bāsawul",
+    "state_id": 3882,
+    "state_code": "NAN",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.24749000",
+    "longitude": "70.87218000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 77,
+    "name": "Jalālābād",
+    "state_id": 3882,
+    "state_code": "NAN",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.42647000",
+    "longitude": "70.45153000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

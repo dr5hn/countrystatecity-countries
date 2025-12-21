@@ -1,0 +1,93 @@
+[
+  {
+    "id": 65048,
+    "name": "Banana Village",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "1.98329000",
+    "longitude": "-157.36526000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  },
+  {
+    "id": 65058,
+    "name": "Kiritimati",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "1.94000000",
+    "longitude": "-157.47500000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  },
+  {
+    "id": 65060,
+    "name": "London Village",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "1.98487000",
+    "longitude": "-157.47502000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  },
+  {
+    "id": 65065,
+    "name": "Napari Village",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "3.90806000",
+    "longitude": "-159.38832000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  },
+  {
+    "id": 65072,
+    "name": "Tabuaeran",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "3.86667000",
+    "longitude": "-159.33333000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  },
+  {
+    "id": 65073,
+    "name": "Tabwakea Village",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "2.01643000",
+    "longitude": "-157.48773000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  },
+  {
+    "id": 65078,
+    "name": "Teraina",
+    "state_id": 1832,
+    "state_code": "L",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "4.68764000",
+    "longitude": "-160.38803000",
+    "native": null,
+    "timezone": "Pacific/Kiritimati",
+    "translations": {}
+  }
+]

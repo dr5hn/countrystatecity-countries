@@ -1,0 +1,28 @@
+[
+  {
+    "id": 109014,
+    "name": "Jincheng",
+    "state_id": 3415,
+    "state_code": "KIN",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.43415000",
+    "longitude": "118.31712000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109017,
+    "name": "Kinmen",
+    "state_id": 3415,
+    "state_code": "KIN",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.45333000",
+    "longitude": "118.38861000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154146,
+    "name": "Vingtaine de la Grande Longueville",
+    "state_id": 5319,
+    "state_code": "11",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.18786710",
+    "longitude": "-2.07502150",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154141,
+    "name": "Vingtaine de la Petite Longueville",
+    "state_id": 5319,
+    "state_code": "11",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.18090340",
+    "longitude": "-2.08121620",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154143,
+    "name": "Vingtaine de Maufant",
+    "state_id": 5319,
+    "state_code": "11",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20822960",
+    "longitude": "-2.10060600",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154144,
+    "name": "Vingtaine de Sous la Hougue",
+    "state_id": 5319,
+    "state_code": "11",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21377110",
+    "longitude": "-2.13576620",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154145,
+    "name": "Vingtaine des Pigneaux",
+    "state_id": 5319,
+    "state_code": "11",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20262700",
+    "longitude": "-2.07080670",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

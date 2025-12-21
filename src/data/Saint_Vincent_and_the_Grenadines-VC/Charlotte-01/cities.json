@@ -1,0 +1,41 @@
+[
+  {
+    "id": 130030,
+    "name": "Biabou",
+    "state_id": 3389,
+    "state_code": "01",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.19430000",
+    "longitude": "-61.13904000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  },
+  {
+    "id": 130031,
+    "name": "Byera Village",
+    "state_id": 3389,
+    "state_code": "01",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.25636000",
+    "longitude": "-61.11954000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  },
+  {
+    "id": 130033,
+    "name": "Georgetown",
+    "state_id": 3389,
+    "state_code": "01",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.28054000",
+    "longitude": "-61.11850000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  }
+]

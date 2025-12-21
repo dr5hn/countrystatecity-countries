@@ -1,0 +1,93 @@
+[
+  {
+    "id": 48546,
+    "name": "Blackley",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.51765000",
+    "longitude": "-2.21443000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48942,
+    "name": "Cheetham Hill",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.49862000",
+    "longitude": "-2.23846000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48987,
+    "name": "Chorlton cum Hardy",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.43505000",
+    "longitude": "-2.26310000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49190,
+    "name": "Crumpsall",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.51827000",
+    "longitude": "-2.24447000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49524,
+    "name": "Fallowfield",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.43981000",
+    "longitude": "-2.21572000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50020,
+    "name": "Hulme",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.46572000",
+    "longitude": "-2.24885000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50410,
+    "name": "Longsight",
+    "state_id": 2398,
+    "state_code": "MAN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.45801000",
+    "longitude": "-2.20104000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

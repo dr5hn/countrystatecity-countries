@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65176,
+    "name": "Nicola Town",
+    "state_id": 3833,
+    "state_code": "01",
+    "country_id": 185,
+    "country_code": "KN",
+    "latitude": "17.37956000",
+    "longitude": "-62.75318000",
+    "native": null,
+    "timezone": "America/St_Kitts",
+    "translations": {}
+  }
+]

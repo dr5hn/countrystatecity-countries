@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67,
+    "name": "Fayrōz Kōh",
+    "state_id": 3888,
+    "state_code": "GHO",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.51952000",
+    "longitude": "65.25093000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 121,
+    "name": "Shahrak",
+    "state_id": 3888,
+    "state_code": "GHO",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.10737000",
+    "longitude": "64.30520000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

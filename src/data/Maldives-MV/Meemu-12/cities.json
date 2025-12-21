@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67938,
+    "name": "Muli",
+    "state_id": 2608,
+    "state_code": "12",
+    "country_id": 133,
+    "country_code": "MV",
+    "latitude": "2.91667000",
+    "longitude": "73.56667000",
+    "native": null,
+    "timezone": "Indian/Maldives",
+    "translations": {}
+  }
+]

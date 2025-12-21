@@ -1,0 +1,58 @@
+{
+  "id": 171,
+  "name": "Papua New Guinea",
+  "iso2": "PG",
+  "iso3": "PNG",
+  "numeric_code": "598",
+  "phonecode": "675",
+  "capital": "Port Moresby",
+  "currency": "PGK",
+  "currency_name": "Papua New Guinean kina",
+  "currency_symbol": "K",
+  "tld": ".pg",
+  "native": "Papua Niugini",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "nationality": "Papua New Guinean, Papuan",
+  "latitude": "-6.00000000",
+  "longitude": "147.00000000",
+  "emoji": "🇵🇬",
+  "emojiU": "U+1F1F5 U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Bougainville",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "BST",
+      "tzName": "Bougainville Standard Time[6"
+    },
+    {
+      "zoneName": "Pacific/Port_Moresby",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "PGT",
+      "tzName": "Papua New Guinea Time"
+    }
+  ],
+  "translations": {
+    "br": "Papoua Ginea-Nevez",
+    "ko": "파푸아뉴기니",
+    "pt-BR": "Papua Nova Guiné",
+    "pt": "Papua Nova Guiné",
+    "nl": "Papoea-Nieuw-Guinea",
+    "hr": "Papua Nova Gvineja",
+    "fa": "پاپوآ گینه نو",
+    "de": "Papua-Neuguinea",
+    "es": "Papúa Nueva Guinea",
+    "fr": "Papouasie-Nouvelle-Guinée",
+    "ja": "パプアニューギニア",
+    "it": "Papua Nuova Guinea",
+    "zh-CN": "巴布亚新几内亚",
+    "tr": "Papua Yeni Gine",
+    "ru": "Папуа - Новая Гвинея",
+    "uk": "Папуа-Нова Гвінея",
+    "pl": "Papua-Nowa Gwinea",
+    "hi": "पापुआ न्यू गिनी",
+    "ar": "بابوا غينيا الجديدة"
+  }
+}

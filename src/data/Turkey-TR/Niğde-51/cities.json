@@ -1,0 +1,80 @@
+[
+  {
+    "id": 107136,
+    "name": "Altunhisar",
+    "state_id": 2189,
+    "state_code": "51",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.99159000",
+    "longitude": "34.37334000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107369,
+    "name": "Bor",
+    "state_id": 2189,
+    "state_code": "51",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.89056000",
+    "longitude": "34.55889000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108764,
+    "name": "Çamardı",
+    "state_id": 2189,
+    "state_code": "51",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.84157000",
+    "longitude": "34.99005000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108829,
+    "name": "Çiftlik",
+    "state_id": 2189,
+    "state_code": "51",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.17580000",
+    "longitude": "34.48535000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108252,
+    "name": "Merkez",
+    "state_id": 2189,
+    "state_code": "51",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.96583000",
+    "longitude": "34.67935000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108628,
+    "name": "Ulukışla",
+    "state_id": 2189,
+    "state_code": "51",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.54592000",
+    "longitude": "34.58737000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

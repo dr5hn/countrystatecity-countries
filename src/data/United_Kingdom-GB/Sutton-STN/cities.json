@@ -1,0 +1,80 @@
+[
+  {
+    "id": 48377,
+    "name": "Banstead",
+    "state_id": 2313,
+    "state_code": "STN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.32233000",
+    "longitude": "-0.20685000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48566,
+    "name": "Bletchingley",
+    "state_id": 2313,
+    "state_code": "STN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.24059000",
+    "longitude": "-0.10038000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48874,
+    "name": "Carshalton",
+    "state_id": 2313,
+    "state_code": "STN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.36829000",
+    "longitude": "-0.16755000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48938,
+    "name": "Cheam",
+    "state_id": 2313,
+    "state_code": "STN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.36179000",
+    "longitude": "-0.21977000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49118,
+    "name": "Coulsdon",
+    "state_id": 2313,
+    "state_code": "STN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.32002000",
+    "longitude": "-0.14088000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51517,
+    "name": "Sutton",
+    "state_id": 2313,
+    "state_code": "STN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.35000000",
+    "longitude": "-0.20000000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

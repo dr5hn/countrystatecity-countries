@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17225,
+    "name": "Aketi",
+    "state_id": 2753,
+    "state_code": "BU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "2.73877000",
+    "longitude": "23.78326000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17232,
+    "name": "Bondo",
+    "state_id": 2753,
+    "state_code": "BU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "3.81461000",
+    "longitude": "23.68665000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17241,
+    "name": "Buta",
+    "state_id": 2753,
+    "state_code": "BU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "2.78582000",
+    "longitude": "24.72997000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

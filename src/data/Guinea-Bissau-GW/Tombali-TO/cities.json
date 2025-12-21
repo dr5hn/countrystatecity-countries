@@ -1,0 +1,28 @@
+[
+  {
+    "id": 53814,
+    "name": "Catió",
+    "state_id": 2712,
+    "state_code": "TO",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "11.28250000",
+    "longitude": "-15.25472000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  },
+  {
+    "id": 53819,
+    "name": "Quebo",
+    "state_id": 2712,
+    "state_code": "TO",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "11.33333000",
+    "longitude": "-14.93333000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  }
+]

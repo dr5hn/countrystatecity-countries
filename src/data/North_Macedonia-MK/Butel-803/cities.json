@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67401,
+    "name": "Butel",
+    "state_id": 694,
+    "state_code": "803",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.03083000",
+    "longitude": "21.44667000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67512,
+    "name": "Radishani",
+    "state_id": 694,
+    "state_code": "803",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.06111000",
+    "longitude": "21.44778000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

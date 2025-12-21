@@ -1,0 +1,80 @@
+[
+  {
+    "id": 50019,
+    "name": "Hugh Town",
+    "state_id": 2343,
+    "state_code": "IOS",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "49.91455860",
+    "longitude": "-6.31536090",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50490,
+    "name": "Marazion",
+    "state_id": 2343,
+    "state_code": "IOS",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.12556000",
+    "longitude": "-5.47505000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50894,
+    "name": "Penzance",
+    "state_id": 2343,
+    "state_code": "IOS",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.11861000",
+    "longitude": "-5.53715000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51398,
+    "name": "St Ives",
+    "state_id": 2343,
+    "state_code": "IOS",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.20861000",
+    "longitude": "-5.48750000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51399,
+    "name": "St Just",
+    "state_id": 2343,
+    "state_code": "IOS",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.12379000",
+    "longitude": "-5.68065000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50084,
+    "name": "St Mary's Isles of Scilly",
+    "state_id": 2343,
+    "state_code": "IOS",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "49.92034090",
+    "longitude": "-6.29287910",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

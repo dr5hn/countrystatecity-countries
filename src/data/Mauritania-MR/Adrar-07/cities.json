@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67746,
+    "name": "Atar",
+    "state_id": 3344,
+    "state_code": "07",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "20.51770000",
+    "longitude": "-13.04857000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150074,
+    "name": "Azougui",
+    "state_id": 3344,
+    "state_code": "07",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "20.56764000",
+    "longitude": "-13.11191000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 67748,
+    "name": "Chingueṭṭi",
+    "state_id": 3344,
+    "state_code": "07",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "20.46300000",
+    "longitude": "-12.36200000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150075,
+    "name": "Ksar el Khali",
+    "state_id": 3344,
+    "state_code": "07",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "20.93333333",
+    "longitude": "-11.61666667",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  }
+]

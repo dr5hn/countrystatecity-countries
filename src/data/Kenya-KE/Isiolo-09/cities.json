@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64788,
+    "name": "Isiolo",
+    "state_id": 170,
+    "state_code": "09",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.35462000",
+    "longitude": "37.58218000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

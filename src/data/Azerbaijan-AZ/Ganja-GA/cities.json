@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8081,
+    "name": "Ganja",
+    "state_id": 585,
+    "state_code": "GA",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.68278000",
+    "longitude": "46.36056000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

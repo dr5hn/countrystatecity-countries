@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67455,
+    "name": "Konče",
+    "state_id": 665,
+    "state_code": "407",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.49511000",
+    "longitude": "22.38359000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

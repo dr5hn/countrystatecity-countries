@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67064,
+    "name": "Aousserd",
+    "state_id": 3319,
+    "state_code": "OUD",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "21.91977000",
+    "longitude": "-15.02068000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67134,
+    "name": "Imlili",
+    "state_id": 3319,
+    "state_code": "OUD",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "22.65580000",
+    "longitude": "-15.60719000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67182,
+    "name": "Oued-Ed-Dahab",
+    "state_id": 3319,
+    "state_code": "OUD",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "23.64201000",
+    "longitude": "-14.44934000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 49,
+  "name": "Comoros",
+  "iso2": "KM",
+  "iso3": "COM",
+  "numeric_code": "174",
+  "phonecode": "269",
+  "capital": "Moroni",
+  "currency": "KMF",
+  "currency_name": "Comorian franc",
+  "currency_symbol": "CF",
+  "tld": ".km",
+  "native": "Komori",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Comoran, Comorian",
+  "latitude": "-12.16666666",
+  "longitude": "44.25000000",
+  "emoji": "🇰🇲",
+  "emojiU": "U+1F1F0 U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Indian/Comoro",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Komorez",
+    "ko": "코모로",
+    "pt-BR": "Comores",
+    "pt": "Comores",
+    "nl": "Comoren",
+    "hr": "Komori",
+    "fa": "کومور",
+    "de": "Union der Komoren",
+    "es": "Comoras",
+    "fr": "Comores",
+    "ja": "コモロ",
+    "it": "Comore",
+    "zh-CN": "科摩罗",
+    "tr": "Komorlar",
+    "ru": "Коморские острова",
+    "uk": "Коморські острови",
+    "pl": "Komory",
+    "hi": "कोमोरोस",
+    "ar": "جزر القمر"
+  }
+}

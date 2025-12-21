@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64819,
+    "name": "Lodwar",
+    "state_id": 206,
+    "state_code": "43",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "3.11988000",
+    "longitude": "35.59642000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

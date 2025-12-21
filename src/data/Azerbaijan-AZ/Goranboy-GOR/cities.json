@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8084,
+    "name": "Goranboy",
+    "state_id": 551,
+    "state_code": "GOR",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.61028000",
+    "longitude": "46.78972000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8158,
+    "name": "Qızılhacılı",
+    "state_id": 551,
+    "state_code": "GOR",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.57362000",
+    "longitude": "46.84900000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

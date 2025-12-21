@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48746,
+    "name": "Buckhurst Hill",
+    "state_id": 2326,
+    "state_code": "WFT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.62409000",
+    "longitude": "0.03262000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49478,
+    "name": "Epping",
+    "state_id": 2326,
+    "state_code": "WFT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.69815000",
+    "longitude": "0.11055000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51974,
+    "name": "Woodford Green",
+    "state_id": 2326,
+    "state_code": "WFT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.60938000",
+    "longitude": "0.02329000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

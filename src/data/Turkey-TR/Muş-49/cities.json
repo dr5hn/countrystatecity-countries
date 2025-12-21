@@ -1,0 +1,80 @@
+[
+  {
+    "id": 107406,
+    "name": "Bulanık",
+    "state_id": 2162,
+    "state_code": "49",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "39.08656000",
+    "longitude": "42.27158000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107802,
+    "name": "Hasköy",
+    "state_id": 2162,
+    "state_code": "49",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.68231000",
+    "longitude": "41.67851000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108022,
+    "name": "Korkut",
+    "state_id": 2162,
+    "state_code": "49",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.73390000",
+    "longitude": "41.78396000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108142,
+    "name": "Malazgirt",
+    "state_id": 2162,
+    "state_code": "49",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "39.14650000",
+    "longitude": "42.53536000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108191,
+    "name": "Merkez",
+    "state_id": 2162,
+    "state_code": "49",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.83793000",
+    "longitude": "41.48332000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108647,
+    "name": "Varto",
+    "state_id": 2162,
+    "state_code": "49",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "39.17375000",
+    "longitude": "41.45402000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

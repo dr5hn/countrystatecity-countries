@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160071,
+    "name": "Ailuk",
+    "state_id": 5644,
+    "state_code": "ALK",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "10.31666667",
+    "longitude": "169.93333333",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

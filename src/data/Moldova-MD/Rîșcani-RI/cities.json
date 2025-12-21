@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67321,
+    "name": "Rîşcani",
+    "state_id": 4376,
+    "state_code": "RI",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.94792000",
+    "longitude": "27.56376000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

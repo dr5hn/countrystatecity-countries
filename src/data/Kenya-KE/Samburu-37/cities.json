@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64831,
+    "name": "Maralal",
+    "state_id": 207,
+    "state_code": "37",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "1.09667000",
+    "longitude": "36.69806000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

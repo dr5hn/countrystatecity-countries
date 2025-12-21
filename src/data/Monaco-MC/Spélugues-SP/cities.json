@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160061,
+    "name": "Spélugues",
+    "state_id": 5680,
+    "state_code": "SP",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73920000",
+    "longitude": "7.42510000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

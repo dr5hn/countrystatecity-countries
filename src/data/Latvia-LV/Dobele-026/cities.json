@@ -1,0 +1,54 @@
+[
+  {
+    "id": 66877,
+    "name": "Auce",
+    "state_id": 4437,
+    "state_code": "026",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.45981000",
+    "longitude": "22.90169000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66892,
+    "name": "Dobele",
+    "state_id": 4437,
+    "state_code": "026",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.62372000",
+    "longitude": "23.27510000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66972,
+    "name": "Tērvete",
+    "state_id": 4437,
+    "state_code": "026",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.47989000",
+    "longitude": "23.38895000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66988,
+    "name": "Zelmeņi",
+    "state_id": 4437,
+    "state_code": "026",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.45167000",
+    "longitude": "23.35194000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

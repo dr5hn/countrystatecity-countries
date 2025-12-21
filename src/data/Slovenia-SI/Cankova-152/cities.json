@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104078,
+    "name": "Cankova",
+    "state_id": 4147,
+    "state_code": "152",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.72083000",
+    "longitude": "16.02250000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

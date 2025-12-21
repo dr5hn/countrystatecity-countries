@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153963,
+    "name": "az-Zawayda",
+    "state_id": 5119,
+    "state_code": "DEB",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.42979750",
+    "longitude": "34.35014230",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 153962,
+    "name": "Deir al-Balah",
+    "state_id": 5119,
+    "state_code": "DEB",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.41717350",
+    "longitude": "34.33033130",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

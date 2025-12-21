@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135204,
+    "name": "Reykhólahreppur",
+    "state_id": 5592,
+    "state_code": "RHH",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.60990000",
+    "longitude": "-22.33324000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

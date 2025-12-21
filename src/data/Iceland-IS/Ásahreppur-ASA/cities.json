@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135229,
+    "name": "Ásahreppur",
+    "state_id": 5557,
+    "state_code": "ASA",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.87589000",
+    "longitude": "-20.59484000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

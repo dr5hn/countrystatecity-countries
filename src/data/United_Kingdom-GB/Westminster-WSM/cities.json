@@ -1,0 +1,54 @@
+[
+  {
+    "id": 48430,
+    "name": "Battersea",
+    "state_id": 2357,
+    "state_code": "WSM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.47475000",
+    "longitude": "-0.15547000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49012,
+    "name": "City of Westminster",
+    "state_id": 2357,
+    "state_code": "WSM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.49750000",
+    "longitude": "-0.13570000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50388,
+    "name": "London",
+    "state_id": 2357,
+    "state_code": "WSM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50853000",
+    "longitude": "-0.12574000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51817,
+    "name": "West End of London",
+    "state_id": 2357,
+    "state_code": "WSM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.51414000",
+    "longitude": "-0.15510000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

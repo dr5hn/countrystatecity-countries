@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105129,
+    "name": "Bébédja",
+    "state_id": 3591,
+    "state_code": "LR",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "8.67610000",
+    "longitude": "16.56600000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105128,
+    "name": "Béboto",
+    "state_id": 3591,
+    "state_code": "LR",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "8.26681000",
+    "longitude": "16.93898000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105131,
+    "name": "Doba",
+    "state_id": 3591,
+    "state_code": "LR",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "8.65000000",
+    "longitude": "16.85000000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

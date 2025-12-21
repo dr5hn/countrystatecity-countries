@@ -1,0 +1,93 @@
+[
+  {
+    "id": 48193,
+    "name": "Acton",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50901000",
+    "longitude": "-0.27620000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48674,
+    "name": "Brent",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55306000",
+    "longitude": "-0.30230000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48676,
+    "name": "Brentford",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.48619000",
+    "longitude": "-0.30830000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49742,
+    "name": "Greenford",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.52866000",
+    "longitude": "-0.35508000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50778,
+    "name": "Northolt",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.54855000",
+    "longitude": "-0.36778000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51369,
+    "name": "Southall",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50896000",
+    "longitude": "-0.37130000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51798,
+    "name": "Wembley",
+    "state_id": 2532,
+    "state_code": "EAL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55242000",
+    "longitude": "-0.29686000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

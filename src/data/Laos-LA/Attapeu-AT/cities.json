@@ -1,0 +1,80 @@
+[
+  {
+    "id": 65855,
+    "name": "Attapeu",
+    "state_id": 982,
+    "state_code": "AT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "14.81071000",
+    "longitude": "106.83184000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65891,
+    "name": "Muang Phouvong",
+    "state_id": 982,
+    "state_code": "AT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "14.56821000",
+    "longitude": "107.01087000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65895,
+    "name": "Muang Samakhixai",
+    "state_id": 982,
+    "state_code": "AT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "14.80539000",
+    "longitude": "106.78164000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65897,
+    "name": "Muang Sanamxai",
+    "state_id": 982,
+    "state_code": "AT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "14.73807000",
+    "longitude": "106.41328000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65898,
+    "name": "Muang Sanxai",
+    "state_id": 982,
+    "state_code": "AT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.02944000",
+    "longitude": "107.23158000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65912,
+    "name": "Muang Xaiséttha",
+    "state_id": 982,
+    "state_code": "AT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "14.90594000",
+    "longitude": "106.97894000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

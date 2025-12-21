@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67578,
+    "name": "Ранковце",
+    "state_id": 717,
+    "state_code": "705",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.16964000",
+    "longitude": "22.11617000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

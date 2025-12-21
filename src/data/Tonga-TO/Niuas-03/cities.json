@@ -1,0 +1,15 @@
+[
+  {
+    "id": 107045,
+    "name": "Hihifo",
+    "state_id": 3914,
+    "state_code": "03",
+    "country_id": 222,
+    "country_code": "TO",
+    "latitude": "-15.95440000",
+    "longitude": "-173.79616000",
+    "native": null,
+    "timezone": "Pacific/Tongatapu",
+    "translations": {}
+  }
+]

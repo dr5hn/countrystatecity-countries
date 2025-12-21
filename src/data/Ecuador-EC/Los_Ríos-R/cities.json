@@ -1,0 +1,93 @@
+[
+  {
+    "id": 31485,
+    "name": "Babahoyo",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.80217000",
+    "longitude": "-79.53443000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31494,
+    "name": "Catarama",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.57504000",
+    "longitude": "-79.45998000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31529,
+    "name": "Montalvo",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.79008000",
+    "longitude": "-79.28759000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31538,
+    "name": "Palenque",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.43795000",
+    "longitude": "-79.75647000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31559,
+    "name": "Quevedo",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.02863000",
+    "longitude": "-79.46352000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31587,
+    "name": "Ventanas",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.44158000",
+    "longitude": "-79.45943000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31588,
+    "name": "Vinces",
+    "state_id": 2910,
+    "state_code": "R",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.55611000",
+    "longitude": "-79.75191000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

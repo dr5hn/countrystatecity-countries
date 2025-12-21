@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67449,
+    "name": "Karbinci",
+    "state_id": 674,
+    "state_code": "205",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.81758000",
+    "longitude": "22.23529000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

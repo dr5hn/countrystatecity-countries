@@ -1,0 +1,93 @@
+[
+  {
+    "id": 90347,
+    "name": "Bucharest",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.43225000",
+    "longitude": "26.10626000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  },
+  {
+    "id": 96307,
+    "name": "Sector 1",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.49239000",
+    "longitude": "26.04831000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  },
+  {
+    "id": 96308,
+    "name": "Sector 2",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.45280000",
+    "longitude": "26.13321000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  },
+  {
+    "id": 96309,
+    "name": "Sector 3",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.42340000",
+    "longitude": "26.16874000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  },
+  {
+    "id": 96310,
+    "name": "Sector 4",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.37571000",
+    "longitude": "26.12085000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  },
+  {
+    "id": 96311,
+    "name": "Sector 5",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.38808000",
+    "longitude": "26.07144000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  },
+  {
+    "id": 96312,
+    "name": "Sector 6",
+    "state_id": 4730,
+    "state_code": "B",
+    "country_id": 181,
+    "country_code": "RO",
+    "latitude": "44.43579000",
+    "longitude": "26.01649000",
+    "native": null,
+    "timezone": "Europe/Bucharest",
+    "translations": {}
+  }
+]

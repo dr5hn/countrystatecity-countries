@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153608,
+    "name": "Rincón",
+    "state_id": 5193,
+    "state_code": "117",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.34015140",
+    "longitude": "-67.24994590",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

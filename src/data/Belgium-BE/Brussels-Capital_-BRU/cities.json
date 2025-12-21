@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8693,
+    "name": "Brussels",
+    "state_id": 1376,
+    "state_code": "BRU",
+    "country_id": 22,
+    "country_code": "BE",
+    "latitude": "50.85045000",
+    "longitude": "4.34878000",
+    "native": null,
+    "timezone": "Europe/Brussels",
+    "translations": {}
+  }
+]

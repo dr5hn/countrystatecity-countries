@@ -1,0 +1,15 @@
+[
+  {
+    "id": 107,
+    "name": "Pārūn",
+    "state_id": 3880,
+    "state_code": "NUR",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "35.42064000",
+    "longitude": "70.92261000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

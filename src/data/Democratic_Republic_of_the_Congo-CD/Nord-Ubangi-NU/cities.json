@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17234,
+    "name": "Bosobolo",
+    "state_id": 2739,
+    "state_code": "NU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "4.18980000",
+    "longitude": "19.88330000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  },
+  {
+    "id": 17240,
+    "name": "Businga",
+    "state_id": 2739,
+    "state_code": "NU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "3.33863000",
+    "longitude": "20.88577000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  },
+  {
+    "id": 17244,
+    "name": "Gbadolite",
+    "state_id": 2739,
+    "state_code": "NU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "4.27900000",
+    "longitude": "21.00284000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 157030,
+    "name": "Badr Al Janub",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "18.02056000",
+    "longitude": "42.94972000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 157027,
+    "name": "Habona",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "17.36667000",
+    "longitude": "45.21667000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 157031,
+    "name": "Khubash",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "17.58194000",
+    "longitude": "44.27389000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 102869,
+    "name": "Najrān",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "17.49326000",
+    "longitude": "44.12766000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 157026,
+    "name": "Sharurah",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "17.47048000",
+    "longitude": "47.11101000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 157028,
+    "name": "Thar",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "17.42083000",
+    "longitude": "44.83111000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 157029,
+    "name": "Yadamah",
+    "state_id": 2860,
+    "state_code": "10",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "17.36528000",
+    "longitude": "44.32639000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  }
+]

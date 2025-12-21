@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135234,
+    "name": "Þorlákshöfn",
+    "state_id": 5607,
+    "state_code": "SOL",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.85591000",
+    "longitude": "-21.38337000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

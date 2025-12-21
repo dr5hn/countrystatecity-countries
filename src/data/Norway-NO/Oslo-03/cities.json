@@ -1,0 +1,28 @@
+[
+  {
+    "id": 79425,
+    "name": "Oslo",
+    "state_id": 1007,
+    "state_code": "03",
+    "country_id": 165,
+    "country_code": "NO",
+    "latitude": "59.91273000",
+    "longitude": "10.74609000",
+    "native": null,
+    "timezone": "Europe/Oslo",
+    "translations": {}
+  },
+  {
+    "id": 79502,
+    "name": "Sjølyststranda",
+    "state_id": 1007,
+    "state_code": "03",
+    "country_id": 165,
+    "country_code": "NO",
+    "latitude": "59.92105000",
+    "longitude": "10.68017000",
+    "native": null,
+    "timezone": "Europe/Oslo",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67583,
+    "name": "Abeïbara",
+    "state_id": 257,
+    "state_code": "8",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "19.11667000",
+    "longitude": "1.75000000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67595,
+    "name": "Cercle d’Abeïbara",
+    "state_id": 257,
+    "state_code": "8",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "19.48878000",
+    "longitude": "2.20025000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67609,
+    "name": "Kidal",
+    "state_id": 257,
+    "state_code": "8",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "18.44111000",
+    "longitude": "1.40778000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  }
+]

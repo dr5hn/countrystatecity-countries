@@ -1,0 +1,67 @@
+[
+  {
+    "id": 160330,
+    "name": "Bandraboua",
+    "state_id": 5417,
+    "state_code": "16",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.70440000",
+    "longitude": "45.12231000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160329,
+    "name": "Bouyouni",
+    "state_id": 5417,
+    "state_code": "16",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.73462000",
+    "longitude": "45.13914000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160333,
+    "name": "Dzumogne",
+    "state_id": 5417,
+    "state_code": "16",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.71667000",
+    "longitude": "45.11667000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160332,
+    "name": "Handréma",
+    "state_id": 5417,
+    "state_code": "16",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.68112000",
+    "longitude": "45.09965000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160331,
+    "name": "Mtsangamboua",
+    "state_id": 5417,
+    "state_code": "16",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.69033000",
+    "longitude": "45.10926000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

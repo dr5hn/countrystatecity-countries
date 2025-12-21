@@ -1,0 +1,41 @@
+[
+  {
+    "id": 16138,
+    "name": "Hopelchén",
+    "state_id": 268,
+    "state_code": "OW",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "17.80000000",
+    "longitude": "-89.10000000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  },
+  {
+    "id": 16139,
+    "name": "Orange Walk",
+    "state_id": 268,
+    "state_code": "OW",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "18.08124000",
+    "longitude": "-88.56328000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  },
+  {
+    "id": 16144,
+    "name": "Shipyard",
+    "state_id": 268,
+    "state_code": "OW",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "17.89382000",
+    "longitude": "-88.65452000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  }
+]

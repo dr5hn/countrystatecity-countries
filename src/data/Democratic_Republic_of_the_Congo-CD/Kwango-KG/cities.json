@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17260,
+    "name": "Kasongo-Lunda",
+    "state_id": 2740,
+    "state_code": "KG",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-6.47833000",
+    "longitude": "16.81735000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  }
+]

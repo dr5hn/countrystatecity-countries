@@ -1,0 +1,93 @@
+[
+  {
+    "id": 129771,
+    "name": "25 de Agosto",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-34.41167000",
+    "longitude": "-56.40222000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129772,
+    "name": "25 de Mayo",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-34.18917000",
+    "longitude": "-56.33944000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129776,
+    "name": "Alejandro Gallinal",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.86252000",
+    "longitude": "-55.54264000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129786,
+    "name": "Cardal",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-34.29056000",
+    "longitude": "-56.38889000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129791,
+    "name": "Casupá",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-34.09994000",
+    "longitude": "-55.64811000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129805,
+    "name": "Florida",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-34.09556000",
+    "longitude": "-56.21417000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129872,
+    "name": "Sarandí Grande",
+    "state_id": 3217,
+    "state_code": "FD",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.73333000",
+    "longitude": "-56.33333000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  }
+]

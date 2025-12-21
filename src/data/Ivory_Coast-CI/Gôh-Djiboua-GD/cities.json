@@ -1,0 +1,93 @@
+[
+  {
+    "id": 18896,
+    "name": "Divo",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "5.83739000",
+    "longitude": "-5.35723000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18899,
+    "name": "Gagnoa",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.13193000",
+    "longitude": "-5.95060000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18909,
+    "name": "Gôh",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.14459000",
+    "longitude": "-5.92644000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18906,
+    "name": "Guibéroua",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.23869000",
+    "longitude": "-6.17147000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18917,
+    "name": "Lakota",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "5.84752000",
+    "longitude": "-5.68200000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18918,
+    "name": "Lôh-Djiboua",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "5.82483000",
+    "longitude": "-5.47668000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18926,
+    "name": "Oumé",
+    "state_id": 2651,
+    "state_code": "GD",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.38309000",
+    "longitude": "-5.41759000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  }
+]

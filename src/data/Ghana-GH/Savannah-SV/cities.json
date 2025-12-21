@@ -1,0 +1,93 @@
+[
+  {
+    "id": 149112,
+    "name": "Bole",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.02996640",
+    "longitude": "-2.50694300",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149113,
+    "name": "Central Gonja",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "8.92784320",
+    "longitude": "-1.95369720",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149115,
+    "name": "East Gonja",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "8.72568400",
+    "longitude": "-1.07135790",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149116,
+    "name": "North East Gonja",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.11746690",
+    "longitude": "-0.55579360",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149114,
+    "name": "North Gonja",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.54130850",
+    "longitude": "-1.39766920",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149117,
+    "name": "Sawla-Tuna-Kalba",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.39114570",
+    "longitude": "-2.70611660",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149118,
+    "name": "West Gonja",
+    "state_id": 4962,
+    "state_code": "SV",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.57513170",
+    "longitude": "-2.26440410",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  }
+]

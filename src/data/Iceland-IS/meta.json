@@ -1,0 +1,51 @@
+{
+  "id": 100,
+  "name": "Iceland",
+  "iso2": "IS",
+  "iso3": "ISL",
+  "numeric_code": "352",
+  "phonecode": "354",
+  "capital": "Reykjavik",
+  "currency": "ISK",
+  "currency_name": "Icelandic króna",
+  "currency_symbol": "ko",
+  "tld": ".is",
+  "native": "Ísland",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Icelandic",
+  "latitude": "65.00000000",
+  "longitude": "-18.00000000",
+  "emoji": "🇮🇸",
+  "emojiU": "U+1F1EE U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Reykjavik",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Island",
+    "ko": "아이슬란드",
+    "pt-BR": "Islândia",
+    "pt": "Islândia",
+    "nl": "IJsland",
+    "hr": "Island",
+    "fa": "ایسلند",
+    "de": "Island",
+    "es": "Islandia",
+    "fr": "Islande",
+    "ja": "アイスランド",
+    "it": "Islanda",
+    "zh-CN": "冰岛",
+    "tr": "İzlanda",
+    "ru": "Исландия",
+    "uk": "Ісландія",
+    "pl": "Islandia",
+    "hi": "आइसलैंड",
+    "ar": "أيسلندا"
+  }
+}

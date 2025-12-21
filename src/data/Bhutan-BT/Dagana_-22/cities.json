@@ -1,0 +1,41 @@
+[
+  {
+    "id": 15705,
+    "name": "Daga",
+    "state_id": 238,
+    "state_code": "22",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.07529000",
+    "longitude": "89.87688000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 15728,
+    "name": "Sibsu",
+    "state_id": 238,
+    "state_code": "22",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.00000000",
+    "longitude": "88.90000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153828,
+    "name": "Thumgaon",
+    "state_id": 238,
+    "state_code": "22",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "26.98330000",
+    "longitude": "89.96670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

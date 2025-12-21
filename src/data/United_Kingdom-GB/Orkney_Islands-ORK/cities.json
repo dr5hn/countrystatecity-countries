@@ -1,0 +1,93 @@
+[
+  {
+    "id": 49785,
+    "name": "Halkirk",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.51227000",
+    "longitude": "-3.49155000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50210,
+    "name": "Kirkwall",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.98160490",
+    "longitude": "-2.96036900",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50812,
+    "name": "Orkney",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.94182310",
+    "longitude": "-3.12969440",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51197,
+    "name": "Sandwick",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.78764520",
+    "longitude": "-2.97638070",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51501,
+    "name": "Stromness",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.96143560",
+    "longitude": "-3.29937670",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51615,
+    "name": "Thurso",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.59271000",
+    "longitude": "-3.52594000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51890,
+    "name": "Wick",
+    "state_id": 2474,
+    "state_code": "ORK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.43906000",
+    "longitude": "-3.09424000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65173,
+    "name": "Middle Island",
+    "state_id": 3842,
+    "state_code": "13",
+    "country_id": 185,
+    "country_code": "KN",
+    "latitude": "17.32590000",
+    "longitude": "-62.81055000",
+    "native": null,
+    "timezone": "America/St_Kitts",
+    "translations": {}
+  }
+]

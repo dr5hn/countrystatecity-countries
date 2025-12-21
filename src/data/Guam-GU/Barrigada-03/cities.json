@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160259,
+    "name": "Barrigada Village",
+    "state_id": 5256,
+    "state_code": "03",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.46913000",
+    "longitude": "144.79901000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135192,
+    "name": "Hörgársveit",
+    "state_id": 5575,
+    "state_code": "HRG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.64828000",
+    "longitude": "-18.49599000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

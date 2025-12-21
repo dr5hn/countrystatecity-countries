@@ -1,0 +1,67 @@
+[
+  {
+    "id": 66894,
+    "name": "Engure",
+    "state_id": 4409,
+    "state_code": "099",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.16061000",
+    "longitude": "23.22527000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66905,
+    "name": "Jaunpils",
+    "state_id": 4409,
+    "state_code": "099",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.73137000",
+    "longitude": "23.01247000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66910,
+    "name": "Kandava",
+    "state_id": 4409,
+    "state_code": "099",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.04087000",
+    "longitude": "22.77466000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66965,
+    "name": "Smārde",
+    "state_id": 4409,
+    "state_code": "099",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.95420000",
+    "longitude": "23.33736000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66971,
+    "name": "Tukums",
+    "state_id": 4409,
+    "state_code": "099",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.96764000",
+    "longitude": "23.15554000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

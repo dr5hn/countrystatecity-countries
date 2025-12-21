@@ -1,0 +1,67 @@
+[
+  {
+    "id": 105206,
+    "name": "Ban Na",
+    "state_id": 3535,
+    "state_code": "26",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.26799000",
+    "longitude": "101.06445000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 105553,
+    "name": "Mueang Nakhon Nayok",
+    "state_id": 3535,
+    "state_code": "26",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.27730000",
+    "longitude": "101.23379000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 106580,
+    "name": "Nakhon Nayok",
+    "state_id": 3535,
+    "state_code": "26",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.20463000",
+    "longitude": "101.21295000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 105691,
+    "name": "Ongkharak",
+    "state_id": 3535,
+    "state_code": "26",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.07554000",
+    "longitude": "101.00891000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 105706,
+    "name": "Pak Phli",
+    "state_id": 3535,
+    "state_code": "26",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.22499000",
+    "longitude": "101.34482000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  }
+]

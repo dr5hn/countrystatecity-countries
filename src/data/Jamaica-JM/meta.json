@@ -1,0 +1,51 @@
+{
+  "id": 108,
+  "name": "Jamaica",
+  "iso2": "JM",
+  "iso3": "JAM",
+  "numeric_code": "388",
+  "phonecode": "1",
+  "capital": "Kingston",
+  "currency": "JMD",
+  "currency_name": "Jamaican dollar",
+  "currency_symbol": "J$",
+  "tld": ".jm",
+  "native": "Jamaica",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Jamaican",
+  "latitude": "18.25000000",
+  "longitude": "-77.50000000",
+  "emoji": "🇯🇲",
+  "emojiU": "U+1F1EF U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "America/Jamaica",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    }
+  ],
+  "translations": {
+    "br": "Jamaika",
+    "ko": "자메이카",
+    "pt-BR": "Jamaica",
+    "pt": "Jamaica",
+    "nl": "Jamaica",
+    "hr": "Jamajka",
+    "fa": "جامائیکا",
+    "de": "Jamaika",
+    "es": "Jamaica",
+    "fr": "Jamaïque",
+    "ja": "ジャマイカ",
+    "it": "Giamaica",
+    "zh-CN": "牙买加",
+    "tr": "Jamaika",
+    "ru": "Ямайка",
+    "uk": "Ямайка",
+    "pl": "Jamajka",
+    "hi": "जमैका",
+    "ar": "جامايكا"
+  }
+}

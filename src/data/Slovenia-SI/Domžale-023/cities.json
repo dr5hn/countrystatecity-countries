@@ -1,0 +1,54 @@
+[
+  {
+    "id": 104089,
+    "name": "Dob",
+    "state_id": 4159,
+    "state_code": "023",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.15194000",
+    "longitude": "14.62861000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104098,
+    "name": "Domžale",
+    "state_id": 4159,
+    "state_code": "023",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.13774000",
+    "longitude": "14.59371000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104244,
+    "name": "Radomlje",
+    "state_id": 4159,
+    "state_code": "023",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.17361000",
+    "longitude": "14.61222000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104312,
+    "name": "Vir",
+    "state_id": 4159,
+    "state_code": "023",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.15325000",
+    "longitude": "14.60741000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

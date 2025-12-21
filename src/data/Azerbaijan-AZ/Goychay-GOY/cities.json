@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8082,
+    "name": "Geoktschai",
+    "state_id": 531,
+    "state_code": "GOY",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.65055000",
+    "longitude": "47.74219000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

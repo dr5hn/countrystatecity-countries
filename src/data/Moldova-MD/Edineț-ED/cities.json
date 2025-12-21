@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67301,
+    "name": "Edineţ",
+    "state_id": 4387,
+    "state_code": "ED",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "48.17215000",
+    "longitude": "27.30337000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

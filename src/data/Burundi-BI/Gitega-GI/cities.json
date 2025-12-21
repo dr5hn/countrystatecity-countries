@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9767,
+    "name": "Gitega",
+    "state_id": 3197,
+    "state_code": "GI",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.42708000",
+    "longitude": "29.92463000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

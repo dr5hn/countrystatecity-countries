@@ -1,0 +1,51 @@
+{
+  "id": 193,
+  "name": "Sao Tome and Principe",
+  "iso2": "ST",
+  "iso3": "STP",
+  "numeric_code": "678",
+  "phonecode": "239",
+  "capital": "Sao Tome",
+  "currency": "STN",
+  "currency_name": "Dobra",
+  "currency_symbol": "Db",
+  "tld": ".st",
+  "native": "São Tomé e Príncipe",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "nationality": "Sao Tomean",
+  "latitude": "1.00000000",
+  "longitude": "7.00000000",
+  "emoji": "🇸🇹",
+  "emojiU": "U+1F1F8 U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "Africa/Sao_Tome",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "São Tomé ha Príncipe",
+    "ko": "상투메 프린시페",
+    "pt-BR": "São Tomé e Príncipe",
+    "pt": "São Tomé e Príncipe",
+    "nl": "Sao Tomé en Principe",
+    "hr": "Sveti Toma i Princip",
+    "fa": "کواترو دو فرویرو",
+    "de": "São Tomé und Príncipe",
+    "es": "Santo Tomé y Príncipe",
+    "fr": "Sao Tomé-et-Principe",
+    "ja": "サントメ・プリンシペ",
+    "it": "São Tomé e Príncipe",
+    "zh-CN": "圣多美和普林西比",
+    "tr": "Sao Tome Ve Prinsipe",
+    "ru": "Сан-Томе и Принсипи",
+    "uk": "Сан-Томе і Принсіпі",
+    "pl": "Wyspy Świętego Tomasza i Książęca",
+    "hi": "साओ टोम और प्रिंसिप",
+    "ar": "ساو تومي وبرينسيبي"
+  }
+}

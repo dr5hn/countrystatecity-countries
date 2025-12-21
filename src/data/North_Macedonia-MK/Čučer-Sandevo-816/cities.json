@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67582,
+    "name": "Чучер - Сандево",
+    "state_id": 715,
+    "state_code": "816",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.10361000",
+    "longitude": "21.38222000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

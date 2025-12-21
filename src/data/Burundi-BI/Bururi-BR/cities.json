@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9764,
+    "name": "Bururi",
+    "state_id": 3202,
+    "state_code": "BR",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.94877000",
+    "longitude": "29.62438000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 145101,
+    "name": "Aglipay",
+    "state_id": 1273,
+    "state_code": "QUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.44113450",
+    "longitude": "121.53324410",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 145153,
+    "name": "Cabarroguis",
+    "state_id": 1273,
+    "state_code": "QUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.44622780",
+    "longitude": "121.41724670",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 145181,
+    "name": "Diffun",
+    "state_id": 1273,
+    "state_code": "QUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.53436880",
+    "longitude": "121.31342010",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 145229,
+    "name": "Maddela",
+    "state_id": 1273,
+    "state_code": "QUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.37876890",
+    "longitude": "121.45688420",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 145254,
+    "name": "Nagtipunan",
+    "state_id": 1273,
+    "state_code": "QUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.13932770",
+    "longitude": "121.22894190",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 145281,
+    "name": "Saguday",
+    "state_id": 1273,
+    "state_code": "QUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.55514930",
+    "longitude": "121.49921500",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

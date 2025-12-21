@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160263,
+    "name": "Inarajan Village",
+    "state_id": 5261,
+    "state_code": "08",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.27363000",
+    "longitude": "144.74845000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

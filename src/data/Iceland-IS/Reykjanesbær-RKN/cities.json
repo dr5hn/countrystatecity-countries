@@ -1,0 +1,54 @@
+[
+  {
+    "id": 135182,
+    "name": "Garður",
+    "state_id": 5593,
+    "state_code": "RKN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.06558000",
+    "longitude": "-22.64656000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135195,
+    "name": "Keflavík",
+    "state_id": 5593,
+    "state_code": "RKN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.00492000",
+    "longitude": "-22.56242000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135205,
+    "name": "Reykjanesbær",
+    "state_id": 5593,
+    "state_code": "RKN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.99813000",
+    "longitude": "-22.56111000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135208,
+    "name": "Sandgerði",
+    "state_id": 5593,
+    "state_code": "RKN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.03762000",
+    "longitude": "-22.70799000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

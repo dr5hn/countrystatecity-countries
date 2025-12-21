@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64851,
+    "name": "Naro Moru",
+    "state_id": 180,
+    "state_code": "36",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.16357000",
+    "longitude": "37.01773000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64856,
+    "name": "Nyeri",
+    "state_id": 180,
+    "state_code": "36",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.42013000",
+    "longitude": "36.94759000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64859,
+    "name": "Othaya",
+    "state_id": 180,
+    "state_code": "36",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.54655000",
+    "longitude": "36.93178000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

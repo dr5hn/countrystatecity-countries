@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67637,
+    "name": "Falam",
+    "state_id": 2137,
+    "state_code": "14",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "22.91335000",
+    "longitude": "93.67779000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67638,
+    "name": "Hakha",
+    "state_id": 2137,
+    "state_code": "14",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "22.64452000",
+    "longitude": "93.61076000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

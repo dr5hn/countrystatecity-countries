@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104339,
+    "name": "Črnomelj",
+    "state_id": 4291,
+    "state_code": "017",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.57111000",
+    "longitude": "15.18889000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

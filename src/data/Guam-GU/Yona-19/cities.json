@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160281,
+    "name": "Yona Village",
+    "state_id": 5272,
+    "state_code": "19",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.40974000",
+    "longitude": "144.77697000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

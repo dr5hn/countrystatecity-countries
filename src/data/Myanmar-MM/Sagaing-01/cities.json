@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67657,
+    "name": "Mawlaik",
+    "state_id": 2145,
+    "state_code": "01",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "23.64254000",
+    "longitude": "94.40478000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67664,
+    "name": "Monywa",
+    "state_id": 2145,
+    "state_code": "01",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "22.10856000",
+    "longitude": "95.13583000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67685,
+    "name": "Sagaing",
+    "state_id": 2145,
+    "state_code": "01",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "21.87870000",
+    "longitude": "95.97965000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67686,
+    "name": "Shwebo",
+    "state_id": 2145,
+    "state_code": "01",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "22.56925000",
+    "longitude": "95.69818000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

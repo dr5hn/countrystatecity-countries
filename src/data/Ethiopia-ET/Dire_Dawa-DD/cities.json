@@ -1,0 +1,15 @@
+[
+  {
+    "id": 38622,
+    "name": "Dire Dawa",
+    "state_id": 8,
+    "state_code": "DD",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "9.59306000",
+    "longitude": "41.86611000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

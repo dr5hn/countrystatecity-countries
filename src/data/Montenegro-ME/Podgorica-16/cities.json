@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67352,
+    "name": "Goričani",
+    "state_id": 27,
+    "state_code": "16",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.33222000",
+    "longitude": "19.21194000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67357,
+    "name": "Mojanovići",
+    "state_id": 27,
+    "state_code": "16",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.34167000",
+    "longitude": "19.22139000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67364,
+    "name": "Podgorica",
+    "state_id": 27,
+    "state_code": "16",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.44111000",
+    "longitude": "19.26361000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

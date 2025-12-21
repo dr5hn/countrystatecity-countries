@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67399,
+    "name": "Brvenica",
+    "state_id": 660,
+    "state_code": "602",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.96722000",
+    "longitude": "20.98083000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67568,
+    "name": "Čelopek",
+    "state_id": 660,
+    "state_code": "602",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.93167000",
+    "longitude": "21.01333000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67439,
+    "name": "Gurgurnica",
+    "state_id": 660,
+    "state_code": "602",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.84508000",
+    "longitude": "21.10538000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67483,
+    "name": "Miletino",
+    "state_id": 660,
+    "state_code": "602",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.90753000",
+    "longitude": "21.01601000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

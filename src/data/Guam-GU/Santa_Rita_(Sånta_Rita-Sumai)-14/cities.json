@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160271,
+    "name": "Apra Harbor",
+    "state_id": 5267,
+    "state_code": "14",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.42827000",
+    "longitude": "144.65252000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160272,
+    "name": "Santa Rita Village",
+    "state_id": 5267,
+    "state_code": "14",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.38608000",
+    "longitude": "144.67226000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

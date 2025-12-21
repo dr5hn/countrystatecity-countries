@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17303,
+    "name": "Bimbo",
+    "state_id": 1255,
+    "state_code": "MP",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "4.25671000",
+    "longitude": "18.41583000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17305,
+    "name": "Boali",
+    "state_id": 1255,
+    "state_code": "MP",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "4.80048000",
+    "longitude": "18.12747000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17315,
+    "name": "Damara",
+    "state_id": 1255,
+    "state_code": "MP",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "4.96075000",
+    "longitude": "18.70350000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

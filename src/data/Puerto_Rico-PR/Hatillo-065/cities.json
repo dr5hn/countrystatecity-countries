@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153582,
+    "name": "Hatillo",
+    "state_id": 5167,
+    "state_code": "065",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.42846420",
+    "longitude": "-66.78753210",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

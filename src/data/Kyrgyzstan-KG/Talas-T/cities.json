@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64907,
+    "name": "Kara-Buurinskiy Rayon",
+    "state_id": 997,
+    "state_code": "T",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.50000000",
+    "longitude": "71.41667000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64925,
+    "name": "Talas",
+    "state_id": 997,
+    "state_code": "T",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.52277000",
+    "longitude": "72.24274000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64926,
+    "name": "Talasskiy Rayon",
+    "state_id": 997,
+    "state_code": "T",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.18647000",
+    "longitude": "72.69408000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 150078,
+    "name": "Ain Ben Tili",
+    "state_id": 3340,
+    "state_code": "11",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "25.99444444",
+    "longitude": "-9.55333333",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150079,
+    "name": "Chegga",
+    "state_id": 3340,
+    "state_code": "11",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "25.37194444",
+    "longitude": "-5.78666667",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150080,
+    "name": "Fderîck",
+    "state_id": 3340,
+    "state_code": "11",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "22.67777778",
+    "longitude": "-12.70750000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150081,
+    "name": "Zouérat",
+    "state_id": 3340,
+    "state_code": "11",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "22.73444444",
+    "longitude": "-12.47250000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 67756,
+    "name": "Zouerate",
+    "state_id": 3340,
+    "state_code": "11",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "22.73542000",
+    "longitude": "-12.47134000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  }
+]

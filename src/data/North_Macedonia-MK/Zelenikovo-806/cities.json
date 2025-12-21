@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67562,
+    "name": "Zelenikovo",
+    "state_id": 706,
+    "state_code": "806",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.88413000",
+    "longitude": "21.58848000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

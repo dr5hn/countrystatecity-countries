@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135186,
+    "name": "Hafnarfjörður",
+    "state_id": 5574,
+    "state_code": "HAF",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.06710000",
+    "longitude": "-21.93774000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

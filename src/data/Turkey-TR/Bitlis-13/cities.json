@@ -1,0 +1,93 @@
+[
+  {
+    "id": 107065,
+    "name": "Adilcevaz",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.79911000",
+    "longitude": "42.73159000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107071,
+    "name": "Ahlat",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.74890000",
+    "longitude": "42.48007000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107751,
+    "name": "Güroymak",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.57580000",
+    "longitude": "42.01558000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107829,
+    "name": "Hizan",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.22498000",
+    "longitude": "42.41830000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108189,
+    "name": "Merkez",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.31702000",
+    "longitude": "42.10065000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108233,
+    "name": "Mutki",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.40624000",
+    "longitude": "41.92018000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108538,
+    "name": "Tatvan",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.49221000",
+    "longitude": "42.28269000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

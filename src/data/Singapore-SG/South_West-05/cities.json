@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153481,
+    "name": "Bukit Batok",
+    "state_id": 4652,
+    "state_code": "05",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.34960000",
+    "longitude": "103.75280000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 153482,
+    "name": "Bukit Panjang",
+    "state_id": 4652,
+    "state_code": "05",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.37860000",
+    "longitude": "103.76260000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 153480,
+    "name": "Jurong West",
+    "state_id": 4652,
+    "state_code": "05",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.33960000",
+    "longitude": "103.70730000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  }
+]

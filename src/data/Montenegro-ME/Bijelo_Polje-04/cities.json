@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67346,
+    "name": "Bijelo Polje",
+    "state_id": 25,
+    "state_code": "04",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "43.03834000",
+    "longitude": "19.74758000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

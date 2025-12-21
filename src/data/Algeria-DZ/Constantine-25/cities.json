@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31469,
+    "name": "’Aïn Abid",
+    "state_id": 1121,
+    "state_code": "25",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.23194000",
+    "longitude": "6.94333000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31248,
+    "name": "Aïn Smara",
+    "state_id": 1121,
+    "state_code": "25",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.26740000",
+    "longitude": "6.50135000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31310,
+    "name": "Constantine",
+    "state_id": 1121,
+    "state_code": "25",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.36500000",
+    "longitude": "6.61472000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31315,
+    "name": "Didouche Mourad",
+    "state_id": 1121,
+    "state_code": "25",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.45250000",
+    "longitude": "6.63639000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31338,
+    "name": "El Khroub",
+    "state_id": 1121,
+    "state_code": "25",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.26333000",
+    "longitude": "6.69361000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31350,
+    "name": "Hamma Bouziane",
+    "state_id": 1121,
+    "state_code": "25",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.41205000",
+    "longitude": "6.59603000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

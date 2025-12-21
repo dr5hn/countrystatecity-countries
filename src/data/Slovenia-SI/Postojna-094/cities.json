@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104230,
+    "name": "Postojna",
+    "state_id": 4330,
+    "state_code": "094",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.77435000",
+    "longitude": "14.21528000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

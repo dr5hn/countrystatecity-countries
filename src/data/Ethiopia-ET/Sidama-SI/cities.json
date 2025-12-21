@@ -1,0 +1,93 @@
+[
+  {
+    "id": 38625,
+    "name": "Dīla",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.41667000",
+    "longitude": "38.31667000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38655,
+    "name": "Hāgere Selam",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.48333000",
+    "longitude": "38.51667000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38651,
+    "name": "Hawassa",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "7.06205000",
+    "longitude": "38.47635000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38672,
+    "name": "Leku",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.87309000",
+    "longitude": "38.44425000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38698,
+    "name": "Sidama Zone",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.71800000",
+    "longitude": "38.44800000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38710,
+    "name": "Wendo",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.60000000",
+    "longitude": "38.41667000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38719,
+    "name": "Yirga ‘Alem",
+    "state_id": 5465,
+    "state_code": "SI",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.75000000",
+    "longitude": "38.41667000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

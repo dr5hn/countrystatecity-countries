@@ -1,0 +1,28 @@
+[
+  {
+    "id": 38596,
+    "name": "Asosa",
+    "state_id": 9,
+    "state_code": "BE",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "10.00000000",
+    "longitude": "34.50000000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38679,
+    "name": "Metekel",
+    "state_id": 9,
+    "state_code": "BE",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "10.42673000",
+    "longitude": "35.71975000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

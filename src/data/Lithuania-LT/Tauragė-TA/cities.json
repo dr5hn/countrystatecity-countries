@@ -1,0 +1,67 @@
+[
+  {
+    "id": 66590,
+    "name": "Būgai",
+    "state_id": 1573,
+    "state_code": "TA",
+    "country_id": 126,
+    "country_code": "LT",
+    "latitude": "55.41387000",
+    "longitude": "22.60894000",
+    "native": null,
+    "timezone": "Europe/Vilnius",
+    "translations": {}
+  },
+  {
+    "id": 66609,
+    "name": "Jurbarkas",
+    "state_id": 1573,
+    "state_code": "TA",
+    "country_id": 126,
+    "country_code": "LT",
+    "latitude": "55.10859000",
+    "longitude": "22.79885000",
+    "native": null,
+    "timezone": "Europe/Vilnius",
+    "translations": {}
+  },
+  {
+    "id": 66648,
+    "name": "Pagėgiai",
+    "state_id": 1573,
+    "state_code": "TA",
+    "country_id": 126,
+    "country_code": "LT",
+    "latitude": "55.13400000",
+    "longitude": "21.90446000",
+    "native": null,
+    "timezone": "Europe/Vilnius",
+    "translations": {}
+  },
+  {
+    "id": 66715,
+    "name": "Šilalė",
+    "state_id": 1573,
+    "state_code": "TA",
+    "country_id": 126,
+    "country_code": "LT",
+    "latitude": "55.46667000",
+    "longitude": "22.20000000",
+    "native": null,
+    "timezone": "Europe/Vilnius",
+    "translations": {}
+  },
+  {
+    "id": 66683,
+    "name": "Taurage",
+    "state_id": 1573,
+    "state_code": "TA",
+    "country_id": 126,
+    "country_code": "LT",
+    "latitude": "55.25222000",
+    "longitude": "22.28972000",
+    "native": null,
+    "timezone": "Europe/Vilnius",
+    "translations": {}
+  }
+]

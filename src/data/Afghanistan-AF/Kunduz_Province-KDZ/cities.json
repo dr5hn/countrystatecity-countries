@@ -1,0 +1,67 @@
+[
+  {
+    "id": 64,
+    "name": "Dasht-e Archī",
+    "state_id": 3900,
+    "state_code": "KDZ",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.13333000",
+    "longitude": "69.16667000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 75,
+    "name": "Imām Şāḩib",
+    "state_id": 3900,
+    "state_code": "KDZ",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.18897000",
+    "longitude": "68.93644000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 83,
+    "name": "Khanabad",
+    "state_id": 3900,
+    "state_code": "KDZ",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.68250000",
+    "longitude": "69.11556000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 89,
+    "name": "Kunduz",
+    "state_id": 3900,
+    "state_code": "KDZ",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.72895000",
+    "longitude": "68.85700000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 114,
+    "name": "Qarāwul",
+    "state_id": 3900,
+    "state_code": "KDZ",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.21959000",
+    "longitude": "68.78020000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

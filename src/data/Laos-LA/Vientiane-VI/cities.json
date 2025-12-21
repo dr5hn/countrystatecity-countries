@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65892,
+    "name": "Muang Phôn-Hông",
+    "state_id": 980,
+    "state_code": "VI",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "18.49530000",
+    "longitude": "102.41530000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65926,
+    "name": "Vangviang",
+    "state_id": 980,
+    "state_code": "VI",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "18.92350000",
+    "longitude": "102.44784000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

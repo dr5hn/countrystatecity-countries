@@ -1,0 +1,15 @@
+[
+  {
+    "id": 87,
+    "name": "Khōst",
+    "state_id": 3878,
+    "state_code": "KHO",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.33951000",
+    "longitude": "69.92041000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

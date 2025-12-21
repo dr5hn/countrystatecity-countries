@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104257,
+    "name": "Rogatec",
+    "state_id": 4209,
+    "state_code": "107",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.22944000",
+    "longitude": "15.70028000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

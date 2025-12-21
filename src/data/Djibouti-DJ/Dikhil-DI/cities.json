@@ -1,0 +1,28 @@
+[
+  {
+    "id": 30564,
+    "name": "Dikhil",
+    "state_id": 2930,
+    "state_code": "DI",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.10454000",
+    "longitude": "42.36971000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  },
+  {
+    "id": 30568,
+    "name": "Gâlâfi",
+    "state_id": 2930,
+    "state_code": "DI",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.71583000",
+    "longitude": "41.83611000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  }
+]

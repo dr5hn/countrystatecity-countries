@@ -1,0 +1,80 @@
+[
+  {
+    "id": 48848,
+    "name": "Caol",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.83721000",
+    "longitude": "-5.10062000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49590,
+    "name": "Fort William",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.81648000",
+    "longitude": "-5.11208000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50078,
+    "name": "Isle of Islay",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.78526000",
+    "longitude": "-6.23886000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50074,
+    "name": "Isle Of Mull",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.44703000",
+    "longitude": "-5.77404000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50796,
+    "name": "Oban",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.41535000",
+    "longitude": "-5.47184000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51634,
+    "name": "Tobermory",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.62198000",
+    "longitude": "-6.07231000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

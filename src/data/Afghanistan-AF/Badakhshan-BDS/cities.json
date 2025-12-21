@@ -1,0 +1,80 @@
+[
+  {
+    "id": 52,
+    "name": "Ashkāsham",
+    "state_id": 3901,
+    "state_code": "BDS",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.68333000",
+    "longitude": "71.53333000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 68,
+    "name": "Fayzabad",
+    "state_id": 3901,
+    "state_code": "BDS",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.11664000",
+    "longitude": "70.58002000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 78,
+    "name": "Jurm",
+    "state_id": 3901,
+    "state_code": "BDS",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.86477000",
+    "longitude": "70.83421000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 84,
+    "name": "Khandūd",
+    "state_id": 3901,
+    "state_code": "BDS",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.95127000",
+    "longitude": "72.31800000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 115,
+    "name": "Rāghistān",
+    "state_id": 3901,
+    "state_code": "BDS",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.66079000",
+    "longitude": "70.67346000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 131,
+    "name": "Wākhān",
+    "state_id": 3901,
+    "state_code": "BDS",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.05710000",
+    "longitude": "73.34928000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 53808,
+    "name": "Bissorã",
+    "state_id": 2718,
+    "state_code": "OI",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.22306000",
+    "longitude": "-15.44750000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  },
+  {
+    "id": 53816,
+    "name": "Farim",
+    "state_id": 2718,
+    "state_code": "OI",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.48389000",
+    "longitude": "-15.22167000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  },
+  {
+    "id": 53818,
+    "name": "Mansôa",
+    "state_id": 2718,
+    "state_code": "OI",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.07333000",
+    "longitude": "-15.31889000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  }
+]

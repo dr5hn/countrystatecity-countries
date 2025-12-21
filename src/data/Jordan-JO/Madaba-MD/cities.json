@@ -1,0 +1,15 @@
+[
+  {
+    "id": 63173,
+    "name": "Mādabā",
+    "state_id": 958,
+    "state_code": "MD",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "31.71599000",
+    "longitude": "35.79392000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  }
+]

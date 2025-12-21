@@ -1,0 +1,41 @@
+[
+  {
+    "id": 9783,
+    "name": "Bassila",
+    "state_id": 3072,
+    "state_code": "DO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "9.00814000",
+    "longitude": "1.66540000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9789,
+    "name": "Commune of Djougou",
+    "state_id": 3072,
+    "state_code": "DO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "9.64300000",
+    "longitude": "1.89600000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9795,
+    "name": "Djougou",
+    "state_id": 3072,
+    "state_code": "DO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "9.70853000",
+    "longitude": "1.66598000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

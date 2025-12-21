@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64850,
+    "name": "Nanyuki",
+    "state_id": 164,
+    "state_code": "20",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.00624000",
+    "longitude": "37.07398000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64854,
+    "name": "Nyahururu",
+    "state_id": 164,
+    "state_code": "20",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.03813000",
+    "longitude": "36.36339000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64865,
+    "name": "Rumuruti",
+    "state_id": 164,
+    "state_code": "20",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.27250000",
+    "longitude": "36.53806000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

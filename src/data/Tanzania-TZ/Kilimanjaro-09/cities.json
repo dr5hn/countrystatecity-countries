@@ -1,0 +1,67 @@
+[
+  {
+    "id": 109072,
+    "name": "Hedaru",
+    "state_id": 1467,
+    "state_code": "09",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-4.50153290",
+    "longitude": "37.91444740",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109164,
+    "name": "Machame",
+    "state_id": 1467,
+    "state_code": "09",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-3.20611000",
+    "longitude": "37.22638890",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109233,
+    "name": "Marangu",
+    "state_id": 1467,
+    "state_code": "09",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-3.28376300",
+    "longitude": "37.52298200",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109209,
+    "name": "Moshi",
+    "state_id": 1467,
+    "state_code": "09",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-3.35000000",
+    "longitude": "37.33333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109274,
+    "name": "Same",
+    "state_id": 1467,
+    "state_code": "09",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-4.22199000",
+    "longitude": "37.88278000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

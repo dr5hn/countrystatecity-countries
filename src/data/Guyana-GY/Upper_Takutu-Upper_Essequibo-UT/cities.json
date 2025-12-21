@@ -1,0 +1,15 @@
+[
+  {
+    "id": 53824,
+    "name": "Lethem",
+    "state_id": 2769,
+    "state_code": "UT",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "3.38333000",
+    "longitude": "-59.80000000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  }
+]

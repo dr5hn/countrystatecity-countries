@@ -1,0 +1,28 @@
+[
+  {
+    "id": 108978,
+    "name": "Petit Valley",
+    "state_id": 3367,
+    "state_code": "DMN",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.69974000",
+    "longitude": "-61.54717000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108991,
+    "name": "Ward of Diego Martin",
+    "state_id": 3367,
+    "state_code": "DMN",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.70000000",
+    "longitude": "-61.58333000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

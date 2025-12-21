@@ -1,0 +1,67 @@
+[
+  {
+    "id": 157070,
+    "name": "Bibala",
+    "state_id": 5469,
+    "state_code": "NAM",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-14.93330000",
+    "longitude": "13.68330000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 157072,
+    "name": "Camucuio",
+    "state_id": 5469,
+    "state_code": "NAM",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-15.45000000",
+    "longitude": "12.88330000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 157068,
+    "name": "Namibe",
+    "state_id": 5469,
+    "state_code": "NAM",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-15.19670000",
+    "longitude": "12.15220000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 157069,
+    "name": "Tombua",
+    "state_id": 5469,
+    "state_code": "NAM",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-15.78330000",
+    "longitude": "11.86670000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 157071,
+    "name": "Virei",
+    "state_id": 5469,
+    "state_code": "NAM",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-14.46670000",
+    "longitude": "13.26670000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

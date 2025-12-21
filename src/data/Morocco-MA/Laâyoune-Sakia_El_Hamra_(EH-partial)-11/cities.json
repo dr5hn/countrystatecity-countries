@@ -1,0 +1,93 @@
+[
+  {
+    "id": 67052,
+    "name": "Akhfennir",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "28.09455000",
+    "longitude": "-12.05157000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67089,
+    "name": "Boujdour",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "25.66172000",
+    "longitude": "-13.68419000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67115,
+    "name": "Es-Semara",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "27.75000000",
+    "longitude": "-11.00000000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67127,
+    "name": "Gueltat Zemmour",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "25.14276000",
+    "longitude": "-12.37168000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67154,
+    "name": "Laayoune",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "27.83333000",
+    "longitude": "-12.33333000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67220,
+    "name": "Smara",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "26.73841000",
+    "longitude": "-11.67194000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  },
+  {
+    "id": 67239,
+    "name": "Tarfaya",
+    "state_id": 3298,
+    "state_code": "11",
+    "country_id": 149,
+    "country_code": "MA",
+    "latitude": "27.93901000",
+    "longitude": "-12.92082000",
+    "native": null,
+    "timezone": "Africa/Casablanca",
+    "translations": {}
+  }
+]

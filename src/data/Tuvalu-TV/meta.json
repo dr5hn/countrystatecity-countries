@@ -1,0 +1,51 @@
+{
+  "id": 228,
+  "name": "Tuvalu",
+  "iso2": "TV",
+  "iso3": "TUV",
+  "numeric_code": "798",
+  "phonecode": "688",
+  "capital": "Funafuti",
+  "currency": "AUD",
+  "currency_name": "Australian dollar",
+  "currency_symbol": "$",
+  "tld": ".tv",
+  "native": "Tuvalu",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "nationality": "Tuvaluan",
+  "latitude": "-8.00000000",
+  "longitude": "178.00000000",
+  "emoji": "🇹🇻",
+  "emojiU": "U+1F1F9 U+1F1FB",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Funafuti",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "TVT",
+      "tzName": "Tuvalu Time"
+    }
+  ],
+  "translations": {
+    "br": "Tuvalu",
+    "ko": "투발루",
+    "pt-BR": "Tuvalu",
+    "pt": "Tuvalu",
+    "nl": "Tuvalu",
+    "hr": "Tuvalu",
+    "fa": "تووالو",
+    "de": "Tuvalu",
+    "es": "Tuvalu",
+    "fr": "Tuvalu",
+    "ja": "ツバル",
+    "it": "Tuvalu",
+    "zh-CN": "图瓦卢",
+    "tr": "Tuvalu",
+    "ru": "Тувалу",
+    "uk": "Тувалу",
+    "pl": "Tuvalu",
+    "hi": "तुवालू",
+    "ar": "توفالو"
+  }
+}

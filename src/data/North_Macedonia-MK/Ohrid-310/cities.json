@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67456,
+    "name": "Kosel",
+    "state_id": 699,
+    "state_code": "310",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.17444000",
+    "longitude": "20.83556000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67496,
+    "name": "Ohrid",
+    "state_id": 699,
+    "state_code": "310",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.11722000",
+    "longitude": "20.80194000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67497,
+    "name": "Ohrid Opština",
+    "state_id": 699,
+    "state_code": "310",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.16667000",
+    "longitude": "20.83333000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

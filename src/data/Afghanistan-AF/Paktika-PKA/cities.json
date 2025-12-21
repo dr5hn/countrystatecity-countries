@@ -1,0 +1,41 @@
+[
+  {
+    "id": 120,
+    "name": "Saṟōbī",
+    "state_id": 3877,
+    "state_code": "PKA",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.75221000",
+    "longitude": "69.04587000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 134,
+    "name": "Zaṟah Sharan",
+    "state_id": 3877,
+    "state_code": "PKA",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.14641000",
+    "longitude": "68.79213000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 133,
+    "name": "Zarghūn Shahr",
+    "state_id": 3877,
+    "state_code": "PKA",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.84734000",
+    "longitude": "68.44573000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

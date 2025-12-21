@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160555,
+    "name": "Saint Pierre du Bois Parish",
+    "state_id": 5393,
+    "state_code": "08",
+    "country_id": 91,
+    "country_code": "GG",
+    "latitude": "49.45399000",
+    "longitude": "-2.63808000",
+    "native": null,
+    "timezone": "Europe/Guernsey",
+    "translations": {}
+  },
+  {
+    "id": 160554,
+    "name": "Vale Parish",
+    "state_id": 5393,
+    "state_code": "08",
+    "country_id": 91,
+    "country_code": "GG",
+    "latitude": "49.49440000",
+    "longitude": "-2.51790000",
+    "native": null,
+    "timezone": "Europe/Guernsey",
+    "translations": {}
+  }
+]

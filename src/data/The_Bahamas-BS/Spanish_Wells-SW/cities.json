@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15703,
+    "name": "Spanish Wells",
+    "state_id": 3630,
+    "state_code": "SW",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "25.54717000",
+    "longitude": "-76.76405000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

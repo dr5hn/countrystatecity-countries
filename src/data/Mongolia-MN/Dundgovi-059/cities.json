@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67725,
+    "name": "Mandalgovi",
+    "state_id": 1970,
+    "state_code": "059",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "45.76250000",
+    "longitude": "106.27083000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

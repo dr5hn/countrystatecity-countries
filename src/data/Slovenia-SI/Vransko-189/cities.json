@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104320,
+    "name": "Vransko",
+    "state_id": 4163,
+    "state_code": "189",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.24389000",
+    "longitude": "14.95139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

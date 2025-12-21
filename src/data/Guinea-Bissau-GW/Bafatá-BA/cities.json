@@ -1,0 +1,28 @@
+[
+  {
+    "id": 53807,
+    "name": "Bafatá",
+    "state_id": 2720,
+    "state_code": "BA",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.16583000",
+    "longitude": "-14.66167000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  },
+  {
+    "id": 53815,
+    "name": "Contuboel Sector",
+    "state_id": 2720,
+    "state_code": "BA",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.55500000",
+    "longitude": "-14.64100000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  }
+]

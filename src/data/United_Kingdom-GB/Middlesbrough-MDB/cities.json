@@ -1,0 +1,41 @@
+[
+  {
+    "id": 49707,
+    "name": "Great Ayton",
+    "state_id": 2332,
+    "state_code": "MDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.49148000",
+    "longitude": "-1.13623000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50571,
+    "name": "Middlesbrough",
+    "state_id": 2332,
+    "state_code": "MDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.57623000",
+    "longitude": "-1.23483000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51471,
+    "name": "Stokesley",
+    "state_id": 2332,
+    "state_code": "MDB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.46998000",
+    "longitude": "-1.19330000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

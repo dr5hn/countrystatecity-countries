@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31275,
+    "name": "Biskra",
+    "state_id": 1114,
+    "state_code": "07",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.85038000",
+    "longitude": "5.72805000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31405,
+    "name": "Oumache",
+    "state_id": 1114,
+    "state_code": "07",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.69292000",
+    "longitude": "5.68092000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31427,
+    "name": "Sidi Khaled",
+    "state_id": 1114,
+    "state_code": "07",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.38700000",
+    "longitude": "4.98785000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31430,
+    "name": "Sidi Okba",
+    "state_id": 1114,
+    "state_code": "07",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.74512000",
+    "longitude": "5.89833000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31461,
+    "name": "Tolga",
+    "state_id": 1114,
+    "state_code": "07",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.72224000",
+    "longitude": "5.37845000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31466,
+    "name": "Zeribet el Oued",
+    "state_id": 1114,
+    "state_code": "07",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "34.68284000",
+    "longitude": "6.51109000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

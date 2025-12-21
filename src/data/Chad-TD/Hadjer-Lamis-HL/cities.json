@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105125,
+    "name": "Bokoro",
+    "state_id": 3573,
+    "state_code": "HL",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.37813000",
+    "longitude": "17.05876000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105146,
+    "name": "Massaguet",
+    "state_id": 3573,
+    "state_code": "HL",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.47554000",
+    "longitude": "15.43647000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105147,
+    "name": "Massakory",
+    "state_id": 3573,
+    "state_code": "HL",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.99600000",
+    "longitude": "15.72927000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

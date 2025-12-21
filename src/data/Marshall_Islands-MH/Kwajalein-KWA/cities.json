@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160076,
+    "name": "Ebeye",
+    "state_id": 5652,
+    "state_code": "KWA",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "41.08110000",
+    "longitude": "-111.92000000",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

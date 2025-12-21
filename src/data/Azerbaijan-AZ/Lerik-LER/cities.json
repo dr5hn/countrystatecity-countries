@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8110,
+    "name": "Lerik",
+    "state_id": 546,
+    "state_code": "LER",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "38.77388000",
+    "longitude": "48.41497000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

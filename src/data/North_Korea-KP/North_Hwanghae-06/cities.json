@@ -1,0 +1,93 @@
+[
+  {
+    "id": 65180,
+    "name": "Anak",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.51083000",
+    "longitude": "125.49417000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65203,
+    "name": "Hŭkkyo-ri",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.79861000",
+    "longitude": "125.79194000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65200,
+    "name": "Hwangju-ŭp",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.67028000",
+    "longitude": "125.77611000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65212,
+    "name": "Koksan",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.78194000",
+    "longitude": "126.66639000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65237,
+    "name": "Sariwŏn",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.50722000",
+    "longitude": "125.75583000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65240,
+    "name": "Sinmak",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.41667000",
+    "longitude": "126.23333000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65243,
+    "name": "Songnim",
+    "state_id": 4004,
+    "state_code": "06",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "38.75417000",
+    "longitude": "125.64500000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  }
+]

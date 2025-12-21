@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8448,
+    "name": "Bridgetown",
+    "state_id": 1230,
+    "state_code": "08",
+    "country_id": 20,
+    "country_code": "BB",
+    "latitude": "13.10732000",
+    "longitude": "-59.62021000",
+    "native": null,
+    "timezone": "America/Barbados",
+    "translations": {}
+  }
+]

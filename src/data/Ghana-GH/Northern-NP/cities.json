@@ -1,0 +1,67 @@
+[
+  {
+    "id": 52186,
+    "name": "Kpandae",
+    "state_id": 51,
+    "state_code": "NP",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "8.46885000",
+    "longitude": "-0.01127000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 52198,
+    "name": "Salaga",
+    "state_id": 51,
+    "state_code": "NP",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "8.55083000",
+    "longitude": "-0.51875000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 52200,
+    "name": "Savelugu",
+    "state_id": 51,
+    "state_code": "NP",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.62441000",
+    "longitude": "-0.82530000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 52208,
+    "name": "Tamale",
+    "state_id": 51,
+    "state_code": "NP",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.40079000",
+    "longitude": "-0.83930000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 52216,
+    "name": "Yendi",
+    "state_id": 51,
+    "state_code": "NP",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "9.44272000",
+    "longitude": "-0.00991000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  }
+]

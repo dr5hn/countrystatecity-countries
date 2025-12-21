@@ -1,0 +1,15 @@
+[
+  {
+    "id": 105133,
+    "name": "Faya-Largeau",
+    "state_id": 3574,
+    "state_code": "BO",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "17.92570000",
+    "longitude": "19.10428000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

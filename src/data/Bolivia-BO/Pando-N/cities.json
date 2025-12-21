@@ -1,0 +1,80 @@
+[
+  {
+    "id": 9848,
+    "name": "Cobija",
+    "state_id": 3379,
+    "state_code": "N",
+    "country_id": 27,
+    "country_code": "BO",
+    "latitude": "-11.02671000",
+    "longitude": "-68.76918000",
+    "native": null,
+    "timezone": "America/La_Paz",
+    "translations": {}
+  },
+  {
+    "id": 9899,
+    "name": "Provincia Abuná",
+    "state_id": 3379,
+    "state_code": "N",
+    "country_id": 27,
+    "country_code": "BO",
+    "latitude": "-10.50000000",
+    "longitude": "-66.50000000",
+    "native": null,
+    "timezone": "America/La_Paz",
+    "translations": {}
+  },
+  {
+    "id": 9931,
+    "name": "Provincia General Federico Román",
+    "state_id": 3379,
+    "state_code": "N",
+    "country_id": 27,
+    "country_code": "BO",
+    "latitude": "-10.33333000",
+    "longitude": "-65.88333000",
+    "native": null,
+    "timezone": "America/La_Paz",
+    "translations": {}
+  },
+  {
+    "id": 9948,
+    "name": "Provincia Madre de Dios",
+    "state_id": 3379,
+    "state_code": "N",
+    "country_id": 27,
+    "country_code": "BO",
+    "latitude": "-11.58333000",
+    "longitude": "-67.00000000",
+    "native": null,
+    "timezone": "America/La_Paz",
+    "translations": {}
+  },
+  {
+    "id": 9952,
+    "name": "Provincia Manuripi",
+    "state_id": 3379,
+    "state_code": "N",
+    "country_id": 27,
+    "country_code": "BO",
+    "latitude": "-11.33333000",
+    "longitude": "-67.50000000",
+    "native": null,
+    "timezone": "America/La_Paz",
+    "translations": {}
+  },
+  {
+    "id": 9960,
+    "name": "Provincia Nicolás Suárez",
+    "state_id": 3379,
+    "state_code": "N",
+    "country_id": 27,
+    "country_code": "BO",
+    "latitude": "-11.33333000",
+    "longitude": "-68.50000000",
+    "native": null,
+    "timezone": "America/La_Paz",
+    "translations": {}
+  }
+]

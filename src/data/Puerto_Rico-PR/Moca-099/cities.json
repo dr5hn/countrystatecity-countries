@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153599,
+    "name": "Moca",
+    "state_id": 5184,
+    "state_code": "099",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.39679290",
+    "longitude": "-67.14790350",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31888,
+    "name": "Keren",
+    "state_id": 3425,
+    "state_code": "AN",
+    "country_id": 68,
+    "country_code": "ER",
+    "latitude": "15.77792000",
+    "longitude": "38.45107000",
+    "native": null,
+    "timezone": "Africa/Asmara",
+    "translations": {}
+  }
+]

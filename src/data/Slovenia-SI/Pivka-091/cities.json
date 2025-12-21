@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104222,
+    "name": "Pivka",
+    "state_id": 4184,
+    "state_code": "091",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.68292000",
+    "longitude": "14.19588000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

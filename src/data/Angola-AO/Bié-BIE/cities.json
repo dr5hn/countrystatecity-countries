@@ -1,0 +1,54 @@
+[
+  {
+    "id": 595,
+    "name": "Camacupa",
+    "state_id": 212,
+    "state_code": "BIE",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-12.01667000",
+    "longitude": "17.48333000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 596,
+    "name": "Catabola",
+    "state_id": 212,
+    "state_code": "BIE",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-12.15000000",
+    "longitude": "17.28333000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 605,
+    "name": "Chissamba",
+    "state_id": 212,
+    "state_code": "BIE",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-12.16667000",
+    "longitude": "17.33333000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 606,
+    "name": "Cuito",
+    "state_id": 212,
+    "state_code": "BIE",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-12.38333000",
+    "longitude": "16.93333000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

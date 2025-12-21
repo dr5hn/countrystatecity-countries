@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153621,
+    "name": "Vega Alta",
+    "state_id": 5206,
+    "state_code": "143",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.41217030",
+    "longitude": "-66.33128050",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 109069,
+    "name": "Gamba",
+    "state_id": 1473,
+    "state_code": "07",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-5.90000000",
+    "longitude": "39.30000000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109112,
+    "name": "Kijini",
+    "state_id": 1473,
+    "state_code": "07",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-5.85000000",
+    "longitude": "39.31667000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109131,
+    "name": "Kiwengwa",
+    "state_id": 1473,
+    "state_code": "07",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-5.98957000",
+    "longitude": "39.37680000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109201,
+    "name": "Mkokotoni",
+    "state_id": 1473,
+    "state_code": "07",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-5.87506000",
+    "longitude": "39.25523000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109261,
+    "name": "Nungwi",
+    "state_id": 1473,
+    "state_code": "07",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-5.72651000",
+    "longitude": "39.29870000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

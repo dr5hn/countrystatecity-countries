@@ -1,0 +1,67 @@
+[
+  {
+    "id": 105157,
+    "name": "Amlamé",
+    "state_id": 2577,
+    "state_code": "P",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "7.46667000",
+    "longitude": "0.90000000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105159,
+    "name": "Atakpamé",
+    "state_id": 2577,
+    "state_code": "P",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "7.53333000",
+    "longitude": "1.13333000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105160,
+    "name": "Badou",
+    "state_id": 2577,
+    "state_code": "P",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "7.58333000",
+    "longitude": "0.60000000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105166,
+    "name": "Kpalimé",
+    "state_id": 2577,
+    "state_code": "P",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.90000000",
+    "longitude": "0.63333000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105169,
+    "name": "Notsé",
+    "state_id": 2577,
+    "state_code": "P",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "6.95000000",
+    "longitude": "1.16667000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  }
+]

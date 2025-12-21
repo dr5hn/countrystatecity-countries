@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67347,
+    "name": "Budva",
+    "state_id": 30,
+    "state_code": "05",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.28639000",
+    "longitude": "18.84000000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67360,
+    "name": "Petrovac na Moru",
+    "state_id": 30,
+    "state_code": "05",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.20556000",
+    "longitude": "18.94250000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31557,
+    "name": "Puyo",
+    "state_id": 2907,
+    "state_code": "Y",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.48369000",
+    "longitude": "-78.00257000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

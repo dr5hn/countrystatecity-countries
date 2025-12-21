@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160039,
+    "name": "Nouméa",
+    "state_id": 5538,
+    "state_code": "NC",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "-22.27580000",
+    "longitude": "166.45800000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  }
+]

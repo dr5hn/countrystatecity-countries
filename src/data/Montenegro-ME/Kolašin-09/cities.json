@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67354,
+    "name": "Kolašin",
+    "state_id": 31,
+    "state_code": "09",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.82229000",
+    "longitude": "19.51653000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153572,
+    "name": "Corozal",
+    "state_id": 5157,
+    "state_code": "047",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.40308020",
+    "longitude": "-88.39675360",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

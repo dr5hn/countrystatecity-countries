@@ -1,0 +1,15 @@
+[
+  {
+    "id": 625,
+    "name": "Menongue",
+    "state_id": 226,
+    "state_code": "CCU",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-14.65850000",
+    "longitude": "17.69099000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

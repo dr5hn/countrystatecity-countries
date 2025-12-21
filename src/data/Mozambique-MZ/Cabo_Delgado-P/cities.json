@@ -1,0 +1,54 @@
+[
+  {
+    "id": 76595,
+    "name": "Chiure",
+    "state_id": 3327,
+    "state_code": "P",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-13.46665000",
+    "longitude": "39.70317000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76614,
+    "name": "Mocímboa",
+    "state_id": 3327,
+    "state_code": "P",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-11.31667000",
+    "longitude": "40.35000000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76615,
+    "name": "Montepuez",
+    "state_id": 3327,
+    "state_code": "P",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-13.12556000",
+    "longitude": "38.99972000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76621,
+    "name": "Pemba",
+    "state_id": 3327,
+    "state_code": "P",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-12.97395000",
+    "longitude": "40.51775000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  }
+]

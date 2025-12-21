@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153872,
+    "name": "Gopalganj",
+    "state_id": 5492,
+    "state_code": "17",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "23.10660120",
+    "longitude": "89.57802710",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

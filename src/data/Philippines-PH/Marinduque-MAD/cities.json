@@ -1,0 +1,80 @@
+[
+  {
+    "id": 81752,
+    "name": "Boac",
+    "state_id": 1329,
+    "state_code": "MAD",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "13.38925470",
+    "longitude": "121.81348400",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154686,
+    "name": "Buenavista",
+    "state_id": 1329,
+    "state_code": "MAD",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "13.25567130",
+    "longitude": "121.89021660",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 82571,
+    "name": "Gasan",
+    "state_id": 1329,
+    "state_code": "MAD",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "13.29685110",
+    "longitude": "121.79910740",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83693,
+    "name": "Mogpog",
+    "state_id": 1329,
+    "state_code": "MAD",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "13.51481250",
+    "longitude": "121.81301200",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154687,
+    "name": "Santa Cruz",
+    "state_id": 1329,
+    "state_code": "MAD",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "13.46326140",
+    "longitude": "121.89226460",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 85172,
+    "name": "Torrijos",
+    "state_id": 1329,
+    "state_code": "MAD",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "13.31692490",
+    "longitude": "121.98132600",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 129787,
+    "name": "Cardona",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.87049000",
+    "longitude": "-57.36954000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129799,
+    "name": "Dolores",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.53009000",
+    "longitude": "-58.21701000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129811,
+    "name": "José Enrique Rodó",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.69618000",
+    "longitude": "-57.53153000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129828,
+    "name": "Mercedes",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.25240000",
+    "longitude": "-58.03047000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129839,
+    "name": "Palmitas",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.50719000",
+    "longitude": "-57.80079000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129867,
+    "name": "Santa Catalina",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.79100000",
+    "longitude": "-57.48824000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129891,
+    "name": "Villa Soriano",
+    "state_id": 3219,
+    "state_code": "SO",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.39811000",
+    "longitude": "-58.32177000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  }
+]

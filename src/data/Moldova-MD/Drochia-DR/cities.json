@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67299,
+    "name": "Drochia",
+    "state_id": 4392,
+    "state_code": "DR",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "48.03555000",
+    "longitude": "27.81293000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

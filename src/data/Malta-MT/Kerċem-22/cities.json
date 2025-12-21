@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67789,
+    "name": "Mqabba",
+    "state_id": 91,
+    "state_code": "22",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.84763000",
+    "longitude": "14.46824000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

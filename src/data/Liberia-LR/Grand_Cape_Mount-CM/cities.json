@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66559,
+    "name": "Robertsport",
+    "state_id": 3036,
+    "state_code": "CM",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "6.75329000",
+    "longitude": "-11.36710000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

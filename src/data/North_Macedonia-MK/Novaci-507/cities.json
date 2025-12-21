@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67492,
+    "name": "Novaci",
+    "state_id": 696,
+    "state_code": "507",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.04197000",
+    "longitude": "21.45866000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Andorra la Vella",
+    "state_id": 488,
+    "state_code": "07",
+    "country_id": 6,
+    "country_code": "AD",
+    "latitude": "42.50779000",
+    "longitude": "1.52109000",
+    "native": null,
+    "timezone": "Europe/Andorra",
+    "translations": {}
+  }
+]

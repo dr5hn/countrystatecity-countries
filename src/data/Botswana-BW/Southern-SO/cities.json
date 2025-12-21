@@ -1,0 +1,54 @@
+[
+  {
+    "id": 15744,
+    "name": "Kanye",
+    "state_id": 3063,
+    "state_code": "SO",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-24.96675000",
+    "longitude": "25.33273000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15745,
+    "name": "Khakhea",
+    "state_id": 3063,
+    "state_code": "SO",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-24.68954000",
+    "longitude": "23.49403000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15777,
+    "name": "Mosopa",
+    "state_id": 3063,
+    "state_code": "SO",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-24.77180000",
+    "longitude": "25.42156000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15794,
+    "name": "Sekoma",
+    "state_id": 3063,
+    "state_code": "SO",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-24.40000000",
+    "longitude": "23.88333000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  }
+]

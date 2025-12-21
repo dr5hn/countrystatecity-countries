@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153871,
+    "name": "Faridpur",
+    "state_id": 5488,
+    "state_code": "15",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "23.45115240",
+    "longitude": "89.52820380",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

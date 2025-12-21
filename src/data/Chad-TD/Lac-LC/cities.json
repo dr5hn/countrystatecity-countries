@@ -1,0 +1,15 @@
+[
+  {
+    "id": 105126,
+    "name": "Bol",
+    "state_id": 3577,
+    "state_code": "LC",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.46706000",
+    "longitude": "14.71363000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

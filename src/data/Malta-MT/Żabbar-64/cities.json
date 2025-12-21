@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67822,
+    "name": "Żabbar",
+    "state_id": 123,
+    "state_code": "64",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.87611000",
+    "longitude": "14.53500000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

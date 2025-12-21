@@ -1,0 +1,67 @@
+[
+  {
+    "id": 130643,
+    "name": "Afega",
+    "state_id": 4770,
+    "state_code": "TU",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.79726000",
+    "longitude": "-171.85308000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130644,
+    "name": "Apia",
+    "state_id": 4770,
+    "state_code": "TU",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.83333000",
+    "longitude": "-171.76666000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130652,
+    "name": "Malie",
+    "state_id": 4770,
+    "state_code": "TU",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.80044000",
+    "longitude": "-171.84690000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130660,
+    "name": "Vailima",
+    "state_id": 4770,
+    "state_code": "TU",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.86417000",
+    "longitude": "-171.76126000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130662,
+    "name": "Vaiusu",
+    "state_id": 4770,
+    "state_code": "TU",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.82678000",
+    "longitude": "-171.79333000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  }
+]

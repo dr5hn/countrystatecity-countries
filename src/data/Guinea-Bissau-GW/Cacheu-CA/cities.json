@@ -1,0 +1,28 @@
+[
+  {
+    "id": 53812,
+    "name": "Cacheu",
+    "state_id": 2713,
+    "state_code": "CA",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.27444000",
+    "longitude": "-16.16528000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  },
+  {
+    "id": 53813,
+    "name": "Canchungo",
+    "state_id": 2713,
+    "state_code": "CA",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.06722000",
+    "longitude": "-16.03333000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  }
+]

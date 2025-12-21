@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66547,
+    "name": "Bensonville",
+    "state_id": 3032,
+    "state_code": "MO",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "6.44716000",
+    "longitude": "-10.61283000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  },
+  {
+    "id": 66557,
+    "name": "Monrovia",
+    "state_id": 3032,
+    "state_code": "MO",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "6.30054000",
+    "longitude": "-10.79690000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

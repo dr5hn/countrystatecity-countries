@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153904,
+    "name": "Rangpur",
+    "state_id": 5528,
+    "state_code": "55",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "25.62390240",
+    "longitude": "88.90094980",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

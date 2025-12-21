@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153763,
+    "name": "Hvannasund",
+    "state_id": 5230,
+    "state_code": "NO",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.34560000",
+    "longitude": "-6.78900000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153746,
+    "name": "Klaksvík",
+    "state_id": 5230,
+    "state_code": "NO",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.22100000",
+    "longitude": "-6.58000000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153767,
+    "name": "Kunoy",
+    "state_id": 5230,
+    "state_code": "NO",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.34560000",
+    "longitude": "-6.89010000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  }
+]

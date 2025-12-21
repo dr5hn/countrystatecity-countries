@@ -1,0 +1,28 @@
+[
+  {
+    "id": 15731,
+    "name": "Dekar",
+    "state_id": 3061,
+    "state_code": "GH",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-21.53333000",
+    "longitude": "21.93333000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15737,
+    "name": "Ghanzi",
+    "state_id": 3061,
+    "state_code": "GH",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-21.69785000",
+    "longitude": "21.64581000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  }
+]

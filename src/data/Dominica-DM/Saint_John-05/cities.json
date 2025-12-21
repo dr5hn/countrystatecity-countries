@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31011,
+    "name": "Portsmouth",
+    "state_id": 4076,
+    "state_code": "05",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.58333000",
+    "longitude": "-61.46667000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  }
+]

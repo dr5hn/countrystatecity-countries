@@ -1,0 +1,51 @@
+{
+  "id": 191,
+  "name": "Samoa",
+  "iso2": "WS",
+  "iso3": "WSM",
+  "numeric_code": "882",
+  "phonecode": "685",
+  "capital": "Apia",
+  "currency": "WST",
+  "currency_name": "Samoan tālā",
+  "currency_symbol": "SAT",
+  "tld": ".ws",
+  "native": "Samoa",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "nationality": "Samoan",
+  "latitude": "-13.58333333",
+  "longitude": "-172.33333333",
+  "emoji": "🇼🇸",
+  "emojiU": "U+1F1FC U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Apia",
+      "gmtOffset": 50400,
+      "gmtOffsetName": "UTC+14:00",
+      "abbreviation": "WST",
+      "tzName": "West Samoa Time"
+    }
+  ],
+  "translations": {
+    "br": "Samoa",
+    "ko": "사모아",
+    "pt-BR": "Samoa",
+    "pt": "Samoa",
+    "nl": "Samoa",
+    "hr": "Samoa",
+    "fa": "ساموآ",
+    "de": "Samoa",
+    "es": "Samoa",
+    "fr": "Samoa",
+    "ja": "サモア",
+    "it": "Samoa",
+    "zh-CN": "萨摩亚",
+    "tr": "Samoa",
+    "ru": "Самоа",
+    "uk": "Самоа",
+    "pl": "Samoa",
+    "hi": "समोआ",
+    "ar": "ساموا"
+  }
+}

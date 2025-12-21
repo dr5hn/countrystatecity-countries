@@ -1,0 +1,54 @@
+[
+  {
+    "id": 134498,
+    "name": "As Sulaymānīyah",
+    "state_id": 3969,
+    "state_code": "SU",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "35.56496000",
+    "longitude": "45.43290000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134511,
+    "name": "Baynjiwayn",
+    "state_id": 3969,
+    "state_code": "SU",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "35.62054000",
+    "longitude": "45.94908000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134549,
+    "name": "Ḩalabjah",
+    "state_id": 3969,
+    "state_code": "SU",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "35.17778000",
+    "longitude": "45.98611000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134517,
+    "name": "Jamjamāl",
+    "state_id": 3969,
+    "state_code": "SU",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "35.53356000",
+    "longitude": "44.83430000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  }
+]

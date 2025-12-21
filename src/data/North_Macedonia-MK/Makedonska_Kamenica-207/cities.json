@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67476,
+    "name": "Makedonska Kamenica",
+    "state_id": 701,
+    "state_code": "207",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.02079000",
+    "longitude": "22.58760000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104783,
+    "name": "Burao",
+    "state_id": 929,
+    "state_code": "TO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "9.52213000",
+    "longitude": "45.53363000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104789,
+    "name": "Ceek",
+    "state_id": 929,
+    "state_code": "TO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "8.99907000",
+    "longitude": "45.35824000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104811,
+    "name": "Oodweyne",
+    "state_id": 929,
+    "state_code": "TO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "9.40920000",
+    "longitude": "45.06397000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

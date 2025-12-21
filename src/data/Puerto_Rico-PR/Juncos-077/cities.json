@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153588,
+    "name": "Juncos",
+    "state_id": 5173,
+    "state_code": "077",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.22745580",
+    "longitude": "-65.92099700",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

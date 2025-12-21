@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160305,
+    "name": "Bouéni",
+    "state_id": 5408,
+    "state_code": "07",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.90250000",
+    "longitude": "45.07611000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160306,
+    "name": "Mouanatrindri",
+    "state_id": 5408,
+    "state_code": "07",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.89960000",
+    "longitude": "45.09792000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160307,
+    "name": "Mzouazia",
+    "state_id": 5408,
+    "state_code": "07",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.92717000",
+    "longitude": "45.10336000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

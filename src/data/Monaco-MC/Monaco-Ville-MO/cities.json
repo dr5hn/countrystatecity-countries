@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160054,
+    "name": "Monaco-Ville",
+    "state_id": 5674,
+    "state_code": "MO",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73110000",
+    "longitude": "7.42000000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

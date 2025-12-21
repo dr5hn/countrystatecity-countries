@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1531,
+    "name": "Central Denmark",
+    "country_id": 59,
+    "country_code": "DK",
+    "fips_code": null,
+    "iso2": "82",
+    "type": "region",
+    "latitude": "56.23564830",
+    "longitude": "9.23462500",
+    "native": "Central Danmark",
+    "timezone": "Europe/Copenhagen",
+    "translations": {}
+  },
+  {
+    "id": 1530,
+    "name": "Denmark",
+    "country_id": 59,
+    "country_code": "DK",
+    "fips_code": null,
+    "iso2": "84",
+    "type": "region",
+    "latitude": "55.67024900",
+    "longitude": "10.33332830",
+    "native": "Danmark",
+    "timezone": "Europe/Copenhagen",
+    "translations": {}
+  },
+  {
+    "id": 1532,
+    "name": "North Denmark",
+    "country_id": 59,
+    "country_code": "DK",
+    "fips_code": null,
+    "iso2": "81",
+    "type": "region",
+    "latitude": "56.81527930",
+    "longitude": "9.72733080",
+    "native": "North Danmark",
+    "timezone": "Europe/Copenhagen",
+    "translations": {}
+  },
+  {
+    "id": 1529,
+    "name": "Southern Denmark",
+    "country_id": 59,
+    "country_code": "DK",
+    "fips_code": null,
+    "iso2": "83",
+    "type": "region",
+    "latitude": "55.37842630",
+    "longitude": "9.13180640",
+    "native": "Sydlige Danmark",
+    "timezone": "Europe/Copenhagen",
+    "translations": {}
+  },
+  {
+    "id": 1528,
+    "name": "Zealand",
+    "country_id": 59,
+    "country_code": "DK",
+    "fips_code": null,
+    "iso2": "85",
+    "type": "region",
+    "latitude": "55.54559790",
+    "longitude": "11.69737410",
+    "native": "Zealand",
+    "timezone": "Europe/Copenhagen",
+    "translations": {}
+  }
+]

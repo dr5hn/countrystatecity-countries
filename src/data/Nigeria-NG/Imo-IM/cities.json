@@ -1,0 +1,80 @@
+[
+  {
+    "id": 76925,
+    "name": "Iho",
+    "state_id": 308,
+    "state_code": "IM",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "5.58225000",
+    "longitude": "7.09896000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77055,
+    "name": "Oguta",
+    "state_id": 308,
+    "state_code": "IM",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "5.71044000",
+    "longitude": "6.80936000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77062,
+    "name": "Okigwe",
+    "state_id": 308,
+    "state_code": "IM",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "5.82917000",
+    "longitude": "7.35056000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77073,
+    "name": "Orlu",
+    "state_id": 308,
+    "state_code": "IM",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "5.79565000",
+    "longitude": "7.03513000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77074,
+    "name": "Orodo",
+    "state_id": 308,
+    "state_code": "IM",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "5.61667000",
+    "longitude": "7.03333000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77078,
+    "name": "Owerri",
+    "state_id": 308,
+    "state_code": "IM",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "5.48363000",
+    "longitude": "7.03325000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  }
+]

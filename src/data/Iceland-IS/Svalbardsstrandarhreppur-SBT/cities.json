@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135221,
+    "name": "Svalbarðsstrandarhreppur",
+    "state_id": 5595,
+    "state_code": "SBT",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.74138000",
+    "longitude": "-18.03513000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

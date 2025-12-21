@@ -1,0 +1,54 @@
+[
+  {
+    "id": 153760,
+    "name": "Kvívík",
+    "state_id": 5232,
+    "state_code": "ST",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.14560000",
+    "longitude": "-7.20980000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153750,
+    "name": "Sunda",
+    "state_id": 5232,
+    "state_code": "ST",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.13450000",
+    "longitude": "-7.09870000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153745,
+    "name": "Tórshavn",
+    "state_id": 5232,
+    "state_code": "ST",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.00000000",
+    "longitude": "-7.00000000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153755,
+    "name": "Vestmanna",
+    "state_id": 5232,
+    "state_code": "ST",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.15670000",
+    "longitude": "-7.23450000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  }
+]

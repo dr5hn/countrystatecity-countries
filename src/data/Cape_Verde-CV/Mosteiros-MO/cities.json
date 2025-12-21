@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21992,
+    "name": "Igreja",
+    "state_id": 2987,
+    "state_code": "MO",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.03389000",
+    "longitude": "-24.32500000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

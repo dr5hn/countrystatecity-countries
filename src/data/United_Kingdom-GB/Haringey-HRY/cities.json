@@ -1,0 +1,28 @@
+[
+  {
+    "id": 49180,
+    "name": "Crouch End",
+    "state_id": 2306,
+    "state_code": "HRY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.57971000",
+    "longitude": "-0.12373000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49815,
+    "name": "Harringay",
+    "state_id": 2306,
+    "state_code": "HRY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.58240000",
+    "longitude": "-0.09956000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

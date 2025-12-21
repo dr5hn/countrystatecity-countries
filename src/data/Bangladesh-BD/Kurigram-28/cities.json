@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153899,
+    "name": "Kurigram",
+    "state_id": 5502,
+    "state_code": "28",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "25.80827220",
+    "longitude": "89.00915030",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

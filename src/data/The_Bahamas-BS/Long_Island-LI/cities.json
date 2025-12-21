@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15689,
+    "name": "Clarence Town",
+    "state_id": 3610,
+    "state_code": "LI",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "23.10000000",
+    "longitude": "-74.98333000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

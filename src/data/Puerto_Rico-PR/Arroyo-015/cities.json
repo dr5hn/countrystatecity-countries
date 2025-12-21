@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153556,
+    "name": "Arroyo",
+    "state_id": 5141,
+    "state_code": "015",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "17.99642200",
+    "longitude": "-66.09248790",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

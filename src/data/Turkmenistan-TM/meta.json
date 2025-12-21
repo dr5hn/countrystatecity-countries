@@ -1,0 +1,51 @@
+{
+  "id": 226,
+  "name": "Turkmenistan",
+  "iso2": "TM",
+  "iso3": "TKM",
+  "numeric_code": "795",
+  "phonecode": "993",
+  "capital": "Ashgabat",
+  "currency": "TMT",
+  "currency_name": "Turkmenistan manat",
+  "currency_symbol": "T",
+  "tld": ".tm",
+  "native": "Türkmenistan",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "nationality": "Turkmen",
+  "latitude": "40.00000000",
+  "longitude": "60.00000000",
+  "emoji": "🇹🇲",
+  "emojiU": "U+1F1F9 U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Asia/Ashgabat",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TMT",
+      "tzName": "Turkmenistan Time"
+    }
+  ],
+  "translations": {
+    "br": "Turkmenistan",
+    "ko": "투르크메니스탄",
+    "pt-BR": "Turcomenistão",
+    "pt": "Turquemenistão",
+    "nl": "Turkmenistan",
+    "hr": "Turkmenistan",
+    "fa": "ترکمنستان",
+    "de": "Turkmenistan",
+    "es": "Turkmenistán",
+    "fr": "Turkménistan",
+    "ja": "トルクメニスタン",
+    "it": "Turkmenistan",
+    "zh-CN": "土库曼斯坦",
+    "tr": "Türkmenistan",
+    "ru": "Туркменистан",
+    "uk": "Туркменістан",
+    "pl": "Turkmenistan",
+    "hi": "तुर्कमेनिस्तान",
+    "ar": "تركمانستان"
+  }
+}

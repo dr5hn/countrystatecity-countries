@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "name": "Austria",
+  "iso2": "AT",
+  "iso3": "AUT",
+  "numeric_code": "040",
+  "phonecode": "43",
+  "capital": "Vienna",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".at",
+  "native": "Österreich",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "nationality": "Austrian",
+  "latitude": "47.33333333",
+  "longitude": "13.33333333",
+  "emoji": "🇦🇹",
+  "emojiU": "U+1F1E6 U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "Europe/Vienna",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Aostria",
+    "ko": "오스트리아",
+    "pt-BR": "áustria",
+    "pt": "áustria",
+    "nl": "Oostenrijk",
+    "hr": "Austrija",
+    "fa": "اتریش",
+    "de": "Österreich",
+    "es": "Austria",
+    "fr": "Autriche",
+    "ja": "オーストリア",
+    "it": "Austria",
+    "zh-CN": "奥地利",
+    "tr": "Avusturya",
+    "ru": "Австрия",
+    "uk": "Австрія",
+    "pl": "Austria",
+    "hi": "ऑस्ट्रिया",
+    "ar": "النمسا"
+  }
+}

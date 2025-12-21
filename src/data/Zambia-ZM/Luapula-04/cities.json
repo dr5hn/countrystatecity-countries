@@ -1,0 +1,67 @@
+[
+  {
+    "id": 131357,
+    "name": "Kawambwa",
+    "state_id": 1987,
+    "state_code": "04",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-9.79150000",
+    "longitude": "29.07913000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131368,
+    "name": "Mansa",
+    "state_id": 1987,
+    "state_code": "04",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-11.19976000",
+    "longitude": "28.89431000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131382,
+    "name": "Mwense",
+    "state_id": 1987,
+    "state_code": "04",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-10.38447000",
+    "longitude": "28.69800000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131387,
+    "name": "Nchelenge",
+    "state_id": 1987,
+    "state_code": "04",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-9.34506000",
+    "longitude": "28.73396000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131391,
+    "name": "Samfya",
+    "state_id": 1987,
+    "state_code": "04",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-11.36491000",
+    "longitude": "29.55652000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  }
+]

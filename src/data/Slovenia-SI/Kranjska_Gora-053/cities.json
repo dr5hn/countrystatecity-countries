@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104151,
+    "name": "Kranjska Gora",
+    "state_id": 4340,
+    "state_code": "053",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.45689000",
+    "longitude": "13.77824000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104194,
+    "name": "Mojstrana",
+    "state_id": 4340,
+    "state_code": "053",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.42383000",
+    "longitude": "13.87520000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

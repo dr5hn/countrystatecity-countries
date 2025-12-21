@@ -1,0 +1,15 @@
+[
+  {
+    "id": 22003,
+    "name": "Sal Rei",
+    "state_id": 2999,
+    "state_code": "BV",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "16.17611000",
+    "longitude": "-22.91722000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 107281,
+    "name": "Banaz",
+    "state_id": 2201,
+    "state_code": "64",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.73707000",
+    "longitude": "29.75194000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107629,
+    "name": "Eşme",
+    "state_id": 2201,
+    "state_code": "64",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.39976000",
+    "longitude": "28.96905000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107894,
+    "name": "Karahallı",
+    "state_id": 2201,
+    "state_code": "64",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.32083000",
+    "longitude": "29.53028000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108183,
+    "name": "Merkez",
+    "state_id": 2201,
+    "state_code": "64",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.68463000",
+    "longitude": "29.29455000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108474,
+    "name": "Sivaslı",
+    "state_id": 2201,
+    "state_code": "64",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.49944000",
+    "longitude": "29.68361000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108621,
+    "name": "Ulubey",
+    "state_id": 2201,
+    "state_code": "64",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.41987000",
+    "longitude": "29.29129000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

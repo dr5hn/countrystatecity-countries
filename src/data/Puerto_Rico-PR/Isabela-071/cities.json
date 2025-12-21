@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153585,
+    "name": "Isabela",
+    "state_id": 5170,
+    "state_code": "071",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "16.97537580",
+    "longitude": "121.81070790",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

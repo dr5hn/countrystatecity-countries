@@ -1,0 +1,67 @@
+[
+  {
+    "id": 130067,
+    "name": "Ciudad Bolívar",
+    "state_id": 2039,
+    "state_code": "F",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.12923000",
+    "longitude": "-63.54086000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130068,
+    "name": "Ciudad Guayana",
+    "state_id": 2039,
+    "state_code": "F",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.35122000",
+    "longitude": "-62.64102000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130119,
+    "name": "Municipio Padre Pedro Chien",
+    "state_id": 2039,
+    "state_code": "F",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.02455000",
+    "longitude": "-61.88187000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130152,
+    "name": "Santa Elena de Uairén",
+    "state_id": 2039,
+    "state_code": "F",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "4.60226000",
+    "longitude": "-61.11025000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130164,
+    "name": "Upata",
+    "state_id": 2039,
+    "state_code": "F",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.01620000",
+    "longitude": "-62.40561000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

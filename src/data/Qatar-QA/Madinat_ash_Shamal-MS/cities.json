@@ -1,0 +1,41 @@
+[
+  {
+    "id": 89862,
+    "name": "Ar Ruways",
+    "state_id": 3180,
+    "state_code": "MS",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "26.13978000",
+    "longitude": "51.21493000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  },
+  {
+    "id": 89866,
+    "name": "Fuwayriţ",
+    "state_id": 3180,
+    "state_code": "MS",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "26.02565000",
+    "longitude": "51.36971000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  },
+  {
+    "id": 89867,
+    "name": "Madīnat ash Shamāl",
+    "state_id": 3180,
+    "state_code": "MS",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "26.12933000",
+    "longitude": "51.20090000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65021,
+    "name": "Srŏk Svay Chrŭm",
+    "state_id": 3972,
+    "state_code": "20",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.11160000",
+    "longitude": "105.69814000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65036,
+    "name": "Svay Rieng",
+    "state_id": 3972,
+    "state_code": "20",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.08785000",
+    "longitude": "105.79935000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

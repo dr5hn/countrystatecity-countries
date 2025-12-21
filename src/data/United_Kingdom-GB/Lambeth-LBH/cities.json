@@ -1,0 +1,28 @@
+[
+  {
+    "id": 49011,
+    "name": "City of London",
+    "state_id": 2396,
+    "state_code": "LBH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.51279000",
+    "longitude": "-0.09184000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50229,
+    "name": "Lambeth",
+    "state_id": 2396,
+    "state_code": "LBH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.49635000",
+    "longitude": "-0.11152000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

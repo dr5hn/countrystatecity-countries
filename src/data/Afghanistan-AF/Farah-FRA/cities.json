@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66,
+    "name": "Farah",
+    "state_id": 3899,
+    "state_code": "FRA",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.37451000",
+    "longitude": "62.11638000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31005,
+    "name": "Colihaut",
+    "state_id": 4081,
+    "state_code": "11",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.48478000",
+    "longitude": "-61.46215000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  }
+]

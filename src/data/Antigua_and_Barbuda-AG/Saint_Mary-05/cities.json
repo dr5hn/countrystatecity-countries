@@ -1,0 +1,15 @@
+[
+  {
+    "id": 143,
+    "name": "Bolands",
+    "state_id": 3707,
+    "state_code": "05",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.06565000",
+    "longitude": "-61.87466000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  }
+]

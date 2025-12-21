@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66551,
+    "name": "Fish Town",
+    "state_id": 3038,
+    "state_code": "RG",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "5.19739000",
+    "longitude": "-7.87579000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

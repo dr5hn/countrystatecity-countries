@@ -1,0 +1,80 @@
+[
+  {
+    "id": 149098,
+    "name": "Bunkpurugu-Nyakpanduri",
+    "state_id": 4960,
+    "state_code": "NE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.46609170",
+    "longitude": "-0.22711950",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149099,
+    "name": "Chereponi",
+    "state_id": 4960,
+    "state_code": "NE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.13827720",
+    "longitude": "0.28242580",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149100,
+    "name": "East Mamprusi",
+    "state_id": 4960,
+    "state_code": "NE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.42931860",
+    "longitude": "-0.53078850",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149101,
+    "name": "Mamprugu-Moagduri",
+    "state_id": 4960,
+    "state_code": "NE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.23290000",
+    "longitude": "-1.28360000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149102,
+    "name": "West Mamprusi",
+    "state_id": 4960,
+    "state_code": "NE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.29906060",
+    "longitude": "-1.36750100",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 149103,
+    "name": "Yunyoo-Nasuan",
+    "state_id": 4960,
+    "state_code": "NE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.48400000",
+    "longitude": "-0.00900000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  }
+]

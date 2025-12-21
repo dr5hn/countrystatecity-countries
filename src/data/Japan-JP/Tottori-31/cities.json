@@ -1,0 +1,67 @@
+[
+  {
+    "id": 63867,
+    "name": "Kurayoshi-shi",
+    "state_id": 850,
+    "state_code": "31",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.39110000",
+    "longitude": "133.74577000",
+    "native": null,
+    "timezone": "Asia/Tokyo",
+    "translations": {}
+  },
+  {
+    "id": 64262,
+    "name": "Sakaiminato",
+    "state_id": 850,
+    "state_code": "31",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.53774000",
+    "longitude": "133.23094000",
+    "native": null,
+    "timezone": "Asia/Tokyo",
+    "translations": {}
+  },
+  {
+    "id": 64263,
+    "name": "Sakaiminato Shi",
+    "state_id": 850,
+    "state_code": "31",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.52034000",
+    "longitude": "133.22704000",
+    "native": null,
+    "timezone": "Asia/Tokyo",
+    "translations": {}
+  },
+  {
+    "id": 64519,
+    "name": "Tottori-shi",
+    "state_id": 850,
+    "state_code": "31",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.43255000",
+    "longitude": "134.15576000",
+    "native": null,
+    "timezone": "Asia/Tokyo",
+    "translations": {}
+  },
+  {
+    "id": 64676,
+    "name": "Yonago Shi",
+    "state_id": 850,
+    "state_code": "31",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.43486000",
+    "longitude": "133.35873000",
+    "native": null,
+    "timezone": "Asia/Tokyo",
+    "translations": {}
+  }
+]

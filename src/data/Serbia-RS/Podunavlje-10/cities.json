@@ -1,0 +1,54 @@
+[
+  {
+    "id": 97281,
+    "name": "Lugavčina",
+    "state_id": 3741,
+    "state_code": "10",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.52314000",
+    "longitude": "21.07083000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97382,
+    "name": "Smederevo",
+    "state_id": 3741,
+    "state_code": "10",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.66436000",
+    "longitude": "20.92763000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97383,
+    "name": "Smederevska Palanka",
+    "state_id": 3741,
+    "state_code": "10",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.36548000",
+    "longitude": "20.95885000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155074,
+    "name": "Velika Plana",
+    "state_id": 3741,
+    "state_code": "10",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.32578760",
+    "longitude": "20.97032280",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

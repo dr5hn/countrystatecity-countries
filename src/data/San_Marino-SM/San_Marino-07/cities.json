@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104700,
+    "name": "San Marino",
+    "state_id": 58,
+    "state_code": "07",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.93667000",
+    "longitude": "12.44639000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

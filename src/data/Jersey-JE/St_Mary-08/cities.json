@@ -1,0 +1,28 @@
+[
+  {
+    "id": 154130,
+    "name": "Vingtaine du Nord",
+    "state_id": 5316,
+    "state_code": "08",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.24426390",
+    "longitude": "-2.18082260",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154129,
+    "name": "Vingtaine du Sud",
+    "state_id": 5316,
+    "state_code": "08",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23404250",
+    "longitude": "-2.16730840",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67580,
+    "name": "Сопиште",
+    "state_id": 719,
+    "state_code": "812",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.95472000",
+    "longitude": "21.42750000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

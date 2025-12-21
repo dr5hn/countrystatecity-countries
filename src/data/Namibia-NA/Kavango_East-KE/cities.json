@@ -1,0 +1,15 @@
+[
+  {
+    "id": 76664,
+    "name": "Rundu",
+    "state_id": 36,
+    "state_code": "KE",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-17.93333000",
+    "longitude": "19.76667000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67525,
+    "name": "Shtip",
+    "state_id": 661,
+    "state_code": "211",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.74583000",
+    "longitude": "22.19583000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 64939,
+    "name": "Baribour",
+    "state_id": 3979,
+    "state_code": "4",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.43000000",
+    "longitude": "104.47000000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64945,
+    "name": "Kampong Chhnang",
+    "state_id": 3979,
+    "state_code": "4",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.26000000",
+    "longitude": "104.67000000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64974,
+    "name": "Rolea B'ier",
+    "state_id": 3979,
+    "state_code": "4",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.21000000",
+    "longitude": "104.61000000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64997,
+    "name": "Srŏk Chol Kiri",
+    "state_id": 3979,
+    "state_code": "4",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.15861000",
+    "longitude": "104.82287000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65019,
+    "name": "Srŏk Sameakki Mean Chey",
+    "state_id": 3979,
+    "state_code": "4",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.86788000",
+    "longitude": "104.55549000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

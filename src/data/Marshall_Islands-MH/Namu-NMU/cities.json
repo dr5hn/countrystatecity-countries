@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160088,
+    "name": "Namu",
+    "state_id": 5661,
+    "state_code": "NMU",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "7.98333333",
+    "longitude": "168.17361111",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

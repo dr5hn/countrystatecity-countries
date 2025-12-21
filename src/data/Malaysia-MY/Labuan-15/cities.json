@@ -1,0 +1,15 @@
+[
+  {
+    "id": 76511,
+    "name": "Labuan",
+    "state_id": 1935,
+    "state_code": "15",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "5.28028000",
+    "longitude": "115.24750000",
+    "native": null,
+    "timezone": "Asia/Kuala_Lumpur",
+    "translations": {}
+  }
+]

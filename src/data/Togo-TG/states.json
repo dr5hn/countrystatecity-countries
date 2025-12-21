@@ -1,0 +1,72 @@
+[
+  {
+    "id": 2575,
+    "name": "Centrale",
+    "country_id": 220,
+    "country_code": "TG",
+    "fips_code": null,
+    "iso2": "C",
+    "type": "region",
+    "latitude": "8.60711300",
+    "longitude": "1.04585540",
+    "native": "Central",
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 2579,
+    "name": "Kara",
+    "country_id": 220,
+    "country_code": "TG",
+    "fips_code": null,
+    "iso2": "K",
+    "type": "region",
+    "latitude": "9.54111100",
+    "longitude": "0.78760180",
+    "native": "Kara",
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 2576,
+    "name": "Maritime",
+    "country_id": 220,
+    "country_code": "TG",
+    "fips_code": null,
+    "iso2": "M",
+    "type": "region",
+    "latitude": "6.51751770",
+    "longitude": "1.20458050",
+    "native": "Maritime",
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 2577,
+    "name": "Plateaux",
+    "country_id": 220,
+    "country_code": "TG",
+    "fips_code": null,
+    "iso2": "P",
+    "type": "region",
+    "latitude": "7.45050100",
+    "longitude": "1.08927020",
+    "native": "Plateaux",
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 2578,
+    "name": "Savanes",
+    "country_id": 220,
+    "country_code": "TG",
+    "fips_code": null,
+    "iso2": "S",
+    "type": "region",
+    "latitude": "10.51155900",
+    "longitude": "0.46537510",
+    "native": "Savanes",
+    "timezone": "Africa/Lome",
+    "translations": {}
+  }
+]

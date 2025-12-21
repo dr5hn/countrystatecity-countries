@@ -1,0 +1,80 @@
+[
+  {
+    "id": 155090,
+    "name": "Blace",
+    "state_id": 3718,
+    "state_code": "21",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.29874190",
+    "longitude": "21.24844850",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97452,
+    "name": "Ðurići",
+    "state_id": 3718,
+    "state_code": "21",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.82533000",
+    "longitude": "19.41233000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97265,
+    "name": "Kupinovo",
+    "state_id": 3718,
+    "state_code": "21",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.70708000",
+    "longitude": "20.04959000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155092,
+    "name": "Kuršumlija",
+    "state_id": 3718,
+    "state_code": "21",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.13784280",
+    "longitude": "21.24309210",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97349,
+    "name": "Prokuplje",
+    "state_id": 3718,
+    "state_code": "21",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.23417000",
+    "longitude": "21.58806000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155091,
+    "name": "Žitorađa",
+    "state_id": 3718,
+    "state_code": "21",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.18492750",
+    "longitude": "21.61641320",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

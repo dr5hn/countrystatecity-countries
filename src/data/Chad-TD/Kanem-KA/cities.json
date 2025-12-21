@@ -1,0 +1,15 @@
+[
+  {
+    "id": 105145,
+    "name": "Mao",
+    "state_id": 3588,
+    "state_code": "KA",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "14.12116000",
+    "longitude": "15.31030000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

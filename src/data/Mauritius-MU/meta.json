@@ -1,0 +1,51 @@
+{
+  "id": 140,
+  "name": "Mauritius",
+  "iso2": "MU",
+  "iso3": "MUS",
+  "numeric_code": "480",
+  "phonecode": "230",
+  "capital": "Port Louis",
+  "currency": "MUR",
+  "currency_name": "Mauritian rupee",
+  "currency_symbol": "₨",
+  "tld": ".mu",
+  "native": "Maurice",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Mauritian",
+  "latitude": "-20.28333333",
+  "longitude": "57.55000000",
+  "emoji": "🇲🇺",
+  "emojiU": "U+1F1F2 U+1F1FA",
+  "timezones": [
+    {
+      "zoneName": "Indian/Mauritius",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "MUT",
+      "tzName": "Mauritius Time"
+    }
+  ],
+  "translations": {
+    "br": "Moris",
+    "ko": "모리셔스",
+    "pt-BR": "Maurício",
+    "pt": "Maurícia",
+    "nl": "Mauritius",
+    "hr": "Mauricijus",
+    "fa": "موریس",
+    "de": "Mauritius",
+    "es": "Mauricio",
+    "fr": "Île Maurice",
+    "ja": "モーリシャス",
+    "it": "Mauritius",
+    "zh-CN": "毛里求斯",
+    "tr": "Morityus",
+    "ru": "Маврикий",
+    "uk": "Маврикій",
+    "pl": "Mauritius",
+    "hi": "मॉरीशस",
+    "ar": "موريشيوس"
+  }
+}

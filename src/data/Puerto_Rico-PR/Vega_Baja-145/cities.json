@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153622,
+    "name": "Vega Baja",
+    "state_id": 5207,
+    "state_code": "145",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.44614590",
+    "longitude": "-66.40419670",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

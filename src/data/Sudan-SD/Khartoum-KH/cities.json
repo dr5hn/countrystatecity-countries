@@ -1,0 +1,28 @@
+[
+  {
+    "id": 102957,
+    "name": "Khartoum",
+    "state_id": 881,
+    "state_code": "KH",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "15.55177000",
+    "longitude": "32.53241000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  },
+  {
+    "id": 102967,
+    "name": "Omdurman",
+    "state_id": 881,
+    "state_code": "KH",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "15.64453000",
+    "longitude": "32.47773000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  }
+]

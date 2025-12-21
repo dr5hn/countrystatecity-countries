@@ -1,0 +1,51 @@
+{
+  "id": 122,
+  "name": "Lesotho",
+  "iso2": "LS",
+  "iso3": "LSO",
+  "numeric_code": "426",
+  "phonecode": "266",
+  "capital": "Maseru",
+  "currency": "LSL",
+  "currency_name": "Lesotho loti",
+  "currency_symbol": "L",
+  "tld": ".ls",
+  "native": "Lesotho",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "nationality": "Basotho",
+  "latitude": "-29.50000000",
+  "longitude": "28.50000000",
+  "emoji": "🇱🇸",
+  "emojiU": "U+1F1F1 U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Africa/Maseru",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "SAST",
+      "tzName": "South African Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Lesotho",
+    "ko": "레소토",
+    "pt-BR": "Lesoto",
+    "pt": "Lesoto",
+    "nl": "Lesotho",
+    "hr": "Lesoto",
+    "fa": "لسوتو",
+    "de": "Lesotho",
+    "es": "Lesotho",
+    "fr": "Lesotho",
+    "ja": "レソト",
+    "it": "Lesotho",
+    "zh-CN": "莱索托",
+    "tr": "Lesotho",
+    "ru": "Лесото",
+    "uk": "Лесото",
+    "pl": "Lesotho",
+    "hi": "लिसोटो",
+    "ar": "ليسوتو"
+  }
+}

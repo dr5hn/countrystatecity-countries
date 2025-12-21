@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9777,
+    "name": "Rutana",
+    "state_id": 3189,
+    "state_code": "RT",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.92790000",
+    "longitude": "29.99200000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

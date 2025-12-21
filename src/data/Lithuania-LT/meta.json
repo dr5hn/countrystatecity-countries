@@ -1,0 +1,51 @@
+{
+  "id": 126,
+  "name": "Lithuania",
+  "iso2": "LT",
+  "iso3": "LTU",
+  "numeric_code": "440",
+  "phonecode": "370",
+  "capital": "Vilnius",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".lt",
+  "native": "Lietuva",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Lithuanian",
+  "latitude": "56.00000000",
+  "longitude": "24.00000000",
+  "emoji": "🇱🇹",
+  "emojiU": "U+1F1F1 U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "Europe/Vilnius",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Lituania",
+    "ko": "리투아니아",
+    "pt-BR": "Lituânia",
+    "pt": "Lituânia",
+    "nl": "Litouwen",
+    "hr": "Litva",
+    "fa": "لیتوانی",
+    "de": "Litauen",
+    "es": "Lituania",
+    "fr": "Lituanie",
+    "ja": "リトアニア",
+    "it": "Lituania",
+    "zh-CN": "立陶宛",
+    "tr": "Litvanya",
+    "ru": "Литва",
+    "uk": "Литва",
+    "pl": "Litwa",
+    "hi": "लिथुआनिया",
+    "ar": "ليتوانيا"
+  }
+}

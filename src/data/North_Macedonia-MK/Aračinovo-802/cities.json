@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67574,
+    "name": "Арачиново",
+    "state_id": 656,
+    "state_code": "802",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.02639000",
+    "longitude": "21.56194000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

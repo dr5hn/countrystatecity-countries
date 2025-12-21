@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160136,
+    "name": "Trindade",
+    "state_id": 5733,
+    "state_code": "06",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "0.29667000",
+    "longitude": "6.68139000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

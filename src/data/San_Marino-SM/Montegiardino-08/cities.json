@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104698,
+    "name": "Monte Giardino",
+    "state_id": 63,
+    "state_code": "08",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.90878000",
+    "longitude": "12.48201000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

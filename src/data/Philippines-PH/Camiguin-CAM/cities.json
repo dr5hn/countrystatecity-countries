@@ -1,0 +1,67 @@
+[
+  {
+    "id": 82206,
+    "name": "Catarman",
+    "state_id": 1285,
+    "state_code": "CAM",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.17776630",
+    "longitude": "124.62218990",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154502,
+    "name": "Guinsiliban",
+    "state_id": 1285,
+    "state_code": "CAM",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.10904250",
+    "longitude": "124.73748100",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83363,
+    "name": "Mahinog",
+    "state_id": 1285,
+    "state_code": "CAM",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.16437120",
+    "longitude": "124.69769550",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83472,
+    "name": "Mambajao",
+    "state_id": 1285,
+    "state_code": "CAM",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.21766480",
+    "longitude": "124.62400980",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 84386,
+    "name": "Sagay",
+    "state_id": 1285,
+    "state_code": "CAM",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.12832000",
+    "longitude": "124.69581030",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

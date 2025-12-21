@@ -1,0 +1,41 @@
+[
+  {
+    "id": 79,
+    "name": "Kabul",
+    "state_id": 3902,
+    "state_code": "KAB",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.52813000",
+    "longitude": "69.17233000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 99,
+    "name": "Mīr Bachah Kōṯ",
+    "state_id": 3902,
+    "state_code": "KAB",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.74999000",
+    "longitude": "69.11899000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 103,
+    "name": "Paghmān",
+    "state_id": 3902,
+    "state_code": "KAB",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.58787000",
+    "longitude": "68.95091000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

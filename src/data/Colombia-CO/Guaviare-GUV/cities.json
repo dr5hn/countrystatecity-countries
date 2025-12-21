@@ -1,0 +1,54 @@
+[
+  {
+    "id": 20627,
+    "name": "Calamar",
+    "state_id": 2888,
+    "state_code": "GUV",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "1.95960000",
+    "longitude": "-72.65315000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 20823,
+    "name": "El Retorno",
+    "state_id": 2888,
+    "state_code": "GUV",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "2.33022000",
+    "longitude": "-72.62765000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 21083,
+    "name": "Miraflores",
+    "state_id": 2888,
+    "state_code": "GUV",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "1.33667000",
+    "longitude": "-71.95111000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 21370,
+    "name": "San José del Guaviare",
+    "state_id": 2888,
+    "state_code": "GUV",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "2.57286000",
+    "longitude": "-72.64591000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  }
+]

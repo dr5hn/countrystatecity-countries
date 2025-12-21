@@ -1,0 +1,54 @@
+[
+  {
+    "id": 17226,
+    "name": "Bandundu",
+    "state_id": 2759,
+    "state_code": "KL",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-3.31687000",
+    "longitude": "17.38063000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  },
+  {
+    "id": 17237,
+    "name": "Bulungu",
+    "state_id": 2759,
+    "state_code": "KL",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-4.54437000",
+    "longitude": "18.60364000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  },
+  {
+    "id": 17261,
+    "name": "Kikwit",
+    "state_id": 2759,
+    "state_code": "KL",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-5.04098000",
+    "longitude": "18.81619000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  },
+  {
+    "id": 17276,
+    "name": "Mangai",
+    "state_id": 2759,
+    "state_code": "KL",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-4.02328000",
+    "longitude": "19.53385000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  }
+]

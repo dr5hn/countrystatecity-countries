@@ -1,0 +1,28 @@
+[
+  {
+    "id": 64803,
+    "name": "Kihancha",
+    "state_id": 190,
+    "state_code": "27",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.19347000",
+    "longitude": "34.61967000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64836,
+    "name": "Migori",
+    "state_id": 190,
+    "state_code": "27",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.06343000",
+    "longitude": "34.47313000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

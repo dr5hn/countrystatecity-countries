@@ -1,0 +1,15 @@
+[
+  {
+    "id": 10,
+    "name": "les Escaldes",
+    "state_id": 492,
+    "state_code": "08",
+    "country_id": 6,
+    "country_code": "AD",
+    "latitude": "42.50729000",
+    "longitude": "1.53414000",
+    "native": null,
+    "timezone": "Europe/Andorra",
+    "translations": {}
+  }
+]

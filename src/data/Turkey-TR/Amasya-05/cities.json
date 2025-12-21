@@ -1,0 +1,93 @@
+[
+  {
+    "id": 107716,
+    "name": "Göynücek",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.39917000",
+    "longitude": "35.52500000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107737,
+    "name": "Gümüşhacıköy",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.87306000",
+    "longitude": "35.21472000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107781,
+    "name": "Hamamözü",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.79539000",
+    "longitude": "35.03367000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108195,
+    "name": "Merkez",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.61939000",
+    "longitude": "35.87016000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108200,
+    "name": "Merzifon",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.88348000",
+    "longitude": "35.47116000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108500,
+    "name": "Suluova",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.83129000",
+    "longitude": "35.64788000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108554,
+    "name": "Taşova",
+    "state_id": 2161,
+    "state_code": "05",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.75972000",
+    "longitude": "36.32250000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

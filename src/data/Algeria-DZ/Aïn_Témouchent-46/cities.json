@@ -1,0 +1,67 @@
+[
+  {
+    "id": 31250,
+    "name": "Aïn Temouchent",
+    "state_id": 1122,
+    "state_code": "46",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.29749000",
+    "longitude": "-1.14037000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31265,
+    "name": "Beni Saf",
+    "state_id": 1122,
+    "state_code": "46",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.30099000",
+    "longitude": "-1.38226000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31329,
+    "name": "El Amria",
+    "state_id": 1122,
+    "state_code": "46",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.52439000",
+    "longitude": "-1.01577000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31340,
+    "name": "El Malah",
+    "state_id": 1122,
+    "state_code": "46",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.39137000",
+    "longitude": "-1.09238000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31351,
+    "name": "Hammam Bou Hadjar",
+    "state_id": 1122,
+    "state_code": "46",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.37889000",
+    "longitude": "-0.96778000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

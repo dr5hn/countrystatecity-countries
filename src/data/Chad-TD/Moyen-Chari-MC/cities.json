@@ -1,0 +1,28 @@
+[
+  {
+    "id": 105142,
+    "name": "Kyabé",
+    "state_id": 3570,
+    "state_code": "MC",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "9.45149000",
+    "longitude": "18.94493000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105156,
+    "name": "Sarh",
+    "state_id": 3570,
+    "state_code": "MC",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "9.14290000",
+    "longitude": "18.39230000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

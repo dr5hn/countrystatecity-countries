@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67517,
+    "name": "Rosoman",
+    "state_id": 691,
+    "state_code": "107",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.51671000",
+    "longitude": "21.94585000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

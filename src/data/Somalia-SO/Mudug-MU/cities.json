@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104796,
+    "name": "Gaalkacyo",
+    "state_id": 916,
+    "state_code": "MU",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "6.76972000",
+    "longitude": "47.43083000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104799,
+    "name": "Hobyo",
+    "state_id": 916,
+    "state_code": "MU",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "5.35050000",
+    "longitude": "48.52680000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104818,
+    "name": "Xarardheere",
+    "state_id": 916,
+    "state_code": "MU",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "4.65440000",
+    "longitude": "47.85750000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

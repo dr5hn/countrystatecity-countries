@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31388,
+    "name": "Mostaganem",
+    "state_id": 1140,
+    "state_code": "27",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.93115000",
+    "longitude": "0.08918000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

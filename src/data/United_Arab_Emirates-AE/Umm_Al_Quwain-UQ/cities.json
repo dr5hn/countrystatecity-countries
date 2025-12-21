@@ -1,0 +1,15 @@
+[
+  {
+    "id": 47,
+    "name": "Umm AL Quwain",
+    "state_id": 3392,
+    "state_code": "UQ",
+    "country_id": 231,
+    "country_code": "AE",
+    "latitude": "25.49326000",
+    "longitude": "55.73520000",
+    "native": null,
+    "timezone": "Asia/Dubai",
+    "translations": {}
+  }
+]

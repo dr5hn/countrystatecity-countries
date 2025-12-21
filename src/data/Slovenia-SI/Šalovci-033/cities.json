@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104341,
+    "name": "Šalovci",
+    "state_id": 4222,
+    "state_code": "033",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.82500000",
+    "longitude": "16.29806000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

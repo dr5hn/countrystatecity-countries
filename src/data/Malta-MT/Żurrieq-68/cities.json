@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67825,
+    "name": "Żurrieq",
+    "state_id": 76,
+    "state_code": "68",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.83111000",
+    "longitude": "14.47417000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

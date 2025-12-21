@@ -1,0 +1,51 @@
+{
+  "id": 209,
+  "name": "Sudan",
+  "iso2": "SD",
+  "iso3": "SDN",
+  "numeric_code": "729",
+  "phonecode": "249",
+  "capital": "Khartoum",
+  "currency": "SDG",
+  "currency_name": "Sudanese pound",
+  "currency_symbol": ".س.ج",
+  "tld": ".sd",
+  "native": "السودان",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "nationality": "Sudanese",
+  "latitude": "15.00000000",
+  "longitude": "30.00000000",
+  "emoji": "🇸🇩",
+  "emojiU": "U+1F1F8 U+1F1E9",
+  "timezones": [
+    {
+      "zoneName": "Africa/Khartoum",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EAT",
+      "tzName": "Eastern African Time"
+    }
+  ],
+  "translations": {
+    "br": "Soudan",
+    "ko": "수단",
+    "pt-BR": "Sudão",
+    "pt": "Sudão",
+    "nl": "Soedan",
+    "hr": "Sudan",
+    "fa": "سودان",
+    "de": "Sudan",
+    "es": "Sudán",
+    "fr": "Soudan",
+    "ja": "スーダン",
+    "it": "Sudan",
+    "zh-CN": "苏丹",
+    "tr": "Sudan",
+    "ru": "Судан",
+    "uk": "Судан",
+    "pl": "Sudan",
+    "hi": "सूडान",
+    "ar": "السودان"
+  }
+}

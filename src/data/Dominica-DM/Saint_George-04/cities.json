@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31013,
+    "name": "Roseau",
+    "state_id": 4079,
+    "state_code": "04",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.30174000",
+    "longitude": "-61.38808000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104088,
+    "name": "Divača",
+    "state_id": 4167,
+    "state_code": "019",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.68472000",
+    "longitude": "13.97028000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

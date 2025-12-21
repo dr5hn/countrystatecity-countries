@@ -1,0 +1,54 @@
+[
+  {
+    "id": 66493,
+    "name": "Kegalle",
+    "state_id": 2803,
+    "state_code": "9",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "7.25230000",
+    "longitude": "80.34360000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66494,
+    "name": "Kegalle District",
+    "state_id": 2803,
+    "state_code": "9",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "7.11670000",
+    "longitude": "80.33330000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66527,
+    "name": "Ratnapura",
+    "state_id": 2803,
+    "state_code": "9",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "6.68580000",
+    "longitude": "80.40360000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66528,
+    "name": "Ratnapura District",
+    "state_id": 2803,
+    "state_code": "9",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "6.58310000",
+    "longitude": "80.58330000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  }
+]

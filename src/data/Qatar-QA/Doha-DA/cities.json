@@ -1,0 +1,15 @@
+[
+  {
+    "id": 89864,
+    "name": "Doha",
+    "state_id": 3181,
+    "state_code": "DA",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "25.28545000",
+    "longitude": "51.53096000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  }
+]

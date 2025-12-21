@@ -1,0 +1,51 @@
+{
+  "id": 151,
+  "name": "Myanmar",
+  "iso2": "MM",
+  "iso3": "MMR",
+  "numeric_code": "104",
+  "phonecode": "95",
+  "capital": "Nay Pyi Taw",
+  "currency": "MMK",
+  "currency_name": "Burmese kyat",
+  "currency_symbol": "K",
+  "tld": ".mm",
+  "native": "မြန်မာ",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Burmese",
+  "latitude": "22.00000000",
+  "longitude": "98.00000000",
+  "emoji": "🇲🇲",
+  "emojiU": "U+1F1F2 U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Asia/Yangon",
+      "gmtOffset": 23400,
+      "gmtOffsetName": "UTC+06:30",
+      "abbreviation": "MMT",
+      "tzName": "Myanmar Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Myanmar",
+    "ko": "미얀마",
+    "pt-BR": "Myanmar",
+    "pt": "Myanmar",
+    "nl": "Myanmar",
+    "hr": "Mijanmar",
+    "fa": "میانمار",
+    "de": "Myanmar",
+    "es": "Myanmar",
+    "fr": "Myanmar",
+    "ja": "ミャンマー",
+    "it": "Birmania",
+    "zh-CN": "缅甸",
+    "tr": "Myanmar",
+    "ru": "Мьянма",
+    "uk": "М'янма",
+    "pl": "Birma",
+    "hi": "म्यांमार",
+    "ar": "ميانمار"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 66,
+  "name": "El Salvador",
+  "iso2": "SV",
+  "iso3": "SLV",
+  "numeric_code": "222",
+  "phonecode": "503",
+  "capital": "San Salvador",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".sv",
+  "native": "El Salvador",
+  "region": "Americas",
+  "subregion": "Central America",
+  "nationality": "Salvadoran",
+  "latitude": "13.83333333",
+  "longitude": "-88.91666666",
+  "emoji": "🇸🇻",
+  "emojiU": "U+1F1F8 U+1F1FB",
+  "timezones": [
+    {
+      "zoneName": "America/El_Salvador",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    }
+  ],
+  "translations": {
+    "br": "El Salvador",
+    "ko": "엘살바도르",
+    "pt-BR": "El Salvador",
+    "pt": "El Salvador",
+    "nl": "El Salvador",
+    "hr": "Salvador",
+    "fa": "السالوادور",
+    "de": "El Salvador",
+    "es": "El Salvador",
+    "fr": "Salvador",
+    "ja": "エルサルバドル",
+    "it": "El Salvador",
+    "zh-CN": "萨尔瓦多",
+    "tr": "El Salvador",
+    "ru": "Сальвадор",
+    "uk": "Сальвадор",
+    "pl": "Salwador",
+    "hi": "अल साल्वाडोर",
+    "ar": "السلفادور"
+  }
+}

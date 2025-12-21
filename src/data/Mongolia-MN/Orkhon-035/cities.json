@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67717,
+    "name": "Erdenet",
+    "state_id": 1966,
+    "state_code": "035",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "49.03333000",
+    "longitude": "104.08333000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

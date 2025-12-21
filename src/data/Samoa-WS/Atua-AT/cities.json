@@ -1,0 +1,54 @@
+[
+  {
+    "id": 130646,
+    "name": "Falefa",
+    "state_id": 4765,
+    "state_code": "AT",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.88695000",
+    "longitude": "-171.58805000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130650,
+    "name": "Lotofagā",
+    "state_id": 4765,
+    "state_code": "AT",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.97643000",
+    "longitude": "-171.85781000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130651,
+    "name": "Lufilufi",
+    "state_id": 4765,
+    "state_code": "AT",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.87449000",
+    "longitude": "-171.59857000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130659,
+    "name": "Solosolo",
+    "state_id": 4765,
+    "state_code": "AT",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.87504000",
+    "longitude": "-171.64181000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  }
+]

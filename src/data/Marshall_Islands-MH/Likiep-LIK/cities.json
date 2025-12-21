@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160084,
+    "name": "Likiep",
+    "state_id": 5655,
+    "state_code": "LIK",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "9.88498000",
+    "longitude": "169.14345000",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

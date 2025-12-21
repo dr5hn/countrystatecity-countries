@@ -1,0 +1,15 @@
+[
+  {
+    "id": 143913,
+    "name": "Nassau",
+    "state_id": 4881,
+    "state_code": "NP",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "25.06666667",
+    "longitude": "-77.33333333",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

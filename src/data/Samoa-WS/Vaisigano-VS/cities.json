@@ -1,0 +1,15 @@
+[
+  {
+    "id": 130645,
+    "name": "Asau",
+    "state_id": 4766,
+    "state_code": "VS",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.51963000",
+    "longitude": "-172.63784000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  }
+]

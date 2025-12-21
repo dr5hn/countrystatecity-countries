@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104209,
+    "name": "Odranci",
+    "state_id": 4320,
+    "state_code": "086",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.58667000",
+    "longitude": "16.28028000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

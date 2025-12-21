@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67815,
+    "name": "Valletta",
+    "state_id": 95,
+    "state_code": "60",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.89972000",
+    "longitude": "14.51472000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

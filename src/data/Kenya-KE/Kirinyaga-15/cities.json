@@ -1,0 +1,28 @@
+[
+  {
+    "id": 64801,
+    "name": "Kerugoya",
+    "state_id": 167,
+    "state_code": "15",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.49887000",
+    "longitude": "37.28031000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64866,
+    "name": "Sagana",
+    "state_id": 167,
+    "state_code": "15",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.66806000",
+    "longitude": "37.20875000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 40,
+  "name": "Cape Verde",
+  "iso2": "CV",
+  "iso3": "CPV",
+  "numeric_code": "132",
+  "phonecode": "238",
+  "capital": "Praia",
+  "currency": "CVE",
+  "currency_name": "Cape Verdean escudo",
+  "currency_symbol": "$",
+  "tld": ".cv",
+  "native": "Cabo Verde",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "nationality": "Verdean",
+  "latitude": "16.00000000",
+  "longitude": "-24.00000000",
+  "emoji": "🇨🇻",
+  "emojiU": "U+1F1E8 U+1F1FB",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Cape_Verde",
+      "gmtOffset": -3600,
+      "gmtOffsetName": "UTC-01:00",
+      "abbreviation": "CVT",
+      "tzName": "Cape Verde Time"
+    }
+  ],
+  "translations": {
+    "br": "Kab Glas",
+    "ko": "카보베르데",
+    "pt-BR": "Cabo Verde",
+    "pt": "Cabo Verde",
+    "nl": "Kaapverdië",
+    "hr": "Zelenortska Republika",
+    "fa": "کیپ ورد",
+    "de": "Kap Verde",
+    "es": "Cabo Verde",
+    "fr": "Cap Vert",
+    "ja": "カーボベルデ",
+    "it": "Capo Verde",
+    "zh-CN": "佛得角",
+    "tr": "Cabo Verde",
+    "ru": "Кабо-Верде",
+    "uk": "Кабо-Верде",
+    "pl": "Republika Zielonego Przylądka",
+    "hi": "ग्केप वर्ड",
+    "ar": "الرأس الأخضر"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64852,
+    "name": "Narok",
+    "state_id": 175,
+    "state_code": "33",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.08083000",
+    "longitude": "35.87111000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

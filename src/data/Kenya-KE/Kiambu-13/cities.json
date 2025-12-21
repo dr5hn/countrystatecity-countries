@@ -1,0 +1,54 @@
+[
+  {
+    "id": 64802,
+    "name": "Kiambu",
+    "state_id": 199,
+    "state_code": "13",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.17139000",
+    "longitude": "36.83556000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64805,
+    "name": "Kikuyu",
+    "state_id": 199,
+    "state_code": "13",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.24627000",
+    "longitude": "36.66291000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64817,
+    "name": "Limuru",
+    "state_id": 199,
+    "state_code": "13",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.11360000",
+    "longitude": "36.64205000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64874,
+    "name": "Thika",
+    "state_id": 199,
+    "state_code": "13",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.03326000",
+    "longitude": "37.06933000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

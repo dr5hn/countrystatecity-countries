@@ -1,0 +1,80 @@
+[
+  {
+    "id": 106912,
+    "name": "Al Marsá",
+    "state_id": 2554,
+    "state_code": "11",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.87818000",
+    "longitude": "10.32466000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106931,
+    "name": "Carthage",
+    "state_id": 2554,
+    "state_code": "11",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.85961000",
+    "longitude": "10.32978000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106975,
+    "name": "La Goulette",
+    "state_id": 2554,
+    "state_code": "11",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.81825000",
+    "longitude": "10.30520000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106976,
+    "name": "La Mohammedia",
+    "state_id": 2554,
+    "state_code": "11",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.67446000",
+    "longitude": "10.15633000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107023,
+    "name": "Sidi Bou Saïd",
+    "state_id": 2554,
+    "state_code": "11",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.86870000",
+    "longitude": "10.34174000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107039,
+    "name": "Tunis",
+    "state_id": 2554,
+    "state_code": "11",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.81897000",
+    "longitude": "10.16579000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

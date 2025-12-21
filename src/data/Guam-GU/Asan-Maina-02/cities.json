@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160258,
+    "name": "Asan-Maina Village",
+    "state_id": 5255,
+    "state_code": "02",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.47215000",
+    "longitude": "144.71654000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

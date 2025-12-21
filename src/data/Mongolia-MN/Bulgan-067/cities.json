@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67710,
+    "name": "Bulgan",
+    "state_id": 1961,
+    "state_code": "067",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.81250000",
+    "longitude": "103.53472000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

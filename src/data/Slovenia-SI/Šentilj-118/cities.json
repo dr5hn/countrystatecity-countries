@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104265,
+    "name": "Selnica ob Muri",
+    "state_id": 4324,
+    "state_code": "118",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.68333000",
+    "longitude": "15.70000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104345,
+    "name": "Šentilj v Slov. Goricah",
+    "state_id": 4324,
+    "state_code": "118",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.68167000",
+    "longitude": "15.64806000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

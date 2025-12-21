@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8056,
+    "name": "Basqal",
+    "state_id": 564,
+    "state_code": "ISM",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.75520000",
+    "longitude": "48.39104000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8210,
+    "name": "İsmayıllı",
+    "state_id": 564,
+    "state_code": "ISM",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.78485000",
+    "longitude": "48.15141000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

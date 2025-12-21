@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104787,
+    "name": "Cadale",
+    "state_id": 923,
+    "state_code": "SD",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "2.76030000",
+    "longitude": "46.32220000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104803,
+    "name": "Jawhar",
+    "state_id": 923,
+    "state_code": "SD",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "2.78087000",
+    "longitude": "45.50048000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104808,
+    "name": "Mahaddayweyne",
+    "state_id": 923,
+    "state_code": "SD",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "2.97260000",
+    "longitude": "45.53470000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

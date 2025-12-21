@@ -1,0 +1,15 @@
+[
+  {
+    "id": 76549,
+    "name": "Putrajaya",
+    "state_id": 1945,
+    "state_code": "16",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "2.93527000",
+    "longitude": "101.69112000",
+    "native": null,
+    "timezone": "Asia/Kuala_Lumpur",
+    "translations": {}
+  }
+]

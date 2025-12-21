@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8553,
+    "name": "Noakhali",
+    "state_id": 5520,
+    "state_code": "47",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "22.75000000",
+    "longitude": "91.16667000",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

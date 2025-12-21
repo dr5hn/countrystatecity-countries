@@ -1,0 +1,15 @@
+[
+  {
+    "id": 130642,
+    "name": "Sola",
+    "state_id": 4772,
+    "state_code": "TOB",
+    "country_id": 237,
+    "country_code": "VU",
+    "latitude": "-13.87611000",
+    "longitude": "167.55167000",
+    "native": null,
+    "timezone": "Pacific/Efate",
+    "translations": {}
+  }
+]

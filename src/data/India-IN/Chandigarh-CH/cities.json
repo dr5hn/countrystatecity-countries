@@ -1,0 +1,15 @@
+[
+  {
+    "id": 58190,
+    "name": "Chandigarh",
+    "state_id": 4031,
+    "state_code": "CH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "30.73629000",
+    "longitude": "76.78840000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  }
+]

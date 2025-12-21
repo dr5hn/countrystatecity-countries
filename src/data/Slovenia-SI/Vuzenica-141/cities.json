@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104323,
+    "name": "Vuzenica",
+    "state_id": 4226,
+    "state_code": "141",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.59639000",
+    "longitude": "15.16722000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

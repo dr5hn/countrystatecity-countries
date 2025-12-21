@@ -1,0 +1,51 @@
+{
+  "id": 133,
+  "name": "Maldives",
+  "iso2": "MV",
+  "iso3": "MDV",
+  "numeric_code": "462",
+  "phonecode": "960",
+  "capital": "Male",
+  "currency": "MVR",
+  "currency_name": "Maldivian rufiyaa",
+  "currency_symbol": "Rf",
+  "tld": ".mv",
+  "native": "Maldives",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "nationality": "Maldivian",
+  "latitude": "3.25000000",
+  "longitude": "73.00000000",
+  "emoji": "🇲🇻",
+  "emojiU": "U+1F1F2 U+1F1FB",
+  "timezones": [
+    {
+      "zoneName": "Indian/Maldives",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "MVT",
+      "tzName": "Maldives Time"
+    }
+  ],
+  "translations": {
+    "br": "Maldivez",
+    "ko": "몰디브",
+    "pt-BR": "Maldivas",
+    "pt": "Maldivas",
+    "nl": "Maldiven",
+    "hr": "Maldivi",
+    "fa": "مالدیو",
+    "de": "Malediven",
+    "es": "Maldivas",
+    "fr": "Maldives",
+    "ja": "モルディブ",
+    "it": "Maldive",
+    "zh-CN": "马尔代夫",
+    "tr": "Maldivler",
+    "ru": "Мальдивы",
+    "uk": "Мальдіви",
+    "pl": "Malediwy",
+    "hi": "मालदीव",
+    "ar": "جزر المالديف"
+  }
+}

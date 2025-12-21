@@ -1,0 +1,58 @@
+{
+  "id": 82,
+  "name": "Germany",
+  "iso2": "DE",
+  "iso3": "DEU",
+  "numeric_code": "276",
+  "phonecode": "49",
+  "capital": "Berlin",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".de",
+  "native": "Deutschland",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "nationality": "German",
+  "latitude": "51.00000000",
+  "longitude": "9.00000000",
+  "emoji": "🇩🇪",
+  "emojiU": "U+1F1E9 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Europe/Berlin",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    },
+    {
+      "zoneName": "Europe/Busingen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Alamagn",
+    "ko": "독일",
+    "pt-BR": "Alemanha",
+    "pt": "Alemanha",
+    "nl": "Duitsland",
+    "hr": "Njemačka",
+    "fa": "آلمان",
+    "de": "Deutschland",
+    "es": "Alemania",
+    "fr": "Allemagne",
+    "ja": "ドイツ",
+    "it": "Germania",
+    "zh-CN": "德国",
+    "tr": "Almanya",
+    "ru": "Германия",
+    "uk": "Німеччина",
+    "pl": "Niemcy",
+    "hi": "जर्मनी",
+    "ar": "ألمانيا"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67362,
+    "name": "Pljevlja",
+    "state_id": 20,
+    "state_code": "14",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "43.35670000",
+    "longitude": "19.35843000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

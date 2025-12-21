@@ -1,0 +1,93 @@
+[
+  {
+    "id": 81177,
+    "name": "Alabel",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.15485020",
+    "longitude": "125.21985580",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 82601,
+    "name": "Glan",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "5.75459120",
+    "longitude": "125.16704840",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 82891,
+    "name": "Kiamba",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "5.98155570",
+    "longitude": "124.52667650",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83259,
+    "name": "Maasim",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "5.95304260",
+    "longitude": "124.80343920",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83373,
+    "name": "Maitum",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.12012440",
+    "longitude": "124.33337500",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83406,
+    "name": "Malapatan",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "5.99861110",
+    "longitude": "125.23308450",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144025,
+    "name": "Malungon",
+    "state_id": 1277,
+    "state_code": "SAR",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.36024940",
+    "longitude": "124.96061910",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

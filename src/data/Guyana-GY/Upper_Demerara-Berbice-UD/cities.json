@@ -1,0 +1,15 @@
+[
+  {
+    "id": 53825,
+    "name": "Linden",
+    "state_id": 2763,
+    "state_code": "UD",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "6.00809000",
+    "longitude": "-58.30714000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "id": 102,
+  "name": "Indonesia",
+  "iso2": "ID",
+  "iso3": "IDN",
+  "numeric_code": "360",
+  "phonecode": "62",
+  "capital": "Jakarta",
+  "currency": "IDR",
+  "currency_name": "Indonesian rupiah",
+  "currency_symbol": "Rp",
+  "tld": ".id",
+  "native": "Indonesia",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Indonesian",
+  "latitude": "-5.00000000",
+  "longitude": "120.00000000",
+  "emoji": "🇮🇩",
+  "emojiU": "U+1F1EE U+1F1E9",
+  "timezones": [
+    {
+      "zoneName": "Asia/Jakarta",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "WIB",
+      "tzName": "Western Indonesian Time"
+    },
+    {
+      "zoneName": "Asia/Jayapura",
+      "gmtOffset": 32400,
+      "gmtOffsetName": "UTC+09:00",
+      "abbreviation": "WIT",
+      "tzName": "Eastern Indonesian Time"
+    },
+    {
+      "zoneName": "Asia/Makassar",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "WITA",
+      "tzName": "Central Indonesia Time"
+    },
+    {
+      "zoneName": "Asia/Pontianak",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "WIB",
+      "tzName": "Western Indonesian Time"
+    }
+  ],
+  "translations": {
+    "br": "Indonezia",
+    "ko": "인도네시아",
+    "pt-BR": "Indonésia",
+    "pt": "Indonésia",
+    "nl": "Indonesië",
+    "hr": "Indonezija",
+    "fa": "اندونزی",
+    "de": "Indonesien",
+    "es": "Indonesia",
+    "fr": "Indonésie",
+    "ja": "インドネシア",
+    "it": "Indonesia",
+    "zh-CN": "印度尼西亚",
+    "tr": "Endonezya",
+    "ru": "Индонезия",
+    "uk": "Індонезія",
+    "pl": "Indonezja",
+    "hi": "इंडोनेशिया",
+    "ar": "أندونيسيا"
+  }
+}

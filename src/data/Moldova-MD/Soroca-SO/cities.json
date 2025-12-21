@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67324,
+    "name": "Soroca",
+    "state_id": 4374,
+    "state_code": "SO",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "48.15659000",
+    "longitude": "28.28489000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

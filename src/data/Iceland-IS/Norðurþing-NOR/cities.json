@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135194,
+    "name": "Húsavík",
+    "state_id": 5589,
+    "state_code": "NOR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.04148000",
+    "longitude": "-17.33834000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

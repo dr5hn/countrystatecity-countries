@@ -1,0 +1,15 @@
+[
+  {
+    "id": 79949,
+    "name": "Sur",
+    "state_id": 3054,
+    "state_code": "SJ",
+    "country_id": 166,
+    "country_code": "OM",
+    "latitude": "22.56667000",
+    "longitude": "59.52889000",
+    "native": null,
+    "timezone": "Asia/Muscat",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48520,
+    "name": "Birkenhead",
+    "state_id": 2340,
+    "state_code": "LIV",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.39337000",
+    "longitude": "-3.01479000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50337,
+    "name": "Liverpool",
+    "state_id": 2340,
+    "state_code": "LIV",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.41058000",
+    "longitude": "-2.97794000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51732,
+    "name": "Wallasey",
+    "state_id": 2340,
+    "state_code": "LIV",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.42324000",
+    "longitude": "-3.06497000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

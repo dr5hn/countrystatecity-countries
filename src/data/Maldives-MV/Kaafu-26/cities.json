@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67928,
+    "name": "Guraidhoo",
+    "state_id": 2596,
+    "state_code": "26",
+    "country_id": 133,
+    "country_code": "MV",
+    "latitude": "3.90045000",
+    "longitude": "73.46623000",
+    "native": null,
+    "timezone": "Indian/Maldives",
+    "translations": {}
+  },
+  {
+    "id": 67930,
+    "name": "Hulhumale",
+    "state_id": 2596,
+    "state_code": "26",
+    "country_id": 133,
+    "country_code": "MV",
+    "latitude": "4.21169000",
+    "longitude": "73.54008000",
+    "native": null,
+    "timezone": "Indian/Maldives",
+    "translations": {}
+  },
+  {
+    "id": 67933,
+    "name": "Maafushi",
+    "state_id": 2596,
+    "state_code": "26",
+    "country_id": 133,
+    "country_code": "MV",
+    "latitude": "3.94231000",
+    "longitude": "73.49070000",
+    "native": null,
+    "timezone": "Indian/Maldives",
+    "translations": {}
+  },
+  {
+    "id": 67935,
+    "name": "Male",
+    "state_id": 2596,
+    "state_code": "26",
+    "country_id": 133,
+    "country_code": "MV",
+    "latitude": "4.17521000",
+    "longitude": "73.50916000",
+    "native": null,
+    "timezone": "Indian/Maldives",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 109010,
+    "name": "Hsinchu",
+    "state_id": 5705,
+    "state_code": "HSQ",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.80361000",
+    "longitude": "120.96861000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 160131,
+    "name": "Hukou",
+    "state_id": 5705,
+    "state_code": "HSQ",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.90000000",
+    "longitude": "121.05000000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 160130,
+    "name": "Zhubei",
+    "state_id": 5705,
+    "state_code": "HSQ",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.83333333",
+    "longitude": "121.01194444",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

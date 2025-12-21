@@ -1,0 +1,15 @@
+[
+  {
+    "id": 124,
+    "name": "Sidqābād",
+    "state_id": 3879,
+    "state_code": "KAP",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "35.02298000",
+    "longitude": "69.35112000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

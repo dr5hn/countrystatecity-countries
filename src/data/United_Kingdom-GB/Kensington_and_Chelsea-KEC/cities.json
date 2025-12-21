@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48435,
+    "name": "Bayswater",
+    "state_id": 2368,
+    "state_code": "KEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.51116000",
+    "longitude": "-0.18426000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48946,
+    "name": "Chelsea",
+    "state_id": 2368,
+    "state_code": "KEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.48755000",
+    "longitude": "-0.16936000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49738,
+    "name": "Greater London",
+    "state_id": 2368,
+    "state_code": "KEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50000000",
+    "longitude": "-0.16667000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

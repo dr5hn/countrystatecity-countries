@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17321,
+    "name": "Kaga Bandoro",
+    "state_id": 1253,
+    "state_code": "KB",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "6.98961000",
+    "longitude": "19.18744000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

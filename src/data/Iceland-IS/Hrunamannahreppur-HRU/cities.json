@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135188,
+    "name": "Hrunamannahreppur",
+    "state_id": 5576,
+    "state_code": "HRU",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.40944000",
+    "longitude": "-19.72237000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

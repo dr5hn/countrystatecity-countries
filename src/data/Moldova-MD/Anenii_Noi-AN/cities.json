@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67271,
+    "name": "Anenii Noi",
+    "state_id": 4368,
+    "state_code": "AN",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.87839000",
+    "longitude": "29.23483000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67337,
+    "name": "Varniţa",
+    "state_id": 4368,
+    "state_code": "AN",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.86606000",
+    "longitude": "29.46636000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

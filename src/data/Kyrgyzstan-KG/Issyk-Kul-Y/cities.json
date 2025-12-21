@@ -1,0 +1,93 @@
+[
+  {
+    "id": 64882,
+    "name": "Ak-Suu",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.49948000",
+    "longitude": "78.52702000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64887,
+    "name": "Balykchy",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.46017000",
+    "longitude": "76.18709000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64892,
+    "name": "Cholpon-Ata",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.64944000",
+    "longitude": "77.08225000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64901,
+    "name": "Kadzhi-Say",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.14107000",
+    "longitude": "77.17848000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64908,
+    "name": "Karakol",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.49068000",
+    "longitude": "78.39362000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64916,
+    "name": "Kyzyl-Suu",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.34211000",
+    "longitude": "78.00644000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64931,
+    "name": "Tyup",
+    "state_id": 1002,
+    "state_code": "Y",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.72760000",
+    "longitude": "78.36476000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  }
+]

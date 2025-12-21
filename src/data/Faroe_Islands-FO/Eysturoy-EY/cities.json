@@ -1,0 +1,80 @@
+[
+  {
+    "id": 153758,
+    "name": "Eiði",
+    "state_id": 5229,
+    "state_code": "EY",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.27890000",
+    "longitude": "-7.01230000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153748,
+    "name": "Eystur",
+    "state_id": 5229,
+    "state_code": "EY",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.15670000",
+    "longitude": "-6.82330000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153752,
+    "name": "Fuglafjørður",
+    "state_id": 5229,
+    "state_code": "EY",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.21010000",
+    "longitude": "-6.81230000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153754,
+    "name": "Nes",
+    "state_id": 5229,
+    "state_code": "EY",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.09870000",
+    "longitude": "-6.76540000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153747,
+    "name": "Runavík",
+    "state_id": 5229,
+    "state_code": "EY",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.13230000",
+    "longitude": "-6.78900000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153757,
+    "name": "Sjóvar",
+    "state_id": 5229,
+    "state_code": "EY",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.12340000",
+    "longitude": "-6.87650000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  }
+]

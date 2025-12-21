@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153949,
+    "name": "Kasaji",
+    "state_id": 4953,
+    "state_code": "LU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-10.38342000",
+    "longitude": "23.44987000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  },
+  {
+    "id": 153948,
+    "name": "Kolwezi",
+    "state_id": 4953,
+    "state_code": "LU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-10.71666700",
+    "longitude": "25.46666700",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

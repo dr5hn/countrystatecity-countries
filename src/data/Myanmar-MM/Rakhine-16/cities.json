@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67687,
+    "name": "Sittwe",
+    "state_id": 2138,
+    "state_code": "16",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "20.14624000",
+    "longitude": "92.89835000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 67413,
+    "name": "Dobarce",
+    "state_id": 668,
+    "state_code": "605",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.95530000",
+    "longitude": "21.08875000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67467,
+    "name": "Larce",
+    "state_id": 668,
+    "state_code": "605",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.93319000",
+    "longitude": "21.12628000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67522,
+    "name": "Sedlarevo",
+    "state_id": 668,
+    "state_code": "605",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.88306000",
+    "longitude": "21.12750000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67536,
+    "name": "Strimnica",
+    "state_id": 668,
+    "state_code": "605",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.96719000",
+    "longitude": "21.03598000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67563,
+    "name": "Zelino",
+    "state_id": 668,
+    "state_code": "605",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.98028000",
+    "longitude": "21.06417000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

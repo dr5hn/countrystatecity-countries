@@ -1,0 +1,15 @@
+[
+  {
+    "id": 48480,
+    "name": "Berwick-Upon-Tweed",
+    "state_id": 2504,
+    "state_code": "BOL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.76536000",
+    "longitude": "-2.01186000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

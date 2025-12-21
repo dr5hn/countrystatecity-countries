@@ -1,0 +1,15 @@
+[
+  {
+    "id": 108985,
+    "name": "Sangre Grande",
+    "state_id": 3361,
+    "state_code": "SGE",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.58705000",
+    "longitude": "-61.13008000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

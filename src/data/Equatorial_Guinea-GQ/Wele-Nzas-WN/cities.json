@@ -1,0 +1,80 @@
+[
+  {
+    "id": 52375,
+    "name": "Aconibe",
+    "state_id": 3440,
+    "state_code": "WN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.29683000",
+    "longitude": "10.93691000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52378,
+    "name": "Añisoc",
+    "state_id": 3440,
+    "state_code": "WN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.86580000",
+    "longitude": "10.76892000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52377,
+    "name": "Ayene",
+    "state_id": 3440,
+    "state_code": "WN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.85592000",
+    "longitude": "10.68994000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52389,
+    "name": "Mengomeyén",
+    "state_id": 3440,
+    "state_code": "WN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.69439000",
+    "longitude": "11.03422000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52391,
+    "name": "Mongomo",
+    "state_id": 3440,
+    "state_code": "WN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.62742000",
+    "longitude": "11.31346000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52394,
+    "name": "Nsok",
+    "state_id": 3440,
+    "state_code": "WN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.12985000",
+    "longitude": "11.26603000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  }
+]

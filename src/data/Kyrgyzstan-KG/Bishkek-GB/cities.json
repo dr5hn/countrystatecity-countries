@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64891,
+    "name": "Bishkek",
+    "state_id": 1001,
+    "state_code": "GB",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "42.87000000",
+    "longitude": "74.59000000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  }
+]

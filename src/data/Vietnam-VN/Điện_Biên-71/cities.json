@@ -1,0 +1,80 @@
+[
+  {
+    "id": 130196,
+    "name": "Dien Bien Phu",
+    "state_id": 3773,
+    "state_code": "71",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "21.38602000",
+    "longitude": "103.02301000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 130528,
+    "name": "Huyện Điện Biên Đông",
+    "state_id": 3773,
+    "state_code": "71",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "21.25266000",
+    "longitude": "103.26900000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130365,
+    "name": "Huyện Mường Nhé",
+    "state_id": 3773,
+    "state_code": "71",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "22.10353000",
+    "longitude": "102.58465000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130493,
+    "name": "Huyện Tủa Chùa",
+    "state_id": 3773,
+    "state_code": "71",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "21.95357000",
+    "longitude": "103.37332000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130478,
+    "name": "Huyện Tuần Giáo",
+    "state_id": 3773,
+    "state_code": "71",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "21.69481000",
+    "longitude": "103.41758000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130611,
+    "name": "Thị Xã Mưòng Lay",
+    "state_id": 3773,
+    "state_code": "71",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "22.03374000",
+    "longitude": "103.12331000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  }
+]

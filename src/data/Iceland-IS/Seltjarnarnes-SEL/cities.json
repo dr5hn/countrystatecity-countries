@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135211,
+    "name": "Seltjarnarnes",
+    "state_id": 5598,
+    "state_code": "SEL",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.15309000",
+    "longitude": "-21.99499000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

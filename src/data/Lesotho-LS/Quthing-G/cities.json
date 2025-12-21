@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66573,
+    "name": "Quthing",
+    "state_id": 3027,
+    "state_code": "G",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-30.40001000",
+    "longitude": "27.70027000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  }
+]

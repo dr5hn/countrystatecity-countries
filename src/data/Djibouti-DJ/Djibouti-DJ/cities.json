@@ -1,0 +1,28 @@
+[
+  {
+    "id": 30565,
+    "name": "Djibouti",
+    "state_id": 2929,
+    "state_code": "DJ",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.58901000",
+    "longitude": "43.14503000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  },
+  {
+    "id": 30570,
+    "name": "Loyada",
+    "state_id": 2929,
+    "state_code": "DJ",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.46111000",
+    "longitude": "43.25278000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  }
+]

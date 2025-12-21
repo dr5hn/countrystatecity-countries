@@ -1,0 +1,41 @@
+[
+  {
+    "id": 157048,
+    "name": "Gramsh",
+    "state_id": 598,
+    "state_code": "03",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "40.86614460",
+    "longitude": "20.17637010",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 157046,
+    "name": "Librazhd",
+    "state_id": 598,
+    "state_code": "03",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "41.18323980",
+    "longitude": "20.30362480",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 157047,
+    "name": "Peqin",
+    "state_id": 598,
+    "state_code": "03",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "41.04641030",
+    "longitude": "19.74050040",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  }
+]

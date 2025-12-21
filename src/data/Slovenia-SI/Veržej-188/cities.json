@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104308,
+    "name": "Veržej",
+    "state_id": 4257,
+    "state_code": "188",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.58361000",
+    "longitude": "16.16528000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

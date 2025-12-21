@@ -1,0 +1,28 @@
+[
+  {
+    "id": 599,
+    "name": "Cazaji",
+    "state_id": 220,
+    "state_code": "LSU",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-11.06715000",
+    "longitude": "20.70148000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 632,
+    "name": "Saurimo",
+    "state_id": 220,
+    "state_code": "LSU",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-9.66078000",
+    "longitude": "20.39155000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

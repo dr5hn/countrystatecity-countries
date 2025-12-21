@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104831,
+    "name": "Paramaribo",
+    "state_id": 2843,
+    "state_code": "PM",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.86638000",
+    "longitude": "-55.16682000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  }
+]

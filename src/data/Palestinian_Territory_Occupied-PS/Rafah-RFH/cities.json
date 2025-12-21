@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154037,
+    "name": "Al Qarya as Suwaydiya",
+    "state_id": 5129,
+    "state_code": "RFH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.32316550",
+    "longitude": "34.20157530",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154035,
+    "name": "Al-Bayuk",
+    "state_id": 5129,
+    "state_code": "RFH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.26347860",
+    "longitude": "34.26098130",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154036,
+    "name": "Al-Mawasi",
+    "state_id": 5129,
+    "state_code": "RFH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.34844960",
+    "longitude": "34.23553630",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154038,
+    "name": "Rafah",
+    "state_id": 5129,
+    "state_code": "RFH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.29681450",
+    "longitude": "34.22288230",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154039,
+    "name": "Shokat as-Sufi",
+    "state_id": 5129,
+    "state_code": "RFH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.25091250",
+    "longitude": "34.24516720",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

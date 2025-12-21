@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67546,
+    "name": "Usje",
+    "state_id": 703,
+    "state_code": "801",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.95871000",
+    "longitude": "21.45835000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 154012,
+    "name": "Abasan al-Kabira",
+    "state_id": 5125,
+    "state_code": "KYS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.32316050",
+    "longitude": "34.32342530",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154015,
+    "name": "Abasan al-Saghira",
+    "state_id": 5125,
+    "state_code": "KYS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.33974350",
+    "longitude": "34.32603330",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154017,
+    "name": "Al-Qarara",
+    "state_id": 5125,
+    "state_code": "KYS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.37134650",
+    "longitude": "34.31466030",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154013,
+    "name": "Bani Suheila",
+    "state_id": 5125,
+    "state_code": "KYS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.34213850",
+    "longitude": "34.30465430",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154014,
+    "name": "Khan Yunis",
+    "state_id": 5125,
+    "state_code": "KYS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.34623510",
+    "longitude": "34.28339890",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154016,
+    "name": "Khuzaʽa",
+    "state_id": 5125,
+    "state_code": "KYS",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.30705660",
+    "longitude": "34.33944730",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

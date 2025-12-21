@@ -1,0 +1,51 @@
+{
+  "id": 212,
+  "name": "Eswatini",
+  "iso2": "SZ",
+  "iso3": "SWZ",
+  "numeric_code": "748",
+  "phonecode": "268",
+  "capital": "Mbabane",
+  "currency": "SZL",
+  "currency_name": "Lilangeni",
+  "currency_symbol": "E",
+  "tld": ".sz",
+  "native": "Swaziland",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "nationality": "Swazi",
+  "latitude": "-26.50000000",
+  "longitude": "31.50000000",
+  "emoji": "🇸🇿",
+  "emojiU": "U+1F1F8 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Africa/Mbabane",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "SAST",
+      "tzName": "South African Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Eswatini",
+    "ko": "에스와티니",
+    "pt-BR": "Suazilândia",
+    "pt": "Suazilândia",
+    "nl": "Swaziland",
+    "hr": "Svazi",
+    "fa": "سوازیلند",
+    "de": "Swasiland",
+    "es": "Suazilandia",
+    "fr": "Swaziland",
+    "ja": "スワジランド",
+    "it": "Swaziland",
+    "zh-CN": "斯威士兰",
+    "tr": "Esvatini",
+    "ru": "Эсватини",
+    "uk": "Есватіні",
+    "pl": "Eswatini",
+    "hi": "एस्वातिन",
+    "ar": "الإسواتين"
+  }
+}

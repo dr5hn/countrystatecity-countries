@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153562,
+    "name": "Camuy",
+    "state_id": 5147,
+    "state_code": "027",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.48383300",
+    "longitude": "-66.84489940",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

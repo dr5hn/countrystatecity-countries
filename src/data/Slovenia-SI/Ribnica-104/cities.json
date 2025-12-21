@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104255,
+    "name": "Ribnica",
+    "state_id": 4235,
+    "state_code": "104",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.73861000",
+    "longitude": "14.72750000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

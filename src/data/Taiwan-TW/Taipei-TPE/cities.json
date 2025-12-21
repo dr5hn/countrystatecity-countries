@@ -1,0 +1,41 @@
+[
+  {
+    "id": 109002,
+    "name": "Banqiao",
+    "state_id": 3422,
+    "state_code": "TPE",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "25.01427000",
+    "longitude": "121.46719000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109015,
+    "name": "Jiufen",
+    "state_id": 3422,
+    "state_code": "TPE",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "25.10957000",
+    "longitude": "121.84424000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109031,
+    "name": "Taipei",
+    "state_id": 3422,
+    "state_code": "TPE",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "25.04776000",
+    "longitude": "121.53185000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

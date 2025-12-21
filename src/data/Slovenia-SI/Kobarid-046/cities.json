@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104137,
+    "name": "Kobarid",
+    "state_id": 4243,
+    "state_code": "046",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.24761000",
+    "longitude": "13.57907000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

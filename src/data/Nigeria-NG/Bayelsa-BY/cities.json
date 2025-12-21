@@ -1,0 +1,41 @@
+[
+  {
+    "id": 76770,
+    "name": "Amassoma",
+    "state_id": 305,
+    "state_code": "BY",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "4.97032000",
+    "longitude": "6.10915000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77116,
+    "name": "Twon-Brass",
+    "state_id": 305,
+    "state_code": "BY",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "4.31231000",
+    "longitude": "6.24091000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  },
+  {
+    "id": 77145,
+    "name": "Yenagoa",
+    "state_id": 305,
+    "state_code": "BY",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "4.92675000",
+    "longitude": "6.26764000",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "translations": {}
+  }
+]

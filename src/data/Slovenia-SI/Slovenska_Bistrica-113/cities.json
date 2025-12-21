@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104232,
+    "name": "Pragersko",
+    "state_id": 4332,
+    "state_code": "113",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.39667000",
+    "longitude": "15.66000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104272,
+    "name": "Slovenska Bistrica",
+    "state_id": 4332,
+    "state_code": "113",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.39278000",
+    "longitude": "15.57444000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104329,
+    "name": "Zgornja Polskava",
+    "state_id": 4332,
+    "state_code": "113",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.42556000",
+    "longitude": "15.61222000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

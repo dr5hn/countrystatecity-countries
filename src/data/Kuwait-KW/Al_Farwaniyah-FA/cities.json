@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65573,
+    "name": "Al Farwānīyah",
+    "state_id": 975,
+    "state_code": "FA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.27750000",
+    "longitude": "47.95861000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65589,
+    "name": "Janūb as Surrah",
+    "state_id": 975,
+    "state_code": "FA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.26917000",
+    "longitude": "47.97806000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 81070,
+    "name": "Komo Margarima",
+    "state_id": 4833,
+    "state_code": "HLA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.11667000",
+    "longitude": "143.00000000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81072,
+    "name": "Koroba-Lake Kopiago",
+    "state_id": 4833,
+    "state_code": "HLA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-5.41667000",
+    "longitude": "142.50000000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81114,
+    "name": "Tari",
+    "state_id": 4833,
+    "state_code": "HLA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-5.84500000",
+    "longitude": "142.94667000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81115,
+    "name": "Tari Pori",
+    "state_id": 4833,
+    "state_code": "HLA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.28333000",
+    "longitude": "142.83333000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

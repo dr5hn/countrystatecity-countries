@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105173,
+    "name": "Sokodé",
+    "state_id": 2575,
+    "state_code": "C",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "8.98333000",
+    "longitude": "1.13333000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105174,
+    "name": "Sotouboua",
+    "state_id": 2575,
+    "state_code": "C",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "8.56340000",
+    "longitude": "0.98399000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105176,
+    "name": "Tchamba",
+    "state_id": 2575,
+    "state_code": "C",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "9.03333000",
+    "longitude": "1.41667000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  }
+]

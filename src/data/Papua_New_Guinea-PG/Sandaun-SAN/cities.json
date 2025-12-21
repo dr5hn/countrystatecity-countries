@@ -1,0 +1,80 @@
+[
+  {
+    "id": 81025,
+    "name": "Aitape",
+    "state_id": 4836,
+    "state_code": "SAN",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-3.13697000",
+    "longitude": "142.34913000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81026,
+    "name": "Aitape Lumi",
+    "state_id": 4836,
+    "state_code": "SAN",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-3.25000000",
+    "longitude": "142.08333000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81094,
+    "name": "Nuku",
+    "state_id": 4836,
+    "state_code": "SAN",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-3.66667000",
+    "longitude": "142.41667000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81116,
+    "name": "Telefomin",
+    "state_id": 4836,
+    "state_code": "SAN",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-4.91667000",
+    "longitude": "141.66667000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81120,
+    "name": "Vanimo",
+    "state_id": 4836,
+    "state_code": "SAN",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-2.68372000",
+    "longitude": "141.30195000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81121,
+    "name": "Vanimo Green",
+    "state_id": 4836,
+    "state_code": "SAN",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-3.36667000",
+    "longitude": "141.35000000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

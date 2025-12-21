@@ -1,0 +1,54 @@
+[
+  {
+    "id": 160036,
+    "name": "Achada Leitão",
+    "state_id": 5552,
+    "state_code": "SS",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.08000000",
+    "longitude": "-23.64000000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  },
+  {
+    "id": 160038,
+    "name": "Leitão Grande",
+    "state_id": 5552,
+    "state_code": "SS",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.07500000",
+    "longitude": "-23.64500000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  },
+  {
+    "id": 160035,
+    "name": "Picos",
+    "state_id": 5552,
+    "state_code": "SS",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.08300000",
+    "longitude": "-23.63200000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  },
+  {
+    "id": 160037,
+    "name": "Picos Acima",
+    "state_id": 5552,
+    "state_code": "SS",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.09000000",
+    "longitude": "-23.63000000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

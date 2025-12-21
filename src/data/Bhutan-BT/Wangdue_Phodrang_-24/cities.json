@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153856,
+    "name": "Manikyangsa",
+    "state_id": 231,
+    "state_code": "24",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.53330000",
+    "longitude": "90.10000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153855,
+    "name": "Ritang",
+    "state_id": 231,
+    "state_code": "24",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.55000000",
+    "longitude": "90.16670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 15723,
+    "name": "Wangdue Phodrang",
+    "state_id": 231,
+    "state_code": "24",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.48330000",
+    "longitude": "89.90000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

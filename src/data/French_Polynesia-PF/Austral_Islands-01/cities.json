@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154867,
+    "name": "Raivavae",
+    "state_id": 5369,
+    "state_code": "01",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-23.86946330",
+    "longitude": "-147.73244720",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154868,
+    "name": "Rapa",
+    "state_id": 5369,
+    "state_code": "01",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-27.60822390",
+    "longitude": "-144.38427770",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154869,
+    "name": "Rimatara",
+    "state_id": 5369,
+    "state_code": "01",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-22.64382540",
+    "longitude": "-152.83120520",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154870,
+    "name": "Rurutu",
+    "state_id": 5369,
+    "state_code": "01",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-22.46958690",
+    "longitude": "-151.39113710",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154871,
+    "name": "Tubuai",
+    "state_id": 5369,
+    "state_code": "01",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-23.36850430",
+    "longitude": "-149.54496480",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  }
+]

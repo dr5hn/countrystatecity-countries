@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153595,
+    "name": "Manatí",
+    "state_id": 5180,
+    "state_code": "091",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.41812150",
+    "longitude": "-66.52627830",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

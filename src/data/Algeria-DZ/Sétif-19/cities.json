@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31240,
+    "name": "Aïn Arnat",
+    "state_id": 1141,
+    "state_code": "19",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.18683000",
+    "longitude": "5.31347000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31253,
+    "name": "Babor - Ville",
+    "state_id": 1141,
+    "state_code": "19",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.48994000",
+    "longitude": "5.53930000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31288,
+    "name": "Bougaa",
+    "state_id": 1141,
+    "state_code": "19",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.33293000",
+    "longitude": "5.08843000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31333,
+    "name": "El Eulma",
+    "state_id": 1141,
+    "state_code": "19",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.15281000",
+    "longitude": "5.69016000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31417,
+    "name": "Salah Bey",
+    "state_id": 1141,
+    "state_code": "19",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.85451000",
+    "longitude": "5.29053000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31440,
+    "name": "Sétif",
+    "state_id": 1141,
+    "state_code": "19",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.19112000",
+    "longitude": "5.41373000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

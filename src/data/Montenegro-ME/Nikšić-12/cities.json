@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67359,
+    "name": "Nikšić",
+    "state_id": 17,
+    "state_code": "12",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.77310000",
+    "longitude": "18.94446000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

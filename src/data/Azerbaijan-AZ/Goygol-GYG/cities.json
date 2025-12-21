@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8196,
+    "name": "Yelenendorf",
+    "state_id": 574,
+    "state_code": "GYG",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.58584000",
+    "longitude": "46.31890000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

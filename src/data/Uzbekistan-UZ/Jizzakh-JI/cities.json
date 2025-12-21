@@ -1,0 +1,80 @@
+[
+  {
+    "id": 129919,
+    "name": "Dashtobod",
+    "state_id": 2545,
+    "state_code": "JI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.12694000",
+    "longitude": "68.49444000",
+    "native": null,
+    "timezone": "Asia/Tashkent",
+    "translations": {}
+  },
+  {
+    "id": 129922,
+    "name": "Dŭstlik",
+    "state_id": 2545,
+    "state_code": "JI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.52472000",
+    "longitude": "68.03583000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 129924,
+    "name": "Gagarin",
+    "state_id": 2545,
+    "state_code": "JI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.66194000",
+    "longitude": "68.17222000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 129939,
+    "name": "Jizzax",
+    "state_id": 2545,
+    "state_code": "JI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.11583000",
+    "longitude": "67.84222000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 129975,
+    "name": "Paxtakor",
+    "state_id": 2545,
+    "state_code": "JI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.31528000",
+    "longitude": "67.95444000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 130027,
+    "name": "Zomin",
+    "state_id": 2545,
+    "state_code": "JI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "39.96056000",
+    "longitude": "68.39583000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  }
+]

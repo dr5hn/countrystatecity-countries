@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9774,
+    "name": "Mwaro",
+    "state_id": 3187,
+    "state_code": "MW",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.51128000",
+    "longitude": "29.70334000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

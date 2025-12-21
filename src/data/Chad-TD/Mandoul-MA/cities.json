@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105134,
+    "name": "Goundi",
+    "state_id": 3589,
+    "state_code": "MA",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "9.36267000",
+    "longitude": "17.36597000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105141,
+    "name": "Koumra",
+    "state_id": 3589,
+    "state_code": "MA",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "8.91256000",
+    "longitude": "17.55392000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105153,
+    "name": "Moïssala",
+    "state_id": 3589,
+    "state_code": "MA",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "8.34040000",
+    "longitude": "17.76630000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153864,
+    "name": "Gazipur",
+    "state_id": 5491,
+    "state_code": "18",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "24.10914520",
+    "longitude": "90.09596140",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

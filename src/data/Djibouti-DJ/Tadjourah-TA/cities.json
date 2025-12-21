@@ -1,0 +1,28 @@
+[
+  {
+    "id": 30566,
+    "name": "Dorra",
+    "state_id": 2931,
+    "state_code": "TA",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "12.15028000",
+    "longitude": "42.47624000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  },
+  {
+    "id": 30572,
+    "name": "Tadjourah",
+    "state_id": 2931,
+    "state_code": "TA",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.78778000",
+    "longitude": "42.88222000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  }
+]

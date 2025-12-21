@@ -1,0 +1,15 @@
+[
+  {
+    "id": 131411,
+    "name": "Bulawayo",
+    "state_id": 1956,
+    "state_code": "BU",
+    "country_id": 247,
+    "country_code": "ZW",
+    "latitude": "-20.15000000",
+    "longitude": "28.58333000",
+    "native": null,
+    "timezone": "Africa/Harare",
+    "translations": {}
+  }
+]

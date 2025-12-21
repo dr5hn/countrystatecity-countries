@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135210,
+    "name": "Selfoss",
+    "state_id": 5599,
+    "state_code": "SFA",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.93311000",
+    "longitude": "-20.99712000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

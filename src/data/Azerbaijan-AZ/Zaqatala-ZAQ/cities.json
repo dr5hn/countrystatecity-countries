@@ -1,0 +1,67 @@
+[
+  {
+    "id": 8040,
+    "name": "Aliabad",
+    "state_id": 566,
+    "state_code": "ZAQ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.48290000",
+    "longitude": "46.63483000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8079,
+    "name": "Faldarlı",
+    "state_id": 566,
+    "state_code": "ZAQ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.46868000",
+    "longitude": "46.51579000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8112,
+    "name": "Mamrux",
+    "state_id": 566,
+    "state_code": "ZAQ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.54243000",
+    "longitude": "46.76700000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8137,
+    "name": "Qandax",
+    "state_id": 566,
+    "state_code": "ZAQ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.47546000",
+    "longitude": "46.54128000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8203,
+    "name": "Zaqatala",
+    "state_id": 566,
+    "state_code": "ZAQ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.63160000",
+    "longitude": "46.64479000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

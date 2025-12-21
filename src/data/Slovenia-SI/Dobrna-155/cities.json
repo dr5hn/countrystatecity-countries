@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104091,
+    "name": "Dobrna",
+    "state_id": 4252,
+    "state_code": "155",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.33750000",
+    "longitude": "15.22639000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

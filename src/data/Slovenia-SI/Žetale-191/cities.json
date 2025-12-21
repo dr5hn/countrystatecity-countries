@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104366,
+    "name": "Žetale",
+    "state_id": 4249,
+    "state_code": "191",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.27356000",
+    "longitude": "15.82658000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

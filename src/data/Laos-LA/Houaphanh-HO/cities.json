@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65928,
+    "name": "Xam Neua",
+    "state_id": 989,
+    "state_code": "HO",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "20.40764000",
+    "longitude": "104.06560000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65929,
+    "name": "Xam Nua",
+    "state_id": 989,
+    "state_code": "HO",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "20.41640000",
+    "longitude": "104.04500000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

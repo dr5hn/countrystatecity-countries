@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52385,
+    "name": "Luba",
+    "state_id": 3443,
+    "state_code": "BS",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "3.45683000",
+    "longitude": "8.55465000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  }
+]

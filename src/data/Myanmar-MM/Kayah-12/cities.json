@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67652,
+    "name": "Loikaw",
+    "state_id": 2144,
+    "state_code": "12",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "19.67798000",
+    "longitude": "97.20975000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

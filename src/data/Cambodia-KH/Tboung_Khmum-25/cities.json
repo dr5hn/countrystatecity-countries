@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160042,
+    "name": "Suong",
+    "state_id": 5537,
+    "state_code": "25",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.91666667",
+    "longitude": "105.65000000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

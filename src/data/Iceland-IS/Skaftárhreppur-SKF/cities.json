@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135213,
+    "name": "Skaftárhreppur",
+    "state_id": 5601,
+    "state_code": "SKF",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.95948000",
+    "longitude": "-18.14491000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

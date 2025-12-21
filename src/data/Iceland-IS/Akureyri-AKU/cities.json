@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135163,
+    "name": "Akureyri",
+    "state_id": 5555,
+    "state_code": "AKU",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.68353000",
+    "longitude": "-18.08780000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 66460,
+    "name": "Chilaw",
+    "state_id": 2817,
+    "state_code": "6",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "7.57583000",
+    "longitude": "79.79528000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66501,
+    "name": "Kuliyapitiya",
+    "state_id": 2817,
+    "state_code": "6",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "7.46880000",
+    "longitude": "80.04010000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66502,
+    "name": "Kurunegala",
+    "state_id": 2817,
+    "state_code": "6",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "7.48390000",
+    "longitude": "80.36830000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66503,
+    "name": "Kurunegala District",
+    "state_id": 2817,
+    "state_code": "6",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "7.75000000",
+    "longitude": "80.25000000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66525,
+    "name": "Puttalam",
+    "state_id": 2817,
+    "state_code": "6",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "8.03620000",
+    "longitude": "79.82830000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  },
+  {
+    "id": 66526,
+    "name": "Puttalam District",
+    "state_id": 2817,
+    "state_code": "6",
+    "country_id": 208,
+    "country_code": "LK",
+    "latitude": "8.04540000",
+    "longitude": "79.93190000",
+    "native": null,
+    "timezone": "Asia/Colombo",
+    "translations": {}
+  }
+]

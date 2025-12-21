@@ -1,0 +1,51 @@
+{
+  "id": 136,
+  "name": "Man (Isle of)",
+  "iso2": "IM",
+  "iso3": "IMN",
+  "numeric_code": "833",
+  "phonecode": "44",
+  "capital": "Douglas, Isle of Man",
+  "currency": "GBP",
+  "currency_name": "British pound",
+  "currency_symbol": "£",
+  "tld": ".im",
+  "native": "Isle of Man",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Manx",
+  "latitude": "54.25000000",
+  "longitude": "-4.50000000",
+  "emoji": "🇮🇲",
+  "emojiU": "U+1F1EE U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Europe/Isle_of_Man",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Manav",
+    "ko": "맨 섬",
+    "pt-BR": "Ilha de Man",
+    "pt": "Ilha de Man",
+    "nl": "Isle of Man",
+    "hr": "Otok Man",
+    "fa": "جزیره من",
+    "de": "Insel Man",
+    "es": "Isla de Man",
+    "fr": "Île de Man",
+    "ja": "マン島",
+    "it": "Isola di Man",
+    "zh-CN": "马恩岛",
+    "tr": "Man Adasi",
+    "ru": "Мэн (остров)",
+    "uk": "Мен (острів Мен)",
+    "pl": "Man (Wyspa)",
+    "hi": "आदमी (आइल)",
+    "ar": "رجل (جزيرة)"
+  }
+}

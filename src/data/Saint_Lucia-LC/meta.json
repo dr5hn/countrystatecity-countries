@@ -1,0 +1,51 @@
+{
+  "id": 186,
+  "name": "Saint Lucia",
+  "iso2": "LC",
+  "iso3": "LCA",
+  "numeric_code": "662",
+  "phonecode": "1",
+  "capital": "Castries",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "tld": ".lc",
+  "native": "Saint Lucia",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Saint Lucian",
+  "latitude": "13.88333333",
+  "longitude": "-60.96666666",
+  "emoji": "🇱🇨",
+  "emojiU": "U+1F1F1 U+1F1E8",
+  "timezones": [
+    {
+      "zoneName": "America/St_Lucia",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Santez-Lusia",
+    "ko": "세인트루시아",
+    "pt-BR": "Santa Lúcia",
+    "pt": "Santa Lúcia",
+    "nl": "Saint Lucia",
+    "hr": "Sveta Lucija",
+    "fa": "سنت لوسیا",
+    "de": "Saint Lucia",
+    "es": "Santa Lucía",
+    "fr": "Saint-Lucie",
+    "ja": "セントルシア",
+    "it": "Santa Lucia",
+    "zh-CN": "圣卢西亚",
+    "tr": "Saint Lucia",
+    "ru": "Сент-Люсия",
+    "uk": "Сент-Люсія",
+    "pl": "Saint Lucia",
+    "hi": "सेंट लूसिया",
+    "ar": "سانت لوسيا"
+  }
+}

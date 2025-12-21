@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104203,
+    "name": "Naklo",
+    "state_id": 4177,
+    "state_code": "082",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.27278000",
+    "longitude": "14.31722000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

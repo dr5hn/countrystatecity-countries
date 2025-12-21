@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65903,
+    "name": "Muang Thakhèk",
+    "state_id": 986,
+    "state_code": "KH",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "17.40880000",
+    "longitude": "104.82639000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65924,
+    "name": "Thakhèk",
+    "state_id": 986,
+    "state_code": "KH",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "17.41027000",
+    "longitude": "104.83068000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

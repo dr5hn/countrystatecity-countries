@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160090,
+    "name": "Taroa",
+    "state_id": 5657,
+    "state_code": "MAL",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "48.00000000",
+    "longitude": "33.41666667",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

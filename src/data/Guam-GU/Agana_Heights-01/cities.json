@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160257,
+    "name": "Agana Heights Village",
+    "state_id": 5254,
+    "state_code": "01",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.46559000",
+    "longitude": "144.74795000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

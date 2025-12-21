@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17268,
+    "name": "Likasi",
+    "state_id": 2750,
+    "state_code": "HK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-10.98303000",
+    "longitude": "26.73840000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17272,
+    "name": "Lubumbashi",
+    "state_id": 2750,
+    "state_code": "HK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-11.66089000",
+    "longitude": "27.47938000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

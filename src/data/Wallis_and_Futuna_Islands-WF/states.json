@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5709,
+    "name": "Alo",
+    "country_id": 243,
+    "country_code": "WF",
+    "fips_code": null,
+    "iso2": "AL",
+    "type": "administrative precinct",
+    "latitude": "-14.30938056",
+    "longitude": "-178.12355000",
+    "native": "Alo",
+    "timezone": "Pacific/Wallis",
+    "translations": {}
+  },
+  {
+    "id": 5708,
+    "name": "Sigave",
+    "country_id": 243,
+    "country_code": "WF",
+    "fips_code": null,
+    "iso2": "SG",
+    "type": "administrative precinct",
+    "latitude": "-14.29610000",
+    "longitude": "-178.15850000",
+    "native": "Sigavé",
+    "timezone": "Pacific/Wallis",
+    "translations": {}
+  },
+  {
+    "id": 5707,
+    "name": "Uvea",
+    "country_id": 243,
+    "country_code": "WF",
+    "fips_code": null,
+    "iso2": "UV",
+    "type": "administrative precinct",
+    "latitude": "-13.28333333",
+    "longitude": "-176.20000000",
+    "native": "ʻUvea",
+    "timezone": "Pacific/Wallis",
+    "translations": {}
+  }
+]

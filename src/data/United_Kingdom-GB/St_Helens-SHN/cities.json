@@ -1,0 +1,80 @@
+[
+  {
+    "id": 48296,
+    "name": "Ashton in Makerfield",
+    "state_id": 2290,
+    "state_code": "SHN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.48333000",
+    "longitude": "-2.65000000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48505,
+    "name": "Billinge",
+    "state_id": 2290,
+    "state_code": "SHN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.49795000",
+    "longitude": "-2.70810000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48795,
+    "name": "Burtonwood",
+    "state_id": 2290,
+    "state_code": "SHN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.42948000",
+    "longitude": "-2.65852000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49859,
+    "name": "Haydock",
+    "state_id": 2290,
+    "state_code": "SHN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.46723000",
+    "longitude": "-2.68166000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51023,
+    "name": "Rainford",
+    "state_id": 2290,
+    "state_code": "SHN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.50223000",
+    "longitude": "-2.78839000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51397,
+    "name": "St Helens",
+    "state_id": 2290,
+    "state_code": "SHN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.45000000",
+    "longitude": "-2.73333000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

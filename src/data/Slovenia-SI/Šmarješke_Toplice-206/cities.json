@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104358,
+    "name": "Šmarjeta",
+    "state_id": 4289,
+    "state_code": "206",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.88333000",
+    "longitude": "15.25000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104109,
+    "name": "Gornji Grad",
+    "state_id": 4339,
+    "state_code": "030",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.29528000",
+    "longitude": "14.80833000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

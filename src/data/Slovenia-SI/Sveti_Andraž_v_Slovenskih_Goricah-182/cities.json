@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104314,
+    "name": "Vitomarci",
+    "state_id": 4229,
+    "state_code": "182",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.52750000",
+    "longitude": "15.93944000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

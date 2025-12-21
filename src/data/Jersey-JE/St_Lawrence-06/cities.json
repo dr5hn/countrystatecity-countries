@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154119,
+    "name": "Vingtaine Bas de la Vallée",
+    "state_id": 5314,
+    "state_code": "06",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.19584680",
+    "longitude": "-2.15669220",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154120,
+    "name": "Vingtaine du Coin Hatain",
+    "state_id": 5314,
+    "state_code": "06",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.22074360",
+    "longitude": "-2.12697490",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154121,
+    "name": "Vingtaine du Coin Motier",
+    "state_id": 5314,
+    "state_code": "06",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.22490170",
+    "longitude": "-2.13965400",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154122,
+    "name": "Vingtaine du Coin Tourgis Nord",
+    "state_id": 5314,
+    "state_code": "06",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.22924990",
+    "longitude": "-2.15092570",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154123,
+    "name": "Vingtaine du Coin Tourgis Sud",
+    "state_id": 5314,
+    "state_code": "06",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21059460",
+    "longitude": "-2.15264330",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

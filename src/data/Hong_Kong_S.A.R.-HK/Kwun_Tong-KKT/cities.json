@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153505,
+    "name": "Kwun Tong",
+    "state_id": 4897,
+    "state_code": "KKT",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.31000000",
+    "longitude": "114.22500000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153504,
+    "name": "Lam Tin",
+    "state_id": 4897,
+    "state_code": "KKT",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.30700000",
+    "longitude": "114.23500000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

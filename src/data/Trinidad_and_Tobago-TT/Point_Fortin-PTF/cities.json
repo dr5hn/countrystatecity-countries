@@ -1,0 +1,15 @@
+[
+  {
+    "id": 108980,
+    "name": "Point Fortin",
+    "state_id": 3360,
+    "state_code": "PTF",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.17411000",
+    "longitude": "-61.68407000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

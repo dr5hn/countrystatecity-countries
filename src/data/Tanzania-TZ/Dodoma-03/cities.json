@@ -1,0 +1,93 @@
+[
+  {
+    "id": 109065,
+    "name": "Dodoma",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.17221000",
+    "longitude": "35.73947000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109101,
+    "name": "Kibakwe",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.71667000",
+    "longitude": "36.36667000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109125,
+    "name": "Kisasa",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.17526000",
+    "longitude": "35.79266000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109135,
+    "name": "Kondoa",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-4.70931000",
+    "longitude": "35.86227000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109136,
+    "name": "Kongwa",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.20000000",
+    "longitude": "36.41667000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109211,
+    "name": "Mpwapwa",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.35000000",
+    "longitude": "36.48333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109212,
+    "name": "Msanga",
+    "state_id": 1466,
+    "state_code": "03",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-6.05000000",
+    "longitude": "36.03333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

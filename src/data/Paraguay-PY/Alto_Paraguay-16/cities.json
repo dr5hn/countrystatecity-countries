@@ -1,0 +1,28 @@
+[
+  {
+    "id": 89736,
+    "name": "Capitán Pablo Lagerenza",
+    "state_id": 2785,
+    "state_code": "16",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-19.91667000",
+    "longitude": "-60.78333000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89768,
+    "name": "Fuerte Olimpo",
+    "state_id": 2785,
+    "state_code": "16",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-21.04153000",
+    "longitude": "-57.87377000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  }
+]

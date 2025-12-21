@@ -1,0 +1,67 @@
+[
+  {
+    "id": 66899,
+    "name": "Ikšķile",
+    "state_id": 4416,
+    "state_code": "067",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.83399000",
+    "longitude": "24.49679000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66907,
+    "name": "Jumprava",
+    "state_id": 4416,
+    "state_code": "067",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.67613000",
+    "longitude": "24.97210000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66991,
+    "name": "Ķegums",
+    "state_id": 4416,
+    "state_code": "067",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.74510000",
+    "longitude": "24.72439000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66918,
+    "name": "Lielvārde",
+    "state_id": 4416,
+    "state_code": "067",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.72066000",
+    "longitude": "24.80743000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66935,
+    "name": "Ogre",
+    "state_id": 4416,
+    "state_code": "067",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.81620000",
+    "longitude": "24.61401000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64775,
+    "name": "Bondo",
+    "state_id": 186,
+    "state_code": "38",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.23522000",
+    "longitude": "34.28086000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64869,
+    "name": "Siaya",
+    "state_id": 186,
+    "state_code": "38",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.06070000",
+    "longitude": "34.28806000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64881,
+    "name": "Yala",
+    "state_id": 186,
+    "state_code": "38",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.09438000",
+    "longitude": "34.53602000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

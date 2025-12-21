@@ -1,0 +1,15 @@
+[
+  {
+    "id": 32,
+    "name": "Dubai",
+    "state_id": 3391,
+    "state_code": "DU",
+    "country_id": 231,
+    "country_code": "AE",
+    "latitude": "25.06570000",
+    "longitude": "55.17128000",
+    "native": null,
+    "timezone": "Asia/Dubai",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153579,
+    "name": "Guayanilla",
+    "state_id": 5164,
+    "state_code": "059",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.01913140",
+    "longitude": "-66.79184200",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 48267,
+    "name": "Archway",
+    "state_id": 2319,
+    "state_code": "ISL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.56733000",
+    "longitude": "-0.13415000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48380,
+    "name": "Barbican",
+    "state_id": 2319,
+    "state_code": "ISL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.51988000",
+    "longitude": "-0.09446000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48401,
+    "name": "Barnsbury",
+    "state_id": 2319,
+    "state_code": "ISL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.54067000",
+    "longitude": "-0.11675000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49032,
+    "name": "Clerkenwell",
+    "state_id": 2319,
+    "state_code": "ISL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.52438000",
+    "longitude": "-0.11022000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49962,
+    "name": "Holloway",
+    "state_id": 2319,
+    "state_code": "ISL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55237000",
+    "longitude": "-0.12497000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50086,
+    "name": "Islington",
+    "state_id": 2319,
+    "state_code": "ISL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.53622000",
+    "longitude": "-0.10304000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

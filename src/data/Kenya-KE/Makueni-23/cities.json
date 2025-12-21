@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64825,
+    "name": "Makueni Boma",
+    "state_id": 188,
+    "state_code": "23",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.80388000",
+    "longitude": "37.62405000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64840,
+    "name": "Mtito Andei",
+    "state_id": 188,
+    "state_code": "23",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-2.68987000",
+    "longitude": "38.16687000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64879,
+    "name": "Wote",
+    "state_id": 188,
+    "state_code": "23",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.78079000",
+    "longitude": "37.62882000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

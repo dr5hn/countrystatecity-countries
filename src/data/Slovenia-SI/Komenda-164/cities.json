@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104141,
+    "name": "Komenda",
+    "state_id": 4283,
+    "state_code": "164",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.20484000",
+    "longitude": "14.53839000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104199,
+    "name": "Moste",
+    "state_id": 4283,
+    "state_code": "164",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.19500000",
+    "longitude": "14.55139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

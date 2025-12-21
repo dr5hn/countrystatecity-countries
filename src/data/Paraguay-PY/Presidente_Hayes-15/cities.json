@@ -1,0 +1,41 @@
+[
+  {
+    "id": 89727,
+    "name": "Benjamín Aceval",
+    "state_id": 2770,
+    "state_code": "15",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-24.96667000",
+    "longitude": "-57.56667000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89798,
+    "name": "Nanawua",
+    "state_id": 2770,
+    "state_code": "15",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-25.27930000",
+    "longitude": "-57.70307000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89845,
+    "name": "Villa Hayes",
+    "state_id": 2770,
+    "state_code": "15",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-25.09306000",
+    "longitude": "-57.52361000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 131,
+  "name": "Malawi",
+  "iso2": "MW",
+  "iso3": "MWI",
+  "numeric_code": "454",
+  "phonecode": "265",
+  "capital": "Lilongwe",
+  "currency": "MWK",
+  "currency_name": "Malawian kwacha",
+  "currency_symbol": "MK",
+  "tld": ".mw",
+  "native": "Malawi",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Malawian",
+  "latitude": "-13.50000000",
+  "longitude": "34.00000000",
+  "emoji": "🇲🇼",
+  "emojiU": "U+1F1F2 U+1F1FC",
+  "timezones": [
+    {
+      "zoneName": "Africa/Blantyre",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Malawi",
+    "ko": "말라위",
+    "pt-BR": "Malawi",
+    "pt": "Malávi",
+    "nl": "Malawi",
+    "hr": "Malavi",
+    "fa": "مالاوی",
+    "de": "Malawi",
+    "es": "Malawi",
+    "fr": "Malawi",
+    "ja": "マラウイ",
+    "it": "Malawi",
+    "zh-CN": "马拉维",
+    "tr": "Malavi",
+    "ru": "Малави",
+    "uk": "Малаві",
+    "pl": "Malawi",
+    "hi": "मलावी",
+    "ar": "ملاوي"
+  }
+}

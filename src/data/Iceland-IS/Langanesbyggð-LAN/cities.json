@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135198,
+    "name": "Langanesbyggð",
+    "state_id": 5585,
+    "state_code": "LAN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.05186000",
+    "longitude": "-15.18969000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31481,
+    "name": "Ambato",
+    "state_id": 2908,
+    "state_code": "T",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.24908000",
+    "longitude": "-78.61675000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31489,
+    "name": "Baños",
+    "state_id": 2908,
+    "state_code": "T",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.39699000",
+    "longitude": "-78.42289000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31545,
+    "name": "Pelileo",
+    "state_id": 2908,
+    "state_code": "T",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.32990000",
+    "longitude": "-78.54341000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31558,
+    "name": "Píllaro",
+    "state_id": 2908,
+    "state_code": "T",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.17414000",
+    "longitude": "-78.54676000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

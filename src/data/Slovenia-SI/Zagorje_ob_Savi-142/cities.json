@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104126,
+    "name": "Izlake",
+    "state_id": 4269,
+    "state_code": "142",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.15000000",
+    "longitude": "14.95000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104136,
+    "name": "Kisovec",
+    "state_id": 4269,
+    "state_code": "142",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.13911000",
+    "longitude": "14.96295000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104325,
+    "name": "Zagorje ob Savi",
+    "state_id": 4269,
+    "state_code": "142",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.13179000",
+    "longitude": "14.99694000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109,
+    "name": "Qalāt",
+    "state_id": 3874,
+    "state_code": "ZAB",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.10575000",
+    "longitude": "66.90833000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 914,
+    "name": "Eastern",
+    "country_id": 198,
+    "country_code": "SL",
+    "fips_code": null,
+    "iso2": "E",
+    "type": "province",
+    "latitude": "8.20509710",
+    "longitude": "-10.84373830",
+    "native": "Eastern",
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 5697,
+    "name": "North Western",
+    "country_id": 198,
+    "country_code": "SL",
+    "fips_code": null,
+    "iso2": "NW",
+    "type": "province",
+    "latitude": "8.76666667",
+    "longitude": "-12.78750000",
+    "native": "North Western",
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 911,
+    "name": "Northern",
+    "country_id": 198,
+    "country_code": "SL",
+    "fips_code": null,
+    "iso2": "N",
+    "type": "province",
+    "latitude": "9.11845400",
+    "longitude": "-11.48564480",
+    "native": "Northern",
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 912,
+    "name": "Southern",
+    "country_id": 198,
+    "country_code": "SL",
+    "fips_code": null,
+    "iso2": "S",
+    "type": "province",
+    "latitude": "7.70992220",
+    "longitude": "-12.00041780",
+    "native": "Southern",
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 913,
+    "name": "Western",
+    "country_id": 198,
+    "country_code": "SL",
+    "fips_code": null,
+    "iso2": "W",
+    "type": "area",
+    "latitude": "8.33460330",
+    "longitude": "-13.06560160",
+    "native": "Western",
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  }
+]

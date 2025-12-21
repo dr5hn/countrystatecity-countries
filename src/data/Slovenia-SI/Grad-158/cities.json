@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104112,
+    "name": "Grad",
+    "state_id": 4217,
+    "state_code": "158",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.80000000",
+    "longitude": "16.10000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

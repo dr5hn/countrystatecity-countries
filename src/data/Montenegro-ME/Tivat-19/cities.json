@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67371,
+    "name": "Tivat",
+    "state_id": 29,
+    "state_code": "19",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.43639000",
+    "longitude": "18.69611000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

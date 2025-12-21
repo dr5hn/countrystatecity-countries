@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66878,
+    "name": "Baldone",
+    "state_id": 4435,
+    "state_code": "052",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.74451000",
+    "longitude": "24.40078000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66879,
+    "name": "Baloži",
+    "state_id": 4435,
+    "state_code": "052",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.87643000",
+    "longitude": "24.11825000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66992,
+    "name": "Ķekava",
+    "state_id": 4435,
+    "state_code": "052",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.82662000",
+    "longitude": "24.23000000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

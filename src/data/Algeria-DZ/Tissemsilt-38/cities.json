@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31370,
+    "name": "Lardjem",
+    "state_id": 1133,
+    "state_code": "38",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.74922000",
+    "longitude": "1.54778000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31455,
+    "name": "Tissemsilt",
+    "state_id": 1133,
+    "state_code": "38",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.60722000",
+    "longitude": "1.81081000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

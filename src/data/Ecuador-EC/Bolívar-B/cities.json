@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31510,
+    "name": "Guaranda",
+    "state_id": 2920,
+    "state_code": "B",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.59263000",
+    "longitude": "-79.00098000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31569,
+    "name": "San Miguel",
+    "state_id": 2920,
+    "state_code": "B",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.70884000",
+    "longitude": "-79.04311000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160057,
+    "name": "Moulins",
+    "state_id": 5676,
+    "state_code": "MU",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73890000",
+    "longitude": "7.41850000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

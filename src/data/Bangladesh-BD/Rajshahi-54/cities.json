@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153891,
+    "name": "Rajshahi",
+    "state_id": 5526,
+    "state_code": "54",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "24.42073360",
+    "longitude": "88.29602140",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

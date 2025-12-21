@@ -1,0 +1,54 @@
+[
+  {
+    "id": 153838,
+    "name": "Denchukha",
+    "state_id": 246,
+    "state_code": "14",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.01670000",
+    "longitude": "89.25000000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153837,
+    "name": "Dorokha",
+    "state_id": 246,
+    "state_code": "14",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.01670000",
+    "longitude": "89.21670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 15719,
+    "name": "Samtse",
+    "state_id": 246,
+    "state_code": "14",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "26.89903000",
+    "longitude": "89.09951000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153836,
+    "name": "Tendu",
+    "state_id": 246,
+    "state_code": "14",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.13330000",
+    "longitude": "88.88330000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

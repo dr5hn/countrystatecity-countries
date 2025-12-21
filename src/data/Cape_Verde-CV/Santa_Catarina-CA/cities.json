@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21987,
+    "name": "Assomada",
+    "state_id": 2985,
+    "state_code": "CA",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.10000000",
+    "longitude": "-23.68333000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

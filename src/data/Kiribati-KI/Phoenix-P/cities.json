@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65057,
+    "name": "Kanton",
+    "state_id": 1830,
+    "state_code": "P",
+    "country_id": 114,
+    "country_code": "KI",
+    "latitude": "-2.81000000",
+    "longitude": "-171.67800000",
+    "native": null,
+    "timezone": "Pacific/Enderbury",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 98,
+    "name": "Mehtar Lām",
+    "state_id": 3891,
+    "state_code": "LAG",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.67139000",
+    "longitude": "70.20944000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

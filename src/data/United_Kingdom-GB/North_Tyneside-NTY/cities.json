@@ -1,0 +1,93 @@
+[
+  {
+    "id": 48330,
+    "name": "Backworth",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.04229000",
+    "longitude": "-1.52779000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48602,
+    "name": "Borough of North Tyneside",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.03333000",
+    "longitude": "-1.50000000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50763,
+    "name": "North Shields",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.01646000",
+    "longitude": "-1.44925000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51288,
+    "name": "Shiremoor",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.03535000",
+    "longitude": "-1.50950000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51686,
+    "name": "Tynemouth",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.01788000",
+    "longitude": "-1.42559000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51734,
+    "name": "Wallsend",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.99111000",
+    "longitude": "-1.53397000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51879,
+    "name": "Whitley Bay",
+    "state_id": 2521,
+    "state_code": "NTY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.03973000",
+    "longitude": "-1.44713000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

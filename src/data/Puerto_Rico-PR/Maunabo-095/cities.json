@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153597,
+    "name": "Maunabo",
+    "state_id": 5182,
+    "state_code": "095",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.00718850",
+    "longitude": "-65.89932890",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153728,
+    "name": "Bidnija",
+    "state_id": 140,
+    "state_code": "32",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.92694400",
+    "longitude": "14.39833300",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

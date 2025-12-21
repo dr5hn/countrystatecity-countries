@@ -1,0 +1,41 @@
+[
+  {
+    "id": 129928,
+    "name": "Guliston",
+    "state_id": 2547,
+    "state_code": "SI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.48972000",
+    "longitude": "68.78417000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 130003,
+    "name": "Sirdaryo",
+    "state_id": 2547,
+    "state_code": "SI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.84361000",
+    "longitude": "68.66167000",
+    "native": null,
+    "timezone": "Asia/Tashkent",
+    "translations": {}
+  },
+  {
+    "id": 130023,
+    "name": "Yangiyer",
+    "state_id": 2547,
+    "state_code": "SI",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.27500000",
+    "longitude": "68.82250000",
+    "native": null,
+    "timezone": "Asia/Tashkent",
+    "translations": {}
+  }
+]

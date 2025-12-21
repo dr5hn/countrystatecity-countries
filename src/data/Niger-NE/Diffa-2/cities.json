@@ -1,0 +1,80 @@
+[
+  {
+    "id": 76694,
+    "name": "Département de Diffa",
+    "state_id": 72,
+    "state_code": "2",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "13.66667000",
+    "longitude": "12.50000000",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  },
+  {
+    "id": 76705,
+    "name": "Département de Maïné-Soroa",
+    "state_id": 72,
+    "state_code": "2",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "13.31206000",
+    "longitude": "12.08321000",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  },
+  {
+    "id": 76706,
+    "name": "Département de Nguigmi",
+    "state_id": 72,
+    "state_code": "2",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "14.20753000",
+    "longitude": "13.12177000",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  },
+  {
+    "id": 76686,
+    "name": "Diffa",
+    "state_id": 72,
+    "state_code": "2",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "13.31536000",
+    "longitude": "12.61135000",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  },
+  {
+    "id": 76729,
+    "name": "Maïné Soroa",
+    "state_id": 72,
+    "state_code": "2",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "13.21139000",
+    "longitude": "12.02410000",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  },
+  {
+    "id": 76731,
+    "name": "Nguigmi",
+    "state_id": 72,
+    "state_code": "2",
+    "country_id": 160,
+    "country_code": "NE",
+    "latitude": "14.24953000",
+    "longitude": "13.10921000",
+    "native": null,
+    "timezone": "Africa/Niamey",
+    "translations": {}
+  }
+]

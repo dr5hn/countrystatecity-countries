@@ -1,0 +1,80 @@
+[
+  {
+    "id": 134475,
+    "name": "Ad Dujayl",
+    "state_id": 3961,
+    "state_code": "SD",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "33.84667000",
+    "longitude": "44.23444000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134505,
+    "name": "Balad",
+    "state_id": 3961,
+    "state_code": "SD",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.01485000",
+    "longitude": "44.14574000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134510,
+    "name": "Bayjī",
+    "state_id": 3961,
+    "state_code": "SD",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.92915000",
+    "longitude": "43.48878000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134540,
+    "name": "Sāmarrā’",
+    "state_id": 3961,
+    "state_code": "SD",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.19590000",
+    "longitude": "43.88568000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134544,
+    "name": "Tikrīt",
+    "state_id": 3961,
+    "state_code": "SD",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.61581000",
+    "longitude": "43.67861000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134545,
+    "name": "Tozkhurmato",
+    "state_id": 3961,
+    "state_code": "SD",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.88808000",
+    "longitude": "44.63256000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  }
+]

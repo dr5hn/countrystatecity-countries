@@ -1,0 +1,67 @@
+[
+  {
+    "id": 141,
+    "name": "‘Alāqahdārī Dīshū",
+    "state_id": 3873,
+    "state_code": "HEL",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "30.43206000",
+    "longitude": "63.29802000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 70,
+    "name": "Gereshk",
+    "state_id": 3873,
+    "state_code": "HEL",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "31.82089000",
+    "longitude": "64.57005000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 93,
+    "name": "Lashkar Gāh",
+    "state_id": 3873,
+    "state_code": "HEL",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "31.59382000",
+    "longitude": "64.37161000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 95,
+    "name": "Markaz-e Ḩukūmat-e Darwēshān",
+    "state_id": 3873,
+    "state_code": "HEL",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "31.13231000",
+    "longitude": "64.19340000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 118,
+    "name": "Sangīn",
+    "state_id": 3873,
+    "state_code": "HEL",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.07275000",
+    "longitude": "64.83590000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

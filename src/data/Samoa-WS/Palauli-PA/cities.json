@@ -1,0 +1,28 @@
+[
+  {
+    "id": 130648,
+    "name": "Gataivai",
+    "state_id": 4767,
+    "state_code": "PA",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.77360000",
+    "longitude": "-172.38802000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130661,
+    "name": "Vailoa",
+    "state_id": 4767,
+    "state_code": "PA",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.75551000",
+    "longitude": "-172.30698000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  }
+]

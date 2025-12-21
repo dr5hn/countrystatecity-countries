@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52031,
+    "name": "Saint David’s",
+    "state_id": 3869,
+    "state_code": "02",
+    "country_id": 87,
+    "country_code": "GD",
+    "latitude": "12.04903000",
+    "longitude": "-61.66875000",
+    "native": null,
+    "timezone": "America/Grenada",
+    "translations": {}
+  }
+]

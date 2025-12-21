@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135191,
+    "name": "Höfn",
+    "state_id": 5600,
+    "state_code": "SHF",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.25388000",
+    "longitude": "-15.21212000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

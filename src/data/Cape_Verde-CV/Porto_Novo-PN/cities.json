@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21999,
+    "name": "Porto Novo",
+    "state_id": 2989,
+    "state_code": "PN",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "17.01969000",
+    "longitude": "-25.06471000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

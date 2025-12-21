@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135174,
+    "name": "Eyja- og Miklaholtshreppur",
+    "state_id": 5563,
+    "state_code": "EOM",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.85846000",
+    "longitude": "-22.54557000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

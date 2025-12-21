@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17257,
+    "name": "Kampene",
+    "state_id": 2745,
+    "state_code": "MA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-3.59678000",
+    "longitude": "26.66715000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17259,
+    "name": "Kasongo",
+    "state_id": 2745,
+    "state_code": "MA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-4.42741000",
+    "longitude": "26.66656000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17262,
+    "name": "Kindu",
+    "state_id": 2745,
+    "state_code": "MA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-2.94373000",
+    "longitude": "25.92237000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

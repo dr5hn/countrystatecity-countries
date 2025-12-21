@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135225,
+    "name": "Vestmannaeyjabær",
+    "state_id": 5615,
+    "state_code": "VEM",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.43877000",
+    "longitude": "-20.26900000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135226,
+    "name": "Vestmannaeyjar",
+    "state_id": 5615,
+    "state_code": "VEM",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.44273000",
+    "longitude": "-20.27339000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

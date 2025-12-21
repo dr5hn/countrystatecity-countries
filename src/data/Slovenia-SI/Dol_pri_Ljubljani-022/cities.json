@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104096,
+    "name": "Dol pri Ljubljani",
+    "state_id": 4173,
+    "state_code": "022",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.08861000",
+    "longitude": "14.60083000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

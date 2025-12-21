@@ -1,0 +1,28 @@
+[
+  {
+    "id": 81088,
+    "name": "National Capital",
+    "state_id": 4837,
+    "state_code": "NCD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-9.42257000",
+    "longitude": "147.16641000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81101,
+    "name": "Port Moresby",
+    "state_id": 4837,
+    "state_code": "NCD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-9.47723000",
+    "longitude": "147.15089000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  }
+]

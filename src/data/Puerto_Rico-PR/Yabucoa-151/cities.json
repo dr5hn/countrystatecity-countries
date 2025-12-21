@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153625,
+    "name": "Yabucoa",
+    "state_id": 5210,
+    "state_code": "151",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.05052010",
+    "longitude": "-65.87932880",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

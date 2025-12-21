@@ -1,0 +1,54 @@
+[
+  {
+    "id": 130056,
+    "name": "Caripito",
+    "state_id": 2054,
+    "state_code": "N",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.11135000",
+    "longitude": "-63.09985000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130107,
+    "name": "Maturín",
+    "state_id": 2054,
+    "state_code": "N",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.74569000",
+    "longitude": "-63.18323000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130117,
+    "name": "Municipio Maturín",
+    "state_id": 2054,
+    "state_code": "N",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.40000000",
+    "longitude": "-63.03333000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130122,
+    "name": "Municipio Uracoa",
+    "state_id": 2054,
+    "state_code": "N",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.99960000",
+    "longitude": "-62.35164000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

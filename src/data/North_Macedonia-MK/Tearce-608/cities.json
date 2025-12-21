@@ -1,0 +1,67 @@
+[
+  {
+    "id": 67491,
+    "name": "Nerašte",
+    "state_id": 654,
+    "state_code": "608",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.10711000",
+    "longitude": "21.10810000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67500,
+    "name": "Orashac",
+    "state_id": 654,
+    "state_code": "608",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.06250000",
+    "longitude": "21.79972000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67511,
+    "name": "Pršovce",
+    "state_id": 654,
+    "state_code": "608",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.08336000",
+    "longitude": "21.05994000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67527,
+    "name": "Slatino",
+    "state_id": 654,
+    "state_code": "608",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.06784000",
+    "longitude": "21.03902000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67542,
+    "name": "Tearce",
+    "state_id": 654,
+    "state_code": "608",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.07666000",
+    "longitude": "21.05310000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

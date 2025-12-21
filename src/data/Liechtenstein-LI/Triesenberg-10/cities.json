@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66446,
+    "name": "Triesenberg",
+    "state_id": 456,
+    "state_code": "10",
+    "country_id": 125,
+    "country_code": "LI",
+    "latitude": "47.11815000",
+    "longitude": "9.54197000",
+    "native": null,
+    "timezone": "Europe/Vaduz",
+    "translations": {}
+  }
+]

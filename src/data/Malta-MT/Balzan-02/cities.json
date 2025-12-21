@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67759,
+    "name": "Balzan",
+    "state_id": 108,
+    "state_code": "02",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.90028000",
+    "longitude": "14.45500000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

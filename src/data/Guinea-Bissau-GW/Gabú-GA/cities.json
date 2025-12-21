@@ -1,0 +1,15 @@
+[
+  {
+    "id": 53817,
+    "name": "Gabú",
+    "state_id": 2719,
+    "state_code": "GA",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "12.28000000",
+    "longitude": "-14.22222000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  }
+]

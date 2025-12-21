@@ -1,0 +1,28 @@
+[
+  {
+    "id": 102793,
+    "name": "Byumba",
+    "state_id": 263,
+    "state_code": "03",
+    "country_id": 183,
+    "country_code": "RW",
+    "latitude": "-1.57630000",
+    "longitude": "30.06750000",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 102801,
+    "name": "Musanze",
+    "state_id": 263,
+    "state_code": "03",
+    "country_id": 183,
+    "country_code": "RW",
+    "latitude": "-1.49984000",
+    "longitude": "29.63497000",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  }
+]

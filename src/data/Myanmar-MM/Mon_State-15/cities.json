@@ -1,0 +1,80 @@
+[
+  {
+    "id": 67645,
+    "name": "Kyaikkami",
+    "state_id": 2147,
+    "state_code": "15",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "16.07686000",
+    "longitude": "97.56388000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67647,
+    "name": "Kyaikto",
+    "state_id": 2147,
+    "state_code": "15",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "17.30858000",
+    "longitude": "97.01124000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67655,
+    "name": "Martaban",
+    "state_id": 2147,
+    "state_code": "15",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "16.52834000",
+    "longitude": "97.61570000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67658,
+    "name": "Mawlamyine",
+    "state_id": 2147,
+    "state_code": "15",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "16.49051000",
+    "longitude": "97.62825000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67665,
+    "name": "Mudon",
+    "state_id": 2147,
+    "state_code": "15",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "16.25624000",
+    "longitude": "97.72460000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67697,
+    "name": "Thaton",
+    "state_id": 2147,
+    "state_code": "15",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "16.91867000",
+    "longitude": "97.37001000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

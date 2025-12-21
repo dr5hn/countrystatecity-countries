@@ -1,0 +1,65 @@
+{
+  "id": 177,
+  "name": "Portugal",
+  "iso2": "PT",
+  "iso3": "PRT",
+  "numeric_code": "620",
+  "phonecode": "351",
+  "capital": "Lisbon",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".pt",
+  "native": "Portugal",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Portuguese",
+  "latitude": "39.50000000",
+  "longitude": "-8.00000000",
+  "emoji": "🇵🇹",
+  "emojiU": "U+1F1F5 U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Azores",
+      "gmtOffset": -3600,
+      "gmtOffsetName": "UTC-01:00",
+      "abbreviation": "AZOT",
+      "tzName": "Azores Standard Time"
+    },
+    {
+      "zoneName": "Atlantic/Madeira",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "WET",
+      "tzName": "Western European Time"
+    },
+    {
+      "zoneName": "Europe/Lisbon",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "WET",
+      "tzName": "Western European Time"
+    }
+  ],
+  "translations": {
+    "br": "Portugal",
+    "ko": "포르투갈",
+    "pt-BR": "Portugal",
+    "pt": "Portugal",
+    "nl": "Portugal",
+    "hr": "Portugal",
+    "fa": "پرتغال",
+    "de": "Portugal",
+    "es": "Portugal",
+    "fr": "Portugal",
+    "ja": "ポルトガル",
+    "it": "Portogallo",
+    "zh-CN": "葡萄牙",
+    "tr": "Portekiz",
+    "ru": "Португалия",
+    "uk": "Португалія",
+    "pl": "Portugalia",
+    "hi": "पुर्तगाल",
+    "ar": "البرتغال"
+  }
+}

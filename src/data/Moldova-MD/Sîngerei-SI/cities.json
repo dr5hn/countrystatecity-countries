@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67274,
+    "name": "Bilicenii Vechi",
+    "state_id": 4364,
+    "state_code": "SI",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.65580000",
+    "longitude": "28.04734000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67275,
+    "name": "Biruinţa",
+    "state_id": 4364,
+    "state_code": "SI",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.81353000",
+    "longitude": "28.07004000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67328,
+    "name": "Sîngerei",
+    "state_id": 4364,
+    "state_code": "SI",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.63632000",
+    "longitude": "28.14296000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

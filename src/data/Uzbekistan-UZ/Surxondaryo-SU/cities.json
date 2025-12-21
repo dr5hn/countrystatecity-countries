@@ -1,0 +1,54 @@
+[
+  {
+    "id": 129906,
+    "name": "Boysun",
+    "state_id": 2546,
+    "state_code": "SU",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "38.20835000",
+    "longitude": "67.20664000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 129921,
+    "name": "Denov",
+    "state_id": 2546,
+    "state_code": "SU",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "38.26746000",
+    "longitude": "67.89886000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 130002,
+    "name": "Sho‘rchi",
+    "state_id": 2546,
+    "state_code": "SU",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "37.99944000",
+    "longitude": "67.78750000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 130006,
+    "name": "Tirmiz",
+    "state_id": 2546,
+    "state_code": "SU",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "37.22417000",
+    "longitude": "67.27833000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  }
+]

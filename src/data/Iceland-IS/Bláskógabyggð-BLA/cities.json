@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135164,
+    "name": "Bláskógabyggð",
+    "state_id": 5558,
+    "state_code": "BLA",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.41667000",
+    "longitude": "-20.33333000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

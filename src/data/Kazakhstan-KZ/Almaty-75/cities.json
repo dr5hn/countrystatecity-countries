@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65607,
+    "name": "Almaty",
+    "state_id": 152,
+    "state_code": "75",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "43.25667000",
+    "longitude": "76.92861000",
+    "native": null,
+    "timezone": "Asia/Almaty",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104173,
+    "name": "Logatec",
+    "state_id": 4350,
+    "state_code": "064",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.91444000",
+    "longitude": "14.22583000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

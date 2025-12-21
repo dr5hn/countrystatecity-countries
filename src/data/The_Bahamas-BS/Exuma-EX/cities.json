@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15696,
+    "name": "George Town",
+    "state_id": 3612,
+    "state_code": "EX",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "23.51616000",
+    "longitude": "-75.78665000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

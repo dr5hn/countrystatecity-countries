@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153513,
+    "name": "Somerset",
+    "state_id": 4867,
+    "state_code": "SAN",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.28200000",
+    "longitude": "-64.84400000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

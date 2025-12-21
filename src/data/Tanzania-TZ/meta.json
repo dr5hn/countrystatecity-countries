@@ -1,0 +1,51 @@
+{
+  "id": 218,
+  "name": "Tanzania",
+  "iso2": "TZ",
+  "iso3": "TZA",
+  "numeric_code": "834",
+  "phonecode": "255",
+  "capital": "Dodoma",
+  "currency": "TZS",
+  "currency_name": "Tanzanian shilling",
+  "currency_symbol": "TSh",
+  "tld": ".tz",
+  "native": "Tanzania",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Tanzanian",
+  "latitude": "-6.00000000",
+  "longitude": "35.00000000",
+  "emoji": "🇹🇿",
+  "emojiU": "U+1F1F9 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Africa/Dar_es_Salaam",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Tanzania",
+    "ko": "탄자니아",
+    "pt-BR": "Tanzânia",
+    "pt": "Tanzânia",
+    "nl": "Tanzania",
+    "hr": "Tanzanija",
+    "fa": "تانزانیا",
+    "de": "Tansania",
+    "es": "Tanzania",
+    "fr": "Tanzanie",
+    "ja": "タンザニア",
+    "it": "Tanzania",
+    "zh-CN": "坦桑尼亚",
+    "tr": "Tanzanya",
+    "ru": "Танзания",
+    "uk": "Танзанія",
+    "pl": "Tanzania",
+    "hi": "तंजानिया",
+    "ar": "تنزانيا"
+  }
+}

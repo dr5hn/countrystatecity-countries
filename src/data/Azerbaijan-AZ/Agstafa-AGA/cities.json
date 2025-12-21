@@ -1,0 +1,41 @@
+[
+  {
+    "id": 8038,
+    "name": "Aghstafa",
+    "state_id": 543,
+    "state_code": "AGA",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.11889000",
+    "longitude": "45.45389000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8163,
+    "name": "Saloğlu",
+    "state_id": 543,
+    "state_code": "AGA",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.27524000",
+    "longitude": "45.35293000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8188,
+    "name": "Vurğun",
+    "state_id": 543,
+    "state_code": "AGA",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.09524000",
+    "longitude": "45.47111000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104266,
+    "name": "Semič",
+    "state_id": 4346,
+    "state_code": "109",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.64611000",
+    "longitude": "15.18222000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

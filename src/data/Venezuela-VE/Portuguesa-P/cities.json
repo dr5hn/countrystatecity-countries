@@ -1,0 +1,54 @@
+[
+  {
+    "id": 130038,
+    "name": "Acarigua",
+    "state_id": 2036,
+    "state_code": "P",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.55451000",
+    "longitude": "-69.19564000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130043,
+    "name": "Araure",
+    "state_id": 2036,
+    "state_code": "P",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.58144000",
+    "longitude": "-69.23851000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130082,
+    "name": "Guanare",
+    "state_id": 2036,
+    "state_code": "P",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.04183000",
+    "longitude": "-69.74206000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130168,
+    "name": "Villa Bruzual",
+    "state_id": 2036,
+    "state_code": "P",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.33186000",
+    "longitude": "-69.11968000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

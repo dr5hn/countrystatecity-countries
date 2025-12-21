@@ -1,0 +1,41 @@
+[
+  {
+    "id": 9291,
+    "name": "Buhovo",
+    "state_id": 4705,
+    "state_code": "22",
+    "country_id": 34,
+    "country_code": "BG",
+    "latitude": "42.76667000",
+    "longitude": "23.56667000",
+    "native": null,
+    "timezone": "Europe/Sofia",
+    "translations": {}
+  },
+  {
+    "id": 9701,
+    "name": "Sofia",
+    "state_id": 4705,
+    "state_code": "22",
+    "country_id": 34,
+    "country_code": "BG",
+    "latitude": "42.69751000",
+    "longitude": "23.32415000",
+    "native": null,
+    "timezone": "Europe/Sofia",
+    "translations": {}
+  },
+  {
+    "id": 9707,
+    "name": "Stolichna Obshtina",
+    "state_id": 4705,
+    "state_code": "22",
+    "country_id": 34,
+    "country_code": "BG",
+    "latitude": "42.68647000",
+    "longitude": "23.30561000",
+    "native": null,
+    "timezone": "Europe/Sofia",
+    "translations": {}
+  }
+]

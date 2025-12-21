@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1992,
+    "name": "Capital",
+    "country_id": 18,
+    "country_code": "BH",
+    "fips_code": null,
+    "iso2": "13",
+    "type": "governorate",
+    "latitude": "26.42432330",
+    "longitude": "50.47472510",
+    "native": "عاصمة",
+    "timezone": "Asia/Bahrain",
+    "translations": {}
+  },
+  {
+    "id": 1995,
+    "name": "Muharraq",
+    "country_id": 18,
+    "country_code": "BH",
+    "fips_code": null,
+    "iso2": "15",
+    "type": "governorate",
+    "latitude": "26.24659460",
+    "longitude": "50.61641270",
+    "native": "محارق",
+    "timezone": "Asia/Bahrain",
+    "translations": {}
+  },
+  {
+    "id": 1994,
+    "name": "Northern",
+    "country_id": 18,
+    "country_code": "BH",
+    "fips_code": null,
+    "iso2": "17",
+    "type": "governorate",
+    "latitude": "26.27784770",
+    "longitude": "50.41811230",
+    "native": "شمالي",
+    "timezone": "Asia/Bahrain",
+    "translations": {}
+  },
+  {
+    "id": 1993,
+    "name": "Southern",
+    "country_id": 18,
+    "country_code": "BH",
+    "fips_code": null,
+    "iso2": "14",
+    "type": "governorate",
+    "latitude": "25.84000690",
+    "longitude": "50.59026930",
+    "native": "الجنوب",
+    "timezone": "Asia/Bahrain",
+    "translations": {}
+  }
+]

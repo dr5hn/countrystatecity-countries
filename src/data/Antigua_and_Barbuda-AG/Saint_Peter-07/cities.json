@@ -1,0 +1,28 @@
+[
+  {
+    "id": 142,
+    "name": "All Saints",
+    "state_id": 3704,
+    "state_code": "07",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.06671000",
+    "longitude": "-61.79303000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  },
+  {
+    "id": 147,
+    "name": "Parham",
+    "state_id": 3704,
+    "state_code": "07",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.09682000",
+    "longitude": "-61.77046000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67272,
+    "name": "Basarabeasca",
+    "state_id": 4379,
+    "state_code": "BS",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.33170000",
+    "longitude": "28.96365000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

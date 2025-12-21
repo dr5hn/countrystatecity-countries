@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153626,
+    "name": "Yauco",
+    "state_id": 5211,
+    "state_code": "153",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.03496400",
+    "longitude": "-66.84989830",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

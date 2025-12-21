@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104838,
+    "name": "São Tomé",
+    "state_id": 5728,
+    "state_code": "01",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "0.33654000",
+    "longitude": "6.72732000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

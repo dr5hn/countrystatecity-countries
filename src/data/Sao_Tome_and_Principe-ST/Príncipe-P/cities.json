@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160137,
+    "name": "Santo António",
+    "state_id": 5734,
+    "state_code": "P",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "1.63943000",
+    "longitude": "7.41951000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

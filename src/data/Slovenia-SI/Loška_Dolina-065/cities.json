@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104163,
+    "name": "Leskova Dolina",
+    "state_id": 4174,
+    "state_code": "065",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.62139000",
+    "longitude": "14.46056000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

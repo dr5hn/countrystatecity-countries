@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64791,
+    "name": "Kajiado",
+    "state_id": 197,
+    "state_code": "10",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.85238000",
+    "longitude": "36.77683000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64824,
+    "name": "Magadi",
+    "state_id": 197,
+    "state_code": "10",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.90122000",
+    "longitude": "36.28700000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64853,
+    "name": "Ngong",
+    "state_id": 197,
+    "state_code": "10",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.35270000",
+    "longitude": "36.66990000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67758,
+    "name": "Attard",
+    "state_id": 110,
+    "state_code": "01",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.88972000",
+    "longitude": "14.44250000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

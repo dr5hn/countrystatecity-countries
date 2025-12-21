@@ -1,0 +1,28 @@
+[
+  {
+    "id": 53830,
+    "name": "New Amsterdam",
+    "state_id": 2766,
+    "state_code": "EB",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "6.24793000",
+    "longitude": "-57.51710000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  },
+  {
+    "id": 53833,
+    "name": "Skeldon",
+    "state_id": 2766,
+    "state_code": "EB",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "5.88333000",
+    "longitude": "-57.13333000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  }
+]

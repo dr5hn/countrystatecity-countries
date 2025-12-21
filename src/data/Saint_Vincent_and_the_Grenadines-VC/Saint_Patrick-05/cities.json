@@ -1,0 +1,15 @@
+[
+  {
+    "id": 130029,
+    "name": "Barrouallie",
+    "state_id": 3385,
+    "state_code": "05",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.23676000",
+    "longitude": "-61.27275000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  }
+]

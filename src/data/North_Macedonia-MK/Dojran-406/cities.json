@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67533,
+    "name": "Star Dojran",
+    "state_id": 697,
+    "state_code": "406",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.18647000",
+    "longitude": "22.72030000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

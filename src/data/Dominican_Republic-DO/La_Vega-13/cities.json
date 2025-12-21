@@ -1,0 +1,93 @@
+[
+  {
+    "id": 31048,
+    "name": "Concepción de La Vega",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.22207000",
+    "longitude": "-70.52956000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31049,
+    "name": "Constanza",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.90919000",
+    "longitude": "-70.74499000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31091,
+    "name": "Jarabacoa",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.11683000",
+    "longitude": "-70.63595000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31093,
+    "name": "Jima Abajo",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.13292000",
+    "longitude": "-70.37607000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31166,
+    "name": "Rincón",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.11938000",
+    "longitude": "-70.40632000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31169,
+    "name": "Río Verde Arriba",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.31583000",
+    "longitude": "-70.56643000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31206,
+    "name": "Tireo Arriba",
+    "state_id": 4116,
+    "state_code": "13",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.93537000",
+    "longitude": "-70.68850000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  }
+]

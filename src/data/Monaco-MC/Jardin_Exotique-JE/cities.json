@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160047,
+    "name": "Jardin Exotique",
+    "state_id": 5669,
+    "state_code": "JE",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73138889",
+    "longitude": "7.41388889",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

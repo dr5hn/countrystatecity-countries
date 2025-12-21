@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105127,
+    "name": "Bongor",
+    "state_id": 3580,
+    "state_code": "ME",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "10.28056000",
+    "longitude": "15.37222000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105135,
+    "name": "Gounou Gaya",
+    "state_id": 3580,
+    "state_code": "ME",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "9.62940000",
+    "longitude": "15.51320000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105138,
+    "name": "Guelendeng",
+    "state_id": 3580,
+    "state_code": "ME",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "10.91762000",
+    "longitude": "15.55011000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

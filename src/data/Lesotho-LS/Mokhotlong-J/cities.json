@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66570,
+    "name": "Mokhotlong",
+    "state_id": 3024,
+    "state_code": "J",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-29.28939000",
+    "longitude": "29.06751000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  }
+]

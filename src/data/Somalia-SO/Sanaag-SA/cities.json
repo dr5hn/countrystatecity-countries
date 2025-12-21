@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104792,
+    "name": "Ceerigaabo",
+    "state_id": 919,
+    "state_code": "SA",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "10.61616000",
+    "longitude": "47.36795000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104806,
+    "name": "Las Khorey",
+    "state_id": 919,
+    "state_code": "SA",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "11.15950000",
+    "longitude": "48.19670000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

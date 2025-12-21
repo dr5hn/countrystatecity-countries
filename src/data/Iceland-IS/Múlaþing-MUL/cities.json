@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135179,
+    "name": "Fljótsdalshérað",
+    "state_id": 5587,
+    "state_code": "MUL",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.25020000",
+    "longitude": "-15.37211000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

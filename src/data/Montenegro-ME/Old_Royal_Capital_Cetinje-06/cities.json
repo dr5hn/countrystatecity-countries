@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67348,
+    "name": "Cetinje",
+    "state_id": 28,
+    "state_code": "06",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.39063000",
+    "longitude": "18.91417000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

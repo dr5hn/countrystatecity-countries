@@ -1,0 +1,80 @@
+[
+  {
+    "id": 39133,
+    "name": "Ba",
+    "state_id": 1923,
+    "state_code": "W",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.53430000",
+    "longitude": "177.67407000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39134,
+    "name": "Ba Province",
+    "state_id": 1923,
+    "state_code": "W",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.66667000",
+    "longitude": "177.66667000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39140,
+    "name": "Lautoka",
+    "state_id": 1923,
+    "state_code": "W",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.61686000",
+    "longitude": "177.45049000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39144,
+    "name": "Nadi",
+    "state_id": 1923,
+    "state_code": "W",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.80309000",
+    "longitude": "177.41617000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39147,
+    "name": "Nandronga and Navosa",
+    "state_id": 1923,
+    "state_code": "W",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.00000000",
+    "longitude": "177.66667000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39148,
+    "name": "Ra",
+    "state_id": 1923,
+    "state_code": "W",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.50000000",
+    "longitude": "178.16667000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  }
+]

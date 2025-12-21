@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67363,
+    "name": "Plužine",
+    "state_id": 16,
+    "state_code": "15",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "43.15278000",
+    "longitude": "18.83944000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 56365,
+    "name": "Boalemo",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.62689000",
+    "longitude": "122.35680000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56375,
+    "name": "Bone Bolango",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.50296000",
+    "longitude": "123.27501000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56285,
+    "name": "Gorontalo",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.53750000",
+    "longitude": "123.06250000",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "translations": {}
+  },
+  {
+    "id": 56411,
+    "name": "Gorontalo Utara",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.77000000",
+    "longitude": "122.31667000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56410,
+    "name": "Kabupaten Gorontalo",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.57280000",
+    "longitude": "122.23370000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56595,
+    "name": "Pohuwato",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.70980000",
+    "longitude": "121.59582000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  }
+]

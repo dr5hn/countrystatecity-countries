@@ -1,0 +1,58 @@
+[
+  {
+    "id": 969,
+    "name": "Hhohho",
+    "country_id": 212,
+    "country_code": "SZ",
+    "fips_code": null,
+    "iso2": "HH",
+    "type": "region",
+    "latitude": "-26.09880120",
+    "longitude": "31.36308220",
+    "native": "Hhohho",
+    "timezone": "Africa/Mbabane",
+    "translations": {}
+  },
+  {
+    "id": 970,
+    "name": "Lubombo",
+    "country_id": 212,
+    "country_code": "SZ",
+    "fips_code": null,
+    "iso2": "LU",
+    "type": "region",
+    "latitude": "-26.55452000",
+    "longitude": "31.86191160",
+    "native": "Bitch",
+    "timezone": "Africa/Mbabane",
+    "translations": {}
+  },
+  {
+    "id": 968,
+    "name": "Manzini",
+    "country_id": 212,
+    "country_code": "SZ",
+    "fips_code": null,
+    "iso2": "MA",
+    "type": "region",
+    "latitude": "-26.49764440",
+    "longitude": "31.37508150",
+    "native": "Chic",
+    "timezone": "Africa/Mbabane",
+    "translations": {}
+  },
+  {
+    "id": 971,
+    "name": "Shiselweni",
+    "country_id": 212,
+    "country_code": "SZ",
+    "fips_code": null,
+    "iso2": "SH",
+    "type": "region",
+    "latitude": "-27.03602200",
+    "longitude": "31.33212980",
+    "native": "Suspend",
+    "timezone": "Africa/Mbabane",
+    "translations": {}
+  }
+]

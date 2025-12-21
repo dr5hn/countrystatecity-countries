@@ -1,0 +1,67 @@
+[
+  {
+    "id": 81828,
+    "name": "Buenavista",
+    "state_id": 1303,
+    "state_code": "GUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "10.69045770",
+    "longitude": "122.58102410",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 82810,
+    "name": "Jordan",
+    "state_id": 1303,
+    "state_code": "GUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "10.60930520",
+    "longitude": "122.48744660",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83827,
+    "name": "Nueva Valencia",
+    "state_id": 1303,
+    "state_code": "GUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "10.43014400",
+    "longitude": "122.46056150",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 146066,
+    "name": "San Lorenzo",
+    "state_id": 1303,
+    "state_code": "GUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "10.59432590",
+    "longitude": "122.58412170",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154540,
+    "name": "Sibunag",
+    "state_id": 1303,
+    "state_code": "GUI",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "10.48821720",
+    "longitude": "122.47479730",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

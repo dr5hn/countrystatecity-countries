@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104298,
+    "name": "Trebnje",
+    "state_id": 4214,
+    "state_code": "130",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.90417000",
+    "longitude": "15.02167000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 127,
+  "name": "Luxembourg",
+  "iso2": "LU",
+  "iso3": "LUX",
+  "numeric_code": "442",
+  "phonecode": "352",
+  "capital": "Luxembourg",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".lu",
+  "native": "Luxembourg",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "nationality": "Luxembourg, Luxembourgish",
+  "latitude": "49.75000000",
+  "longitude": "6.16666666",
+  "emoji": "🇱🇺",
+  "emojiU": "U+1F1F1 U+1F1FA",
+  "timezones": [
+    {
+      "zoneName": "Europe/Luxembourg",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Luksembourg",
+    "ko": "룩셈부르크",
+    "pt-BR": "Luxemburgo",
+    "pt": "Luxemburgo",
+    "nl": "Luxemburg",
+    "hr": "Luksemburg",
+    "fa": "لوکزامبورگ",
+    "de": "Luxemburg",
+    "es": "Luxemburgo",
+    "fr": "Luxembourg",
+    "ja": "ルクセンブルク",
+    "it": "Lussemburgo",
+    "zh-CN": "卢森堡",
+    "tr": "Lüksemburg",
+    "ru": "Люксембург",
+    "uk": "Люксембург",
+    "pl": "Luksemburg",
+    "hi": "लक्समबर्ग",
+    "ar": "لوكسمبورغ"
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153493,
+    "name": "Sai Kung",
+    "state_id": 4887,
+    "state_code": "NSK",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.38400000",
+    "longitude": "114.27300000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153498,
+    "name": "Tseung Kwan O",
+    "state_id": 4887,
+    "state_code": "NSK",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.31900000",
+    "longitude": "114.26300000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31422,
+    "name": "Sedrata",
+    "state_id": 1143,
+    "state_code": "41",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.12868000",
+    "longitude": "7.53376000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31437,
+    "name": "Souk Ahras",
+    "state_id": 1143,
+    "state_code": "41",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.28639000",
+    "longitude": "7.95111000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 8041,
+    "name": "Altıağac",
+    "state_id": 537,
+    "state_code": "XIZ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.85785000",
+    "longitude": "48.93540000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8101,
+    "name": "Khyzy",
+    "state_id": 537,
+    "state_code": "XIZ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.90847000",
+    "longitude": "49.07481000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8102,
+    "name": "Kilyazi",
+    "state_id": 537,
+    "state_code": "XIZ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.87392000",
+    "longitude": "49.34376000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8213,
+    "name": "Şuraabad",
+    "state_id": 537,
+    "state_code": "XIZ",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.81990000",
+    "longitude": "49.46774000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

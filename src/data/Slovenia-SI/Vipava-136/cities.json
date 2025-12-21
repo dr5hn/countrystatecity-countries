@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104311,
+    "name": "Vipava",
+    "state_id": 4196,
+    "state_code": "136",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.84667000",
+    "longitude": "13.96306000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

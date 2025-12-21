@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15690,
+    "name": "Cockburn Town",
+    "state_id": 3627,
+    "state_code": "SS",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "24.05179000",
+    "longitude": "-74.53138000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

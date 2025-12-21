@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153494,
+    "name": "Ma On Shan",
+    "state_id": 4901,
+    "state_code": "NST",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.42200000",
+    "longitude": "114.23000000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153489,
+    "name": "Sha Tin",
+    "state_id": 4901,
+    "state_code": "NST",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.38300000",
+    "longitude": "114.18800000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153499,
+    "name": "Sha Tin Wai",
+    "state_id": 4901,
+    "state_code": "NST",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.38000000",
+    "longitude": "114.19100000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

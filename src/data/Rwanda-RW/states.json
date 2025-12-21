@@ -1,0 +1,72 @@
+[
+  {
+    "id": 261,
+    "name": "Eastern",
+    "country_id": 183,
+    "country_code": "RW",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "province",
+    "latitude": "-1.74151360",
+    "longitude": "30.54042820",
+    "native": "Iburasirazuba",
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 262,
+    "name": "Kigali",
+    "country_id": 183,
+    "country_code": "RW",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "city",
+    "latitude": "-1.95085100",
+    "longitude": "30.06150700",
+    "native": "Kigali",
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 263,
+    "name": "Northern",
+    "country_id": 183,
+    "country_code": "RW",
+    "fips_code": null,
+    "iso2": "03",
+    "type": "province",
+    "latitude": "-1.58096990",
+    "longitude": "29.92697760",
+    "native": "Amajyaruguru",
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 259,
+    "name": "Southern",
+    "country_id": 183,
+    "country_code": "RW",
+    "fips_code": null,
+    "iso2": "05",
+    "type": "province",
+    "latitude": "-2.62721370",
+    "longitude": "29.60630490",
+    "native": "Amajyepfo",
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 260,
+    "name": "Western",
+    "country_id": 183,
+    "country_code": "RW",
+    "fips_code": null,
+    "iso2": "04",
+    "type": "province",
+    "latitude": "-0.77278910",
+    "longitude": "30.08843240",
+    "native": "Western",
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  }
+]

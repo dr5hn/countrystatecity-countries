@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104140,
+    "name": "Komen",
+    "state_id": 4315,
+    "state_code": "049",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.81528000",
+    "longitude": "13.74833000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

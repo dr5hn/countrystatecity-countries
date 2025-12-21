@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104182,
+    "name": "Markovci",
+    "state_id": 4244,
+    "state_code": "168",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.39557000",
+    "longitude": "15.92831000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

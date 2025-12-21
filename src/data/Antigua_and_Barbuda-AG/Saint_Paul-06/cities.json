@@ -1,0 +1,28 @@
+[
+  {
+    "id": 145,
+    "name": "Falmouth",
+    "state_id": 3705,
+    "state_code": "06",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.02741000",
+    "longitude": "-61.78136000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  },
+  {
+    "id": 146,
+    "name": "Liberta",
+    "state_id": 3705,
+    "state_code": "06",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.04141000",
+    "longitude": "-61.79052000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  }
+]

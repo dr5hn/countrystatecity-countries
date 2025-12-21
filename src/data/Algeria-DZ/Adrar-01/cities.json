@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31227,
+    "name": "Adrar",
+    "state_id": 1118,
+    "state_code": "01",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "27.87429000",
+    "longitude": "-0.29388000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31234,
+    "name": "Aoulef",
+    "state_id": 1118,
+    "state_code": "01",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "26.96667000",
+    "longitude": "1.08333000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31406,
+    "name": "Reggane",
+    "state_id": 1118,
+    "state_code": "01",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "26.71576000",
+    "longitude": "0.17140000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31450,
+    "name": "Timimoun",
+    "state_id": 1118,
+    "state_code": "01",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "29.26388000",
+    "longitude": "0.23098000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

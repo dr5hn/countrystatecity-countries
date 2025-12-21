@@ -1,0 +1,41 @@
+[
+  {
+    "id": 89750,
+    "name": "Colonia Menno",
+    "state_id": 2780,
+    "state_code": "19",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-22.36667000",
+    "longitude": "-59.81667000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89752,
+    "name": "Colonia Neuland",
+    "state_id": 2780,
+    "state_code": "19",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-22.66667000",
+    "longitude": "-60.11667000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 89766,
+    "name": "Filadelfia",
+    "state_id": 2780,
+    "state_code": "19",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-22.33936000",
+    "longitude": "-60.03157000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 86,
+    "name": "Khāsh",
+    "state_id": 3896,
+    "state_code": "NIM",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "31.52919000",
+    "longitude": "62.79055000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 100,
+    "name": "Mīrābād",
+    "state_id": 3896,
+    "state_code": "NIM",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "30.43624000",
+    "longitude": "61.83830000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 116,
+    "name": "Rūdbār",
+    "state_id": 3896,
+    "state_code": "NIM",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "30.15000000",
+    "longitude": "62.60000000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 132,
+    "name": "Zaranj",
+    "state_id": 3896,
+    "state_code": "NIM",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "30.95962000",
+    "longitude": "61.86037000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

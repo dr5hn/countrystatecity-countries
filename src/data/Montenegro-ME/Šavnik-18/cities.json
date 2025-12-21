@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67374,
+    "name": "Šavnik",
+    "state_id": 18,
+    "state_code": "18",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.95639000",
+    "longitude": "19.09667000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

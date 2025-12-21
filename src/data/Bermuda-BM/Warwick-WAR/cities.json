@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153510,
+    "name": "Warwick",
+    "state_id": 4870,
+    "state_code": "WAR",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.26700000",
+    "longitude": "-64.80600000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

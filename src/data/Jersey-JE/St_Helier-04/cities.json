@@ -1,0 +1,80 @@
+[
+  {
+    "id": 154111,
+    "name": "Vingtaine de Bas du Mont au Prêtre",
+    "state_id": 5312,
+    "state_code": "04",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.19939590",
+    "longitude": "-2.11964080",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154112,
+    "name": "Vingtaine de Haut du Mont au Prêtre",
+    "state_id": 5312,
+    "state_code": "04",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20242510",
+    "longitude": "-2.09919230",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154109,
+    "name": "Vingtaine de la Ville",
+    "state_id": 5312,
+    "state_code": "04",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.17883320",
+    "longitude": "-2.10357590",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154113,
+    "name": "Vingtaine du Mont à l'Abbé",
+    "state_id": 5312,
+    "state_code": "04",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20036330",
+    "longitude": "-2.13384390",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154114,
+    "name": "Vingtaine du Mont Cochon",
+    "state_id": 5312,
+    "state_code": "04",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.19975370",
+    "longitude": "-2.14757550",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154110,
+    "name": "Vingtaine du Rouge Bouillon",
+    "state_id": 5312,
+    "state_code": "04",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.19291200",
+    "longitude": "-2.10935300",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

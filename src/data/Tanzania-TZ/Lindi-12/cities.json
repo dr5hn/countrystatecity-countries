@@ -1,0 +1,93 @@
+[
+  {
+    "id": 109142,
+    "name": "Lindi",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-9.99709000",
+    "longitude": "39.71649000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109187,
+    "name": "Mbekenyera",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-10.00000000",
+    "longitude": "38.98333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109198,
+    "name": "Mingoyo",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-10.10526000",
+    "longitude": "39.61859000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109214,
+    "name": "Mtama",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-10.30000000",
+    "longitude": "39.36667000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109235,
+    "name": "Nachingwea",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-10.37250000",
+    "longitude": "38.76251000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109266,
+    "name": "Nyangao",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-10.33333000",
+    "longitude": "39.28333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109272,
+    "name": "Ruangwa",
+    "state_id": 1483,
+    "state_code": "12",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-10.06667000",
+    "longitude": "38.93333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

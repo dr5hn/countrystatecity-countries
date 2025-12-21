@@ -1,0 +1,51 @@
+{
+  "id": 196,
+  "name": "Serbia",
+  "iso2": "RS",
+  "iso3": "SRB",
+  "numeric_code": "688",
+  "phonecode": "381",
+  "capital": "Belgrade",
+  "currency": "RSD",
+  "currency_name": "Serbian dinar",
+  "currency_symbol": "din",
+  "tld": ".rs",
+  "native": "Србија",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Serbian",
+  "latitude": "44.00000000",
+  "longitude": "21.00000000",
+  "emoji": "🇷🇸",
+  "emojiU": "U+1F1F7 U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Europe/Belgrade",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Serbia",
+    "ko": "세르비아",
+    "pt-BR": "Sérvia",
+    "pt": "Sérvia",
+    "nl": "Servië",
+    "hr": "Srbija",
+    "fa": "صربستان",
+    "de": "Serbien",
+    "es": "Serbia",
+    "fr": "Serbie",
+    "ja": "セルビア",
+    "it": "Serbia",
+    "zh-CN": "塞尔维亚",
+    "tr": "Sirbistan",
+    "ru": "Сербия",
+    "uk": "Сербія",
+    "pl": "Serbia",
+    "hi": "सर्बिया",
+    "ar": "صربيا"
+  }
+}

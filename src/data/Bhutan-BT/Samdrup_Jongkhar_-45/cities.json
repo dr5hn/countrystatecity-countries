@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15718,
+    "name": "Samdrup Jongkhar",
+    "state_id": 243,
+    "state_code": "45",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "26.80069000",
+    "longitude": "91.50519000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66999,
+    "name": "Al Jawf",
+    "state_id": 2972,
+    "state_code": "KF",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "24.19890000",
+    "longitude": "23.29093000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67005,
+    "name": "At Tāj",
+    "state_id": 2972,
+    "state_code": "KF",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "24.20487000",
+    "longitude": "23.28570000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

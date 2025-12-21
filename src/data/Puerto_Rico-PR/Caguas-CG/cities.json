@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153561,
+    "name": "Caguas",
+    "state_id": 5079,
+    "state_code": "CG",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.23879950",
+    "longitude": "-66.03524900",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

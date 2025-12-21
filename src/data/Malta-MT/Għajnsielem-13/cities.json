@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67768,
+    "name": "Għajnsielem",
+    "state_id": 130,
+    "state_code": "13",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "36.02639000",
+    "longitude": "14.28500000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 67772,
+    "name": "Ħal Għargħur",
+    "state_id": 130,
+    "state_code": "13",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.92409000",
+    "longitude": "14.45118000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

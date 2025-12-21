@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104161,
+    "name": "Lendava",
+    "state_id": 4225,
+    "state_code": "059",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.56494000",
+    "longitude": "16.45091000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

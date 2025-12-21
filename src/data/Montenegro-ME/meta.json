@@ -1,0 +1,51 @@
+{
+  "id": 147,
+  "name": "Montenegro",
+  "iso2": "ME",
+  "iso3": "MNE",
+  "numeric_code": "499",
+  "phonecode": "382",
+  "capital": "Podgorica",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".me",
+  "native": "Црна Гора",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Montenegrin",
+  "latitude": "42.50000000",
+  "longitude": "19.30000000",
+  "emoji": "🇲🇪",
+  "emojiU": "U+1F1F2 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Europe/Podgorica",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Montenegro",
+    "ko": "몬테네그로",
+    "pt-BR": "Montenegro",
+    "pt": "Montenegro",
+    "nl": "Montenegro",
+    "hr": "Crna Gora",
+    "fa": "مونته‌نگرو",
+    "de": "Montenegro",
+    "es": "Montenegro",
+    "fr": "Monténégro",
+    "ja": "モンテネグロ",
+    "it": "Montenegro",
+    "zh-CN": "黑山",
+    "tr": "Karadağ",
+    "ru": "Черногория",
+    "uk": "Чорногорія",
+    "pl": "Czarnogóra",
+    "hi": "मोंटेनेग्रो",
+    "ar": "الجبل الأسود"
+  }
+}

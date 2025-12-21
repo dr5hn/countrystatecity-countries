@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153508,
+    "name": "Tai O",
+    "state_id": 4888,
+    "state_code": "NIS",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.24700000",
+    "longitude": "113.86900000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

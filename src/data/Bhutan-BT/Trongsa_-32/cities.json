@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153852,
+    "name": "Trongsa",
+    "state_id": 245,
+    "state_code": "32",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.49940000",
+    "longitude": "90.50470000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

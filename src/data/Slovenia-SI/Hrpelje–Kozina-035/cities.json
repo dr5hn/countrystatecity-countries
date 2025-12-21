@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104147,
+    "name": "Kozina",
+    "state_id": 4321,
+    "state_code": "035",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.61000000",
+    "longitude": "13.93556000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 108993,
+    "name": "Alapi Village",
+    "state_id": 3951,
+    "state_code": "FUN",
+    "country_id": 228,
+    "country_code": "TV",
+    "latitude": "-8.52074000",
+    "longitude": "179.19680000",
+    "native": null,
+    "timezone": "Pacific/Funafuti",
+    "translations": {}
+  },
+  {
+    "id": 108995,
+    "name": "Fakaifou Village",
+    "state_id": 3951,
+    "state_code": "FUN",
+    "country_id": 228,
+    "country_code": "TV",
+    "latitude": "-8.51758000",
+    "longitude": "179.20094000",
+    "native": null,
+    "timezone": "Pacific/Funafuti",
+    "translations": {}
+  },
+  {
+    "id": 108996,
+    "name": "Funafuti",
+    "state_id": 3951,
+    "state_code": "FUN",
+    "country_id": 228,
+    "country_code": "TV",
+    "latitude": "-8.52425000",
+    "longitude": "179.19417000",
+    "native": null,
+    "timezone": "Pacific/Funafuti",
+    "translations": {}
+  }
+]

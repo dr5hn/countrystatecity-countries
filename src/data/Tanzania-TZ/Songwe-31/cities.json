@@ -1,0 +1,80 @@
+[
+  {
+    "id": 154662,
+    "name": "Ileje",
+    "state_id": 4956,
+    "state_code": "31",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-9.60000000",
+    "longitude": "33.48330000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 154661,
+    "name": "Mbozi",
+    "state_id": 4956,
+    "state_code": "31",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-9.08330000",
+    "longitude": "33.45000000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 154660,
+    "name": "Mkwajuni",
+    "state_id": 4956,
+    "state_code": "31",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-8.42380000",
+    "longitude": "33.02900000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 154659,
+    "name": "Mlowo",
+    "state_id": 4956,
+    "state_code": "31",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-9.00000000",
+    "longitude": "32.96670000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 154658,
+    "name": "Tunduma",
+    "state_id": 4956,
+    "state_code": "31",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-9.28810000",
+    "longitude": "32.77460000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 154657,
+    "name": "Vwawa",
+    "state_id": 4956,
+    "state_code": "31",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-9.11960000",
+    "longitude": "32.93120000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

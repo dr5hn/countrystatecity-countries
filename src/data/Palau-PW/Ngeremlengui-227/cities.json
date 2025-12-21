@@ -1,0 +1,15 @@
+[
+  {
+    "id": 89701,
+    "name": "Imeong Hamlet",
+    "state_id": 4541,
+    "state_code": "227",
+    "country_id": 168,
+    "country_code": "PW",
+    "latitude": "7.53134000",
+    "longitude": "134.52713000",
+    "native": null,
+    "timezone": "Pacific/Palau",
+    "translations": {}
+  }
+]

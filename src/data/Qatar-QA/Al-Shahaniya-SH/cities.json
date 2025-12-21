@@ -1,0 +1,41 @@
+[
+  {
+    "id": 89857,
+    "name": "Al Jumaylīyah",
+    "state_id": 3178,
+    "state_code": "SH",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "25.61068000",
+    "longitude": "51.09108000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  },
+  {
+    "id": 89863,
+    "name": "Ash Shīḩānīyah",
+    "state_id": 3178,
+    "state_code": "SH",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "25.37088000",
+    "longitude": "51.22264000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  },
+  {
+    "id": 89865,
+    "name": "Dukhān",
+    "state_id": 3178,
+    "state_code": "SH",
+    "country_id": 179,
+    "country_code": "QA",
+    "latitude": "25.42485000",
+    "longitude": "50.78227000",
+    "native": null,
+    "timezone": "Asia/Qatar",
+    "translations": {}
+  }
+]

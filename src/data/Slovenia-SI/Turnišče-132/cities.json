@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104304,
+    "name": "Turnišče",
+    "state_id": 4251,
+    "state_code": "132",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.62778000",
+    "longitude": "16.32028000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

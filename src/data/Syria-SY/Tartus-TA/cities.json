@@ -1,0 +1,80 @@
+[
+  {
+    "id": 104941,
+    "name": "Ad Duraykīsh",
+    "state_id": 2947,
+    "state_code": "TA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "34.89514000",
+    "longitude": "36.14303000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 104987,
+    "name": "Bāniyās",
+    "state_id": 2947,
+    "state_code": "TA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "35.18188000",
+    "longitude": "35.94871000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 105015,
+    "name": "Kaff al-Jaa",
+    "state_id": 2947,
+    "state_code": "TA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "35.08638000",
+    "longitude": "36.20605000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 105042,
+    "name": "Safita",
+    "state_id": 2947,
+    "state_code": "TA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "34.80419000",
+    "longitude": "36.12293000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 105047,
+    "name": "Satita",
+    "state_id": 2947,
+    "state_code": "TA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "34.82099000",
+    "longitude": "36.11773000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 105060,
+    "name": "Tartouss",
+    "state_id": 2947,
+    "state_code": "TA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "34.88902000",
+    "longitude": "35.88659000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  }
+]

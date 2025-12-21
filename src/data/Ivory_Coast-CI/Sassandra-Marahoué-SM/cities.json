@@ -1,0 +1,93 @@
+[
+  {
+    "id": 18882,
+    "name": "Bouaflé",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.99041000",
+    "longitude": "-5.74420000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18892,
+    "name": "Daloa",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.87735000",
+    "longitude": "-6.45022000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18911,
+    "name": "Haut-Sassandra",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.66961000",
+    "longitude": "-6.50116000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18914,
+    "name": "Issia",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "6.49224000",
+    "longitude": "-6.58558000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18921,
+    "name": "Marahoué",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "7.03252000",
+    "longitude": "-5.80215000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18940,
+    "name": "Vavoua",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "7.38194000",
+    "longitude": "-6.47778000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18943,
+    "name": "Zuénoula",
+    "state_id": 2648,
+    "state_code": "SM",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "7.43027000",
+    "longitude": "-6.05054000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  }
+]

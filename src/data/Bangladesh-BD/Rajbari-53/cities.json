@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153874,
+    "name": "Rajbari",
+    "state_id": 5525,
+    "state_code": "53",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "23.73843000",
+    "longitude": "89.25547000",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

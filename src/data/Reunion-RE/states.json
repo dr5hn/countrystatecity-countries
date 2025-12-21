@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5436,
+    "name": "Saint-Benoît",
+    "country_id": 180,
+    "country_code": "RE",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "district",
+    "latitude": "-21.08104330",
+    "longitude": "55.60281270",
+    "native": "Saint-Benoît",
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 5437,
+    "name": "Saint-Denis",
+    "country_id": 180,
+    "country_code": "RE",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "district",
+    "latitude": "-20.87998890",
+    "longitude": "55.44813700",
+    "native": "Saint-Denis",
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 5438,
+    "name": "Saint-Paul",
+    "country_id": 180,
+    "country_code": "RE",
+    "fips_code": null,
+    "iso2": "03",
+    "type": "district",
+    "latitude": "-21.00060990",
+    "longitude": "55.27715850",
+    "native": "Saint-Paul",
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 5439,
+    "name": "Saint-Pierre",
+    "country_id": 180,
+    "country_code": "RE",
+    "fips_code": null,
+    "iso2": "04",
+    "type": "district",
+    "latitude": "-21.23774370",
+    "longitude": "55.48997640",
+    "native": "Saint-Pierre",
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  }
+]

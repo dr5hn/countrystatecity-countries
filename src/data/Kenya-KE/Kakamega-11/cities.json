@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64778,
+    "name": "Butere",
+    "state_id": 158,
+    "state_code": "11",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.20694000",
+    "longitude": "34.49006000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64792,
+    "name": "Kakamega",
+    "state_id": 158,
+    "state_code": "11",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.28422000",
+    "longitude": "34.75229000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64842,
+    "name": "Mumias",
+    "state_id": 158,
+    "state_code": "11",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.33474000",
+    "longitude": "34.48796000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

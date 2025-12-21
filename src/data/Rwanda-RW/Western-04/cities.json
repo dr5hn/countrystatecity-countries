@@ -1,0 +1,41 @@
+[
+  {
+    "id": 102794,
+    "name": "Cyangugu",
+    "state_id": 260,
+    "state_code": "04",
+    "country_id": 183,
+    "country_code": "RW",
+    "latitude": "-2.48460000",
+    "longitude": "28.90750000",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 102796,
+    "name": "Gisenyi",
+    "state_id": 260,
+    "state_code": "04",
+    "country_id": 183,
+    "country_code": "RW",
+    "latitude": "-1.70278000",
+    "longitude": "29.25639000",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  },
+  {
+    "id": 102799,
+    "name": "Kibuye",
+    "state_id": 260,
+    "state_code": "04",
+    "country_id": 183,
+    "country_code": "RW",
+    "latitude": "-2.06028000",
+    "longitude": "29.34778000",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "translations": {}
+  }
+]

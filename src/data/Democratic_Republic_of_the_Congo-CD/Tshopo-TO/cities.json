@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17227,
+    "name": "Basoko",
+    "state_id": 2756,
+    "state_code": "TO",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "1.23909000",
+    "longitude": "23.61598000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17265,
+    "name": "Kisangani",
+    "state_id": 2756,
+    "state_code": "TO",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "0.51528000",
+    "longitude": "25.19099000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17293,
+    "name": "Yangambi",
+    "state_id": 2756,
+    "state_code": "TO",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "0.76755000",
+    "longitude": "24.43973000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

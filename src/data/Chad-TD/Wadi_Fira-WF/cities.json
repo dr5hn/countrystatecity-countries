@@ -1,0 +1,28 @@
+[
+  {
+    "id": 105123,
+    "name": "Biltine",
+    "state_id": 3581,
+    "state_code": "WF",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "14.52791000",
+    "longitude": "20.92749000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105139,
+    "name": "Iriba",
+    "state_id": 3581,
+    "state_code": "WF",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "15.11667000",
+    "longitude": "22.25000000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

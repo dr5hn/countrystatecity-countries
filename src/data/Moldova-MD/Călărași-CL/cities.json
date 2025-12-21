@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67294,
+    "name": "Călăraşi",
+    "state_id": 4366,
+    "state_code": "CL",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.25560000",
+    "longitude": "28.30987000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154151,
+    "name": "Vingtaine de la Croiserie",
+    "state_id": 5320,
+    "state_code": "12",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21646930",
+    "longitude": "-2.09164410",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154147,
+    "name": "Vingtaine de la Ville-à-l'Évêque",
+    "state_id": 5320,
+    "state_code": "12",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23176480",
+    "longitude": "-2.12236840",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154148,
+    "name": "Vingtaine de Rozel",
+    "state_id": 5320,
+    "state_code": "12",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23842870",
+    "longitude": "-2.06704060",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154150,
+    "name": "Vingtaine des Augrès",
+    "state_id": 5320,
+    "state_code": "12",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.22857290",
+    "longitude": "-2.08235050",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154149,
+    "name": "Vingtaine du Rondin",
+    "state_id": 5320,
+    "state_code": "12",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23706240",
+    "longitude": "-2.08753310",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

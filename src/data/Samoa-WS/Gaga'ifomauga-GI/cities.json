@@ -1,0 +1,28 @@
+[
+  {
+    "id": 130653,
+    "name": "Matavai",
+    "state_id": 4771,
+    "state_code": "GI",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-14.03208000",
+    "longitude": "-171.64768000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  },
+  {
+    "id": 130656,
+    "name": "Safotu",
+    "state_id": 4771,
+    "state_code": "GI",
+    "country_id": 191,
+    "country_code": "WS",
+    "latitude": "-13.45132000",
+    "longitude": "-172.40177000",
+    "native": null,
+    "timezone": "Pacific/Apia",
+    "translations": {}
+  }
+]

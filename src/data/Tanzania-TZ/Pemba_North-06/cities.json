@@ -1,0 +1,41 @@
+[
+  {
+    "id": 109134,
+    "name": "Konde",
+    "state_id": 1488,
+    "state_code": "06",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-4.95000000",
+    "longitude": "39.75000000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109196,
+    "name": "Micheweni",
+    "state_id": 1488,
+    "state_code": "06",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-4.96667000",
+    "longitude": "39.83333000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  },
+  {
+    "id": 109303,
+    "name": "Wete",
+    "state_id": 1488,
+    "state_code": "06",
+    "country_id": 218,
+    "country_code": "TZ",
+    "latitude": "-5.05589000",
+    "longitude": "39.72938000",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "translations": {}
+  }
+]

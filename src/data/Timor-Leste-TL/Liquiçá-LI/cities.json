@@ -1,0 +1,41 @@
+[
+  {
+    "id": 106838,
+    "name": "Bazartete",
+    "state_id": 4515,
+    "state_code": "LI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.62464000",
+    "longitude": "125.38168000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106856,
+    "name": "Likisá",
+    "state_id": 4515,
+    "state_code": "LI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.58750000",
+    "longitude": "125.34194000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106862,
+    "name": "Maubara",
+    "state_id": 4515,
+    "state_code": "LI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.61194000",
+    "longitude": "125.20611000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  }
+]

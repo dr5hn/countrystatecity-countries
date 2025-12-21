@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104368,
+    "name": "Žirovnica",
+    "state_id": 4276,
+    "state_code": "192",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.40472000",
+    "longitude": "14.14000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

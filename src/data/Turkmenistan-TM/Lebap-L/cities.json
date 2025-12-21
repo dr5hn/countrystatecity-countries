@@ -1,0 +1,80 @@
+[
+  {
+    "id": 106885,
+    "name": "Atamyrat",
+    "state_id": 3370,
+    "state_code": "L",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.83573000",
+    "longitude": "65.21058000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106892,
+    "name": "Farap",
+    "state_id": 3370,
+    "state_code": "L",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "39.17037000",
+    "longitude": "63.61165000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106893,
+    "name": "Gazojak",
+    "state_id": 3370,
+    "state_code": "L",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "41.18746000",
+    "longitude": "61.40360000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106894,
+    "name": "Gowurdak",
+    "state_id": 3370,
+    "state_code": "L",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.81244000",
+    "longitude": "66.04656000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106900,
+    "name": "Saýat",
+    "state_id": 3370,
+    "state_code": "L",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "38.78393000",
+    "longitude": "63.88035000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106906,
+    "name": "Türkmenabat",
+    "state_id": 3370,
+    "state_code": "L",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "39.07328000",
+    "longitude": "63.57861000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  }
+]

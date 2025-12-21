@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153945,
+    "name": "Moudjeria",
+    "state_id": 3345,
+    "state_code": "09",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "17.97955140",
+    "longitude": "-13.39795340",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 153946,
+    "name": "Tichit",
+    "state_id": 3345,
+    "state_code": "09",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "18.49686260",
+    "longitude": "-12.12199350",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 153947,
+    "name": "Tijigja",
+    "state_id": 3345,
+    "state_code": "09",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "18.51647870",
+    "longitude": "-12.98264760",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  }
+]

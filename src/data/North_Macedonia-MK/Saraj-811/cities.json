@@ -1,0 +1,93 @@
+[
+  {
+    "id": 67397,
+    "name": "Bojane",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.00009000",
+    "longitude": "21.19265000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67400,
+    "name": "Bukovik",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.96833000",
+    "longitude": "21.23694000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67438,
+    "name": "Grčec",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.98806000",
+    "longitude": "21.33028000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67454,
+    "name": "Kondovo",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.01167000",
+    "longitude": "21.31361000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67462,
+    "name": "Krušopek",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.97833000",
+    "longitude": "21.35444000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67471,
+    "name": "Ljubin",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.00139000",
+    "longitude": "21.30917000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67521,
+    "name": "Saraj",
+    "state_id": 667,
+    "state_code": "811",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.00000000",
+    "longitude": "21.32778000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

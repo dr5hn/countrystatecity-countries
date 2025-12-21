@@ -1,0 +1,80 @@
+[
+  {
+    "id": 8069,
+    "name": "Ceyranbatan",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.54194000",
+    "longitude": "49.66073000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8073,
+    "name": "Digah",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.49257000",
+    "longitude": "49.87477000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8085,
+    "name": "Gyuzdek",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.37444000",
+    "longitude": "49.68194000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8099,
+    "name": "Khirdalan",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.44808000",
+    "longitude": "49.75502000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8148,
+    "name": "Qobu",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.40472000",
+    "longitude": "49.71306000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8169,
+    "name": "Saray",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.53299000",
+    "longitude": "49.71681000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

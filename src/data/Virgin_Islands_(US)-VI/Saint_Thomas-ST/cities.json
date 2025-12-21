@@ -1,0 +1,93 @@
+[
+  {
+    "id": 149561,
+    "name": "Charlotte Amalie",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.34127610",
+    "longitude": "-64.94838690",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149562,
+    "name": "East End",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.32901620",
+    "longitude": "-64.87047310",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149563,
+    "name": "Northside",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.37380810",
+    "longitude": "-64.95589090",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149564,
+    "name": "Southside",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.30529120",
+    "longitude": "-64.91724450",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149565,
+    "name": "Tutu",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.33884270",
+    "longitude": "-64.89530720",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149566,
+    "name": "Water Island",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.32086530",
+    "longitude": "-64.96932630",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149567,
+    "name": "West End",
+    "state_id": 5072,
+    "state_code": "ST",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.37243670",
+    "longitude": "-65.06490130",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  }
+]

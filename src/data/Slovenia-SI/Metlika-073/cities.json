@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104186,
+    "name": "Metlika",
+    "state_id": 4323,
+    "state_code": "073",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.64722000",
+    "longitude": "15.31417000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66909,
+    "name": "Jūrmala",
+    "state_id": 4446,
+    "state_code": "JUR",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.96800000",
+    "longitude": "23.77038000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

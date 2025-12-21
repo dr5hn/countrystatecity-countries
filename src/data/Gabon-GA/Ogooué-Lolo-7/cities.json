@@ -1,0 +1,28 @@
+[
+  {
+    "id": 48135,
+    "name": "Koulamoutou",
+    "state_id": 2729,
+    "state_code": "7",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "-1.13667000",
+    "longitude": "12.46399000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48137,
+    "name": "Lastoursville",
+    "state_id": 2729,
+    "state_code": "7",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "-0.81742000",
+    "longitude": "12.70818000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  }
+]

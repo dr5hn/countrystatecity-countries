@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104832,
+    "name": "Totness",
+    "state_id": 2842,
+    "state_code": "CR",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.87618000",
+    "longitude": "-56.32572000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  }
+]

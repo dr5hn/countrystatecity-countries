@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104363,
+    "name": "Štore",
+    "state_id": 4185,
+    "state_code": "127",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.22083000",
+    "longitude": "15.31389000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

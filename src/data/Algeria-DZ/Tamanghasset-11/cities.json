@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31356,
+    "name": "I-n-Salah",
+    "state_id": 1135,
+    "state_code": "11",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "27.19351000",
+    "longitude": "2.46069000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31443,
+    "name": "Tamanrasset",
+    "state_id": 1135,
+    "state_code": "11",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "22.78500000",
+    "longitude": "5.52278000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

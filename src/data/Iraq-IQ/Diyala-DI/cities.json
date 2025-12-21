@@ -1,0 +1,93 @@
+[
+  {
+    "id": 134484,
+    "name": "Al Miqdādīyah",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "33.97861000",
+    "longitude": "44.93694000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134506,
+    "name": "Baladrūz",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "33.69631000",
+    "longitude": "45.07782000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134507,
+    "name": "Baqubah",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "33.75403000",
+    "longitude": "44.60518000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134519,
+    "name": "Khāliş",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "33.80809000",
+    "longitude": "44.53343000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134520,
+    "name": "Kifrī",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.68963000",
+    "longitude": "44.96057000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134524,
+    "name": "Mandalī",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "33.74810000",
+    "longitude": "45.55503000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134532,
+    "name": "Qaḑā’ Kifrī",
+    "state_id": 3965,
+    "state_code": "DI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "34.52289000",
+    "longitude": "44.85821000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  }
+]

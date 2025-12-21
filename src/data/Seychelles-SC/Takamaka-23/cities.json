@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102912,
+    "name": "Takamaka",
+    "state_id": 509,
+    "state_code": "23",
+    "country_id": 197,
+    "country_code": "SC",
+    "latitude": "-4.76667000",
+    "longitude": "55.50000000",
+    "native": null,
+    "timezone": "Indian/Mahe",
+    "translations": {}
+  }
+]

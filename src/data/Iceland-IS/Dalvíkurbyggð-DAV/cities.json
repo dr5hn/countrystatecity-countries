@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135170,
+    "name": "Dalvík",
+    "state_id": 5562,
+    "state_code": "DAV",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.97018000",
+    "longitude": "-18.52861000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135171,
+    "name": "Dalvíkurbyggð",
+    "state_id": 5562,
+    "state_code": "DAV",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.87318000",
+    "longitude": "-18.60844000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

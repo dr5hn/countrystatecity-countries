@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153600,
+    "name": "Morovis",
+    "state_id": 5185,
+    "state_code": "101",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.32578500",
+    "longitude": "-66.40655920",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

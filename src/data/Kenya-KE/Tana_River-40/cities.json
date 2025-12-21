@@ -1,0 +1,28 @@
+[
+  {
+    "id": 64786,
+    "name": "Hola",
+    "state_id": 205,
+    "state_code": "40",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-1.48256000",
+    "longitude": "40.03341000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64808,
+    "name": "Kipini",
+    "state_id": 205,
+    "state_code": "40",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-2.52565000",
+    "longitude": "40.52620000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

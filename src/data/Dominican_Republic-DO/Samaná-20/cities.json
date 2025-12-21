@@ -1,0 +1,41 @@
+[
+  {
+    "id": 31116,
+    "name": "Las Terrenas",
+    "state_id": 4103,
+    "state_code": "20",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.31102000",
+    "longitude": "-69.54280000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31181,
+    "name": "Samaná",
+    "state_id": 4103,
+    "state_code": "20",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.20561000",
+    "longitude": "-69.33685000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31202,
+    "name": "Sánchez",
+    "state_id": 4103,
+    "state_code": "20",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.22810000",
+    "longitude": "-69.61370000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  }
+]

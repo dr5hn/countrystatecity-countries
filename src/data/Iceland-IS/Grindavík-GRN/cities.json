@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135183,
+    "name": "Grindavík",
+    "state_id": 5571,
+    "state_code": "GRN",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "63.83849000",
+    "longitude": "-22.43931000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

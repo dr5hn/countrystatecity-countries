@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154105,
+    "name": "Vingtaine de la Moye",
+    "state_id": 5310,
+    "state_code": "02",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.18445480",
+    "longitude": "-2.23950470",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154102,
+    "name": "Vingtaine de Noirmont",
+    "state_id": 5310,
+    "state_code": "02",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.17269850",
+    "longitude": "-2.22550510",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154104,
+    "name": "Vingtaine des Quennevais",
+    "state_id": 5310,
+    "state_code": "02",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.19704320",
+    "longitude": "-2.21618080",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154103,
+    "name": "Vingtaine du Coin",
+    "state_id": 5310,
+    "state_code": "02",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.18753960",
+    "longitude": "-2.18473710",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

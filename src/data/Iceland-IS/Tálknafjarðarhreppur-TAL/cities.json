@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135224,
+    "name": "Tálknafjarðarhreppur",
+    "state_id": 5612,
+    "state_code": "TAL",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.61667000",
+    "longitude": "-23.88333000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

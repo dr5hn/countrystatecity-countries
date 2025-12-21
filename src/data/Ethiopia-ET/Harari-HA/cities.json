@@ -1,0 +1,15 @@
+[
+  {
+    "id": 38650,
+    "name": "Harar",
+    "state_id": 7,
+    "state_code": "HA",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "9.31387000",
+    "longitude": "42.11815000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

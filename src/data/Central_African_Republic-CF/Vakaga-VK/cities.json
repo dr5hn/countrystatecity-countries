@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17304,
+    "name": "Birao",
+    "state_id": 1261,
+    "state_code": "VK",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "10.28488000",
+    "longitude": "22.78818000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17333,
+    "name": "Ouanda-Djallé",
+    "state_id": 1261,
+    "state_code": "VK",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "9.05877000",
+    "longitude": "22.42741000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

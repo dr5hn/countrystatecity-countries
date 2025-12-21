@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67714,
+    "name": "Darhan",
+    "state_id": 1962,
+    "state_code": "037",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "49.48667000",
+    "longitude": "105.92278000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

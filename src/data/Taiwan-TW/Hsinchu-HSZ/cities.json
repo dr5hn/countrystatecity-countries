@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109011,
+    "name": "Hsinchu",
+    "state_id": 3417,
+    "state_code": "HSZ",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.67416000",
+    "longitude": "121.16111000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

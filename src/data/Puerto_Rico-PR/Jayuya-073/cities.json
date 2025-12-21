@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153586,
+    "name": "Jayuya",
+    "state_id": 5171,
+    "state_code": "073",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.21856740",
+    "longitude": "-66.59156170",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 131330,
+    "name": "Chama",
+    "state_id": 1989,
+    "state_code": "10",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-11.21303000",
+    "longitude": "33.15210000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131337,
+    "name": "Chinsali",
+    "state_id": 1989,
+    "state_code": "10",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-10.54142000",
+    "longitude": "32.08162000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131342,
+    "name": "Isoka",
+    "state_id": 1989,
+    "state_code": "10",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-10.16062000",
+    "longitude": "32.63353000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131374,
+    "name": "Mpika",
+    "state_id": 1989,
+    "state_code": "10",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-11.83431000",
+    "longitude": "31.45287000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131385,
+    "name": "Nakonde",
+    "state_id": 1989,
+    "state_code": "10",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-9.34213000",
+    "longitude": "32.74500000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  }
+]

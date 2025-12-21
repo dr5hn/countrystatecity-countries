@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104829,
+    "name": "Nieuw Nickerie",
+    "state_id": 2840,
+    "state_code": "NI",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.92606000",
+    "longitude": "-56.97297000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  },
+  {
+    "id": 104833,
+    "name": "Wageningen",
+    "state_id": 2840,
+    "state_code": "NI",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.76010000",
+    "longitude": "-56.66523000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  }
+]

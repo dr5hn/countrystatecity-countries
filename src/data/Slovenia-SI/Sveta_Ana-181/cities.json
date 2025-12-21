@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104287,
+    "name": "Sv. Ana v Slov. Goricah",
+    "state_id": 4164,
+    "state_code": "181",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.64917000",
+    "longitude": "15.84417000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

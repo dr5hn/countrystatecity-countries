@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154000,
+    "name": "al-Auja",
+    "state_id": 5123,
+    "state_code": "JRH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.94809930",
+    "longitude": "35.45056430",
+    "native": null,
+    "timezone": "Asia/Hebron",
+    "translations": {}
+  },
+  {
+    "id": 154001,
+    "name": "al-Jiftlik",
+    "state_id": 5123,
+    "state_code": "JRH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.14143230",
+    "longitude": "35.44660250",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 153999,
+    "name": "Jericho",
+    "state_id": 5123,
+    "state_code": "JRH",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.85950700",
+    "longitude": "35.44390820",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9809,
+    "name": "Porto-Novo",
+    "state_id": 3080,
+    "state_code": "OU",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "6.49646000",
+    "longitude": "2.60359000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

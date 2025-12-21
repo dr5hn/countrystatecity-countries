@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8046,
+    "name": "Askyaran",
+    "state_id": 524,
+    "state_code": "XCI",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.93910000",
+    "longitude": "46.83161000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8190,
+    "name": "Xocalı",
+    "state_id": 524,
+    "state_code": "XCI",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.91297000",
+    "longitude": "46.79028000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

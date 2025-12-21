@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9791,
+    "name": "Cotonou",
+    "state_id": 3081,
+    "state_code": "LI",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "6.36536000",
+    "longitude": "2.41833000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

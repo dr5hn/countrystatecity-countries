@@ -1,0 +1,54 @@
+[
+  {
+    "id": 50035,
+    "name": "Huyton",
+    "state_id": 2330,
+    "state_code": "KWL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.41150000",
+    "longitude": "-2.83935000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50197,
+    "name": "Kirkby",
+    "state_id": 2330,
+    "state_code": "KWL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.48138000",
+    "longitude": "-2.89215000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50222,
+    "name": "Knowsley",
+    "state_id": 2330,
+    "state_code": "KWL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.41667000",
+    "longitude": "-2.83333000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50983,
+    "name": "Prescot",
+    "state_id": 2330,
+    "state_code": "KWL",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.42948000",
+    "longitude": "-2.80031000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

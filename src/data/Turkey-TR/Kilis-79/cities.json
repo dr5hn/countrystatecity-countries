@@ -1,0 +1,54 @@
+[
+  {
+    "id": 107559,
+    "name": "Elbeyli",
+    "state_id": 2154,
+    "state_code": "79",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.67417000",
+    "longitude": "37.46667000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107997,
+    "name": "Merkez",
+    "state_id": 2154,
+    "state_code": "79",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.71611000",
+    "longitude": "37.11500000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108228,
+    "name": "Musabeyli",
+    "state_id": 2154,
+    "state_code": "79",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.88639000",
+    "longitude": "36.91861000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108345,
+    "name": "Polateli",
+    "state_id": 2154,
+    "state_code": "79",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "36.83694000",
+    "longitude": "37.15083000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

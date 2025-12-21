@@ -1,0 +1,51 @@
+{
+  "id": 141,
+  "name": "Mayotte",
+  "iso2": "YT",
+  "iso3": "MYT",
+  "numeric_code": "175",
+  "phonecode": "262",
+  "capital": "Mamoudzou",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".yt",
+  "native": "Mayotte",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Mahoran",
+  "latitude": "-12.83333333",
+  "longitude": "45.16666666",
+  "emoji": "🇾🇹",
+  "emojiU": "U+1F1FE U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "Indian/Mayotte",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Mayotte",
+    "ko": "마요트",
+    "pt-BR": "Mayotte",
+    "pt": "Mayotte",
+    "nl": "Mayotte",
+    "hr": "Mayotte",
+    "fa": "مایوت",
+    "de": "Mayotte",
+    "es": "Mayotte",
+    "fr": "Mayotte",
+    "ja": "マヨット",
+    "it": "Mayotte",
+    "zh-CN": "马约特",
+    "tr": "Mayotte",
+    "ru": "Майотта",
+    "uk": "Майотта",
+    "pl": "Majotta",
+    "hi": "मैयट",
+    "ar": "مايوت"
+  }
+}

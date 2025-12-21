@@ -1,0 +1,93 @@
+[
+  {
+    "id": 48175,
+    "name": "Abergavenny",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.82098000",
+    "longitude": "-3.01743000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48811,
+    "name": "Caerleon",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.60952000",
+    "longitude": "-2.95378000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49218,
+    "name": "Cwmbran",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.65446000",
+    "longitude": "-3.02281000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50360,
+    "name": "Llangybi",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.66583000",
+    "longitude": "-2.90806000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50720,
+    "name": "Newport",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.58774000",
+    "longitude": "-2.99835000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50946,
+    "name": "Pontypool",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.70111000",
+    "longitude": "-3.04444000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51644,
+    "name": "Torfaen County Borough",
+    "state_id": 2496,
+    "state_code": "TOF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.70146000",
+    "longitude": "-3.05136000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

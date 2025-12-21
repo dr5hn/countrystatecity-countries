@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153476,
+    "name": "Sembawang",
+    "state_id": 4653,
+    "state_code": "03",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.44910000",
+    "longitude": "103.82010000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 104058,
+    "name": "Woodlands",
+    "state_id": 4653,
+    "state_code": "03",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.43801000",
+    "longitude": "103.78877000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 153470,
+    "name": "Yishun",
+    "state_id": 4653,
+    "state_code": "03",
+    "country_id": 199,
+    "country_code": "SG",
+    "latitude": "1.42930000",
+    "longitude": "103.83550000",
+    "native": null,
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 22008,
+    "name": "Tarrafal",
+    "state_id": 2983,
+    "state_code": "TA",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.27881000",
+    "longitude": "-23.75192000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

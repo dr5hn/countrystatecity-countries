@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31065,
+    "name": "El Valle",
+    "state_id": 4106,
+    "state_code": "30",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.93333000",
+    "longitude": "-69.38333000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31080,
+    "name": "Guayabo Dulce",
+    "state_id": 4106,
+    "state_code": "30",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.65000000",
+    "longitude": "-69.28333000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31084,
+    "name": "Hato Mayor del Rey",
+    "state_id": 4106,
+    "state_code": "30",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.76278000",
+    "longitude": "-69.25681000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31175,
+    "name": "Sabana de la Mar",
+    "state_id": 4106,
+    "state_code": "30",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.03333000",
+    "longitude": "-69.41667000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  }
+]

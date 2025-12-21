@@ -1,0 +1,51 @@
+{
+  "id": 154,
+  "name": "Nepal",
+  "iso2": "NP",
+  "iso3": "NPL",
+  "numeric_code": "524",
+  "phonecode": "977",
+  "capital": "Kathmandu",
+  "currency": "NPR",
+  "currency_name": "Nepalese rupee",
+  "currency_symbol": "₨",
+  "tld": ".np",
+  "native": "नपल",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "nationality": "Nepali, Nepalese",
+  "latitude": "28.00000000",
+  "longitude": "84.00000000",
+  "emoji": "🇳🇵",
+  "emojiU": "U+1F1F3 U+1F1F5",
+  "timezones": [
+    {
+      "zoneName": "Asia/Kathmandu",
+      "gmtOffset": 20700,
+      "gmtOffsetName": "UTC+05:45",
+      "abbreviation": "NPT",
+      "tzName": "Nepal Time"
+    }
+  ],
+  "translations": {
+    "br": "Nepal",
+    "ko": "네팔",
+    "pt-BR": "Nepal",
+    "pt": "Nepal",
+    "nl": "Nepal",
+    "hr": "Nepal",
+    "fa": "نپال",
+    "de": "Népal",
+    "es": "Nepal",
+    "fr": "Népal",
+    "ja": "ネパール",
+    "it": "Nepal",
+    "zh-CN": "尼泊尔",
+    "tr": "Nepal",
+    "ru": "Непал",
+    "uk": "Непал",
+    "pl": "Nepal",
+    "hi": "नेपाल",
+    "ar": "نيبال"
+  }
+}

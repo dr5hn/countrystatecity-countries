@@ -1,0 +1,28 @@
+[
+  {
+    "id": 108997,
+    "name": "Kulia Village",
+    "state_id": 3946,
+    "state_code": "NIT",
+    "country_id": 228,
+    "country_code": "TV",
+    "latitude": "-6.10819000",
+    "longitude": "177.33393000",
+    "native": null,
+    "timezone": "Pacific/Funafuti",
+    "translations": {}
+  },
+  {
+    "id": 108998,
+    "name": "Niulakita",
+    "state_id": 3946,
+    "state_code": "NIT",
+    "country_id": 228,
+    "country_code": "TV",
+    "latitude": "-10.78800000",
+    "longitude": "179.46600000",
+    "native": null,
+    "timezone": "Pacific/Funafuti",
+    "translations": {}
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 17387,
+    "name": "Alpnach",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.94227000",
+    "longitude": "8.27180000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  },
+  {
+    "id": 17750,
+    "name": "Engelberg",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.82107000",
+    "longitude": "8.40133000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  },
+  {
+    "id": 17835,
+    "name": "Giswil",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.83333000",
+    "longitude": "8.18065000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  },
+  {
+    "id": 17973,
+    "name": "Kerns",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.90121000",
+    "longitude": "8.27514000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  },
+  {
+    "id": 18101,
+    "name": "Lungern",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.78578000",
+    "longitude": "8.15984000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  },
+  {
+    "id": 18418,
+    "name": "Sachseln",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.86718000",
+    "longitude": "8.23344000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  },
+  {
+    "id": 18447,
+    "name": "Sarnen",
+    "state_id": 1650,
+    "state_code": "OW",
+    "country_id": 214,
+    "country_code": "CH",
+    "latitude": "46.89611000",
+    "longitude": "8.24531000",
+    "native": null,
+    "timezone": "Europe/Zurich",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 9794,
+    "name": "Djakotomey",
+    "state_id": 3071,
+    "state_code": "KO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "6.90000000",
+    "longitude": "1.71667000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9796,
+    "name": "Dogbo",
+    "state_id": 3071,
+    "state_code": "KO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "6.79911000",
+    "longitude": "1.78073000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

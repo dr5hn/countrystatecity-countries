@@ -1,0 +1,54 @@
+[
+  {
+    "id": 17300,
+    "name": "Batangafo",
+    "state_id": 1254,
+    "state_code": "AC",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "7.30082000",
+    "longitude": "18.28330000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17309,
+    "name": "Bossangoa",
+    "state_id": 1254,
+    "state_code": "AC",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "6.49263000",
+    "longitude": "17.45518000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17311,
+    "name": "Bouca",
+    "state_id": 1254,
+    "state_code": "AC",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "6.50734000",
+    "longitude": "18.27670000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17320,
+    "name": "Kabo",
+    "state_id": 1254,
+    "state_code": "AC",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "7.69937000",
+    "longitude": "18.62903000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

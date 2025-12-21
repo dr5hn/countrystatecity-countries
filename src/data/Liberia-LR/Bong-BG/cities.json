@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66553,
+    "name": "Gbarnga",
+    "state_id": 3034,
+    "state_code": "BG",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "6.99543000",
+    "longitude": "-9.47122000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

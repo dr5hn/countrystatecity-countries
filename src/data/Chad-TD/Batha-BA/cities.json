@@ -1,0 +1,28 @@
+[
+  {
+    "id": 105120,
+    "name": "Ati",
+    "state_id": 3590,
+    "state_code": "BA",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.21540000",
+    "longitude": "18.33530000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105154,
+    "name": "Oum Hadjer",
+    "state_id": 3590,
+    "state_code": "BA",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.29540000",
+    "longitude": "19.69660000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

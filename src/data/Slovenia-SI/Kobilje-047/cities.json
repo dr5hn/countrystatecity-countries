@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104138,
+    "name": "Kobilje",
+    "state_id": 4325,
+    "state_code": "047",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.68472000",
+    "longitude": "16.39778000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

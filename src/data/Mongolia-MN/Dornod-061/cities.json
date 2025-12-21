@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67711,
+    "name": "Choibalsan",
+    "state_id": 1963,
+    "state_code": "061",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.07257000",
+    "longitude": "114.53264000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  },
+  {
+    "id": 67718,
+    "name": "Ereencav",
+    "state_id": 1963,
+    "state_code": "061",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "49.88070000",
+    "longitude": "115.72526000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

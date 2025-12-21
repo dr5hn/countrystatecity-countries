@@ -1,0 +1,80 @@
+[
+  {
+    "id": 106910,
+    "name": "Agareb",
+    "state_id": 2557,
+    "state_code": "61",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.74406000",
+    "longitude": "10.46110000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106924,
+    "name": "Bir Ali Ben Khalifa",
+    "state_id": 2557,
+    "state_code": "61",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.73592000",
+    "longitude": "10.09240000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106936,
+    "name": "Djebeniana",
+    "state_id": 2557,
+    "state_code": "61",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "35.03500000",
+    "longitude": "10.90809000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106957,
+    "name": "Gremda",
+    "state_id": 2557,
+    "state_code": "61",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.75000000",
+    "longitude": "10.78333000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107019,
+    "name": "Sfax",
+    "state_id": 2557,
+    "state_code": "61",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.74056000",
+    "longitude": "10.76028000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107028,
+    "name": "Skhira",
+    "state_id": 2557,
+    "state_code": "61",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.29920000",
+    "longitude": "10.06999000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

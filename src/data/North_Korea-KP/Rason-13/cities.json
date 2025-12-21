@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65246,
+    "name": "Sŏnbong",
+    "state_id": 4001,
+    "state_code": "13",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "42.35118000",
+    "longitude": "130.38307000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  },
+  {
+    "id": 65251,
+    "name": "Ungsang-nodongjagu",
+    "state_id": 4001,
+    "state_code": "13",
+    "country_id": 115,
+    "country_code": "KP",
+    "latitude": "42.35778000",
+    "longitude": "130.46222000",
+    "native": null,
+    "timezone": "Asia/Pyongyang",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67803,
+    "name": "San Lawrenz",
+    "state_id": 87,
+    "state_code": "50",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "36.05556000",
+    "longitude": "14.20361000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

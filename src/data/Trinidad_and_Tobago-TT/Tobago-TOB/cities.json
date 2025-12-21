@@ -1,0 +1,15 @@
+[
+  {
+    "id": 108986,
+    "name": "Scarborough",
+    "state_id": 5735,
+    "state_code": "TOB",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "11.18229000",
+    "longitude": "-60.73525000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

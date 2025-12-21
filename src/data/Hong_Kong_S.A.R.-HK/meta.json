@@ -1,0 +1,51 @@
+{
+  "id": 98,
+  "name": "Hong Kong S.A.R.",
+  "iso2": "HK",
+  "iso3": "HKG",
+  "numeric_code": "344",
+  "phonecode": "852",
+  "capital": "Hong Kong",
+  "currency": "HKD",
+  "currency_name": "Hong Kong dollar",
+  "currency_symbol": "$",
+  "tld": ".hk",
+  "native": "香港",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "nationality": "Hong Kong, Hong Kongese",
+  "latitude": "22.25000000",
+  "longitude": "114.16666666",
+  "emoji": "🇭🇰",
+  "emojiU": "U+1F1ED U+1F1F0",
+  "timezones": [
+    {
+      "zoneName": "Asia/Hong_Kong",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "HKT",
+      "tzName": "Hong Kong Time"
+    }
+  ],
+  "translations": {
+    "br": "Hong Kong",
+    "ko": "홍콩",
+    "pt-BR": "Hong Kong",
+    "pt": "Hong Kong",
+    "nl": "Hongkong",
+    "hr": "Hong Kong",
+    "fa": "هنگ‌کنگ",
+    "de": "Hong Kong",
+    "es": "Hong Kong",
+    "fr": "Hong Kong",
+    "ja": "香港",
+    "it": "Hong Kong",
+    "zh-CN": "中国香港",
+    "tr": "Hong Kong",
+    "ru": "Гонконг С.А.Р.",
+    "uk": "Гонконг САР.",
+    "pl": "Hongkong S.A.R.",
+    "hi": "हांगकांग एस.ए.आर.",
+    "ar": "هونغ كونغ س."
+  }
+}

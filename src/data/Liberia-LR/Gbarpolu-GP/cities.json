@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66548,
+    "name": "Bopolu",
+    "state_id": 3044,
+    "state_code": "GP",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "7.06667000",
+    "longitude": "-10.48750000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153557,
+    "name": "Barceloneta",
+    "state_id": 5142,
+    "state_code": "017",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "41.38010610",
+    "longitude": "2.18969570",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

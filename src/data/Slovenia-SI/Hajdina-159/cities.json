@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104279,
+    "name": "Spodnja Hajdina",
+    "state_id": 4145,
+    "state_code": "159",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.40889000",
+    "longitude": "15.84694000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

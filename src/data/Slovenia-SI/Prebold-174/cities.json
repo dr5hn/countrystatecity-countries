@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104233,
+    "name": "Prebold",
+    "state_id": 4188,
+    "state_code": "174",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.23694000",
+    "longitude": "15.09250000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

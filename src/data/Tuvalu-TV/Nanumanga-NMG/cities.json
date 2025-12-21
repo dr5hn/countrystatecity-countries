@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109001,
+    "name": "Toga Village",
+    "state_id": 3947,
+    "state_code": "NMG",
+    "country_id": 228,
+    "country_code": "TV",
+    "latitude": "-6.28764000",
+    "longitude": "176.31472000",
+    "native": null,
+    "timezone": "Pacific/Funafuti",
+    "translations": {}
+  }
+]

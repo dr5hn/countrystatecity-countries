@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66930,
+    "name": "Mārupe",
+    "state_id": 4450,
+    "state_code": "062",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.90544000",
+    "longitude": "24.05113000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66940,
+    "name": "Piņķi",
+    "state_id": 4450,
+    "state_code": "062",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.94189000",
+    "longitude": "23.91365000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 35,
+  "name": "Burkina Faso",
+  "iso2": "BF",
+  "iso3": "BFA",
+  "numeric_code": "854",
+  "phonecode": "226",
+  "capital": "Ouagadougou",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".bf",
+  "native": "Burkina Faso",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "nationality": "Burkinabe",
+  "latitude": "13.00000000",
+  "longitude": "-2.00000000",
+  "emoji": "🇧🇫",
+  "emojiU": "U+1F1E7 U+1F1EB",
+  "timezones": [
+    {
+      "zoneName": "Africa/Ouagadougou",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Burkina Faso",
+    "ko": "부르키나 파소",
+    "pt-BR": "Burkina Faso",
+    "pt": "Burquina Faso",
+    "nl": "Burkina Faso",
+    "hr": "Burkina Faso",
+    "fa": "بورکینافاسو",
+    "de": "Burkina Faso",
+    "es": "Burkina Faso",
+    "fr": "Burkina Faso",
+    "ja": "ブルキナファソ",
+    "it": "Burkina Faso",
+    "zh-CN": "布基纳法索",
+    "tr": "Burkina Faso",
+    "ru": "Буркина-Фасо",
+    "uk": "Буркіна-Фасо",
+    "pl": "Burkina Faso",
+    "hi": "बुर्किना फासो",
+    "ar": "بوركينا فاسو"
+  }
+}

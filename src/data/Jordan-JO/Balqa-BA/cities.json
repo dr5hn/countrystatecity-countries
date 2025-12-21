@@ -1,0 +1,41 @@
+[
+  {
+    "id": 63134,
+    "name": "Al Karāmah",
+    "state_id": 961,
+    "state_code": "BA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "31.95439000",
+    "longitude": "35.58033000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63145,
+    "name": "As Salţ",
+    "state_id": 961,
+    "state_code": "BA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "32.03917000",
+    "longitude": "35.72722000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63195,
+    "name": "Yarqā",
+    "state_id": 961,
+    "state_code": "BA",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "31.97583000",
+    "longitude": "35.69638000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  }
+]

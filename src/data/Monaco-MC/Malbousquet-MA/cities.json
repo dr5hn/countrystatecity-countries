@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160053,
+    "name": "Malbousquet",
+    "state_id": 5673,
+    "state_code": "MA",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73450000",
+    "longitude": "7.42150000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

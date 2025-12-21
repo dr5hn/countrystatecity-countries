@@ -1,0 +1,15 @@
+[
+  {
+    "id": 76624,
+    "name": "Tete",
+    "state_id": 3334,
+    "state_code": "T",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-16.15639000",
+    "longitude": "33.58667000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  }
+]

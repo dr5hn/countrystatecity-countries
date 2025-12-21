@@ -1,0 +1,54 @@
+[
+  {
+    "id": 160302,
+    "name": "Bandrele",
+    "state_id": 5406,
+    "state_code": "05",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.91276000",
+    "longitude": "45.19256000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160303,
+    "name": "Hamouro",
+    "state_id": 5406,
+    "state_code": "05",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.88130000",
+    "longitude": "45.21494000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160300,
+    "name": "Mtsamoudou",
+    "state_id": 5406,
+    "state_code": "05",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.96232000",
+    "longitude": "45.17449000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160301,
+    "name": "Nyambadao",
+    "state_id": 5406,
+    "state_code": "05",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.89346000",
+    "longitude": "45.20214000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

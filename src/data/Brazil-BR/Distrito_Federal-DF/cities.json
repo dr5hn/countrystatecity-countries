@@ -1,0 +1,28 @@
+[
+  {
+    "id": 10776,
+    "name": "Brasília",
+    "state_id": 2017,
+    "state_code": "DF",
+    "country_id": 31,
+    "country_code": "BR",
+    "latitude": "-15.77972000",
+    "longitude": "-47.92972000",
+    "native": null,
+    "timezone": "America/Sao_Paulo",
+    "translations": {}
+  },
+  {
+    "id": 13934,
+    "name": "Planaltina",
+    "state_id": 2017,
+    "state_code": "DF",
+    "country_id": 31,
+    "country_code": "BR",
+    "latitude": "-15.61791000",
+    "longitude": "-47.64874000",
+    "native": null,
+    "timezone": "America/Sao_Paulo",
+    "translations": {}
+  }
+]

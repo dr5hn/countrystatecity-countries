@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160095,
+    "name": "Wotje",
+    "state_id": 5666,
+    "state_code": "WTJ",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "9.43333333",
+    "longitude": "170.01666667",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

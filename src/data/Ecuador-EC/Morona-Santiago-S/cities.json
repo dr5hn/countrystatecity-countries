@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31508,
+    "name": "Gualaquiza",
+    "state_id": 2918,
+    "state_code": "S",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-3.40359000",
+    "longitude": "-78.58166000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31524,
+    "name": "Macas",
+    "state_id": 2918,
+    "state_code": "S",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.30868000",
+    "longitude": "-78.11135000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31540,
+    "name": "Palora",
+    "state_id": 2918,
+    "state_code": "S",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.70131000",
+    "longitude": "-77.96516000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31580,
+    "name": "Sucúa",
+    "state_id": 2918,
+    "state_code": "S",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.45866000",
+    "longitude": "-78.17171000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109021,
+    "name": "Miaoli",
+    "state_id": 3413,
+    "state_code": "MIA",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "24.48972000",
+    "longitude": "120.90638000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

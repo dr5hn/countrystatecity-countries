@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21997,
+    "name": "Pombas",
+    "state_id": 2997,
+    "state_code": "PA",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "17.15026000",
+    "longitude": "-25.02007000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

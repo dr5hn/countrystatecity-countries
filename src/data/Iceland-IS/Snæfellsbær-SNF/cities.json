@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135232,
+    "name": "Ólafsvík",
+    "state_id": 5605,
+    "state_code": "SNF",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.89429000",
+    "longitude": "-23.70918000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135218,
+    "name": "Snæfellsbær",
+    "state_id": 5605,
+    "state_code": "SNF",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.86667000",
+    "longitude": "-23.50000000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

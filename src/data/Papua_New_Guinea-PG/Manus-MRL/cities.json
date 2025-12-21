@@ -1,0 +1,28 @@
+[
+  {
+    "id": 81076,
+    "name": "Lorengau",
+    "state_id": 4842,
+    "state_code": "MRL",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-2.03410000",
+    "longitude": "147.27173000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81079,
+    "name": "Manus",
+    "state_id": 4842,
+    "state_code": "MRL",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-2.09626000",
+    "longitude": "146.96612000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

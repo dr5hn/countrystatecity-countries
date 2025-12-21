@@ -1,0 +1,67 @@
+[
+  {
+    "id": 104154,
+    "name": "Kromberk",
+    "state_id": 4205,
+    "state_code": "084",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.96083000",
+    "longitude": "13.66556000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104206,
+    "name": "Nova Gorica",
+    "state_id": 4205,
+    "state_code": "084",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.95604000",
+    "longitude": "13.64837000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104237,
+    "name": "Prvačina",
+    "state_id": 4205,
+    "state_code": "084",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.89000000",
+    "longitude": "13.71806000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104342,
+    "name": "Šempas",
+    "state_id": 4205,
+    "state_code": "084",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.93028000",
+    "longitude": "13.74361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104276,
+    "name": "Solkan",
+    "state_id": 4205,
+    "state_code": "084",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.97139000",
+    "longitude": "13.64944000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

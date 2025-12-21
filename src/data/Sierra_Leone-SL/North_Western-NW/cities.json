@@ -1,0 +1,80 @@
+[
+  {
+    "id": 104635,
+    "name": "Kamakwie",
+    "state_id": 5697,
+    "state_code": "NW",
+    "country_id": 198,
+    "country_code": "SL",
+    "latitude": "9.49689000",
+    "longitude": "-12.24061000",
+    "native": null,
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 104636,
+    "name": "Kambia",
+    "state_id": 5697,
+    "state_code": "NW",
+    "country_id": 198,
+    "country_code": "SL",
+    "latitude": "9.12504000",
+    "longitude": "-12.91816000",
+    "native": null,
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 104651,
+    "name": "Lunsar",
+    "state_id": 5697,
+    "state_code": "NW",
+    "country_id": 198,
+    "country_code": "SL",
+    "latitude": "8.68439000",
+    "longitude": "-12.53499000",
+    "native": null,
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 104670,
+    "name": "Pepel",
+    "state_id": 5697,
+    "state_code": "NW",
+    "country_id": 198,
+    "country_code": "SL",
+    "latitude": "8.58611000",
+    "longitude": "-13.05444000",
+    "native": null,
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 160111,
+    "name": "Port Loko",
+    "state_id": 5697,
+    "state_code": "NW",
+    "country_id": 198,
+    "country_code": "SL",
+    "latitude": "8.76666667",
+    "longitude": "-12.78750000",
+    "native": null,
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  },
+  {
+    "id": 104674,
+    "name": "Rokupr",
+    "state_id": 5697,
+    "state_code": "NW",
+    "country_id": 198,
+    "country_code": "SL",
+    "latitude": "8.67121000",
+    "longitude": "-12.38497000",
+    "native": null,
+    "timezone": "Africa/Freetown",
+    "translations": {}
+  }
+]

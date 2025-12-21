@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160082,
+    "name": "Lae",
+    "state_id": 5653,
+    "state_code": "LAE",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "8.93611111",
+    "longitude": "166.23750000",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

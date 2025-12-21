@@ -1,0 +1,28 @@
+[
+  {
+    "id": 63142,
+    "name": "Aqaba",
+    "state_id": 959,
+    "state_code": "AQ",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "29.52667000",
+    "longitude": "35.00778000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  },
+  {
+    "id": 63188,
+    "name": "Tala Bay",
+    "state_id": 959,
+    "state_code": "AQ",
+    "country_id": 111,
+    "country_code": "JO",
+    "latitude": "29.40842000",
+    "longitude": "34.97918000",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "translations": {}
+  }
+]

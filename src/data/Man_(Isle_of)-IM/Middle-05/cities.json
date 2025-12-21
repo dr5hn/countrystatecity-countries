@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154092,
+    "name": "Braddan",
+    "state_id": 5307,
+    "state_code": "05",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.16328280",
+    "longitude": "-4.52585060",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  },
+  {
+    "id": 154093,
+    "name": "Marown",
+    "state_id": 5307,
+    "state_code": "05",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.18462420",
+    "longitude": "-4.64952180",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  },
+  {
+    "id": 154094,
+    "name": "Santon",
+    "state_id": 5307,
+    "state_code": "05",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.12054890",
+    "longitude": "-4.64937750",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  }
+]

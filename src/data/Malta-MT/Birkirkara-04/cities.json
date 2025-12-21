@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67760,
+    "name": "Birkirkara",
+    "state_id": 97,
+    "state_code": "04",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.89722000",
+    "longitude": "14.46111000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 153733,
+    "name": "Fleur De Lys",
+    "state_id": 97,
+    "state_code": "04",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.89530000",
+    "longitude": "14.46560000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 153742,
+    "name": "Swatar",
+    "state_id": 97,
+    "state_code": "04",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.89877800",
+    "longitude": "14.47659200",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67705,
+    "name": "Altai",
+    "state_id": 1972,
+    "state_code": "065",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "46.37222000",
+    "longitude": "96.25833000",
+    "native": null,
+    "timezone": "Asia/Hovd",
+    "translations": {}
+  }
+]

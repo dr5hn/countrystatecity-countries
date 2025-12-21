@@ -1,0 +1,80 @@
+[
+  {
+    "id": 106881,
+    "name": "Akdepe",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "42.05513000",
+    "longitude": "59.37877000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106890,
+    "name": "Boldumsaz",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "42.12824000",
+    "longitude": "59.67101000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106891,
+    "name": "Daşoguz",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "41.83625000",
+    "longitude": "59.96661000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106897,
+    "name": "Köneürgench",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "42.32773000",
+    "longitude": "59.15442000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106904,
+    "name": "Tagta",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "41.65041000",
+    "longitude": "59.91640000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106909,
+    "name": "Yylanly",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "41.83333000",
+    "longitude": "59.65000000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  }
+]

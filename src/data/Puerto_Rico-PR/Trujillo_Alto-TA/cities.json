@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153619,
+    "name": "Trujillo Alto",
+    "state_id": 5084,
+    "state_code": "TA",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.35467190",
+    "longitude": "-66.00738760",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

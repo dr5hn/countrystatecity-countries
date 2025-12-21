@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104365,
+    "name": "Železniki",
+    "state_id": 4256,
+    "state_code": "146",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.22482000",
+    "longitude": "14.17205000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

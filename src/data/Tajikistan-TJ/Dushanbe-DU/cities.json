@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160121,
+    "name": "Dushanbe",
+    "state_id": 5706,
+    "state_code": "DU",
+    "country_id": 217,
+    "country_code": "TJ",
+    "latitude": "38.53666667",
+    "longitude": "68.78000000",
+    "native": null,
+    "timezone": "Asia/Dushanbe",
+    "translations": {}
+  }
+]

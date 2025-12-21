@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66443,
+    "name": "Schaan",
+    "state_id": 450,
+    "state_code": "07",
+    "country_id": 125,
+    "country_code": "LI",
+    "latitude": "47.16498000",
+    "longitude": "9.50867000",
+    "native": null,
+    "timezone": "Europe/Vaduz",
+    "translations": {}
+  }
+]

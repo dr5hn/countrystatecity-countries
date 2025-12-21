@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102904,
+    "name": "Lata",
+    "state_id": 4779,
+    "state_code": "TE",
+    "country_id": 202,
+    "country_code": "SB",
+    "latitude": "-10.72500000",
+    "longitude": "165.79722000",
+    "native": null,
+    "timezone": "Pacific/Guadalcanal",
+    "translations": {}
+  }
+]

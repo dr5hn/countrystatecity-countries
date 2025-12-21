@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104071,
+    "name": "Borovnica",
+    "state_id": 4200,
+    "state_code": "005",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.91583000",
+    "longitude": "14.36306000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104180,
+    "name": "Makole",
+    "state_id": 4200,
+    "state_code": "005",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.31722000",
+    "longitude": "15.66722000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

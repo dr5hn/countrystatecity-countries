@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17347,
+    "name": "Loandjili",
+    "state_id": 2863,
+    "state_code": "16",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-4.75611000",
+    "longitude": "11.85778000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  },
+  {
+    "id": 17353,
+    "name": "Pointe-Noire",
+    "state_id": 2863,
+    "state_code": "16",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-4.77609000",
+    "longitude": "11.86352000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  }
+]

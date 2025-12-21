@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17349,
+    "name": "Makoua",
+    "state_id": 2864,
+    "state_code": "8",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "0.00694000",
+    "longitude": "15.63333000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  },
+  {
+    "id": 17352,
+    "name": "Owando",
+    "state_id": 2864,
+    "state_code": "8",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-0.48193000",
+    "longitude": "15.89988000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  }
+]

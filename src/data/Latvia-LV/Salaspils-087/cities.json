@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66957,
+    "name": "Salaspils",
+    "state_id": 4402,
+    "state_code": "087",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.86014000",
+    "longitude": "24.36544000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

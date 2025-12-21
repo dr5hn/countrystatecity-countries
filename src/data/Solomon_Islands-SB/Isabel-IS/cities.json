@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102900,
+    "name": "Buala",
+    "state_id": 4780,
+    "state_code": "IS",
+    "country_id": 202,
+    "country_code": "SB",
+    "latitude": "-8.14497000",
+    "longitude": "159.59212000",
+    "native": null,
+    "timezone": "Pacific/Guadalcanal",
+    "translations": {}
+  }
+]

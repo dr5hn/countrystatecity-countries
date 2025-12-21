@@ -1,0 +1,67 @@
+[
+  {
+    "id": 130074,
+    "name": "Ejido",
+    "state_id": 2053,
+    "state_code": "L",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.54665000",
+    "longitude": "-71.24087000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130080,
+    "name": "El Vigía",
+    "state_id": 2053,
+    "state_code": "L",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.61350000",
+    "longitude": "-71.65702000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130124,
+    "name": "Mérida",
+    "state_id": 2053,
+    "state_code": "L",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.58972000",
+    "longitude": "-71.15611000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130109,
+    "name": "Mucumpiz",
+    "state_id": 2053,
+    "state_code": "L",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.41667000",
+    "longitude": "-71.13333000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130115,
+    "name": "Municipio Libertador",
+    "state_id": 2053,
+    "state_code": "L",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.33333000",
+    "longitude": "-71.11667000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

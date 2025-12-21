@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31282,
+    "name": "Bou Hanifia el Hamamat",
+    "state_id": 1124,
+    "state_code": "29",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.31473000",
+    "longitude": "-0.05037000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31375,
+    "name": "Mascara",
+    "state_id": 1124,
+    "state_code": "29",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.39664000",
+    "longitude": "0.14027000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31400,
+    "name": "Oued el Abtal",
+    "state_id": 1124,
+    "state_code": "29",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.45595000",
+    "longitude": "0.68778000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31433,
+    "name": "Sig",
+    "state_id": 1124,
+    "state_code": "29",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.52832000",
+    "longitude": "-0.19369000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

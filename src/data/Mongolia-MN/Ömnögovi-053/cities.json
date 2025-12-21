@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67713,
+    "name": "Dalandzadgad",
+    "state_id": 1967,
+    "state_code": "053",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "43.57083000",
+    "longitude": "104.42500000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  },
+  {
+    "id": 67720,
+    "name": "Hanhongor",
+    "state_id": 1967,
+    "state_code": "053",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "43.77345000",
+    "longitude": "104.47998000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  },
+  {
+    "id": 67730,
+    "name": "Nomgon Sum",
+    "state_id": 1967,
+    "state_code": "053",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "42.41462000",
+    "longitude": "105.05640000",
+    "native": null,
+    "timezone": "Asia/Choibalsan",
+    "translations": {}
+  }
+]

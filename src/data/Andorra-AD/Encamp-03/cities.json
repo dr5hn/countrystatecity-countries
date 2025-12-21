@@ -1,0 +1,28 @@
+[
+  {
+    "id": 5,
+    "name": "Encamp",
+    "state_id": 487,
+    "state_code": "03",
+    "country_id": 6,
+    "country_code": "AD",
+    "latitude": "42.53474000",
+    "longitude": "1.58014000",
+    "native": null,
+    "timezone": "Europe/Andorra",
+    "translations": {}
+  },
+  {
+    "id": 7,
+    "name": "Pas de la Casa",
+    "state_id": 487,
+    "state_code": "03",
+    "country_id": 6,
+    "country_code": "AD",
+    "latitude": "42.54277000",
+    "longitude": "1.73361000",
+    "native": null,
+    "timezone": "Europe/Andorra",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64829,
+    "name": "Mandera",
+    "state_id": 187,
+    "state_code": "24",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "3.93726000",
+    "longitude": "41.85688000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 160181,
+    "name": "Dubova (Driloni)",
+    "state_id": 5321,
+    "state_code": "PEJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.71194000",
+    "longitude": "20.36972000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160182,
+    "name": "Istok",
+    "state_id": 5321,
+    "state_code": "PEJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.78083000",
+    "longitude": "20.48750000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160183,
+    "name": "Klina",
+    "state_id": 5321,
+    "state_code": "PEJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.62167000",
+    "longitude": "20.57778000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160184,
+    "name": "Kosuriq",
+    "state_id": 5321,
+    "state_code": "PEJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.57028000",
+    "longitude": "20.46472000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 160185,
+    "name": "Pejë",
+    "state_id": 5321,
+    "state_code": "PEJ",
+    "country_id": 248,
+    "country_code": "XK",
+    "latitude": "42.65913000",
+    "longitude": "20.28828000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

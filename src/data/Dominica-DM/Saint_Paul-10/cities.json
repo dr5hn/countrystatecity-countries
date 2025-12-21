@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31007,
+    "name": "Mahaut",
+    "state_id": 4084,
+    "state_code": "10",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.36357000",
+    "longitude": "-61.39701000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  },
+  {
+    "id": 31010,
+    "name": "Pont Cassé",
+    "state_id": 4084,
+    "state_code": "10",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.36667000",
+    "longitude": "-61.35000000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  }
+]

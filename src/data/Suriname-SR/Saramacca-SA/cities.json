@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104824,
+    "name": "Groningen",
+    "state_id": 2848,
+    "state_code": "SA",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.80000000",
+    "longitude": "-55.46667000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  }
+]

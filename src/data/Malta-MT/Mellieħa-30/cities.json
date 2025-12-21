@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153737,
+    "name": "Manikata",
+    "state_id": 102,
+    "state_code": "30",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.94000000",
+    "longitude": "14.35333000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

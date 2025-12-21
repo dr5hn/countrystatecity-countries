@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153616,
+    "name": "Santa Isabel",
+    "state_id": 5201,
+    "state_code": "133",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "17.96607750",
+    "longitude": "-66.40489200",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 66868,
+    "name": "Aglona",
+    "state_id": 4483,
+    "state_code": "073",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.13274000",
+    "longitude": "27.00682000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66902,
+    "name": "Jaunaglona",
+    "state_id": 4483,
+    "state_code": "073",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.16066000",
+    "longitude": "27.00714000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66941,
+    "name": "Preiļi",
+    "state_id": 4483,
+    "state_code": "073",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.29444000",
+    "longitude": "26.72459000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66947,
+    "name": "Riebiņi",
+    "state_id": 4483,
+    "state_code": "073",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.34280000",
+    "longitude": "26.79995000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66983,
+    "name": "Vecvārkava",
+    "state_id": 4483,
+    "state_code": "073",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.19838000",
+    "longitude": "26.50811000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

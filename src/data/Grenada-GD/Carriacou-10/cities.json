@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52030,
+    "name": "Hillsborough",
+    "state_id": 3867,
+    "state_code": "10",
+    "country_id": 87,
+    "country_code": "GD",
+    "latitude": "12.48292000",
+    "longitude": "-61.45597000",
+    "native": null,
+    "timezone": "America/Grenada",
+    "translations": {}
+  }
+]

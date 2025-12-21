@@ -1,0 +1,80 @@
+[
+  {
+    "id": 64789,
+    "name": "Iten",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.67028000",
+    "longitude": "35.50806000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64797,
+    "name": "Kapsowar",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.97890000",
+    "longitude": "35.55854000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64806,
+    "name": "Kilifi",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-3.63045000",
+    "longitude": "39.84992000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64828,
+    "name": "Malindi",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-3.21799000",
+    "longitude": "40.11692000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64832,
+    "name": "Mariakani",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-3.86261000",
+    "longitude": "39.47458000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64872,
+    "name": "Takaungu",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-3.68350000",
+    "longitude": "39.85687000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

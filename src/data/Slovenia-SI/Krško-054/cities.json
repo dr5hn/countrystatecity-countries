@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104155,
+    "name": "Krško",
+    "state_id": 4314,
+    "state_code": "054",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.95915000",
+    "longitude": "15.49167000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104164,
+    "name": "Leskovec pri Krškem",
+    "state_id": 4314,
+    "state_code": "054",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.93566000",
+    "longitude": "15.47184000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104267,
+    "name": "Senovo",
+    "state_id": 4314,
+    "state_code": "054",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.02361000",
+    "longitude": "15.47694000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

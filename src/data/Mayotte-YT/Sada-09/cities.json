@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160314,
+    "name": "Mangajou",
+    "state_id": 5410,
+    "state_code": "09",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.84404000",
+    "longitude": "45.11716000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160313,
+    "name": "Sada",
+    "state_id": 5410,
+    "state_code": "09",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.85055000",
+    "longitude": "45.10205000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

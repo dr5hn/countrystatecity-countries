@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17238,
+    "name": "Bumba",
+    "state_id": 2752,
+    "state_code": "MO",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "2.18771000",
+    "longitude": "22.46827000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  }
+]

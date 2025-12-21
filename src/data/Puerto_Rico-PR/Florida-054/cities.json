@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153576,
+    "name": "Florida",
+    "state_id": 5161,
+    "state_code": "054",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "27.66482740",
+    "longitude": "-81.51575350",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

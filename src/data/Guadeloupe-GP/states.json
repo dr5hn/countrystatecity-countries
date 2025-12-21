@@ -1,0 +1,30 @@
+[
+  {
+    "id": 5384,
+    "name": "Basse-Terre",
+    "country_id": 88,
+    "country_code": "GP",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "district",
+    "latitude": "16.00007780",
+    "longitude": "-61.73333730",
+    "native": "Basse-Terre",
+    "timezone": "America/Guadeloupe",
+    "translations": {}
+  },
+  {
+    "id": 5385,
+    "name": "Pointe-à-Pitre",
+    "country_id": 88,
+    "country_code": "GP",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "district",
+    "latitude": "16.24086360",
+    "longitude": "-61.53340770",
+    "native": "Pointe-à-Pitre",
+    "timezone": "America/Guadeloupe",
+    "translations": {}
+  }
+]

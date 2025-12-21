@@ -1,0 +1,54 @@
+[
+  {
+    "id": 76592,
+    "name": "Chibuto",
+    "state_id": 3329,
+    "state_code": "G",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-24.68667000",
+    "longitude": "33.53056000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76596,
+    "name": "Chokwé",
+    "state_id": 3329,
+    "state_code": "G",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-24.53333000",
+    "longitude": "32.98333000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76604,
+    "name": "Macia",
+    "state_id": 3329,
+    "state_code": "G",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-25.02694000",
+    "longitude": "33.09889000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76625,
+    "name": "Xai-Xai",
+    "state_id": 3329,
+    "state_code": "G",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-25.05194000",
+    "longitude": "33.64417000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  }
+]

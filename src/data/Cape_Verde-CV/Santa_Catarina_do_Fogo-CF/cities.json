@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21990,
+    "name": "Cova Figueira",
+    "state_id": 2995,
+    "state_code": "CF",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "14.89054000",
+    "longitude": "-24.29343000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

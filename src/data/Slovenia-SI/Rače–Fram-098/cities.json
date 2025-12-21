@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104103,
+    "name": "Fram",
+    "state_id": 4204,
+    "state_code": "098",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.45600000",
+    "longitude": "15.63007000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104198,
+    "name": "Morje",
+    "state_id": 4204,
+    "state_code": "098",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.44444000",
+    "longitude": "15.62139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104252,
+    "name": "Rače",
+    "state_id": 4204,
+    "state_code": "098",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.45194000",
+    "longitude": "15.68139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

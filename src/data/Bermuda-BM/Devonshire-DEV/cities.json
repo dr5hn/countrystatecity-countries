@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153518,
+    "name": "Devonshire",
+    "state_id": 4860,
+    "state_code": "DEV",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.29300000",
+    "longitude": "-64.80000000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

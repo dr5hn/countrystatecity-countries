@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17251,
+    "name": "Kabalo",
+    "state_id": 2733,
+    "state_code": "TA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-6.05255000",
+    "longitude": "26.91430000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17254,
+    "name": "Kalemie",
+    "state_id": 2733,
+    "state_code": "TA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-5.94749000",
+    "longitude": "29.19471000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17266,
+    "name": "Kongolo",
+    "state_id": 2733,
+    "state_code": "TA",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-5.38532000",
+    "longitude": "27.00029000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

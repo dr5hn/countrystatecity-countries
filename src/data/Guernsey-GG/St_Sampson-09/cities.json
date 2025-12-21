@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160556,
+    "name": "Saint Sampson",
+    "state_id": 5394,
+    "state_code": "09",
+    "country_id": 91,
+    "country_code": "GG",
+    "latitude": "49.48389000",
+    "longitude": "-2.52333000",
+    "native": null,
+    "timezone": "Europe/Guernsey",
+    "translations": {}
+  }
+]

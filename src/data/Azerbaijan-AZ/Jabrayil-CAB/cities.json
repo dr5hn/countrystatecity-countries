@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8096,
+    "name": "Jebrail",
+    "state_id": 570,
+    "state_code": "CAB",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.39917000",
+    "longitude": "47.02835000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

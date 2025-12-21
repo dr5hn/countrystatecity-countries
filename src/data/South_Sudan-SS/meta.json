@@ -1,0 +1,51 @@
+{
+  "id": 206,
+  "name": "South Sudan",
+  "iso2": "SS",
+  "iso3": "SSD",
+  "numeric_code": "728",
+  "phonecode": "211",
+  "capital": "Juba",
+  "currency": "SSP",
+  "currency_name": "South Sudanese pound",
+  "currency_symbol": "£",
+  "tld": ".ss",
+  "native": "South Sudan",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "nationality": "South Sudanese",
+  "latitude": "7.00000000",
+  "longitude": "30.00000000",
+  "emoji": "🇸🇸",
+  "emojiU": "U+1F1F8 U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Africa/Juba",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Soudan ar Su",
+    "ko": "남수단",
+    "pt-BR": "Sudão do Sul",
+    "pt": "Sudão do Sul",
+    "nl": "Zuid-Soedan",
+    "hr": "Južni Sudan",
+    "fa": "سودان جنوبی",
+    "de": "Südsudan",
+    "es": "Sudán del Sur",
+    "fr": "Soudan du Sud",
+    "ja": "南スーダン",
+    "it": "Sudan del sud",
+    "zh-CN": "南苏丹",
+    "tr": "Güney Sudan",
+    "ru": "Южный Судан",
+    "uk": "Південний Судан",
+    "pl": "Sudan Południowy",
+    "hi": "दक्षिण सूडान",
+    "ar": "جنوب السودان"
+  }
+}

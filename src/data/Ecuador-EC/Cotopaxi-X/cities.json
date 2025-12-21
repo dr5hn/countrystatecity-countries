@@ -1,0 +1,67 @@
+[
+  {
+    "id": 31517,
+    "name": "La Maná",
+    "state_id": 2921,
+    "state_code": "X",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.94094000",
+    "longitude": "-79.22506000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31520,
+    "name": "Latacunga",
+    "state_id": 2921,
+    "state_code": "X",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.93521000",
+    "longitude": "-78.61554000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31556,
+    "name": "Pujilí",
+    "state_id": 2921,
+    "state_code": "X",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.95759000",
+    "longitude": "-78.69636000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31570,
+    "name": "San Miguel de Salcedo",
+    "state_id": 2921,
+    "state_code": "X",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-1.04547000",
+    "longitude": "-78.59063000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31578,
+    "name": "Saquisilí",
+    "state_id": 2921,
+    "state_code": "X",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.83990000",
+    "longitude": "-78.66700000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

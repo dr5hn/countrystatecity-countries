@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104178,
+    "name": "Luče",
+    "state_id": 4219,
+    "state_code": "067",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.35611000",
+    "longitude": "14.74667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

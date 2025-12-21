@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160320,
+    "name": "Miréréni",
+    "state_id": 5413,
+    "state_code": "12",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.78867000",
+    "longitude": "45.14113000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160321,
+    "name": "Tsingoni",
+    "state_id": 5413,
+    "state_code": "12",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.78722000",
+    "longitude": "45.10278000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 65859,
+    "name": "Ban Thatèng",
+    "state_id": 984,
+    "state_code": "XE",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.43317000",
+    "longitude": "106.38272000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65862,
+    "name": "Lamam",
+    "state_id": 984,
+    "state_code": "XE",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.41705000",
+    "longitude": "106.69461000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65871,
+    "name": "Muang Dakchung",
+    "state_id": 984,
+    "state_code": "XE",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.38199000",
+    "longitude": "107.31847000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65873,
+    "name": "Muang Khaleum",
+    "state_id": 984,
+    "state_code": "XE",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.79886000",
+    "longitude": "107.04529000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65877,
+    "name": "Muang Laman",
+    "state_id": 984,
+    "state_code": "XE",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.41273000",
+    "longitude": "106.81706000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65906,
+    "name": "Muang Thatèng",
+    "state_id": 984,
+    "state_code": "XE",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "15.42745000",
+    "longitude": "106.48149000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

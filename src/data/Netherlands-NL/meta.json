@@ -1,0 +1,51 @@
+{
+  "id": 156,
+  "name": "Netherlands",
+  "iso2": "NL",
+  "iso3": "NLD",
+  "numeric_code": "528",
+  "phonecode": "31",
+  "capital": "Amsterdam",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".nl",
+  "native": "Nederland",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "nationality": "Dutch, Netherlandic",
+  "latitude": "52.50000000",
+  "longitude": "5.75000000",
+  "emoji": "🇳🇱",
+  "emojiU": "U+1F1F3 U+1F1F1",
+  "timezones": [
+    {
+      "zoneName": "Europe/Amsterdam",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Izelvroioù",
+    "ko": "네덜란드 ",
+    "pt-BR": "Holanda",
+    "pt": "Países Baixos",
+    "nl": "Nederland",
+    "hr": "Nizozemska",
+    "fa": "پادشاهی هلند",
+    "de": "Niederlande",
+    "es": "Países Bajos",
+    "fr": "Pays-Bas",
+    "ja": "オランダ",
+    "it": "Paesi Bassi",
+    "zh-CN": "荷兰",
+    "tr": "Hollanda",
+    "ru": "Нидерланды",
+    "uk": "Нідерланди",
+    "pl": "Holandia",
+    "hi": "नीदरलैंड",
+    "ar": "هولندا"
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8047,
+    "name": "Astara",
+    "state_id": 528,
+    "state_code": "AST",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "38.45598000",
+    "longitude": "48.87498000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8103,
+    "name": "Kizhaba",
+    "state_id": 528,
+    "state_code": "AST",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "38.53461000",
+    "longitude": "48.80546000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

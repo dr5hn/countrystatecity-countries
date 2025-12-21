@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67398,
+    "name": "Bosilovo",
+    "state_id": 652,
+    "state_code": "402",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.44056000",
+    "longitude": "22.72778000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67441,
+    "name": "Ilovica",
+    "state_id": 652,
+    "state_code": "402",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.47224000",
+    "longitude": "22.80480000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67523,
+    "name": "Sekirnik",
+    "state_id": 652,
+    "state_code": "402",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.43999000",
+    "longitude": "22.79536000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

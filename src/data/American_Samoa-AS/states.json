@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5375,
+    "name": "Eastern",
+    "country_id": 5,
+    "country_code": "AS",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "district",
+    "latitude": "-14.27824020",
+    "longitude": "-170.62432270",
+    "native": "Eastern",
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 5376,
+    "name": "Manuʻa",
+    "country_id": 5,
+    "country_code": "AS",
+    "fips_code": null,
+    "iso2": "03",
+    "type": "district",
+    "latitude": "-14.21460500",
+    "longitude": "-169.53346500",
+    "native": "Injury",
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 5378,
+    "name": "Rose",
+    "country_id": 5,
+    "country_code": "AS",
+    "fips_code": null,
+    "iso2": "05",
+    "type": "atoll",
+    "latitude": "-14.54248650",
+    "longitude": "-168.16374450",
+    "native": "Rose",
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 5377,
+    "name": "Swains",
+    "country_id": 5,
+    "country_code": "AS",
+    "fips_code": null,
+    "iso2": "04",
+    "type": "atoll",
+    "latitude": "-11.05290400",
+    "longitude": "-171.07673490",
+    "native": "Swains",
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 5374,
+    "name": "Western",
+    "country_id": 5,
+    "country_code": "AS",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "district",
+    "latitude": "-14.33230750",
+    "longitude": "-170.79613340",
+    "native": "Western",
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  }
+]

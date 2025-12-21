@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160117,
+    "name": "Santana",
+    "state_id": 5729,
+    "state_code": "02",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "0.25389000",
+    "longitude": "6.73444000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

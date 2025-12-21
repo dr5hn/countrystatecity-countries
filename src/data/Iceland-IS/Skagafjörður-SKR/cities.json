@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135209,
+    "name": "Sauðárkrókur",
+    "state_id": 5604,
+    "state_code": "SKR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.74611000",
+    "longitude": "-19.63944000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135222,
+    "name": "Sveitarfélagið Skagafjörður",
+    "state_id": 5604,
+    "state_code": "SKR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.50018000",
+    "longitude": "-19.44566000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

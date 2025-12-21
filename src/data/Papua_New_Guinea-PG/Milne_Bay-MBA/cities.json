@@ -1,0 +1,67 @@
+[
+  {
+    "id": 81027,
+    "name": "Alotau",
+    "state_id": 4849,
+    "state_code": "MBA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-10.25000000",
+    "longitude": "150.08333000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81038,
+    "name": "Esa’ala",
+    "state_id": 4849,
+    "state_code": "MBA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-9.58333000",
+    "longitude": "150.75000000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81066,
+    "name": "Kiriwina Goodenough",
+    "state_id": 4849,
+    "state_code": "MBA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-8.48333000",
+    "longitude": "151.06667000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81105,
+    "name": "Samarai",
+    "state_id": 4849,
+    "state_code": "MBA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-10.61038000",
+    "longitude": "150.66207000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81106,
+    "name": "Samarai Murua",
+    "state_id": 4849,
+    "state_code": "MBA",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-10.49636000",
+    "longitude": "150.54703000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

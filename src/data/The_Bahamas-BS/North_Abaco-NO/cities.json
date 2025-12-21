@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15692,
+    "name": "Cooper’s Town",
+    "state_id": 3616,
+    "state_code": "NO",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "26.87137000",
+    "longitude": "-77.51131000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

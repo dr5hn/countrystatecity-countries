@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160273,
+    "name": "Sinajana Village",
+    "state_id": 5268,
+    "state_code": "15",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.46334000",
+    "longitude": "144.75406000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

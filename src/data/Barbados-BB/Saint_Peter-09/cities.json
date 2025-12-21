@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8453,
+    "name": "Speightstown",
+    "state_id": 1222,
+    "state_code": "09",
+    "country_id": 20,
+    "country_code": "BB",
+    "latitude": "13.25072000",
+    "longitude": "-59.64396000",
+    "native": null,
+    "timezone": "America/Barbados",
+    "translations": {}
+  }
+]

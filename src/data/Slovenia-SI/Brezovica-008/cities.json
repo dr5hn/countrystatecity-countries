@@ -1,0 +1,67 @@
+[
+  {
+    "id": 104075,
+    "name": "Brezovica pri Ljubljani",
+    "state_id": 4165,
+    "state_code": "008",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.03333000",
+    "longitude": "14.40000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104205,
+    "name": "Notranje Gorice",
+    "state_id": 4165,
+    "state_code": "008",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.98750000",
+    "longitude": "14.39889000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104214,
+    "name": "Opština Ljubljana-Vič-Rudnik",
+    "state_id": 4165,
+    "state_code": "008",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.03333000",
+    "longitude": "14.41667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104254,
+    "name": "Rečica ob Savinji",
+    "state_id": 4165,
+    "state_code": "008",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.31667000",
+    "longitude": "14.91667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104316,
+    "name": "Vnanje Gorice",
+    "state_id": 4165,
+    "state_code": "008",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.00722000",
+    "longitude": "14.42194000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

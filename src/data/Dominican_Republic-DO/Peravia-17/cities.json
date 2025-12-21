@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31027,
+    "name": "Baní",
+    "state_id": 4096,
+    "state_code": "17",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.27964000",
+    "longitude": "-70.33185000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31128,
+    "name": "Matanzas",
+    "state_id": 4096,
+    "state_code": "17",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.24297000",
+    "longitude": "-70.41768000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31139,
+    "name": "Nizao",
+    "state_id": 4096,
+    "state_code": "17",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.24697000",
+    "longitude": "-70.21053000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31147,
+    "name": "Paya",
+    "state_id": 4096,
+    "state_code": "17",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.26196000",
+    "longitude": "-70.29560000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31157,
+    "name": "Pizarrete",
+    "state_id": 4096,
+    "state_code": "17",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.29935000",
+    "longitude": "-70.22648000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31170,
+    "name": "Sabana Buey",
+    "state_id": 4096,
+    "state_code": "17",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "18.27351000",
+    "longitude": "-70.52352000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  }
+]

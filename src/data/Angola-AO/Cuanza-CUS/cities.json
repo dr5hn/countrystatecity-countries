@@ -1,0 +1,41 @@
+[
+  {
+    "id": 629,
+    "name": "Quibala",
+    "state_id": 216,
+    "state_code": "CUS",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-10.73366000",
+    "longitude": "14.97995000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 634,
+    "name": "Sumbe",
+    "state_id": 216,
+    "state_code": "CUS",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-11.20605000",
+    "longitude": "13.84371000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 635,
+    "name": "Uacu Cungo",
+    "state_id": 216,
+    "state_code": "CUS",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-11.35669000",
+    "longitude": "15.11719000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

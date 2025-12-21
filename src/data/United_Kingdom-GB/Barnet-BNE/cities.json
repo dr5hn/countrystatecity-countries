@@ -1,0 +1,67 @@
+[
+  {
+    "id": 48397,
+    "name": "Barnet",
+    "state_id": 2520,
+    "state_code": "BNE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.65000000",
+    "longitude": "-0.20000000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48597,
+    "name": "Borehamwood",
+    "state_id": 2520,
+    "state_code": "BNE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.65468000",
+    "longitude": "-0.27762000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49439,
+    "name": "Edgware",
+    "state_id": 2520,
+    "state_code": "BNE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.61280000",
+    "longitude": "-0.27539000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49922,
+    "name": "High Barnet",
+    "state_id": 2520,
+    "state_code": "BNE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.65621000",
+    "longitude": "-0.20768000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51258,
+    "name": "Shenley",
+    "state_id": 2520,
+    "state_code": "BNE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.69054000",
+    "longitude": "-0.28067000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31003,
+    "name": "Calibishie",
+    "state_id": 4082,
+    "state_code": "02",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.59297000",
+    "longitude": "-61.34901000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  },
+  {
+    "id": 31008,
+    "name": "Marigot",
+    "state_id": 4082,
+    "state_code": "02",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.53886000",
+    "longitude": "-61.28375000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  },
+  {
+    "id": 31017,
+    "name": "Wesley",
+    "state_id": 4082,
+    "state_code": "02",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.56667000",
+    "longitude": "-61.31667000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  },
+  {
+    "id": 31018,
+    "name": "Woodford Hill",
+    "state_id": 4082,
+    "state_code": "02",
+    "country_id": 61,
+    "country_code": "DM",
+    "latitude": "15.58093000",
+    "longitude": "-61.33149000",
+    "native": null,
+    "timezone": "America/Dominica",
+    "translations": {}
+  }
+]

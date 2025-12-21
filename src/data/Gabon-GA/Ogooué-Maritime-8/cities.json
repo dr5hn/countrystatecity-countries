@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48134,
+    "name": "Gamba",
+    "state_id": 2728,
+    "state_code": "8",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "-2.65000000",
+    "longitude": "10.00000000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48152,
+    "name": "Omboué",
+    "state_id": 2728,
+    "state_code": "8",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "-1.57464000",
+    "longitude": "9.26184000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48154,
+    "name": "Port-Gentil",
+    "state_id": 2728,
+    "state_code": "8",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "-0.71933000",
+    "longitude": "8.78151000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  }
+]

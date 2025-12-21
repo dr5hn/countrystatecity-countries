@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104086,
+    "name": "Deskle",
+    "state_id": 4227,
+    "state_code": "044",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.05307000",
+    "longitude": "13.61382000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104134,
+    "name": "Kanal",
+    "state_id": 4227,
+    "state_code": "044",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.08861000",
+    "longitude": "13.63972000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

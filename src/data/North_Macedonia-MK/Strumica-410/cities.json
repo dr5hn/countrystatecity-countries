@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67463,
+    "name": "Kuklis",
+    "state_id": 710,
+    "state_code": "410",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.40528000",
+    "longitude": "22.66528000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67488,
+    "name": "Murtino",
+    "state_id": 710,
+    "state_code": "410",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.41537000",
+    "longitude": "22.72589000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67538,
+    "name": "Strumica",
+    "state_id": 710,
+    "state_code": "410",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.43750000",
+    "longitude": "22.64333000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67553,
+    "name": "Veljusa",
+    "state_id": 710,
+    "state_code": "410",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.47611000",
+    "longitude": "22.56750000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

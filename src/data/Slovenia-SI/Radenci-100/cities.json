@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104240,
+    "name": "Radenci",
+    "state_id": 4292,
+    "state_code": "100",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.64201000",
+    "longitude": "16.03781000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66884,
+    "name": "Brocēni",
+    "state_id": 4439,
+    "state_code": "088",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.67890000",
+    "longitude": "22.56945000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66958,
+    "name": "Saldus",
+    "state_id": 4439,
+    "state_code": "088",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.66363000",
+    "longitude": "22.48807000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

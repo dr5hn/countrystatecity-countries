@@ -1,0 +1,93 @@
+[
+  {
+    "id": 144793,
+    "name": "Calanasan",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "18.25797860",
+    "longitude": "120.71187320",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144795,
+    "name": "Conner",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "17.77495440",
+    "longitude": "121.09925090",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144801,
+    "name": "Flora",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "18.11880180",
+    "longitude": "121.24518720",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144810,
+    "name": "Kabugao",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "18.02643240",
+    "longitude": "120.82603070",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144829,
+    "name": "Luna",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "18.34990020",
+    "longitude": "121.09053910",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144845,
+    "name": "Pudtol",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "18.13808910",
+    "longitude": "121.15094510",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 144857,
+    "name": "Santa Marcela",
+    "state_id": 1334,
+    "state_code": "APA",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "18.29320640",
+    "longitude": "121.39907490",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

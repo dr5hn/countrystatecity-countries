@@ -1,0 +1,51 @@
+{
+  "id": 18,
+  "name": "Bahrain",
+  "iso2": "BH",
+  "iso3": "BHR",
+  "numeric_code": "048",
+  "phonecode": "973",
+  "capital": "Manama",
+  "currency": "BHD",
+  "currency_name": "Bahraini dinar",
+  "currency_symbol": ".د.ب",
+  "tld": ".bh",
+  "native": "‏البحرين",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Bahraini",
+  "latitude": "26.00000000",
+  "longitude": "50.55000000",
+  "emoji": "🇧🇭",
+  "emojiU": "U+1F1E7 U+1F1ED",
+  "timezones": [
+    {
+      "zoneName": "Asia/Bahrain",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Bahrein",
+    "ko": "바레인",
+    "pt-BR": "Bahrein",
+    "pt": "Barém",
+    "nl": "Bahrein",
+    "hr": "Bahrein",
+    "fa": "بحرین",
+    "de": "Bahrain",
+    "es": "Bahrein",
+    "fr": "Bahreïn",
+    "ja": "バーレーン",
+    "it": "Bahrein",
+    "zh-CN": "巴林",
+    "tr": "Bahreyn",
+    "ru": "Бахрейн",
+    "uk": "Бахрейн",
+    "pl": "Bahrajn",
+    "hi": "बहरीन",
+    "ar": "البحرين"
+  }
+}

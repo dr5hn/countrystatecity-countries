@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153965,
+    "name": "Al-Zahra",
+    "state_id": 5120,
+    "state_code": "GZA",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.47246750",
+    "longitude": "34.37782930",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 153964,
+    "name": "Gaza City",
+    "state_id": 5120,
+    "state_code": "GZA",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "31.50172950",
+    "longitude": "34.44624480",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

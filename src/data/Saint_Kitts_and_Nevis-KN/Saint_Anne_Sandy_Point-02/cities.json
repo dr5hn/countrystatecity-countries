@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65178,
+    "name": "Sandy Point Town",
+    "state_id": 3836,
+    "state_code": "02",
+    "country_id": 185,
+    "country_code": "KN",
+    "latitude": "17.35908000",
+    "longitude": "-62.84858000",
+    "native": null,
+    "timezone": "America/St_Kitts",
+    "translations": {}
+  }
+]

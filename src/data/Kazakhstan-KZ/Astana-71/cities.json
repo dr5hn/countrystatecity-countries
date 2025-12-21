@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65737,
+    "name": "Nur-Sultan",
+    "state_id": 156,
+    "state_code": "71",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "51.18010000",
+    "longitude": "71.44598000",
+    "native": null,
+    "timezone": "Asia/Almaty",
+    "translations": {}
+  }
+]

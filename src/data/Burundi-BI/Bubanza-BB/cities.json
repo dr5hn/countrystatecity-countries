@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9762,
+    "name": "Bubanza",
+    "state_id": 3196,
+    "state_code": "BB",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.08040000",
+    "longitude": "29.39100000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

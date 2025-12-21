@@ -1,0 +1,67 @@
+[
+  {
+    "id": 160123,
+    "name": "Citrana",
+    "state_id": 5550,
+    "state_code": "OE",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.33333333",
+    "longitude": "124.08333333",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 160124,
+    "name": "Nitibe",
+    "state_id": 5550,
+    "state_code": "OE",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.35000000",
+    "longitude": "124.23333333",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 160126,
+    "name": "Oe Silo",
+    "state_id": 5550,
+    "state_code": "OE",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.30000000",
+    "longitude": "124.50000000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 160122,
+    "name": "Pante Macassar",
+    "state_id": 5550,
+    "state_code": "OE",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.20000000",
+    "longitude": "124.38333333",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 160125,
+    "name": "Passabe",
+    "state_id": 5550,
+    "state_code": "OE",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.36416667",
+    "longitude": "124.34333333",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  }
+]

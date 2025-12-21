@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17229,
+    "name": "Boende",
+    "state_id": 2732,
+    "state_code": "TU",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-0.28163000",
+    "longitude": "20.88053000",
+    "native": null,
+    "timezone": "Africa/Kinshasa",
+    "translations": {}
+  }
+]

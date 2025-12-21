@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104170,
+    "name": "Ljubno ob Savinji",
+    "state_id": 4294,
+    "state_code": "062",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.34358000",
+    "longitude": "14.83377000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

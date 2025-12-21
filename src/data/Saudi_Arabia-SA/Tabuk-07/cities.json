@@ -1,0 +1,54 @@
+[
+  {
+    "id": 102838,
+    "name": "Al Wajh",
+    "state_id": 2852,
+    "state_code": "07",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "26.24551000",
+    "longitude": "36.45249000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 102853,
+    "name": "Duba",
+    "state_id": 2852,
+    "state_code": "07",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "27.35134000",
+    "longitude": "35.69014000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 102881,
+    "name": "Tabuk",
+    "state_id": 2852,
+    "state_code": "07",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "28.39980000",
+    "longitude": "36.57151000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 102889,
+    "name": "Umm Lajj",
+    "state_id": 2852,
+    "state_code": "07",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "25.02126000",
+    "longitude": "37.26850000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 120,
+  "name": "Latvia",
+  "iso2": "LV",
+  "iso3": "LVA",
+  "numeric_code": "428",
+  "phonecode": "371",
+  "capital": "Riga",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".lv",
+  "native": "Latvija",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Latvian",
+  "latitude": "57.00000000",
+  "longitude": "25.00000000",
+  "emoji": "🇱🇻",
+  "emojiU": "U+1F1F1 U+1F1FB",
+  "timezones": [
+    {
+      "zoneName": "Europe/Riga",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Latvia",
+    "ko": "라트비아",
+    "pt-BR": "Letônia",
+    "pt": "Letónia",
+    "nl": "Letland",
+    "hr": "Latvija",
+    "fa": "لتونی",
+    "de": "Lettland",
+    "es": "Letonia",
+    "fr": "Lettonie",
+    "ja": "ラトビア",
+    "it": "Lettonia",
+    "zh-CN": "拉脱维亚",
+    "tr": "Letonya",
+    "ru": "Латвия",
+    "uk": "Латвія",
+    "pl": "Łotwa",
+    "hi": "लातविया",
+    "ar": "لاتفيا"
+  }
+}

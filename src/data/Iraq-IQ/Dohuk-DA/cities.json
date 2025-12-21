@@ -1,0 +1,67 @@
+[
+  {
+    "id": 134489,
+    "name": "Al ‘Amādīyah",
+    "state_id": 3967,
+    "state_code": "DA",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "37.09214000",
+    "longitude": "43.48769000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134509,
+    "name": "Batifa",
+    "state_id": 3967,
+    "state_code": "DA",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "37.17454000",
+    "longitude": "43.01233000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134512,
+    "name": "Dihok",
+    "state_id": 3967,
+    "state_code": "DA",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "36.86709000",
+    "longitude": "42.98845000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134541,
+    "name": "Sīnah",
+    "state_id": 3967,
+    "state_code": "DA",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "36.80851000",
+    "longitude": "43.03935000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134547,
+    "name": "Zaxo",
+    "state_id": 3967,
+    "state_code": "DA",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "37.14871000",
+    "longitude": "42.68591000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  }
+]

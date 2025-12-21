@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67312,
+    "name": "Mîndreşti",
+    "state_id": 4371,
+    "state_code": "TE",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.50525000",
+    "longitude": "28.27687000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67330,
+    "name": "Teleneşti",
+    "state_id": 4371,
+    "state_code": "TE",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.50110000",
+    "longitude": "28.36536000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

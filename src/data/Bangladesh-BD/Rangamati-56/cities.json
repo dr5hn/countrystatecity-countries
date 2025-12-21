@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8576,
+    "name": "Rangamati",
+    "state_id": 5527,
+    "state_code": "56",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "22.63333000",
+    "longitude": "92.20000000",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

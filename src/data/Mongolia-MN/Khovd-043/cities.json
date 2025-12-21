@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67724,
+    "name": "Khovd",
+    "state_id": 1964,
+    "state_code": "043",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.00556000",
+    "longitude": "91.64194000",
+    "native": null,
+    "timezone": "Asia/Hovd",
+    "translations": {}
+  },
+  {
+    "id": 67728,
+    "name": "Möst",
+    "state_id": 1964,
+    "state_code": "043",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "46.67712000",
+    "longitude": "92.78521000",
+    "native": null,
+    "timezone": "Asia/Choibalsan",
+    "translations": {}
+  },
+  {
+    "id": 67741,
+    "name": "Üyönch",
+    "state_id": 1964,
+    "state_code": "043",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "46.04786000",
+    "longitude": "92.02612000",
+    "native": null,
+    "timezone": "Asia/Choibalsan",
+    "translations": {}
+  }
+]

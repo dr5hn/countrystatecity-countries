@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31645,
+    "name": "Kärdla",
+    "state_id": 3555,
+    "state_code": "39",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.99778000",
+    "longitude": "22.74917000",
+    "native": null,
+    "timezone": "Europe/Tallinn",
+    "translations": {}
+  }
+]

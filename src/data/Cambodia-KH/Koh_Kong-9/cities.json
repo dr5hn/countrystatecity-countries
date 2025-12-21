@@ -1,0 +1,67 @@
+[
+  {
+    "id": 64957,
+    "name": "Koh Kong",
+    "state_id": 3982,
+    "state_code": "9",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.61531000",
+    "longitude": "102.98380000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64982,
+    "name": "Smach Mean Chey",
+    "state_id": 3982,
+    "state_code": "9",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.54665000",
+    "longitude": "103.03569000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64984,
+    "name": "Srae Ambel",
+    "state_id": 3982,
+    "state_code": "9",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.10968000",
+    "longitude": "103.76226000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64991,
+    "name": "Srŏk Batum Sakôr",
+    "state_id": 3982,
+    "state_code": "9",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.11465000",
+    "longitude": "103.38993000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65011,
+    "name": "Srŏk Môndôl Seima",
+    "state_id": 3982,
+    "state_code": "9",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "11.81292000",
+    "longitude": "103.01159000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2821,
+    "name": "Anjouan",
+    "country_id": 49,
+    "country_code": "KM",
+    "fips_code": null,
+    "iso2": "A",
+    "type": "island",
+    "latitude": "-12.22656810",
+    "longitude": "44.41070490",
+    "native": "أنجوان",
+    "timezone": "Indian/Comoro",
+    "translations": {}
+  },
+  {
+    "id": 2822,
+    "name": "Grande Comore",
+    "country_id": 49,
+    "country_code": "KM",
+    "fips_code": null,
+    "iso2": "G",
+    "type": "island",
+    "latitude": "-11.65256880",
+    "longitude": "43.33097060",
+    "native": "قادم طويل القامة",
+    "timezone": "Indian/Comoro",
+    "translations": {}
+  },
+  {
+    "id": 2820,
+    "name": "Mohéli",
+    "country_id": 49,
+    "country_code": "KM",
+    "fips_code": null,
+    "iso2": "M",
+    "type": "island",
+    "latitude": "-12.32045730",
+    "longitude": "43.72043130",
+    "native": "موهلي",
+    "timezone": "Indian/Comoro",
+    "translations": {}
+  }
+]

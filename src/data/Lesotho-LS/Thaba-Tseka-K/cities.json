@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66575,
+    "name": "Thaba-Tseka",
+    "state_id": 3031,
+    "state_code": "K",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-29.52204000",
+    "longitude": "28.60840000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  }
+]

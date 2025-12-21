@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1831,
+    "name": "Gilbert",
+    "country_id": 114,
+    "country_code": "KI",
+    "fips_code": null,
+    "iso2": "G",
+    "type": "island",
+    "latitude": "-1.23945560",
+    "longitude": "175.29694550",
+    "native": "Gilbert",
+    "timezone": "Pacific/Enderbury",
+    "translations": {}
+  },
+  {
+    "id": 1832,
+    "name": "Line",
+    "country_id": 114,
+    "country_code": "KI",
+    "fips_code": null,
+    "iso2": "L",
+    "type": "island",
+    "latitude": "1.35897790",
+    "longitude": "172.93112020",
+    "native": "Line",
+    "timezone": "Pacific/Enderbury",
+    "translations": {}
+  },
+  {
+    "id": 1830,
+    "name": "Phoenix",
+    "country_id": 114,
+    "country_code": "KI",
+    "fips_code": null,
+    "iso2": "P",
+    "type": "island",
+    "latitude": "-3.72134440",
+    "longitude": "-170.71170520",
+    "native": "Phoenix",
+    "timezone": "Pacific/Enderbury",
+    "translations": {}
+  }
+]

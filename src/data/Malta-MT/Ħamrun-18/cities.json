@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153730,
+    "name": "Blata l' Bajda",
+    "state_id": 105,
+    "state_code": "18",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.88750000",
+    "longitude": "14.49861100",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 67821,
+    "name": "Ħamrun",
+    "state_id": 105,
+    "state_code": "18",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.88472000",
+    "longitude": "14.48444000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

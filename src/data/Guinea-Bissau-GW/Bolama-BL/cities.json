@@ -1,0 +1,28 @@
+[
+  {
+    "id": 53809,
+    "name": "Bolama",
+    "state_id": 2722,
+    "state_code": "BL",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "11.57694000",
+    "longitude": "-15.47611000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  },
+  {
+    "id": 53811,
+    "name": "Bubaque",
+    "state_id": 2722,
+    "state_code": "BL",
+    "country_id": 93,
+    "country_code": "GW",
+    "latitude": "11.28333000",
+    "longitude": "-15.83333000",
+    "native": null,
+    "timezone": "Africa/Bissau",
+    "translations": {}
+  }
+]

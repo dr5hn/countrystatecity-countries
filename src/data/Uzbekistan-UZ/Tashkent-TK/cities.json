@@ -1,0 +1,28 @@
+[
+  {
+    "id": 129901,
+    "name": "Bektemir",
+    "state_id": 2536,
+    "state_code": "TK",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "41.20972000",
+    "longitude": "69.33417000",
+    "native": null,
+    "timezone": "Asia/Tashkent",
+    "translations": {}
+  },
+  {
+    "id": 130005,
+    "name": "Tashkent",
+    "state_id": 2536,
+    "state_code": "TK",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "41.26465000",
+    "longitude": "69.21627000",
+    "native": null,
+    "timezone": "Asia/Tashkent",
+    "translations": {}
+  }
+]

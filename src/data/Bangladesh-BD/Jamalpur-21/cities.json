@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153887,
+    "name": "Jamalpur",
+    "state_id": 5494,
+    "state_code": "21",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "25.00108250",
+    "longitude": "89.26050130",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

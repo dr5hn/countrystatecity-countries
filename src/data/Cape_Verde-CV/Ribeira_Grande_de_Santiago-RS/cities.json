@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21989,
+    "name": "Cidade Velha",
+    "state_id": 2984,
+    "state_code": "RS",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "14.91531000",
+    "longitude": "-23.60527000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

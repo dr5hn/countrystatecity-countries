@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66550,
+    "name": "Cestos City",
+    "state_id": 3033,
+    "state_code": "RI",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "5.45683000",
+    "longitude": "-9.58167000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

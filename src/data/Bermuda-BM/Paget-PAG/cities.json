@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153516,
+    "name": "Paget",
+    "state_id": 4863,
+    "state_code": "PAG",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.27800000",
+    "longitude": "-64.76900000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

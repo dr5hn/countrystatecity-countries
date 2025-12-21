@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153735,
+    "name": "Madliena",
+    "state_id": 86,
+    "state_code": "57",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.93333300",
+    "longitude": "14.46666700",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 67812,
+    "name": "Swieqi",
+    "state_id": 86,
+    "state_code": "57",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.92250000",
+    "longitude": "14.48000000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

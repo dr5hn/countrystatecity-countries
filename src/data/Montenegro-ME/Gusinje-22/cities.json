@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67353,
+    "name": "Gusinje",
+    "state_id": 24,
+    "state_code": "22",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.56194000",
+    "longitude": "19.83389000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

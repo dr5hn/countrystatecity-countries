@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67499,
+    "name": "Oraovica",
+    "state_id": 709,
+    "state_code": "409",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.62583000",
+    "longitude": "22.51333000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67507,
+    "name": "Podareš",
+    "state_id": 709,
+    "state_code": "409",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.61389000",
+    "longitude": "22.54222000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67514,
+    "name": "Radovis",
+    "state_id": 709,
+    "state_code": "409",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.63833000",
+    "longitude": "22.46472000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

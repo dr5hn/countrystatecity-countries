@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153602,
+    "name": "Naranjito",
+    "state_id": 5187,
+    "state_code": "105",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.30078610",
+    "longitude": "-66.24489040",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

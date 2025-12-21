@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67767,
+    "name": "Gudja",
+    "state_id": 106,
+    "state_code": "16",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.84917000",
+    "longitude": "14.50306000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

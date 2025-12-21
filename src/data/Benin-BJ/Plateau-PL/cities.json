@@ -1,0 +1,41 @@
+[
+  {
+    "id": 9801,
+    "name": "Kétou",
+    "state_id": 3074,
+    "state_code": "PL",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "7.36332000",
+    "longitude": "2.59978000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9808,
+    "name": "Pobé",
+    "state_id": 3074,
+    "state_code": "PL",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "6.98008000",
+    "longitude": "2.66490000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9810,
+    "name": "Sakété",
+    "state_id": 3074,
+    "state_code": "PL",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "6.73618000",
+    "longitude": "2.65866000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 85352,
+    "name": "Barishal",
+    "state_id": 3170,
+    "state_code": "GB",
+    "country_id": 167,
+    "country_code": "PK",
+    "latitude": "36.32162000",
+    "longitude": "74.69502000",
+    "native": null,
+    "timezone": "Asia/Karachi",
+    "translations": {}
+  },
+  {
+    "id": 85450,
+    "name": "Gilgit",
+    "state_id": 3170,
+    "state_code": "GB",
+    "country_id": 167,
+    "country_code": "PK",
+    "latitude": "35.91869000",
+    "longitude": "74.31245000",
+    "native": null,
+    "timezone": "Asia/Karachi",
+    "translations": {}
+  },
+  {
+    "id": 85724,
+    "name": "Skardu",
+    "state_id": 3170,
+    "state_code": "GB",
+    "country_id": 167,
+    "country_code": "PK",
+    "latitude": "35.29787000",
+    "longitude": "75.63372000",
+    "native": null,
+    "timezone": "Asia/Karachi",
+    "translations": {}
+  }
+]

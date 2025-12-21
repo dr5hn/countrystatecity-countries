@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135223,
+    "name": "Tjörneshreppur",
+    "state_id": 5614,
+    "state_code": "TJO",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.11667000",
+    "longitude": "-17.20000000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

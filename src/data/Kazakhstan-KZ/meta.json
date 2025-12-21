@@ -1,0 +1,93 @@
+{
+  "id": 112,
+  "name": "Kazakhstan",
+  "iso2": "KZ",
+  "iso3": "KAZ",
+  "numeric_code": "398",
+  "phonecode": "7",
+  "capital": "Astana",
+  "currency": "KZT",
+  "currency_name": "Kazakhstani tenge",
+  "currency_symbol": "лв",
+  "tld": ".kz",
+  "native": "Қазақстан",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "nationality": "Kazakhstani, Kazakh",
+  "latitude": "48.00000000",
+  "longitude": "68.00000000",
+  "emoji": "🇰🇿",
+  "emojiU": "U+1F1F0 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Asia/Almaty",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "ALMT",
+      "tzName": "Alma-Ata Time[1"
+    },
+    {
+      "zoneName": "Asia/Aqtau",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "AQTT",
+      "tzName": "Aqtobe Time"
+    },
+    {
+      "zoneName": "Asia/Aqtobe",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "AQTT",
+      "tzName": "Aqtobe Time"
+    },
+    {
+      "zoneName": "Asia/Atyrau",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "MSD+1",
+      "tzName": "Moscow Daylight Time+1"
+    },
+    {
+      "zoneName": "Asia/Oral",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "ORAT",
+      "tzName": "Oral Time"
+    },
+    {
+      "zoneName": "Asia/Qostanay",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "QYZST",
+      "tzName": "Qyzylorda Summer Time"
+    },
+    {
+      "zoneName": "Asia/Qyzylorda",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "QYZT",
+      "tzName": "Qyzylorda Summer Time"
+    }
+  ],
+  "translations": {
+    "br": "Kazakstan",
+    "ko": "카자흐스탄",
+    "pt-BR": "Cazaquistão",
+    "pt": "Cazaquistão",
+    "nl": "Kazachstan",
+    "hr": "Kazahstan",
+    "fa": "قزاقستان",
+    "de": "Kasachstan",
+    "es": "Kazajistán",
+    "fr": "Kazakhstan",
+    "ja": "カザフスタン",
+    "it": "Kazakistan",
+    "zh-CN": "哈萨克斯坦",
+    "tr": "Kazakistan",
+    "ru": "Казахстан",
+    "uk": "Казахстан",
+    "pl": "Kazachstan",
+    "hi": "कजाखस्तान",
+    "ar": "كازاخستان"
+  }
+}

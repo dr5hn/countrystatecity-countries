@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105116,
+    "name": "Abéché",
+    "state_id": 3582,
+    "state_code": "OD",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.82916000",
+    "longitude": "20.83240000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105117,
+    "name": "Adré",
+    "state_id": 3582,
+    "state_code": "OD",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.46648000",
+    "longitude": "22.19875000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105137,
+    "name": "Goz Béïda",
+    "state_id": 3582,
+    "state_code": "OD",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "13.94563000",
+    "longitude": "20.54680000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

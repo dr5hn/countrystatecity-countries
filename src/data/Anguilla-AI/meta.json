@@ -1,0 +1,51 @@
+{
+  "id": 8,
+  "name": "Anguilla",
+  "iso2": "AI",
+  "iso3": "AIA",
+  "numeric_code": "660",
+  "phonecode": "1",
+  "capital": "The Valley",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "tld": ".ai",
+  "native": "Anguilla",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Anguillan",
+  "latitude": "18.25000000",
+  "longitude": "-63.16666666",
+  "emoji": "🇦🇮",
+  "emojiU": "U+1F1E6 U+1F1EE",
+  "timezones": [
+    {
+      "zoneName": "America/Anguilla",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Anguilla",
+    "ko": "앵귈라",
+    "pt-BR": "Anguila",
+    "pt": "Anguila",
+    "nl": "Anguilla",
+    "hr": "Angvila",
+    "fa": "آنگویلا",
+    "de": "Anguilla",
+    "es": "Anguilla",
+    "fr": "Anguilla",
+    "ja": "アンギラ",
+    "it": "Anguilla",
+    "zh-CN": "安圭拉",
+    "tr": "Anguilla",
+    "ru": "Ангилья",
+    "uk": "Ангілья",
+    "pl": "Anguilla",
+    "hi": "एंगुइला",
+    "ar": "أنغيلا"
+  }
+}

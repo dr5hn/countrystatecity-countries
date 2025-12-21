@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9776,
+    "name": "Rumonge",
+    "state_id": 3185,
+    "state_code": "RM",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.97360000",
+    "longitude": "29.43860000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

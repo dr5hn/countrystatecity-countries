@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2580,
+    "name": "Chuuk",
+    "country_id": 143,
+    "country_code": "FM",
+    "fips_code": null,
+    "iso2": "TRK",
+    "type": "state",
+    "latitude": "7.43937930",
+    "longitude": "151.85155380",
+    "native": "Chuuk",
+    "timezone": "Pacific/Chuuk",
+    "translations": {}
+  },
+  {
+    "id": 2583,
+    "name": "Kosrae",
+    "country_id": 143,
+    "country_code": "FM",
+    "fips_code": null,
+    "iso2": "KSA",
+    "type": "state",
+    "latitude": "5.30956180",
+    "longitude": "162.98148770",
+    "native": "Kosrae",
+    "timezone": "Pacific/Chuuk",
+    "translations": {}
+  },
+  {
+    "id": 2581,
+    "name": "Pohnpei",
+    "country_id": 143,
+    "country_code": "FM",
+    "fips_code": null,
+    "iso2": "PNI",
+    "type": "state",
+    "latitude": "6.88704670",
+    "longitude": "158.24061380",
+    "native": "Pohnpei",
+    "timezone": "Pacific/Chuuk",
+    "translations": {}
+  },
+  {
+    "id": 2582,
+    "name": "Yap",
+    "country_id": 143,
+    "country_code": "FM",
+    "fips_code": null,
+    "iso2": "YAP",
+    "type": "state",
+    "latitude": "9.54626830",
+    "longitude": "138.16515990",
+    "native": "Yap",
+    "timezone": "Pacific/Chuuk",
+    "translations": {}
+  }
+]

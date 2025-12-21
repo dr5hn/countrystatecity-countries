@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160553,
+    "name": "Saint Peter Port",
+    "state_id": 5391,
+    "state_code": "06",
+    "country_id": 91,
+    "country_code": "GG",
+    "latitude": "49.45981000",
+    "longitude": "-2.53527000",
+    "native": null,
+    "timezone": "Europe/Guernsey",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104250,
+    "name": "Razkrižje",
+    "state_id": 4206,
+    "state_code": "176",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.52167000",
+    "longitude": "16.28111000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

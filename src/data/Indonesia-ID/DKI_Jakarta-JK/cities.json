@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154474,
+    "name": "Jakarta Barat",
+    "state_id": 1805,
+    "state_code": "JK",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-6.15999160",
+    "longitude": "106.67485740",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 154470,
+    "name": "Jakarta Pusat",
+    "state_id": 1805,
+    "state_code": "JK",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-6.18222610",
+    "longitude": "106.79526480",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 154471,
+    "name": "Jakarta Selatan",
+    "state_id": 1805,
+    "state_code": "JK",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-6.28392950",
+    "longitude": "106.71967730",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 154473,
+    "name": "Jakarta Timur",
+    "state_id": 1805,
+    "state_code": "JK",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-6.26097100",
+    "longitude": "106.82261800",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 154472,
+    "name": "Jakarta Utara",
+    "state_id": 1805,
+    "state_code": "JK",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-6.13570900",
+    "longitude": "106.75949840",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  }
+]

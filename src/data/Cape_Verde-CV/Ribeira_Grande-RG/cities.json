@@ -1,0 +1,28 @@
+[
+  {
+    "id": 21998,
+    "name": "Ponta do Sol",
+    "state_id": 3002,
+    "state_code": "RG",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "17.20171000",
+    "longitude": "-25.09217000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  },
+  {
+    "id": 22002,
+    "name": "Ribeira Grande",
+    "state_id": 3002,
+    "state_code": "RG",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "17.18250000",
+    "longitude": "-25.06500000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

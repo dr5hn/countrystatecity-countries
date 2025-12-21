@@ -1,0 +1,28 @@
+[
+  {
+    "id": 72,
+    "name": "Ghormach",
+    "state_id": 3871,
+    "state_code": "BDG",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "35.73062000",
+    "longitude": "63.78264000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 108,
+    "name": "Qala i Naw",
+    "state_id": 3871,
+    "state_code": "BDG",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.98735000",
+    "longitude": "63.12891000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

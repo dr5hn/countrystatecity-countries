@@ -1,0 +1,15 @@
+[
+  {
+    "id": 71,
+    "name": "Ghazni",
+    "state_id": 3870,
+    "state_code": "GHA",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.55391000",
+    "longitude": "68.42096000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9770,
+    "name": "Kirundo",
+    "state_id": 3195,
+    "state_code": "KI",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-2.58450000",
+    "longitude": "30.09590000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

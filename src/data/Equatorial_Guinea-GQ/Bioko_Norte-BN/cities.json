@@ -1,0 +1,41 @@
+[
+  {
+    "id": 52387,
+    "name": "Malabo",
+    "state_id": 3446,
+    "state_code": "BN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "3.75578000",
+    "longitude": "8.78166000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52395,
+    "name": "Rebola",
+    "state_id": 3446,
+    "state_code": "BN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "3.71667000",
+    "longitude": "8.83333000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52398,
+    "name": "Santiago de Baney",
+    "state_id": 3446,
+    "state_code": "BN",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "3.69920000",
+    "longitude": "8.90840000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  }
+]

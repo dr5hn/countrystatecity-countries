@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104133,
+    "name": "Kamnik",
+    "state_id": 4180,
+    "state_code": "043",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.22587000",
+    "longitude": "14.61207000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104184,
+    "name": "Mekinje",
+    "state_id": 4180,
+    "state_code": "043",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.23333000",
+    "longitude": "14.61667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104355,
+    "name": "Šmarca",
+    "state_id": 4180,
+    "state_code": "043",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.19333000",
+    "longitude": "14.59667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

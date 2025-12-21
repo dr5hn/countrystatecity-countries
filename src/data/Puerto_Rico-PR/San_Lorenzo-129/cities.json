@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153614,
+    "name": "San Lorenzo",
+    "state_id": 5199,
+    "state_code": "129",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.18869120",
+    "longitude": "-65.97658620",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

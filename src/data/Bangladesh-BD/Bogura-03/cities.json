@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153894,
+    "name": "Bogra",
+    "state_id": 5478,
+    "state_code": "03",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "24.82966450",
+    "longitude": "89.02598570",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

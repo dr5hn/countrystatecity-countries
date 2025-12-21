@@ -1,0 +1,15 @@
+[
+  {
+    "id": 108983,
+    "name": "Rio Claro",
+    "state_id": 3356,
+    "state_code": "MRC",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.30594000",
+    "longitude": "-61.17556000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

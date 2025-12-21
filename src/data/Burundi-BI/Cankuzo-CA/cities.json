@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9765,
+    "name": "Cankuzo",
+    "state_id": 3201,
+    "state_code": "CA",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.21860000",
+    "longitude": "30.55280000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 48157,
+    "name": "Abbey Wood",
+    "state_id": 2492,
+    "state_code": "GRE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.48688000",
+    "longitude": "0.10747000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

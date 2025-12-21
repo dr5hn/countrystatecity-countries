@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8120,
+    "name": "Nakhchivan",
+    "state_id": 5471,
+    "state_code": "NV",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.20889000",
+    "longitude": "45.41222000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 149568,
+    "name": "Central",
+    "state_id": 5073,
+    "state_code": "SJ",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.33568380",
+    "longitude": "-64.79470780",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149569,
+    "name": "Coral Bay",
+    "state_id": 5073,
+    "state_code": "SJ",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.34800890",
+    "longitude": "-64.72196820",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149570,
+    "name": "Cruz Bay",
+    "state_id": 5073,
+    "state_code": "SJ",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.31820370",
+    "longitude": "-64.80242110",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  },
+  {
+    "id": 149571,
+    "name": "East End",
+    "state_id": 5073,
+    "state_code": "SJ",
+    "country_id": 242,
+    "country_code": "VI",
+    "latitude": "18.34036470",
+    "longitude": "-64.68062660",
+    "native": null,
+    "timezone": "America/St_Thomas",
+    "translations": {}
+  }
+]

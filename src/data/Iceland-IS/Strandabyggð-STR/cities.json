@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135219,
+    "name": "Strandabyggð",
+    "state_id": 5609,
+    "state_code": "STR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.77455000",
+    "longitude": "-21.95725000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65920,
+    "name": "Phôngsali",
+    "state_id": 987,
+    "state_code": "PH",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "21.68080000",
+    "longitude": "102.10030000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 52161,
+    "name": "Bawku",
+    "state_id": 55,
+    "state_code": "UE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "11.06160000",
+    "longitude": "-0.24169000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 52167,
+    "name": "Bolgatanga",
+    "state_id": 55,
+    "state_code": "UE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.78556000",
+    "longitude": "-0.85139000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  },
+  {
+    "id": 52193,
+    "name": "Navrongo",
+    "state_id": 55,
+    "state_code": "UE",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.89557000",
+    "longitude": "-1.09210000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  }
+]

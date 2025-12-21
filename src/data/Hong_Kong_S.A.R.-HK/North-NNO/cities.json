@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153497,
+    "name": "Sheung Shui",
+    "state_id": 4900,
+    "state_code": "NNO",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.50100000",
+    "longitude": "114.12300000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

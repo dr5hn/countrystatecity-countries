@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153624,
+    "name": "Villalba",
+    "state_id": 5209,
+    "state_code": "149",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.12175540",
+    "longitude": "-66.49857870",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

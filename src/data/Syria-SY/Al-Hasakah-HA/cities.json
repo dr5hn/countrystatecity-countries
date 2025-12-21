@@ -1,0 +1,80 @@
+[
+  {
+    "id": 104940,
+    "name": "Ad Darbāsīyah",
+    "state_id": 2941,
+    "state_code": "HA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "37.07279000",
+    "longitude": "40.65199000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 104957,
+    "name": "Al Ḩasakah",
+    "state_id": 2941,
+    "state_code": "HA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "36.50237000",
+    "longitude": "40.74772000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 104950,
+    "name": "Al Mālikīyah",
+    "state_id": 2941,
+    "state_code": "HA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "37.17701000",
+    "longitude": "42.14006000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 104955,
+    "name": "Al Qāmishlī",
+    "state_id": 2941,
+    "state_code": "HA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "37.05215000",
+    "longitude": "41.23142000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 104960,
+    "name": "Al-Malikiyah",
+    "state_id": 2941,
+    "state_code": "HA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "36.94113000",
+    "longitude": "41.90157000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  },
+  {
+    "id": 104967,
+    "name": "Amude",
+    "state_id": 2941,
+    "state_code": "HA",
+    "country_id": 215,
+    "country_code": "SY",
+    "latitude": "37.10417000",
+    "longitude": "40.93000000",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "translations": {}
+  }
+]

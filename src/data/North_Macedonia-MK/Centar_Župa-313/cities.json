@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67405,
+    "name": "Centar Župa",
+    "state_id": 720,
+    "state_code": "313",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.47849000",
+    "longitude": "20.55945000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

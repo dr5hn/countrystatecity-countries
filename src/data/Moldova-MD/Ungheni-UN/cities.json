@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67334,
+    "name": "Ungheni",
+    "state_id": 4386,
+    "state_code": "UN",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.21079000",
+    "longitude": "27.80047000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

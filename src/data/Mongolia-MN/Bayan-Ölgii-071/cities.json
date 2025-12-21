@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67706,
+    "name": "Altay",
+    "state_id": 1969,
+    "state_code": "071",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.29359000",
+    "longitude": "89.51488000",
+    "native": null,
+    "timezone": "Asia/Hovd",
+    "translations": {}
+  },
+  {
+    "id": 67740,
+    "name": "Ölgii",
+    "state_id": 1969,
+    "state_code": "071",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.96833000",
+    "longitude": "89.96250000",
+    "native": null,
+    "timezone": "Asia/Hovd",
+    "translations": {}
+  },
+  {
+    "id": 67733,
+    "name": "Tsengel",
+    "state_id": 1969,
+    "state_code": "071",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.94314000",
+    "longitude": "89.14358000",
+    "native": null,
+    "timezone": "Asia/Hovd",
+    "translations": {}
+  }
+]

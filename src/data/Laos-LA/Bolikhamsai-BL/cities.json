@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65858,
+    "name": "Ban Nahin",
+    "state_id": 985,
+    "state_code": "BL",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "18.24253000",
+    "longitude": "104.21281000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  },
+  {
+    "id": 65918,
+    "name": "Pakxan",
+    "state_id": 985,
+    "state_code": "BL",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "18.39420000",
+    "longitude": "103.66110000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

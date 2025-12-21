@@ -1,0 +1,156 @@
+{
+  "id": 31,
+  "name": "Brazil",
+  "iso2": "BR",
+  "iso3": "BRA",
+  "numeric_code": "076",
+  "phonecode": "55",
+  "capital": "Brasilia",
+  "currency": "BRL",
+  "currency_name": "Brazilian real",
+  "currency_symbol": "R$",
+  "tld": ".br",
+  "native": "Brasil",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Brazilian",
+  "latitude": "-10.00000000",
+  "longitude": "-55.00000000",
+  "emoji": "🇧🇷",
+  "emojiU": "U+1F1E7 U+1F1F7",
+  "timezones": [
+    {
+      "zoneName": "America/Araguaina",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Bahia",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Belem",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Boa_Vista",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AMT",
+      "tzName": "Amazon Time (Brazil)[3"
+    },
+    {
+      "zoneName": "America/Campo_Grande",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AMT",
+      "tzName": "Amazon Time (Brazil)[3"
+    },
+    {
+      "zoneName": "America/Cuiaba",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasilia Time"
+    },
+    {
+      "zoneName": "America/Eirunepe",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "ACT",
+      "tzName": "Acre Time"
+    },
+    {
+      "zoneName": "America/Fortaleza",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Maceio",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Manaus",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AMT",
+      "tzName": "Amazon Time (Brazil)"
+    },
+    {
+      "zoneName": "America/Noronha",
+      "gmtOffset": -7200,
+      "gmtOffsetName": "UTC-02:00",
+      "abbreviation": "FNT",
+      "tzName": "Fernando de Noronha Time"
+    },
+    {
+      "zoneName": "America/Porto_Velho",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AMT",
+      "tzName": "Amazon Time (Brazil)[3"
+    },
+    {
+      "zoneName": "America/Recife",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Rio_Branco",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "ACT",
+      "tzName": "Acre Time"
+    },
+    {
+      "zoneName": "America/Santarem",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    },
+    {
+      "zoneName": "America/Sao_Paulo",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "BRT",
+      "tzName": "Brasília Time"
+    }
+  ],
+  "translations": {
+    "br": "Brazil",
+    "ko": "브라질",
+    "pt-BR": "Brasil",
+    "pt": "Brasil",
+    "nl": "Brazilië",
+    "hr": "Brazil",
+    "fa": "برزیل",
+    "de": "Brasilien",
+    "es": "Brasil",
+    "fr": "Brésil",
+    "ja": "ブラジル",
+    "it": "Brasile",
+    "zh-CN": "巴西",
+    "tr": "Brezilya",
+    "ru": "Бразилия",
+    "uk": "Бразилія",
+    "pl": "Brazylia",
+    "hi": "ब्राज़िल",
+    "ar": "البرازيل"
+  }
+}

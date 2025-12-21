@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67823,
+    "name": "Żebbuġ",
+    "state_id": 80,
+    "state_code": "66",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "36.07222000",
+    "longitude": "14.23583000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

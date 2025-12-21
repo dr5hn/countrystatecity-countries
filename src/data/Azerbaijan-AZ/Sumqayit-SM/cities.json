@@ -1,0 +1,41 @@
+[
+  {
+    "id": 8070,
+    "name": "Corat",
+    "state_id": 582,
+    "state_code": "SM",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.57176000",
+    "longitude": "49.70509000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8086,
+    "name": "Hacı Zeynalabdin",
+    "state_id": 582,
+    "state_code": "SM",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.62333000",
+    "longitude": "49.55861000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8180,
+    "name": "Sumqayıt",
+    "state_id": 582,
+    "state_code": "SM",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.58972000",
+    "longitude": "49.66861000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

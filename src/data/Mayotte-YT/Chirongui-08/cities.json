@@ -1,0 +1,67 @@
+[
+  {
+    "id": 160309,
+    "name": "Chirongui",
+    "state_id": 5409,
+    "state_code": "08",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.93194000",
+    "longitude": "45.14833000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160311,
+    "name": "Miréréni",
+    "state_id": 5409,
+    "state_code": "08",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.90708000",
+    "longitude": "45.15295000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160310,
+    "name": "Mramadoudou",
+    "state_id": 5409,
+    "state_code": "08",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.92846000",
+    "longitude": "45.15324000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160312,
+    "name": "Poroani",
+    "state_id": 5409,
+    "state_code": "08",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.89226000",
+    "longitude": "45.14121000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160308,
+    "name": "Tsimkoura",
+    "state_id": 5409,
+    "state_code": "08",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.93934000",
+    "longitude": "45.13739000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

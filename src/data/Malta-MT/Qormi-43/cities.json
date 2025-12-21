@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67798,
+    "name": "Qormi",
+    "state_id": 119,
+    "state_code": "43",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.87601000",
+    "longitude": "14.47200000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

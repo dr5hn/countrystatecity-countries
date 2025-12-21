@@ -1,0 +1,41 @@
+[
+  {
+    "id": 9797,
+    "name": "Guilmaro",
+    "state_id": 3076,
+    "state_code": "AK",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "10.56583000",
+    "longitude": "1.72444000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9804,
+    "name": "Natitingou",
+    "state_id": 3076,
+    "state_code": "AK",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "10.30416000",
+    "longitude": "1.37962000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9813,
+    "name": "Tanguieta",
+    "state_id": 3076,
+    "state_code": "AK",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "11.03621000",
+    "longitude": "1.41757000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

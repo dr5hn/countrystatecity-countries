@@ -1,0 +1,15 @@
+[
+  {
+    "id": 130032,
+    "name": "Chateaubelair",
+    "state_id": 3387,
+    "state_code": "03",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.29069000",
+    "longitude": "-61.24043000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  }
+]

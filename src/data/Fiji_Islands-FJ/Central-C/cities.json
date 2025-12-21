@@ -1,0 +1,80 @@
+[
+  {
+    "id": 39145,
+    "name": "Naitasiri",
+    "state_id": 1929,
+    "state_code": "C",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.83333000",
+    "longitude": "178.25000000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39146,
+    "name": "Namosi",
+    "state_id": 1929,
+    "state_code": "C",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.05000000",
+    "longitude": "178.13333000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39149,
+    "name": "Rewa",
+    "state_id": 1929,
+    "state_code": "C",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.08333000",
+    "longitude": "178.33333000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39150,
+    "name": "Serua",
+    "state_id": 1929,
+    "state_code": "C",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.16667000",
+    "longitude": "178.00000000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39151,
+    "name": "Suva",
+    "state_id": 1929,
+    "state_code": "C",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-18.14161000",
+    "longitude": "178.44149000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  },
+  {
+    "id": 39152,
+    "name": "Tailevu",
+    "state_id": 1929,
+    "state_code": "C",
+    "country_id": 73,
+    "country_code": "FJ",
+    "latitude": "-17.83333000",
+    "longitude": "178.50000000",
+    "native": null,
+    "timezone": "Pacific/Fiji",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31298,
+    "name": "Béchar",
+    "state_id": 1108,
+    "state_code": "08",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "31.61667000",
+    "longitude": "-2.21667000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 17236,
+    "name": "Bukavu",
+    "state_id": 2738,
+    "state_code": "SK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-2.49077000",
+    "longitude": "28.84281000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17252,
+    "name": "Kabare",
+    "state_id": 2738,
+    "state_code": "SK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-2.49682000",
+    "longitude": "28.79081000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17290,
+    "name": "Uvira",
+    "state_id": 2738,
+    "state_code": "SK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-3.39534000",
+    "longitude": "29.13779000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

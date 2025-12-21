@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160265,
+    "name": "Adacao",
+    "state_id": 5263,
+    "state_code": "10",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.49242000",
+    "longitude": "144.84470000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160266,
+    "name": "Mangilao Village",
+    "state_id": 5263,
+    "state_code": "10",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.44761000",
+    "longitude": "144.80109000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

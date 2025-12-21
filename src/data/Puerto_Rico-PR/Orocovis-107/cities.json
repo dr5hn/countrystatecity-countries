@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153603,
+    "name": "Orocovis",
+    "state_id": 5188,
+    "state_code": "107",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.22692240",
+    "longitude": "-66.39116860",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

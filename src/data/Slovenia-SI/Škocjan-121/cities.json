@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104352,
+    "name": "Škocjan",
+    "state_id": 4170,
+    "state_code": "121",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.90667000",
+    "longitude": "15.29139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

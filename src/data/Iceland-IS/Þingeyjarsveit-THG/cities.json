@@ -1,0 +1,41 @@
+[
+  {
+    "id": 135199,
+    "name": "Laugar",
+    "state_id": 5613,
+    "state_code": "THG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.72159000",
+    "longitude": "-17.37352000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135217,
+    "name": "Skútustaðahreppur",
+    "state_id": 5613,
+    "state_code": "THG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.17177000",
+    "longitude": "-16.77890000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135233,
+    "name": "Þingeyjarsveit",
+    "state_id": 5613,
+    "state_code": "THG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.37229000",
+    "longitude": "-17.59927000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

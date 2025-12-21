@@ -1,0 +1,93 @@
+[
+  {
+    "id": 31757,
+    "name": "Abū Qurqāş",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "27.93120000",
+    "longitude": "30.83841000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31778,
+    "name": "Al Minyā",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.10988000",
+    "longitude": "30.75030000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31797,
+    "name": "Banī Mazār",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.50360000",
+    "longitude": "30.80040000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31806,
+    "name": "Dayr Mawās",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "27.64176000",
+    "longitude": "30.84662000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31835,
+    "name": "Mallawī",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "27.73140000",
+    "longitude": "30.84165000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31842,
+    "name": "Maţāy",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.41899000",
+    "longitude": "30.77924000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31861,
+    "name": "Samālūţ",
+    "state_id": 3243,
+    "state_code": "MN",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.31214000",
+    "longitude": "30.71007000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  }
+]

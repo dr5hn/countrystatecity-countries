@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67281,
+    "name": "Cahul",
+    "state_id": 4391,
+    "state_code": "CA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "45.90425000",
+    "longitude": "28.19929000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67305,
+    "name": "Giurgiuleşti",
+    "state_id": 4391,
+    "state_code": "CA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "45.48167000",
+    "longitude": "28.19722000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

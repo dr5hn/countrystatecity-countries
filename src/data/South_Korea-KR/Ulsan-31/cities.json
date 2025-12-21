@@ -1,0 +1,80 @@
+[
+  {
+    "id": 65275,
+    "name": "Buk-gu",
+    "state_id": 3852,
+    "state_code": "31",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "35.58243000",
+    "longitude": "129.36049000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65308,
+    "name": "Dong-gu",
+    "state_id": 3852,
+    "state_code": "31",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "35.50470000",
+    "longitude": "129.41860000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65423,
+    "name": "Jung-gu",
+    "state_id": 3852,
+    "state_code": "31",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "35.56840000",
+    "longitude": "129.33226000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65453,
+    "name": "Nam-gu",
+    "state_id": 3852,
+    "state_code": "31",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "35.54382000",
+    "longitude": "129.32917000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65525,
+    "name": "Ulju-gun",
+    "state_id": 3852,
+    "state_code": "31",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "35.56233000",
+    "longitude": "129.12690000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65527,
+    "name": "Ulsan",
+    "state_id": 3852,
+    "state_code": "31",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "35.53722000",
+    "longitude": "129.31667000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  }
+]

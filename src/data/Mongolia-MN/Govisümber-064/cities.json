@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67712,
+    "name": "Choyr",
+    "state_id": 1978,
+    "state_code": "064",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "46.36111000",
+    "longitude": "108.36111000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

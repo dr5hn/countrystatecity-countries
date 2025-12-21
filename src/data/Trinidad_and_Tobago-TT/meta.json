@@ -1,0 +1,51 @@
+{
+  "id": 223,
+  "name": "Trinidad and Tobago",
+  "iso2": "TT",
+  "iso3": "TTO",
+  "numeric_code": "780",
+  "phonecode": "1",
+  "capital": "Port of Spain",
+  "currency": "TTD",
+  "currency_name": "Trinidad and Tobago dollar",
+  "currency_symbol": "$",
+  "tld": ".tt",
+  "native": "Trinidad and Tobago",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Trinidadian or Tobagonian",
+  "latitude": "11.00000000",
+  "longitude": "-61.00000000",
+  "emoji": "🇹🇹",
+  "emojiU": "U+1F1F9 U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "America/Port_of_Spain",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Trinidad ha Tobago",
+    "ko": "트리니다드 토바고",
+    "pt-BR": "Trinidad e Tobago",
+    "pt": "Trindade e Tobago",
+    "nl": "Trinidad en Tobago",
+    "hr": "Trinidad i Tobago",
+    "fa": "ترینیداد و توباگو",
+    "de": "Trinidad und Tobago",
+    "es": "Trinidad y Tobago",
+    "fr": "Trinité et Tobago",
+    "ja": "トリニダード・トバゴ",
+    "it": "Trinidad e Tobago",
+    "zh-CN": "特立尼达和多巴哥",
+    "tr": "Trinidad Ve Tobago",
+    "ru": "Тринидад и Тобаго",
+    "uk": "Тринідад і Тобаго",
+    "pl": "Trynidad i Tobago",
+    "hi": "त्रिनिदाद और टोबैगो",
+    "ar": "ترينيداد وتوباغو"
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 104870,
+    "name": "El Rosario",
+    "state_id": 4136,
+    "state_code": "PA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.49778000",
+    "longitude": "-89.02972000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104895,
+    "name": "Olocuilta",
+    "state_id": 4136,
+    "state_code": "PA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.56972000",
+    "longitude": "-89.11722000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104912,
+    "name": "San Pedro Masahuat",
+    "state_id": 4136,
+    "state_code": "PA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.54361000",
+    "longitude": "-89.03861000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104921,
+    "name": "Santiago Nonualco",
+    "state_id": 4136,
+    "state_code": "PA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.51667000",
+    "longitude": "-88.95000000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104938,
+    "name": "Zacatecoluca",
+    "state_id": 4136,
+    "state_code": "PA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.50000000",
+    "longitude": "-88.86667000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 104778,
+    "name": "Bandarbeyla",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "9.49420000",
+    "longitude": "50.81220000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104779,
+    "name": "Bargaal",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "11.28636000",
+    "longitude": "51.07730000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104781,
+    "name": "Bereeda",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "11.87037000",
+    "longitude": "51.05795000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104782,
+    "name": "Bosaso",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "11.28421000",
+    "longitude": "49.18158000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104788,
+    "name": "Caluula",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "11.96611000",
+    "longitude": "50.75694000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104800,
+    "name": "Iskushuban",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "10.28370000",
+    "longitude": "50.23000000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104812,
+    "name": "Qandala",
+    "state_id": 930,
+    "state_code": "BR",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "11.47197000",
+    "longitude": "49.87282000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

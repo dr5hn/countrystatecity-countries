@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160087,
+    "name": "Namdrik",
+    "state_id": 5660,
+    "state_code": "NMK",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "5.61666667",
+    "longitude": "168.11666667",
+    "native": null,
+    "timezone": "Pacific/Majuro",
+    "translations": {}
+  }
+]

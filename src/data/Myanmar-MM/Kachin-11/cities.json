@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67632,
+    "name": "Bhamo",
+    "state_id": 2143,
+    "state_code": "11",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "24.25256000",
+    "longitude": "97.23357000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  },
+  {
+    "id": 67671,
+    "name": "Myitkyina",
+    "state_id": 2143,
+    "state_code": "11",
+    "country_id": 151,
+    "country_code": "MM",
+    "latitude": "25.38327000",
+    "longitude": "97.39637000",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "translations": {}
+  }
+]

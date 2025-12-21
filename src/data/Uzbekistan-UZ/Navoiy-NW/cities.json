@@ -1,0 +1,54 @@
+[
+  {
+    "id": 129961,
+    "name": "Navoiy",
+    "state_id": 2542,
+    "state_code": "NW",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.08444000",
+    "longitude": "65.37917000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 129965,
+    "name": "Nurota",
+    "state_id": 2542,
+    "state_code": "NW",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.56139000",
+    "longitude": "65.68861000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 129983,
+    "name": "Qiziltepa",
+    "state_id": 2542,
+    "state_code": "NW",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.03306000",
+    "longitude": "64.85000000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  },
+  {
+    "id": 130022,
+    "name": "Yangirabot",
+    "state_id": 2542,
+    "state_code": "NW",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.02539000",
+    "longitude": "65.96095000",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "translations": {}
+  }
+]

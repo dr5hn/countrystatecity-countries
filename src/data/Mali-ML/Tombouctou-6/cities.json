@@ -1,0 +1,93 @@
+[
+  {
+    "id": 67585,
+    "name": "Araouane",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "18.90476000",
+    "longitude": "-3.52649000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67593,
+    "name": "Cercle de Goundam",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "18.60035000",
+    "longitude": "-4.99306000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67596,
+    "name": "Dire",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "16.28017000",
+    "longitude": "-3.31302000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67603,
+    "name": "Goundam",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "16.41453000",
+    "longitude": "-3.67075000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67604,
+    "name": "Gourma-Rharous Cercle",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "16.07979000",
+    "longitude": "-1.76981000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67621,
+    "name": "Niafunké",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "15.93220000",
+    "longitude": "-3.99060000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67628,
+    "name": "Timbuktu",
+    "state_id": 248,
+    "state_code": "6",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "16.77348000",
+    "longitude": "-3.00742000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  }
+]

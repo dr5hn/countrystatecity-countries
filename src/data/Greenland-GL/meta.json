@@ -1,0 +1,72 @@
+{
+  "id": 86,
+  "name": "Greenland",
+  "iso2": "GL",
+  "iso3": "GRL",
+  "numeric_code": "304",
+  "phonecode": "299",
+  "capital": "Nuuk",
+  "currency": "DKK",
+  "currency_name": "Danish krone",
+  "currency_symbol": "Kr.",
+  "tld": ".gl",
+  "native": "Kalaallit Nunaat",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "nationality": "Greenlandic",
+  "latitude": "72.00000000",
+  "longitude": "-40.00000000",
+  "emoji": "🇬🇱",
+  "emojiU": "U+1F1EC U+1F1F1",
+  "timezones": [
+    {
+      "zoneName": "America/Danmarkshavn",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    },
+    {
+      "zoneName": "America/Nuuk",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "WGT",
+      "tzName": "West Greenland Time"
+    },
+    {
+      "zoneName": "America/Scoresbysund",
+      "gmtOffset": -3600,
+      "gmtOffsetName": "UTC-01:00",
+      "abbreviation": "EGT",
+      "tzName": "Eastern Greenland Time"
+    },
+    {
+      "zoneName": "America/Thule",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Greunland",
+    "ko": "그린란드",
+    "pt-BR": "Groelândia",
+    "pt": "Gronelândia",
+    "nl": "Groenland",
+    "hr": "Grenland",
+    "fa": "گرینلند",
+    "de": "Grönland",
+    "es": "Groenlandia",
+    "fr": "Groenland",
+    "ja": "グリーンランド",
+    "it": "Groenlandia",
+    "zh-CN": "格陵兰岛",
+    "tr": "Grönland",
+    "ru": "Гренландия",
+    "uk": "Гренландія",
+    "pl": "Grenlandia",
+    "hi": "ग्रीनलैंड",
+    "ar": "غرينلاند"
+  }
+}

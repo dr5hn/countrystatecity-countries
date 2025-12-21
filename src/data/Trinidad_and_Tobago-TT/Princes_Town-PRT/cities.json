@@ -1,0 +1,15 @@
+[
+  {
+    "id": 108982,
+    "name": "Princes Town",
+    "state_id": 3368,
+    "state_code": "PRT",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.27184000",
+    "longitude": "-61.37103000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

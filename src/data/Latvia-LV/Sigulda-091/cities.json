@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66901,
+    "name": "Inčukalns",
+    "state_id": 4476,
+    "state_code": "091",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.09867000",
+    "longitude": "24.68630000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66929,
+    "name": "Mālpils",
+    "state_id": 4476,
+    "state_code": "091",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.01010000",
+    "longitude": "24.95783000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66961,
+    "name": "Sigulda",
+    "state_id": 4476,
+    "state_code": "091",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.15375000",
+    "longitude": "24.85953000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104095,
+    "name": "Dol pri Hrastniku",
+    "state_id": 4341,
+    "state_code": "034",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.14194000",
+    "longitude": "15.11278000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104118,
+    "name": "Hrastnik",
+    "state_id": 4341,
+    "state_code": "034",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.14611000",
+    "longitude": "15.08139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

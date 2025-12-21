@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104083,
+    "name": "Cerkvenjak",
+    "state_id": 4176,
+    "state_code": "153",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.57056000",
+    "longitude": "15.94361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

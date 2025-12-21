@@ -1,0 +1,93 @@
+[
+  {
+    "id": 154872,
+    "name": "Bora-Bora",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.39169250",
+    "longitude": "-151.93003350",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154873,
+    "name": "Huahine",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.75212330",
+    "longitude": "-151.07889500",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154874,
+    "name": "Maupiti",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.31438490",
+    "longitude": "-154.79908630",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154875,
+    "name": "Tahaa",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.61957120",
+    "longitude": "-151.57215390",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154876,
+    "name": "Taputapuatea",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.82062470",
+    "longitude": "-151.47741330",
+    "native": null,
+    "timezone": "Pacific/Tahiti",
+    "translations": {}
+  },
+  {
+    "id": 154877,
+    "name": "Tumaraa",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.82985330",
+    "longitude": "-151.53381840",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154878,
+    "name": "Uturoa",
+    "state_id": 5370,
+    "state_code": "02",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-16.73858290",
+    "longitude": "-151.49549020",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  }
+]

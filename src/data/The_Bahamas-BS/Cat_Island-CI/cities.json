@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15688,
+    "name": "Arthur’s Town",
+    "state_id": 3611,
+    "state_code": "CI",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "24.62240000",
+    "longitude": "-75.67151000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

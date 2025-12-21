@@ -1,0 +1,54 @@
+[
+  {
+    "id": 102950,
+    "name": "Gebeit",
+    "state_id": 880,
+    "state_code": "RS",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "21.06667000",
+    "longitude": "36.31667000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  },
+  {
+    "id": 102968,
+    "name": "Port Sudan",
+    "state_id": 880,
+    "state_code": "RS",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "19.61745000",
+    "longitude": "37.21644000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  },
+  {
+    "id": 102970,
+    "name": "Sawākin",
+    "state_id": 880,
+    "state_code": "RS",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "19.10590000",
+    "longitude": "37.33210000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  },
+  {
+    "id": 102976,
+    "name": "Tokār",
+    "state_id": 880,
+    "state_code": "RS",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "18.42540000",
+    "longitude": "37.72900000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  }
+]

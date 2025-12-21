@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9775,
+    "name": "Ngozi",
+    "state_id": 3199,
+    "state_code": "NG",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-2.90750000",
+    "longitude": "29.83060000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

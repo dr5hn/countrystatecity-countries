@@ -1,0 +1,51 @@
+{
+  "id": 225,
+  "name": "Turkey",
+  "iso2": "TR",
+  "iso3": "TUR",
+  "numeric_code": "792",
+  "phonecode": "90",
+  "capital": "Ankara",
+  "currency": "TRY",
+  "currency_name": "Turkish lira",
+  "currency_symbol": "₺",
+  "tld": ".tr",
+  "native": "Türkiye",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Turkish",
+  "latitude": "39.00000000",
+  "longitude": "35.00000000",
+  "emoji": "🇹🇷",
+  "emojiU": "U+1F1F9 U+1F1F7",
+  "timezones": [
+    {
+      "zoneName": "Europe/Istanbul",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Turkia",
+    "ko": "터키",
+    "pt-BR": "Turquia",
+    "pt": "Turquia",
+    "nl": "Turkije",
+    "hr": "Turska",
+    "fa": "ترکیه",
+    "de": "Türkei",
+    "es": "Turquía",
+    "fr": "Turquie",
+    "ja": "トルコ",
+    "it": "Turchia",
+    "zh-CN": "土耳其",
+    "tr": "Türkiye",
+    "ru": "Турция",
+    "uk": "Туреччина",
+    "pl": "Turcja",
+    "hi": "टर्की",
+    "ar": "ديك رومى"
+  }
+}

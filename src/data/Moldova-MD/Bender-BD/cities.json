@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67273,
+    "name": "Bender",
+    "state_id": 4362,
+    "state_code": "BD",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.83156000",
+    "longitude": "29.47769000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

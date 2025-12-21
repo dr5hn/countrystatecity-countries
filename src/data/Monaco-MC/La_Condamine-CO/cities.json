@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160049,
+    "name": "La Condamine",
+    "state_id": 4918,
+    "state_code": "CO",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73506650",
+    "longitude": "7.41990600",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

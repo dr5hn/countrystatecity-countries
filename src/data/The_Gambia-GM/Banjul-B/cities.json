@@ -1,0 +1,54 @@
+[
+  {
+    "id": 52219,
+    "name": "Bakau",
+    "state_id": 2666,
+    "state_code": "B",
+    "country_id": 80,
+    "country_code": "GM",
+    "latitude": "13.47806000",
+    "longitude": "-16.68194000",
+    "native": null,
+    "timezone": "Africa/Banjul",
+    "translations": {}
+  },
+  {
+    "id": 52221,
+    "name": "Banjul",
+    "state_id": 2666,
+    "state_code": "B",
+    "country_id": 80,
+    "country_code": "GM",
+    "latitude": "13.45274000",
+    "longitude": "-16.57803000",
+    "native": null,
+    "timezone": "Africa/Banjul",
+    "translations": {}
+  },
+  {
+    "id": 52277,
+    "name": "Kombo Saint Mary",
+    "state_id": 2666,
+    "state_code": "B",
+    "country_id": 80,
+    "country_code": "GM",
+    "latitude": "13.44389000",
+    "longitude": "-16.64583000",
+    "native": null,
+    "timezone": "Africa/Banjul",
+    "translations": {}
+  },
+  {
+    "id": 52304,
+    "name": "Serekunda",
+    "state_id": 2666,
+    "state_code": "B",
+    "country_id": 80,
+    "country_code": "GM",
+    "latitude": "13.43833000",
+    "longitude": "-16.67806000",
+    "native": null,
+    "timezone": "Africa/Banjul",
+    "translations": {}
+  }
+]

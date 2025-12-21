@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67350,
+    "name": "Dobrota",
+    "state_id": 26,
+    "state_code": "10",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.45417000",
+    "longitude": "18.76833000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67355,
+    "name": "Kotor",
+    "state_id": 26,
+    "state_code": "10",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.42067000",
+    "longitude": "18.76825000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67365,
+    "name": "Prčanj",
+    "state_id": 26,
+    "state_code": "10",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.45750000",
+    "longitude": "18.74222000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67366,
+    "name": "Risan",
+    "state_id": 26,
+    "state_code": "10",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.51500000",
+    "longitude": "18.69556000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

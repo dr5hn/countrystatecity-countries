@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104317,
+    "name": "Vodice",
+    "state_id": 4154,
+    "state_code": "138",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.18987000",
+    "longitude": "14.49492000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

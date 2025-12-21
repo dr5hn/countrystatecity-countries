@@ -1,0 +1,28 @@
+[
+  {
+    "id": 154941,
+    "name": "Maniitsoq",
+    "state_id": 5382,
+    "state_code": "QE",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "65.40657990",
+    "longitude": "-52.94225730",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154942,
+    "name": "Sisimiut",
+    "state_id": 5382,
+    "state_code": "QE",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "66.93945740",
+    "longitude": "-53.74567660",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  }
+]

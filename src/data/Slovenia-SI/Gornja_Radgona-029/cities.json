@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104108,
+    "name": "Gornja Radgona",
+    "state_id": 4343,
+    "state_code": "029",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.67333000",
+    "longitude": "15.99222000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

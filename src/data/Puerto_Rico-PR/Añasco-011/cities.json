@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153554,
+    "name": "Añasco",
+    "state_id": 5139,
+    "state_code": "011",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.28544760",
+    "longitude": "-67.14029350",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

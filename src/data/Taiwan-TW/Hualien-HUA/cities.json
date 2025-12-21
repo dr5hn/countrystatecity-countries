@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109012,
+    "name": "Hualien",
+    "state_id": 3411,
+    "state_code": "HUA",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.78166000",
+    "longitude": "121.39333000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

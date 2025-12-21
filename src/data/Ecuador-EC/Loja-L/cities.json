@@ -1,0 +1,15 @@
+[
+  {
+    "id": 149262,
+    "name": "Loja",
+    "state_id": 5068,
+    "state_code": "L",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-3.99313000",
+    "longitude": "-79.20422000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

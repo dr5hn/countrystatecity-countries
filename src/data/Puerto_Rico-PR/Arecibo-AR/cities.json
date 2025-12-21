@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153555,
+    "name": "Arecibo",
+    "state_id": 5081,
+    "state_code": "AR",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.47051370",
+    "longitude": "-66.72184720",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

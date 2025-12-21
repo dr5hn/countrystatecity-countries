@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15704,
+    "name": "West End",
+    "state_id": 3599,
+    "state_code": "WG",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "26.68711000",
+    "longitude": "-78.97702000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

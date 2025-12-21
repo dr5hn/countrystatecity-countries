@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160079,
+    "name": "Jabat",
+    "state_id": 5650,
+    "state_code": "JAB",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "7.75000000",
+    "longitude": "168.96666667",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

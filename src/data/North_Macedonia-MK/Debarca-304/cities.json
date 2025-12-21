@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67388,
+    "name": "Belčišta",
+    "state_id": 645,
+    "state_code": "304",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.30278000",
+    "longitude": "20.83028000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67481,
+    "name": "Mešeišta",
+    "state_id": 645,
+    "state_code": "304",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.23814000",
+    "longitude": "20.77414000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

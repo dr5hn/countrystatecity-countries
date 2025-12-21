@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104253,
+    "name": "Renče",
+    "state_id": 4253,
+    "state_code": "201",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.89000000",
+    "longitude": "13.66861000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104319,
+    "name": "Volčja Draga",
+    "state_id": 4253,
+    "state_code": "201",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.90694000",
+    "longitude": "13.67750000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

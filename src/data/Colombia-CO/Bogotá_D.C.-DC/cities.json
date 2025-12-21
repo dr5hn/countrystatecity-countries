@@ -1,0 +1,15 @@
+[
+  {
+    "id": 149237,
+    "name": "Bogotá D.C.",
+    "state_id": 4921,
+    "state_code": "DC",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "4.61263889",
+    "longitude": "-74.07050000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  }
+]

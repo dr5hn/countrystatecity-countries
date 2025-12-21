@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154116,
+    "name": "Vingtaine de Hérupe",
+    "state_id": 5313,
+    "state_code": "05",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23330120",
+    "longitude": "-2.12357080",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154117,
+    "name": "Vingtaine du Douet",
+    "state_id": 5313,
+    "state_code": "05",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23459620",
+    "longitude": "-2.17227710",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154115,
+    "name": "Vingtaine du Nord",
+    "state_id": 5313,
+    "state_code": "05",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23938780",
+    "longitude": "-2.12069720",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

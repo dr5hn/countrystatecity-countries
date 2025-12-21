@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64838,
+    "name": "Mombasa",
+    "state_id": 200,
+    "state_code": "28",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-4.05466000",
+    "longitude": "39.66359000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

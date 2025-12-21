@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153613,
+    "name": "San Juan",
+    "state_id": 5075,
+    "state_code": "SJ",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.46320300",
+    "longitude": "-66.11475710",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

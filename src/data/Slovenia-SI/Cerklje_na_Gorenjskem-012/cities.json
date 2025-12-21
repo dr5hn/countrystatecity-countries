@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104080,
+    "name": "Cerklje na Gorenjskem",
+    "state_id": 4310,
+    "state_code": "012",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.25417000",
+    "longitude": "14.48861000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

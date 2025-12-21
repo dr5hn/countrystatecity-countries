@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135228,
+    "name": "Álftanes",
+    "state_id": 5569,
+    "state_code": "GAR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.10000000",
+    "longitude": "-22.01667000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135181,
+    "name": "Garðabær",
+    "state_id": 5569,
+    "state_code": "GAR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.08865000",
+    "longitude": "-21.92298000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

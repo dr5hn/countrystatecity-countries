@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160133,
+    "name": "Leava",
+    "state_id": 5708,
+    "state_code": "SG",
+    "country_id": 243,
+    "country_code": "WF",
+    "latitude": "-14.29610000",
+    "longitude": "-178.15850000",
+    "native": null,
+    "timezone": "Pacific/Wallis",
+    "translations": {}
+  }
+]

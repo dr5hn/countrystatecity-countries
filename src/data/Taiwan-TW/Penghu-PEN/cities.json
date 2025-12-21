@@ -1,0 +1,28 @@
+[
+  {
+    "id": 109020,
+    "name": "Magong",
+    "state_id": 3403,
+    "state_code": "PEN",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.56540000",
+    "longitude": "119.58627000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109024,
+    "name": "Penghu",
+    "state_id": 3403,
+    "state_code": "PEN",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.57111000",
+    "longitude": "119.61138000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

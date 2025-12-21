@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104369,
+    "name": "Žužemberk",
+    "state_id": 4307,
+    "state_code": "193",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.83389000",
+    "longitude": "14.92917000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

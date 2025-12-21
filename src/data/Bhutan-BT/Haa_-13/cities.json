@@ -1,0 +1,41 @@
+[
+  {
+    "id": 15708,
+    "name": "Ha",
+    "state_id": 232,
+    "state_code": "13",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.38747000",
+    "longitude": "89.28074000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153829,
+    "name": "Naktsang",
+    "state_id": 232,
+    "state_code": "13",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.38330000",
+    "longitude": "89.26670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153830,
+    "name": "Sangkari",
+    "state_id": 232,
+    "state_code": "13",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.30000000",
+    "longitude": "89.31670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

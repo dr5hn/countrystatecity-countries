@@ -1,0 +1,15 @@
+[
+  {
+    "id": 22010,
+    "name": "Vila do Maio",
+    "state_id": 2991,
+    "state_code": "MA",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.13823000",
+    "longitude": "-23.21158000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

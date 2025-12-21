@@ -1,0 +1,28 @@
+[
+  {
+    "id": 153509,
+    "name": "Tai Mei Tuk",
+    "state_id": 4885,
+    "state_code": "NTP",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.45700000",
+    "longitude": "114.18400000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  },
+  {
+    "id": 153495,
+    "name": "Tai Po",
+    "state_id": 4885,
+    "state_code": "NTP",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.44900000",
+    "longitude": "114.16000000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

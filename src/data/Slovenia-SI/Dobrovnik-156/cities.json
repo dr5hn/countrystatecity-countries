@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104093,
+    "name": "Dobrovnik",
+    "state_id": 4189,
+    "state_code": "156",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.65139000",
+    "longitude": "16.35250000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

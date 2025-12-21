@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66821,
+    "name": "Putscheid",
+    "state_id": 1523,
+    "state_code": "VD",
+    "country_id": 127,
+    "country_code": "LU",
+    "latitude": "49.96083000",
+    "longitude": "6.14306000",
+    "native": null,
+    "timezone": "Europe/Luxembourg",
+    "translations": {}
+  },
+  {
+    "id": 66848,
+    "name": "Tandel",
+    "state_id": 1523,
+    "state_code": "VD",
+    "country_id": 127,
+    "country_code": "LU",
+    "latitude": "49.89750000",
+    "longitude": "6.18333000",
+    "native": null,
+    "timezone": "Europe/Luxembourg",
+    "translations": {}
+  },
+  {
+    "id": 66853,
+    "name": "Vianden",
+    "state_id": 1523,
+    "state_code": "VD",
+    "country_id": 127,
+    "country_code": "LU",
+    "latitude": "49.93500000",
+    "longitude": "6.20889000",
+    "native": null,
+    "timezone": "Europe/Luxembourg",
+    "translations": {}
+  }
+]

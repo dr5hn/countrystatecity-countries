@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104135,
+    "name": "Kidričevo",
+    "state_id": 4150,
+    "state_code": "045",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.40361000",
+    "longitude": "15.79111000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

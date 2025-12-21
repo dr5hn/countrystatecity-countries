@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52126,
+    "name": "Tbilisi",
+    "state_id": 899,
+    "state_code": "TB",
+    "country_id": 81,
+    "country_code": "GE",
+    "latitude": "41.69411000",
+    "longitude": "44.83368000",
+    "native": null,
+    "timezone": "Asia/Tbilisi",
+    "translations": {}
+  }
+]

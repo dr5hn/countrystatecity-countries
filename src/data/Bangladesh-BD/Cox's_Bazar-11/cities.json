@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8484,
+    "name": "Cox's Bazar",
+    "state_id": 5484,
+    "state_code": "11",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "21.58389000",
+    "longitude": "92.01528000",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

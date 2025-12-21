@@ -1,0 +1,54 @@
+[
+  {
+    "id": 104176,
+    "name": "Lucija",
+    "state_id": 4201,
+    "state_code": "090",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.50526000",
+    "longitude": "13.60240000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104221,
+    "name": "Piran",
+    "state_id": 4201,
+    "state_code": "090",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.52778000",
+    "longitude": "13.57056000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104229,
+    "name": "Portorož",
+    "state_id": 4201,
+    "state_code": "090",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.51429000",
+    "longitude": "13.59206000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104269,
+    "name": "Seča",
+    "state_id": 4201,
+    "state_code": "090",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.49584000",
+    "longitude": "13.61466000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

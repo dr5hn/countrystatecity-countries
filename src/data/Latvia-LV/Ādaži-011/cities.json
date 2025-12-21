@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66885,
+    "name": "Carnikava",
+    "state_id": 4454,
+    "state_code": "011",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.12935000",
+    "longitude": "24.28423000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

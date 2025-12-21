@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8039,
+    "name": "Aghsu",
+    "state_id": 547,
+    "state_code": "AGU",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.57028000",
+    "longitude": "48.40087000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

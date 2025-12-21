@@ -1,0 +1,80 @@
+[
+  {
+    "id": 104074,
+    "name": "Bresternica",
+    "state_id": 4242,
+    "state_code": "070",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.56972000",
+    "longitude": "15.57500000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104132,
+    "name": "Kamnica",
+    "state_id": 4242,
+    "state_code": "070",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.57444000",
+    "longitude": "15.61417000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104165,
+    "name": "Limbuš",
+    "state_id": 4242,
+    "state_code": "070",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.55361000",
+    "longitude": "15.58361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104181,
+    "name": "Maribor",
+    "state_id": 4242,
+    "state_code": "070",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.55472000",
+    "longitude": "15.64667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104219,
+    "name": "Pekre",
+    "state_id": 4242,
+    "state_code": "070",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.54722000",
+    "longitude": "15.59556000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104251,
+    "name": "Razvanje",
+    "state_id": 4242,
+    "state_code": "070",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.51444000",
+    "longitude": "15.63611000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

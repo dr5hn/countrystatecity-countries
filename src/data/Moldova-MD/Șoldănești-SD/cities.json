@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67341,
+    "name": "Şoldăneşti",
+    "state_id": 4388,
+    "state_code": "SD",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.81608000",
+    "longitude": "28.79718000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

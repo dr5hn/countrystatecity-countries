@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160040,
+    "name": "Ciudad de la Paz",
+    "state_id": 5551,
+    "state_code": "DJ",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.58888889",
+    "longitude": "10.82250000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 160135,
+    "name": "Mengomeyén",
+    "state_id": 5551,
+    "state_code": "DJ",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.68000000",
+    "longitude": "10.90000000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  }
+]

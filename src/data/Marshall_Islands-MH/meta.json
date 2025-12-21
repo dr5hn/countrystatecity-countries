@@ -1,0 +1,58 @@
+{
+  "id": 137,
+  "name": "Marshall Islands",
+  "iso2": "MH",
+  "iso3": "MHL",
+  "numeric_code": "584",
+  "phonecode": "692",
+  "capital": "Majuro",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".mh",
+  "native": "M̧ajeļ",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "nationality": "Marshallese",
+  "latitude": "9.00000000",
+  "longitude": "168.00000000",
+  "emoji": "🇲🇭",
+  "emojiU": "U+1F1F2 U+1F1ED",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Kwajalein",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "MHT",
+      "tzName": "Marshall Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Majuro",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "MHT",
+      "tzName": "Marshall Islands Time"
+    }
+  ],
+  "translations": {
+    "br": "Inizi Marshall",
+    "ko": "마셜 제도",
+    "pt-BR": "Ilhas Marshall",
+    "pt": "Ilhas Marshall",
+    "nl": "Marshalleilanden",
+    "hr": "Maršalovi Otoci",
+    "fa": "جزایر مارشال",
+    "de": "Marshallinseln",
+    "es": "Islas Marshall",
+    "fr": "Îles Marshall",
+    "ja": "マーシャル諸島",
+    "it": "Isole Marshall",
+    "zh-CN": "马绍尔群岛",
+    "tr": "Marşal Adalari",
+    "ru": "Маршалловы острова",
+    "uk": "Маршаллові острови",
+    "pl": "Wyspy Marshalla",
+    "hi": "मार्शल द्वीपसमूह",
+    "ar": "جزر مارشال"
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 108969,
+    "name": "Arouca",
+    "state_id": 3358,
+    "state_code": "TUP",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.62877000",
+    "longitude": "-61.33487000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108977,
+    "name": "Paradise",
+    "state_id": 3358,
+    "state_code": "TUP",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.65298000",
+    "longitude": "-61.36298000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108989,
+    "name": "Tunapuna",
+    "state_id": 3358,
+    "state_code": "TUP",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.65245000",
+    "longitude": "-61.38878000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

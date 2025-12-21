@@ -1,0 +1,80 @@
+[
+  {
+    "id": 151,
+    "name": "Bajram Curri",
+    "state_id": 601,
+    "state_code": "07",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "42.35734000",
+    "longitude": "20.07679000",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 215,
+    "name": "Krumë",
+    "state_id": 601,
+    "state_code": "07",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "42.19694000",
+    "longitude": "20.41333000",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 217,
+    "name": "Kukës",
+    "state_id": 601,
+    "state_code": "07",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "42.07694000",
+    "longitude": "20.42194000",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 247,
+    "name": "Rrethi i Hasit",
+    "state_id": 601,
+    "state_code": "07",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "42.16667000",
+    "longitude": "20.33333000",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 251,
+    "name": "Rrethi i Kukësit",
+    "state_id": 601,
+    "state_code": "07",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "42.00000000",
+    "longitude": "20.33333000",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 157056,
+    "name": "Tropojë",
+    "state_id": 601,
+    "state_code": "07",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "42.37624000",
+    "longitude": "19.74539290",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  }
+]

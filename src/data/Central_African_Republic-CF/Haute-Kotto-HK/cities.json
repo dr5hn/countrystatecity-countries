@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17313,
+    "name": "Bria",
+    "state_id": 1268,
+    "state_code": "HK",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "6.54233000",
+    "longitude": "21.98633000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17332,
+    "name": "Ouadda",
+    "state_id": 1268,
+    "state_code": "HK",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "8.07771000",
+    "longitude": "22.40075000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

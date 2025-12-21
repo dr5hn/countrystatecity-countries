@@ -1,0 +1,93 @@
+[
+  {
+    "id": 48535,
+    "name": "Bishopsworth",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.41479000",
+    "longitude": "-2.62080000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48703,
+    "name": "Bristol",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.45523000",
+    "longitude": "-2.59665000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49007,
+    "name": "City of Bristol",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.45000000",
+    "longitude": "-2.60000000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49351,
+    "name": "Dundry",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.39880000",
+    "longitude": "-2.63964000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49423,
+    "name": "Easton-in-Gordano",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.47592000",
+    "longitude": "-2.69987000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50183,
+    "name": "Kingswood",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.45278000",
+    "longitude": "-2.50833000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50390,
+    "name": "Long Ashton",
+    "state_id": 2413,
+    "state_code": "BST",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.42997000",
+    "longitude": "-2.66098000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109033,
+    "name": "Taitung",
+    "state_id": 3410,
+    "state_code": "TTT",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "22.88361000",
+    "longitude": "121.04833000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104790,
+    "name": "Ceelbuur",
+    "state_id": 918,
+    "state_code": "GA",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "4.68501000",
+    "longitude": "46.61760000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104791,
+    "name": "Ceeldheer",
+    "state_id": 918,
+    "state_code": "GA",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "3.84878000",
+    "longitude": "47.18064000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104793,
+    "name": "Dhuusamarreeb",
+    "state_id": 918,
+    "state_code": "GA",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "5.53597000",
+    "longitude": "46.38666000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

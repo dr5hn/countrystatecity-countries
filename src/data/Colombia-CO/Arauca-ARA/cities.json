@@ -1,0 +1,93 @@
+[
+  {
+    "id": 20536,
+    "name": "Arauca",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "7.08471000",
+    "longitude": "-70.75908000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 20537,
+    "name": "Arauquita",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "7.02917000",
+    "longitude": "-71.42806000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 20746,
+    "name": "Cravo Norte",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "6.30173000",
+    "longitude": "-70.20415000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 20856,
+    "name": "Fortul",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "6.74611000",
+    "longitude": "-71.85667000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 21253,
+    "name": "Puerto Rondón",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "6.28048000",
+    "longitude": "-71.10000000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 21444,
+    "name": "Saravena",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "6.96319000",
+    "longitude": "-71.88230000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  },
+  {
+    "id": 21508,
+    "name": "Tame",
+    "state_id": 2881,
+    "state_code": "ARA",
+    "country_id": 48,
+    "country_code": "CO",
+    "latitude": "6.46065000",
+    "longitude": "-71.73618000",
+    "native": null,
+    "timezone": "America/Bogota",
+    "translations": {}
+  }
+]

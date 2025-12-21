@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21994,
+    "name": "Mindelo",
+    "state_id": 3001,
+    "state_code": "SV",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "16.89014000",
+    "longitude": "-24.98042000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

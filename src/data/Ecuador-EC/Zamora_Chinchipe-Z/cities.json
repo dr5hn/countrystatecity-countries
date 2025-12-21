@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31590,
+    "name": "Yantzaza",
+    "state_id": 2909,
+    "state_code": "Z",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-3.83261000",
+    "longitude": "-78.76076000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31591,
+    "name": "Zamora",
+    "state_id": 2909,
+    "state_code": "Z",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-4.06685000",
+    "longitude": "-78.95488000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

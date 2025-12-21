@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67406,
+    "name": "Cresevo",
+    "state_id": 707,
+    "state_code": "804",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.05083000",
+    "longitude": "21.50972000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66939,
+    "name": "Piltene",
+    "state_id": 4403,
+    "state_code": "106",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.22426000",
+    "longitude": "21.67439000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

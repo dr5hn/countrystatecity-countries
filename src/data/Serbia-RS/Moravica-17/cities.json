@@ -1,0 +1,67 @@
+[
+  {
+    "id": 97457,
+    "name": "Čačak",
+    "state_id": 3727,
+    "state_code": "17",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.89139000",
+    "longitude": "20.34972000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97214,
+    "name": "Gornji Milanovac",
+    "state_id": 3727,
+    "state_code": "17",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.02603000",
+    "longitude": "20.46152000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155055,
+    "name": "Ivanjica",
+    "state_id": 3727,
+    "state_code": "17",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.58366500",
+    "longitude": "20.21556940",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155056,
+    "name": "Lučani",
+    "state_id": 3727,
+    "state_code": "17",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.85854930",
+    "longitude": "20.11661750",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97347,
+    "name": "Prislonica",
+    "state_id": 3727,
+    "state_code": "17",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.95223000",
+    "longitude": "20.43521000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

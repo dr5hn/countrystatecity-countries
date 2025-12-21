@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21988,
+    "name": "Calheta",
+    "state_id": 2990,
+    "state_code": "SM",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "15.18613000",
+    "longitude": "-23.59228000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 628,
+    "name": "Ondjiva",
+    "state_id": 215,
+    "state_code": "CNN",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-17.06667000",
+    "longitude": "15.73333000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

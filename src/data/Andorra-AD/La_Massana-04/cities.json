@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2,
+    "name": "Arinsal",
+    "state_id": 493,
+    "state_code": "04",
+    "country_id": 6,
+    "country_code": "AD",
+    "latitude": "42.57205000",
+    "longitude": "1.48453000",
+    "native": null,
+    "timezone": "Europe/Andorra",
+    "translations": {}
+  },
+  {
+    "id": 9,
+    "name": "la Massana",
+    "state_id": 493,
+    "state_code": "04",
+    "country_id": 6,
+    "country_code": "AD",
+    "latitude": "42.54499000",
+    "longitude": "1.51483000",
+    "native": null,
+    "timezone": "Europe/Andorra",
+    "translations": {}
+  }
+]

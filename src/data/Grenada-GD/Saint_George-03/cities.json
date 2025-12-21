@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52032,
+    "name": "Saint George's",
+    "state_id": 3864,
+    "state_code": "03",
+    "country_id": 87,
+    "country_code": "GD",
+    "latitude": "12.05288000",
+    "longitude": "-61.75226000",
+    "native": null,
+    "timezone": "America/Grenada",
+    "translations": {}
+  }
+]

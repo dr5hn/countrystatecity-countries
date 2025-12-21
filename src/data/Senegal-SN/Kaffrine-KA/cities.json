@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104719,
+    "name": "Kaffrine",
+    "state_id": 475,
+    "state_code": "KA",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "14.10594000",
+    "longitude": "-15.55080000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  },
+  {
+    "id": 104726,
+    "name": "Koungheul",
+    "state_id": 475,
+    "state_code": "KA",
+    "country_id": 195,
+    "country_code": "SN",
+    "latitude": "13.98333000",
+    "longitude": "-14.80000000",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "translations": {}
+  }
+]

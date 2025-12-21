@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153584,
+    "name": "Humacao",
+    "state_id": 5169,
+    "state_code": "069",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.15157360",
+    "longitude": "-65.82485290",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

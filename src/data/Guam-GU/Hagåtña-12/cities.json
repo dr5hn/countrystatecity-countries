@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160269,
+    "name": "Hagåtña",
+    "state_id": 5265,
+    "state_code": "12",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.47567000",
+    "longitude": "144.74886000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  },
+  {
+    "id": 160268,
+    "name": "Hagåtña Village",
+    "state_id": 5265,
+    "state_code": "12",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.47279000",
+    "longitude": "144.75802000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

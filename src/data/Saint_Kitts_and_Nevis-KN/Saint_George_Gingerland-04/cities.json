@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65172,
+    "name": "Market Shop",
+    "state_id": 3837,
+    "state_code": "04",
+    "country_id": 185,
+    "country_code": "KN",
+    "latitude": "17.13218000",
+    "longitude": "-62.57267000",
+    "native": null,
+    "timezone": "America/St_Kitts",
+    "translations": {}
+  }
+]

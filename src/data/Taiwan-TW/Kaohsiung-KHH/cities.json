@@ -1,0 +1,15 @@
+[
+  {
+    "id": 109016,
+    "name": "Kaohsiung",
+    "state_id": 3412,
+    "state_code": "KHH",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "22.61626000",
+    "longitude": "120.31333000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

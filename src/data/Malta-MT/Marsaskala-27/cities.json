@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67779,
+    "name": "Kerċem",
+    "state_id": 137,
+    "state_code": "27",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "36.04194000",
+    "longitude": "14.22667000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 67785,
+    "name": "Marsaskala",
+    "state_id": 137,
+    "state_code": "27",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.86220000",
+    "longitude": "14.56701000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

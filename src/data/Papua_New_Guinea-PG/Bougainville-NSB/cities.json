@@ -1,0 +1,80 @@
+[
+  {
+    "id": 81029,
+    "name": "Arawa",
+    "state_id": 4831,
+    "state_code": "NSB",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.22977000",
+    "longitude": "155.56598000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81033,
+    "name": "Central Bougainville",
+    "state_id": 4831,
+    "state_code": "NSB",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.22806000",
+    "longitude": "155.56583000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81063,
+    "name": "Kieta",
+    "state_id": 4831,
+    "state_code": "NSB",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.21462000",
+    "longitude": "155.63251000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81091,
+    "name": "North Bougainville",
+    "state_id": 4831,
+    "state_code": "NSB",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-5.42194000",
+    "longitude": "154.67278000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81097,
+    "name": "Panguna",
+    "state_id": 4831,
+    "state_code": "NSB",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.31639000",
+    "longitude": "155.48483000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81109,
+    "name": "South Bougainville",
+    "state_id": 4831,
+    "state_code": "NSB",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.74593000",
+    "longitude": "155.69640000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104145,
+    "name": "Kostel",
+    "state_id": 4331,
+    "state_code": "165",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.50842000",
+    "longitude": "14.91005000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

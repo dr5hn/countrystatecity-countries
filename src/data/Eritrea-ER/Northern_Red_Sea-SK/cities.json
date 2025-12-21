@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31889,
+    "name": "Massawa",
+    "state_id": 3424,
+    "state_code": "SK",
+    "country_id": 68,
+    "country_code": "ER",
+    "latitude": "15.60811000",
+    "longitude": "39.47455000",
+    "native": null,
+    "timezone": "Africa/Asmara",
+    "translations": {}
+  }
+]

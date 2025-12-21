@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8176,
+    "name": "Sheki",
+    "state_id": 518,
+    "state_code": "SA",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "41.19194000",
+    "longitude": "47.17056000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

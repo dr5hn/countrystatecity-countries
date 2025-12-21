@@ -1,0 +1,93 @@
+[
+  {
+    "id": 56405,
+    "name": "Fakfak",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.92641000",
+    "longitude": "132.29608000",
+    "native": null,
+    "timezone": "Asia/Jayapura",
+    "translations": {}
+  },
+  {
+    "id": 56527,
+    "name": "Kabupaten Manokwari",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.90000000",
+    "longitude": "133.75000000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56435,
+    "name": "Kaimana",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.66093000",
+    "longitude": "133.77451000",
+    "native": null,
+    "timezone": "Asia/Jayapura",
+    "translations": {}
+  },
+  {
+    "id": 56860,
+    "name": "Manokwari",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.86291000",
+    "longitude": "134.06402000",
+    "native": null,
+    "timezone": "Asia/Jayapura",
+    "translations": {}
+  },
+  {
+    "id": 56528,
+    "name": "Manokwari Selatan",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.07980000",
+    "longitude": "133.96729000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56677,
+    "name": "Teluk Bintuni",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.88037000",
+    "longitude": "133.33105000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56678,
+    "name": "Teluk Wondama",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.70000000",
+    "longitude": "134.50000000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  }
+]

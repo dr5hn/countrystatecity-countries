@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67734,
+    "name": "Tsetserleg",
+    "state_id": 1973,
+    "state_code": "073",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "47.47500000",
+    "longitude": "101.45417000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

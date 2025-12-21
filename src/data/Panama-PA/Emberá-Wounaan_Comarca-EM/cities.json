@@ -1,0 +1,67 @@
+[
+  {
+    "id": 79987,
+    "name": "Bayamón",
+    "state_id": 1396,
+    "state_code": "EM",
+    "country_id": 170,
+    "country_code": "PA",
+    "latitude": "7.96817000",
+    "longitude": "-78.21648000",
+    "native": null,
+    "timezone": "America/Panama",
+    "translations": {}
+  },
+  {
+    "id": 80081,
+    "name": "Cémaco",
+    "state_id": 1396,
+    "state_code": "EM",
+    "country_id": 170,
+    "country_code": "PA",
+    "latitude": "8.08285000",
+    "longitude": "-77.54210000",
+    "native": null,
+    "timezone": "America/Panama",
+    "translations": {}
+  },
+  {
+    "id": 80470,
+    "name": "Sambú",
+    "state_id": 1396,
+    "state_code": "EM",
+    "country_id": 170,
+    "country_code": "PA",
+    "latitude": "7.82013000",
+    "longitude": "-78.11005000",
+    "native": null,
+    "timezone": "America/Panama",
+    "translations": {}
+  },
+  {
+    "id": 80531,
+    "name": "Unión Chocó",
+    "state_id": 1396,
+    "state_code": "EM",
+    "country_id": 170,
+    "country_code": "PA",
+    "latitude": "8.08404000",
+    "longitude": "-77.53507000",
+    "native": null,
+    "timezone": "America/Panama",
+    "translations": {}
+  },
+  {
+    "id": 80551,
+    "name": "Yape",
+    "state_id": 1396,
+    "state_code": "EM",
+    "country_id": 170,
+    "country_code": "PA",
+    "latitude": "8.09839000",
+    "longitude": "-77.59817000",
+    "native": null,
+    "timezone": "America/Panama",
+    "translations": {}
+  }
+]

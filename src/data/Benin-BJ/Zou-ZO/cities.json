@@ -1,0 +1,54 @@
+[
+  {
+    "id": 9779,
+    "name": "Abomey",
+    "state_id": 3073,
+    "state_code": "ZO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "7.18286000",
+    "longitude": "1.99119000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9785,
+    "name": "Bohicon",
+    "state_id": 3073,
+    "state_code": "ZO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "7.17826000",
+    "longitude": "2.06670000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9787,
+    "name": "Commune of Agbangnizoun",
+    "state_id": 3073,
+    "state_code": "ZO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "7.07600000",
+    "longitude": "1.96100000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  },
+  {
+    "id": 9792,
+    "name": "Cové",
+    "state_id": 3073,
+    "state_code": "ZO",
+    "country_id": 24,
+    "country_code": "BJ",
+    "latitude": "7.22097000",
+    "longitude": "2.34017000",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "translations": {}
+  }
+]

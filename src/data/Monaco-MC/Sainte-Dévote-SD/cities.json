@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160060,
+    "name": "Sainte-Dévote",
+    "state_id": 5679,
+    "state_code": "SD",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73720000",
+    "longitude": "7.42080000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

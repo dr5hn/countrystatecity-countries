@@ -1,0 +1,67 @@
+[
+  {
+    "id": 155024,
+    "name": "La Possession",
+    "state_id": 5438,
+    "state_code": "03",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-20.99667150",
+    "longitude": "55.30941960",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155023,
+    "name": "Le Port",
+    "state_id": 5438,
+    "state_code": "03",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-20.94599810",
+    "longitude": "55.26258390",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155027,
+    "name": "Les Trois-Bassins",
+    "state_id": 5438,
+    "state_code": "03",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.11380650",
+    "longitude": "55.25534670",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155025,
+    "name": "Saint-Leu",
+    "state_id": 5438,
+    "state_code": "03",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.18153740",
+    "longitude": "55.26075530",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155026,
+    "name": "Saint-Paul",
+    "state_id": 5438,
+    "state_code": "03",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.03656340",
+    "longitude": "55.17542230",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67532,
+    "name": "Sredno Konjare",
+    "state_id": 698,
+    "state_code": "810",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.95743000",
+    "longitude": "21.71494000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67577,
+    "name": "Петровец",
+    "state_id": 698,
+    "state_code": "810",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.93889000",
+    "longitude": "21.61500000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

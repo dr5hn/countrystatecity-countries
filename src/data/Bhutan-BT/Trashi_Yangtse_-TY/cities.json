@@ -1,0 +1,41 @@
+[
+  {
+    "id": 153842,
+    "name": "Shali",
+    "state_id": 5242,
+    "state_code": "TY",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.48330000",
+    "longitude": "91.56670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153843,
+    "name": "Trashi Yangtse",
+    "state_id": 5242,
+    "state_code": "TY",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.58330000",
+    "longitude": "91.46670000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153844,
+    "name": "Yalang",
+    "state_id": 5242,
+    "state_code": "TY",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.43330000",
+    "longitude": "91.63330000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

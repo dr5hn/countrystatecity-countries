@@ -1,0 +1,80 @@
+[
+  {
+    "id": 154133,
+    "name": "Cueillette de Grantez",
+    "state_id": 5317,
+    "state_code": "09",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23123970",
+    "longitude": "-2.22339030",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154136,
+    "name": "Cueillette de Léoville",
+    "state_id": 5317,
+    "state_code": "09",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23803240",
+    "longitude": "-2.22634870",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154134,
+    "name": "Cueillette de Millais",
+    "state_id": 5317,
+    "state_code": "09",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.24085370",
+    "longitude": "-2.24330420",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154135,
+    "name": "Cueillette de Vinchelez",
+    "state_id": 5317,
+    "state_code": "09",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.24447800",
+    "longitude": "-2.23905430",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154132,
+    "name": "Grande Cueillette",
+    "state_id": 5317,
+    "state_code": "09",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.22331000",
+    "longitude": "-2.21609880",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154131,
+    "name": "Petite Cueillette",
+    "state_id": 5317,
+    "state_code": "09",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.22456770",
+    "longitude": "-2.19656550",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

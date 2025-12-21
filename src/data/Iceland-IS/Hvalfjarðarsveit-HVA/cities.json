@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135189,
+    "name": "Hvalfjarðarsveit",
+    "state_id": 5579,
+    "state_code": "HVA",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.44265000",
+    "longitude": "-21.61086000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

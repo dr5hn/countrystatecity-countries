@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4651,
+    "name": "Central Singapore",
+    "country_id": 199,
+    "country_code": "SG",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "district",
+    "latitude": "1.28840000",
+    "longitude": "103.85350000",
+    "native": "Central Singapore",
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 4649,
+    "name": "North East",
+    "country_id": 199,
+    "country_code": "SG",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "district",
+    "latitude": "5.33411860",
+    "longitude": "100.27610770",
+    "native": "North East",
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 4653,
+    "name": "North West",
+    "country_id": 199,
+    "country_code": "SG",
+    "fips_code": null,
+    "iso2": "03",
+    "type": "district",
+    "latitude": "1.45093820",
+    "longitude": "103.78495190",
+    "native": "North West",
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 4650,
+    "name": "South East",
+    "country_id": 199,
+    "country_code": "SG",
+    "fips_code": null,
+    "iso2": "04",
+    "type": "district",
+    "latitude": "1.33523290",
+    "longitude": "103.95989310",
+    "native": "South East",
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  },
+  {
+    "id": 4652,
+    "name": "South West",
+    "country_id": 199,
+    "country_code": "SG",
+    "fips_code": null,
+    "iso2": "05",
+    "type": "district",
+    "latitude": "5.28833890",
+    "longitude": "100.28150990",
+    "native": "South West",
+    "timezone": "Asia/Singapore",
+    "translations": {}
+  }
+]

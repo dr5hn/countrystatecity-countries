@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17339,
+    "name": "Brazzaville",
+    "state_id": 2870,
+    "state_code": "BZV",
+    "country_id": 50,
+    "country_code": "CG",
+    "latitude": "-4.26613000",
+    "longitude": "15.28318000",
+    "native": null,
+    "timezone": "Africa/Brazzaville",
+    "translations": {}
+  }
+]

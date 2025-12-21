@@ -1,0 +1,120 @@
+{
+  "id": 142,
+  "name": "Mexico",
+  "iso2": "MX",
+  "iso3": "MEX",
+  "numeric_code": "484",
+  "phonecode": "52",
+  "capital": "Ciudad de México",
+  "currency": "MXN",
+  "currency_name": "Mexican peso",
+  "currency_symbol": "$",
+  "tld": ".mx",
+  "native": "México",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "nationality": "Mexican",
+  "latitude": "23.00000000",
+  "longitude": "-102.00000000",
+  "emoji": "🇲🇽",
+  "emojiU": "U+1F1F2 U+1F1FD",
+  "timezones": [
+    {
+      "zoneName": "America/Bahia_Banderas",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Cancun",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Chihuahua",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Hermosillo",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Matamoros",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Mazatlan",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Merida",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Mexico_City",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Monterrey",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Ojinaga",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Tijuana",
+      "gmtOffset": -28800,
+      "gmtOffsetName": "UTC-08:00",
+      "abbreviation": "PST",
+      "tzName": "Pacific Standard Time (North America"
+    }
+  ],
+  "translations": {
+    "ko": "멕시코",
+    "pt-BR": "México",
+    "pt": "México",
+    "nl": "Mexico",
+    "hr": "Meksiko",
+    "fa": "مکزیک",
+    "de": "Mexibr",
+    "es": "México",
+    "fr": "Mexique",
+    "ja": "メキシコ",
+    "it": "Messico",
+    "zh-CN": "墨西哥",
+    "tr": "Meksika",
+    "ru": "Мексика",
+    "uk": "Мексика",
+    "pl": "Meksyk",
+    "hi": "मेक्सिको",
+    "ar": "المكسيك"
+  }
+}

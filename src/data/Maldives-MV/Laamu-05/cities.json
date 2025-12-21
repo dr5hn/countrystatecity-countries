@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67925,
+    "name": "Fonadhoo",
+    "state_id": 2601,
+    "state_code": "05",
+    "country_id": 133,
+    "country_code": "MV",
+    "latitude": "1.83243000",
+    "longitude": "73.50257000",
+    "native": null,
+    "timezone": "Indian/Maldives",
+    "translations": {}
+  }
+]

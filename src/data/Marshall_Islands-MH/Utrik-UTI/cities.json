@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160093,
+    "name": "Utrik",
+    "state_id": 5664,
+    "state_code": "UTI",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "11.26730556",
+    "longitude": "169.78426111",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

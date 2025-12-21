@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5398,
+    "name": "Fort-de-France",
+    "country_id": 138,
+    "country_code": "MQ",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "district",
+    "latitude": "14.60279620",
+    "longitude": "-61.06767240",
+    "native": "Fort-de-France",
+    "timezone": "America/Martinique",
+    "translations": {}
+  },
+  {
+    "id": 5399,
+    "name": "La Trinité",
+    "country_id": 138,
+    "country_code": "MQ",
+    "fips_code": null,
+    "iso2": "02",
+    "type": "district",
+    "latitude": "14.75531610",
+    "longitude": "-61.02872260",
+    "native": "La Trinité",
+    "timezone": "America/Martinique",
+    "translations": {}
+  },
+  {
+    "id": 5400,
+    "name": "Le Marin",
+    "country_id": 138,
+    "country_code": "MQ",
+    "fips_code": null,
+    "iso2": "03",
+    "type": "district",
+    "latitude": "14.52518410",
+    "longitude": "-60.96241510",
+    "native": "Le Marin",
+    "timezone": "America/Martinique",
+    "translations": {}
+  },
+  {
+    "id": 5401,
+    "name": "Saint-Pierre",
+    "country_id": 138,
+    "country_code": "MQ",
+    "fips_code": null,
+    "iso2": "04",
+    "type": "district",
+    "latitude": "14.74171830",
+    "longitude": "-61.17639040",
+    "native": "Saint-Pierre",
+    "timezone": "America/Martinique",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 64967,
+    "name": "Mongkol Borei",
+    "state_id": 3984,
+    "state_code": "1",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "13.45531000",
+    "longitude": "102.99186000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64969,
+    "name": "Paoy Paet",
+    "state_id": 3984,
+    "state_code": "1",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "13.65805000",
+    "longitude": "102.56365000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64981,
+    "name": "Sisophon",
+    "state_id": 3984,
+    "state_code": "1",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "13.58588000",
+    "longitude": "102.97369000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65009,
+    "name": "Srŏk Malai",
+    "state_id": 3984,
+    "state_code": "1",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "13.49902000",
+    "longitude": "102.60164000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65022,
+    "name": "Srŏk Svay Chék",
+    "state_id": 3984,
+    "state_code": "1",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "13.81305000",
+    "longitude": "102.95269000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

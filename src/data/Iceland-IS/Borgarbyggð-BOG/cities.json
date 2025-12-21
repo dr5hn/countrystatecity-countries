@@ -1,0 +1,54 @@
+[
+  {
+    "id": 135161,
+    "name": "Akrahreppur",
+    "state_id": 5559,
+    "state_code": "BOG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.35505000",
+    "longitude": "-18.79572000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135165,
+    "name": "Borgarbyggð",
+    "state_id": 5559,
+    "state_code": "BOG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.71446000",
+    "longitude": "-21.23788000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135166,
+    "name": "Borgarfjarðarhreppur",
+    "state_id": 5559,
+    "state_code": "BOG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.43401000",
+    "longitude": "-13.82933000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135167,
+    "name": "Borgarnes",
+    "state_id": 5559,
+    "state_code": "BOG",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.53834000",
+    "longitude": "-21.92064000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

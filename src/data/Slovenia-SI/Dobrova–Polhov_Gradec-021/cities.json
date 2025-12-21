@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104092,
+    "name": "Dobrova",
+    "state_id": 4308,
+    "state_code": "021",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.04580000",
+    "longitude": "14.39186000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

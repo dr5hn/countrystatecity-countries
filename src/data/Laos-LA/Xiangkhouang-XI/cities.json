@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65893,
+    "name": "Muang Phônsavan",
+    "state_id": 995,
+    "state_code": "XI",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "19.44940000",
+    "longitude": "103.19170000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

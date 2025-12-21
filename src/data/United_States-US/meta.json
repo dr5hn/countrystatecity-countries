@@ -1,0 +1,247 @@
+{
+  "id": 233,
+  "name": "United States",
+  "iso2": "US",
+  "iso3": "USA",
+  "numeric_code": "840",
+  "phonecode": "1",
+  "capital": "Washington",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".us",
+  "native": "United States",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "nationality": "American",
+  "latitude": "38.00000000",
+  "longitude": "-97.00000000",
+  "emoji": "🇺🇸",
+  "emojiU": "U+1F1FA U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "America/Adak",
+      "gmtOffset": -36000,
+      "gmtOffsetName": "UTC-10:00",
+      "abbreviation": "HST",
+      "tzName": "Hawaii–Aleutian Standard Time"
+    },
+    {
+      "zoneName": "America/Anchorage",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "AKST",
+      "tzName": "Alaska Standard Time"
+    },
+    {
+      "zoneName": "America/Boise",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Chicago",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Denver",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Detroit",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Indianapolis",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Knox",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Marengo",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Petersburg",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Tell_City",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Vevay",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Vincennes",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Indiana/Winamac",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Juneau",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "AKST",
+      "tzName": "Alaska Standard Time"
+    },
+    {
+      "zoneName": "America/Kentucky/Louisville",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Kentucky/Monticello",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Los_Angeles",
+      "gmtOffset": -28800,
+      "gmtOffsetName": "UTC-08:00",
+      "abbreviation": "PST",
+      "tzName": "Pacific Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Menominee",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Metlakatla",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "AKST",
+      "tzName": "Alaska Standard Time"
+    },
+    {
+      "zoneName": "America/New_York",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Nome",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "AKST",
+      "tzName": "Alaska Standard Time"
+    },
+    {
+      "zoneName": "America/North_Dakota/Beulah",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/North_Dakota/Center",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/North_Dakota/New_Salem",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Phoenix",
+      "gmtOffset": -25200,
+      "gmtOffsetName": "UTC-07:00",
+      "abbreviation": "MST",
+      "tzName": "Mountain Standard Time (North America"
+    },
+    {
+      "zoneName": "America/Sitka",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "AKST",
+      "tzName": "Alaska Standard Time"
+    },
+    {
+      "zoneName": "America/Yakutat",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "AKST",
+      "tzName": "Alaska Standard Time"
+    },
+    {
+      "zoneName": "Pacific/Honolulu",
+      "gmtOffset": -36000,
+      "gmtOffsetName": "UTC-10:00",
+      "abbreviation": "HST",
+      "tzName": "Hawaii–Aleutian Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Stadoù-Unanet",
+    "ko": "미국",
+    "pt-BR": "Estados Unidos",
+    "pt": "Estados Unidos",
+    "nl": "Verenigde Staten",
+    "hr": "Sjedinjene Američke Države",
+    "fa": "ایالات متحده آمریکا",
+    "de": "Vereinigte Staaten von Amerika",
+    "es": "Estados Unidos",
+    "fr": "États-Unis",
+    "ja": "アメリカ合衆国",
+    "it": "Stati Uniti D'America",
+    "zh-CN": "美国",
+    "tr": "Amerika",
+    "ru": "Соединенные Штаты",
+    "uk": "Сполучені Штати",
+    "pl": "Stany Zjednoczone",
+    "hi": "संयुक्त राज्य अमेरिका",
+    "ar": "الولايات المتحدة"
+  }
+}

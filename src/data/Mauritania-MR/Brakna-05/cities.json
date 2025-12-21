@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67757,
+    "name": "’Elb el Jmel",
+    "state_id": 3339,
+    "state_code": "05",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "17.01050000",
+    "longitude": "-13.97102000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 67745,
+    "name": "Aleg",
+    "state_id": 3339,
+    "state_code": "05",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "17.05314000",
+    "longitude": "-13.91312000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150071,
+    "name": "Bofal",
+    "state_id": 3339,
+    "state_code": "05",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "16.41666667",
+    "longitude": "-13.80000000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150072,
+    "name": "Sori Malé",
+    "state_id": 3339,
+    "state_code": "05",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "16.95416667",
+    "longitude": "-13.37916667",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  }
+]

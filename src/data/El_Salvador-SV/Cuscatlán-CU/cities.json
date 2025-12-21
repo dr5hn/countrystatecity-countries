@@ -1,0 +1,67 @@
+[
+  {
+    "id": 104861,
+    "name": "Cojutepeque",
+    "state_id": 4137,
+    "state_code": "CU",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.71667000",
+    "longitude": "-88.93333000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104909,
+    "name": "San Martín",
+    "state_id": 4137,
+    "state_code": "CU",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.78333000",
+    "longitude": "-88.91667000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104930,
+    "name": "Suchitoto",
+    "state_id": 4137,
+    "state_code": "CU",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.93806000",
+    "longitude": "-89.02778000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104932,
+    "name": "Tecoluca",
+    "state_id": 4137,
+    "state_code": "CU",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.78917000",
+    "longitude": "-89.00528000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104933,
+    "name": "Tenancingo",
+    "state_id": 4137,
+    "state_code": "CU",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.83333000",
+    "longitude": "-88.98333000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  }
+]

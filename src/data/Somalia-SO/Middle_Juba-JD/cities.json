@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104794,
+    "name": "Dujuuma",
+    "state_id": 922,
+    "state_code": "JD",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "1.25311000",
+    "longitude": "42.57377000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104804,
+    "name": "Jilib",
+    "state_id": 922,
+    "state_code": "JD",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "0.48829000",
+    "longitude": "42.78535000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104814,
+    "name": "Saacow",
+    "state_id": 922,
+    "state_code": "JD",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "1.62794000",
+    "longitude": "42.44067000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

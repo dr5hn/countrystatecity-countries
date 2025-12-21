@@ -1,0 +1,41 @@
+[
+  {
+    "id": 31785,
+    "name": "Al ‘Alamayn",
+    "state_id": 3231,
+    "state_code": "MT",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "30.83007000",
+    "longitude": "28.95502000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31843,
+    "name": "Mersa Matruh",
+    "state_id": 3231,
+    "state_code": "MT",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "31.35290000",
+    "longitude": "27.23725000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31866,
+    "name": "Siwa Oasis",
+    "state_id": 3231,
+    "state_code": "MT",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "29.20320000",
+    "longitude": "25.51965000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  }
+]

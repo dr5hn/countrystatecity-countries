@@ -1,0 +1,28 @@
+[
+  {
+    "id": 109008,
+    "name": "Douliu",
+    "state_id": 3416,
+    "state_code": "YUN",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.70944000",
+    "longitude": "120.54333000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  },
+  {
+    "id": 109040,
+    "name": "Yunlin",
+    "state_id": 3416,
+    "state_code": "YUN",
+    "country_id": 216,
+    "country_code": "TW",
+    "latitude": "23.70701000",
+    "longitude": "120.38481000",
+    "native": null,
+    "timezone": "Asia/Taipei",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 43,
+    "name": "Ras Al Khaimah",
+    "state_id": 3394,
+    "state_code": "RK",
+    "country_id": 231,
+    "country_code": "AE",
+    "latitude": "25.46116000",
+    "longitude": "56.04058000",
+    "native": null,
+    "timezone": "Asia/Dubai",
+    "translations": {}
+  }
+]

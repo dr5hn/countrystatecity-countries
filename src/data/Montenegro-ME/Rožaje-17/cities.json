@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67367,
+    "name": "Rožaje",
+    "state_id": 15,
+    "state_code": "17",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.83299000",
+    "longitude": "20.16652000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 105124,
+    "name": "Bitkine",
+    "state_id": 3576,
+    "state_code": "GR",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "11.98010000",
+    "longitude": "18.21380000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105149,
+    "name": "Melfi",
+    "state_id": 3576,
+    "state_code": "GR",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "11.05980000",
+    "longitude": "17.93550000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 105150,
+    "name": "Mongo",
+    "state_id": 3576,
+    "state_code": "GR",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.18441000",
+    "longitude": "18.69303000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

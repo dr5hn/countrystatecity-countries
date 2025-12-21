@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104697,
+    "name": "Fiorentino",
+    "state_id": 66,
+    "state_code": "05",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.91001000",
+    "longitude": "12.45738000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

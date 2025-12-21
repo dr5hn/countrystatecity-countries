@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67351,
+    "name": "Golubovci",
+    "state_id": 5684,
+    "state_code": "25",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.36667000",
+    "longitude": "19.23333000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 160069,
+    "name": "Ponari",
+    "state_id": 5684,
+    "state_code": "25",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.40000000",
+    "longitude": "19.28333000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

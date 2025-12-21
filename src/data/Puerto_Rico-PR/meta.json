@@ -1,0 +1,50 @@
+{
+  "id": 178,
+  "name": "Puerto Rico",
+  "iso2": "PR",
+  "iso3": "PRI",
+  "numeric_code": "630",
+  "phonecode": "1",
+  "capital": "San Juan",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".pr",
+  "native": "Puerto Rico",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Puerto Rican",
+  "latitude": "18.25000000",
+  "longitude": "-66.50000000",
+  "emoji": "🇵🇷",
+  "emojiU": "U+1F1F5 U+1F1F7",
+  "timezones": [
+    {
+      "zoneName": "America/Puerto_Rico",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "ko": "푸에르토리코",
+    "pt-BR": "Porto Rico",
+    "pt": "Porto Rico",
+    "nl": "Puerto Rico",
+    "hr": "Portoriko",
+    "fa": "پورتو ریکو",
+    "de": "Puerto Rico",
+    "es": "Puerto Rico",
+    "fr": "Porto Rico",
+    "ja": "プエルトリコ",
+    "it": "Porto Rico",
+    "zh-CN": "波多黎各",
+    "tr": "Porto Riko",
+    "ru": "Пуэрто-Рико",
+    "uk": "Пуерто-Ріко",
+    "pl": "Puerto Rico",
+    "hi": "प्यूर्टो रिको",
+    "ar": "بورتوريكو"
+  }
+}

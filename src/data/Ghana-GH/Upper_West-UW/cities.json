@@ -1,0 +1,15 @@
+[
+  {
+    "id": 52213,
+    "name": "Wa",
+    "state_id": 57,
+    "state_code": "UW",
+    "country_id": 83,
+    "country_code": "GH",
+    "latitude": "10.06069000",
+    "longitude": "-2.50192000",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "translations": {}
+  }
+]

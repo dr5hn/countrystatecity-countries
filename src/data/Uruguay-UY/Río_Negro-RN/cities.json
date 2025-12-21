@@ -1,0 +1,54 @@
+[
+  {
+    "id": 129806,
+    "name": "Fray Bentos",
+    "state_id": 3210,
+    "state_code": "RN",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-33.11651000",
+    "longitude": "-58.31067000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129836,
+    "name": "Nuevo Berlín",
+    "state_id": 3210,
+    "state_code": "RN",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-32.97974000",
+    "longitude": "-58.05858000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129863,
+    "name": "San Javier",
+    "state_id": 3210,
+    "state_code": "RN",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-32.66523000",
+    "longitude": "-58.13320000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  },
+  {
+    "id": 129893,
+    "name": "Young",
+    "state_id": 3210,
+    "state_code": "RN",
+    "country_id": 235,
+    "country_code": "UY",
+    "latitude": "-32.69844000",
+    "longitude": "-57.62693000",
+    "native": null,
+    "timezone": "America/Montevideo",
+    "translations": {}
+  }
+]

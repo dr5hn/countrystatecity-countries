@@ -1,0 +1,67 @@
+[
+  {
+    "id": 48446,
+    "name": "Becontree",
+    "state_id": 2356,
+    "state_code": "BDG",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55290000",
+    "longitude": "0.12900000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48905,
+    "name": "Chadwell Heath",
+    "state_id": 2356,
+    "state_code": "BDG",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.57121000",
+    "longitude": "0.13271000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49070,
+    "name": "Collier Row",
+    "state_id": 2356,
+    "state_code": "BDG",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.59893000",
+    "longitude": "0.16600000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 49219,
+    "name": "Dagenham",
+    "state_id": 2356,
+    "state_code": "BDG",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55000000",
+    "longitude": "0.16667000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 51101,
+    "name": "Romford",
+    "state_id": 2356,
+    "state_code": "BDG",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.57515000",
+    "longitude": "0.18582000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

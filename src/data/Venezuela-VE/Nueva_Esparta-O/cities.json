@@ -1,0 +1,41 @@
+[
+  {
+    "id": 130087,
+    "name": "Juan Griego",
+    "state_id": 2052,
+    "state_code": "O",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "11.08172000",
+    "longitude": "-63.96549000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130088,
+    "name": "La Asunción",
+    "state_id": 2052,
+    "state_code": "O",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "11.03333000",
+    "longitude": "-63.86278000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130130,
+    "name": "Porlamar",
+    "state_id": 2052,
+    "state_code": "O",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.95771000",
+    "longitude": "-63.86971000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

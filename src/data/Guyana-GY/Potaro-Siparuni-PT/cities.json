@@ -1,0 +1,15 @@
+[
+  {
+    "id": 53829,
+    "name": "Mahdia",
+    "state_id": 2761,
+    "state_code": "PT",
+    "country_id": 94,
+    "country_code": "GY",
+    "latitude": "5.26667000",
+    "longitude": "-59.15000000",
+    "native": null,
+    "timezone": "America/Guyana",
+    "translations": {}
+  }
+]

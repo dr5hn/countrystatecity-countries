@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153598,
+    "name": "Mayagüez",
+    "state_id": 5083,
+    "state_code": "MG",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.20134520",
+    "longitude": "-67.14515490",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

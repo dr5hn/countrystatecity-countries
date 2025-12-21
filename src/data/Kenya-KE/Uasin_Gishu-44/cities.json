@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64782,
+    "name": "Eldoret",
+    "state_id": 169,
+    "state_code": "44",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "0.52036000",
+    "longitude": "35.26993000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

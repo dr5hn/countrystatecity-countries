@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48129,
+    "name": "Bitam",
+    "state_id": 2723,
+    "state_code": "9",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "2.07597000",
+    "longitude": "11.50065000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48144,
+    "name": "Mitzic",
+    "state_id": 2723,
+    "state_code": "9",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "0.78205000",
+    "longitude": "11.54904000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48153,
+    "name": "Oyem",
+    "state_id": 2723,
+    "state_code": "9",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "1.59950000",
+    "longitude": "11.57933000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  }
+]

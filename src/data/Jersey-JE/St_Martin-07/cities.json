@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154125,
+    "name": "Vingtaine de Faldouet",
+    "state_id": 5315,
+    "state_code": "07",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20322040",
+    "longitude": "-2.05269720",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154126,
+    "name": "Vingtaine de la Quéruée",
+    "state_id": 5315,
+    "state_code": "07",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21499100",
+    "longitude": "-2.05603630",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154124,
+    "name": "Vingtaine de Rozel",
+    "state_id": 5315,
+    "state_code": "07",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.23569500",
+    "longitude": "-2.05048470",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154128,
+    "name": "Vingtaine du Fief de la Reine",
+    "state_id": 5315,
+    "state_code": "07",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21842770",
+    "longitude": "-2.03518790",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

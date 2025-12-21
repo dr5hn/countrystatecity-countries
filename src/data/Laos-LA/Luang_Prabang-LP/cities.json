@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65865,
+    "name": "Luang Prabang",
+    "state_id": 978,
+    "state_code": "LP",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "19.88601000",
+    "longitude": "102.13503000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

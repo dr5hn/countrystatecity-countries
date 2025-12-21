@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9778,
+    "name": "Ruyigi",
+    "state_id": 3191,
+    "state_code": "RY",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-3.47639000",
+    "longitude": "30.24861000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

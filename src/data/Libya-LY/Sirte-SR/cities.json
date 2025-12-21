@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67027,
+    "name": "Qasr Abu Hadi",
+    "state_id": 2977,
+    "state_code": "SR",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "31.05926000",
+    "longitude": "16.65905000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67029,
+    "name": "Sirte",
+    "state_id": 2977,
+    "state_code": "SR",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "31.20892000",
+    "longitude": "16.58866000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

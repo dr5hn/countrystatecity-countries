@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67474,
+    "name": "Lozovo",
+    "state_id": 705,
+    "state_code": "105",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.78389000",
+    "longitude": "21.90556000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 104077,
+    "name": "Britof",
+    "state_id": 4287,
+    "state_code": "052",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.26024000",
+    "longitude": "14.39037000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104105,
+    "name": "Golnik",
+    "state_id": 4287,
+    "state_code": "052",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.33333000",
+    "longitude": "14.33333000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104139,
+    "name": "Kokrica",
+    "state_id": 4287,
+    "state_code": "052",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.27028000",
+    "longitude": "14.36111000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104150,
+    "name": "Kranj",
+    "state_id": 4287,
+    "state_code": "052",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.23887000",
+    "longitude": "14.35561000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104193,
+    "name": "Mlaka pri Kranju",
+    "state_id": 4287,
+    "state_code": "052",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.28333000",
+    "longitude": "14.35000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104330,
+    "name": "Zgornje Bitnje",
+    "state_id": 4287,
+    "state_code": "052",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.22000000",
+    "longitude": "14.33667000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

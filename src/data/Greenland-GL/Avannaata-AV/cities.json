@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154930,
+    "name": "Ilulissat",
+    "state_id": 5379,
+    "state_code": "AV",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "69.22794880",
+    "longitude": "-51.12805390",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154931,
+    "name": "Qaanaaq",
+    "state_id": 5379,
+    "state_code": "AV",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "77.46740090",
+    "longitude": "-69.24837110",
+    "native": null,
+    "timezone": "America/Danmarkshavn",
+    "translations": {}
+  },
+  {
+    "id": 154933,
+    "name": "Upernavik",
+    "state_id": 5379,
+    "state_code": "AV",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "72.78686030",
+    "longitude": "-56.16236710",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154932,
+    "name": "Uummannaq",
+    "state_id": 5379,
+    "state_code": "AV",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "70.67868970",
+    "longitude": "-52.14978240",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  }
+]

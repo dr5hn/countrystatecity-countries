@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160425,
+    "name": "Mariehamn",
+    "state_id": 5287,
+    "state_code": "01",
+    "country_id": 2,
+    "country_code": "AX",
+    "latitude": "60.09726000",
+    "longitude": "19.93481000",
+    "native": null,
+    "timezone": "Europe/Mariehamn",
+    "translations": {}
+  }
+]

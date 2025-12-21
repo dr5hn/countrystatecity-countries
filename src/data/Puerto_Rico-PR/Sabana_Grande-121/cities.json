@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153610,
+    "name": "Sabana Grande",
+    "state_id": 5195,
+    "state_code": "121",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.07773920",
+    "longitude": "-66.96045490",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

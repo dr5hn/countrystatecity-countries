@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160048,
+    "name": "La Colle",
+    "state_id": 4917,
+    "state_code": "CL",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73274650",
+    "longitude": "7.41372760",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

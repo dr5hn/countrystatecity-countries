@@ -1,0 +1,50 @@
+{
+  "id": 103,
+  "name": "Iran",
+  "iso2": "IR",
+  "iso3": "IRN",
+  "numeric_code": "364",
+  "phonecode": "98",
+  "capital": "Tehran",
+  "currency": "IRR",
+  "currency_name": "Iranian rial",
+  "currency_symbol": "﷼",
+  "tld": ".ir",
+  "native": "ایران",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "nationality": "Iranian, Persian",
+  "latitude": "32.00000000",
+  "longitude": "53.00000000",
+  "emoji": "🇮🇷",
+  "emojiU": "U+1F1EE U+1F1F7",
+  "timezones": [
+    {
+      "zoneName": "Asia/Tehran",
+      "gmtOffset": 12600,
+      "gmtOffsetName": "UTC+03:30",
+      "abbreviation": "IRDT",
+      "tzName": "Iran Daylight Time"
+    }
+  ],
+  "translations": {
+    "br": "Iran",
+    "ko": "이란",
+    "pt-BR": "Irã",
+    "pt": "Irão",
+    "nl": "Iran",
+    "hr": "Iran",
+    "fa": "ایران",
+    "de": "Iran",
+    "es": "Iran",
+    "fr": "Iran",
+    "ja": "イラン・イスラム共和国",
+    "zh-CN": "伊朗",
+    "tr": "İran",
+    "ru": "Иран",
+    "uk": "Іран",
+    "pl": "Iran",
+    "hi": "ईरान",
+    "ar": "إيران"
+  }
+}

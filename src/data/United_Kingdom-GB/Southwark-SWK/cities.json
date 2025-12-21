@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48707,
+    "name": "Brixton",
+    "state_id": 2432,
+    "state_code": "SWK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.46593000",
+    "longitude": "-0.10652000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48708,
+    "name": "Brixton Hill",
+    "state_id": 2432,
+    "state_code": "SWK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.45213000",
+    "longitude": "-0.12300000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 50866,
+    "name": "Peckham",
+    "state_id": 2432,
+    "state_code": "SWK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.47403000",
+    "longitude": "-0.06969000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

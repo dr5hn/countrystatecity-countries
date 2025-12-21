@@ -1,0 +1,28 @@
+[
+  {
+    "id": 130034,
+    "name": "Kingstown",
+    "state_id": 3384,
+    "state_code": "04",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.15527000",
+    "longitude": "-61.22742000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  },
+  {
+    "id": 130035,
+    "name": "Kingstown Park",
+    "state_id": 3384,
+    "state_code": "04",
+    "country_id": 188,
+    "country_code": "VC",
+    "latitude": "13.15924000",
+    "longitude": "-61.23161000",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67797,
+    "name": "Qala",
+    "state_id": 79,
+    "state_code": "42",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "36.03611000",
+    "longitude": "14.30944000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

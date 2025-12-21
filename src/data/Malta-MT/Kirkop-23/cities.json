@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67775,
+    "name": "Imsida",
+    "state_id": 82,
+    "state_code": "23",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.89250000",
+    "longitude": "14.48278000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 67780,
+    "name": "Kirkop",
+    "state_id": 82,
+    "state_code": "23",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.84222000",
+    "longitude": "14.48528000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

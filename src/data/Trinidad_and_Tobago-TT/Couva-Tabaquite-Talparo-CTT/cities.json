@@ -1,0 +1,28 @@
+[
+  {
+    "id": 108971,
+    "name": "Couva",
+    "state_id": 3354,
+    "state_code": "CTT",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.42248000",
+    "longitude": "-61.46748000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108988,
+    "name": "Tabaquite",
+    "state_id": 3354,
+    "state_code": "CTT",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.38824000",
+    "longitude": "-61.29704000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

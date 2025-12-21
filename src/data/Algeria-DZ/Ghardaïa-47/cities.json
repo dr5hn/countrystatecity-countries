@@ -1,0 +1,41 @@
+[
+  {
+    "id": 31268,
+    "name": "Berriane",
+    "state_id": 1127,
+    "state_code": "47",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "32.82648000",
+    "longitude": "3.76689000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31347,
+    "name": "Ghardaïa",
+    "state_id": 1127,
+    "state_code": "47",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "32.49094000",
+    "longitude": "3.67347000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31386,
+    "name": "Metlili Chaamba",
+    "state_id": 1127,
+    "state_code": "47",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "32.26667000",
+    "longitude": "3.63333000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

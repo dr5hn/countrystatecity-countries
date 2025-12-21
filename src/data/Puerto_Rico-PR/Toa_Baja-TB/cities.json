@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153618,
+    "name": "Toa Baja",
+    "state_id": 5082,
+    "state_code": "TB",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.44447090",
+    "longitude": "-66.25432930",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

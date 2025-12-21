@@ -1,0 +1,15 @@
+[
+  {
+    "id": 105132,
+    "name": "Fada",
+    "state_id": 3584,
+    "state_code": "EO",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "17.18535000",
+    "longitude": "21.58114000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

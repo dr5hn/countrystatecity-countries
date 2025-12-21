@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31883,
+    "name": "Asmara",
+    "state_id": 3426,
+    "state_code": "MA",
+    "country_id": 68,
+    "country_code": "ER",
+    "latitude": "15.33805000",
+    "longitude": "38.93184000",
+    "native": null,
+    "timezone": "Africa/Asmara",
+    "translations": {}
+  }
+]

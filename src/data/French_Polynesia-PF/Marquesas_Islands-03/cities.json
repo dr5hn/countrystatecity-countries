@@ -1,0 +1,80 @@
+[
+  {
+    "id": 154879,
+    "name": "Fatu-Hiva",
+    "state_id": 5371,
+    "state_code": "03",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-10.48604740",
+    "longitude": "-138.69188860",
+    "native": null,
+    "timezone": "Pacific/Marquesas",
+    "translations": {}
+  },
+  {
+    "id": 154880,
+    "name": "Hiva-Oa",
+    "state_id": 5371,
+    "state_code": "03",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-9.72631690",
+    "longitude": "-139.30998880",
+    "native": null,
+    "timezone": "Pacific/Marquesas",
+    "translations": {}
+  },
+  {
+    "id": 154881,
+    "name": "Nuku-Hiva",
+    "state_id": 5371,
+    "state_code": "03",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-8.41030010",
+    "longitude": "-141.02327110",
+    "native": null,
+    "timezone": "Pacific/Gambier",
+    "translations": {}
+  },
+  {
+    "id": 154882,
+    "name": "Tahuata",
+    "state_id": 5371,
+    "state_code": "03",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-9.95732410",
+    "longitude": "-139.16563470",
+    "native": null,
+    "timezone": "Pacific/Marquesas",
+    "translations": {}
+  },
+  {
+    "id": 154883,
+    "name": "Ua-Huka",
+    "state_id": 5371,
+    "state_code": "03",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-8.90967990",
+    "longitude": "-139.63171970",
+    "native": null,
+    "timezone": "Pacific/Marquesas",
+    "translations": {}
+  },
+  {
+    "id": 154884,
+    "name": "Ua-Pou",
+    "state_id": 5371,
+    "state_code": "03",
+    "country_id": 77,
+    "country_code": "PF",
+    "latitude": "-9.40892440",
+    "longitude": "-140.15553770",
+    "native": null,
+    "timezone": "Pacific/Marquesas",
+    "translations": {}
+  }
+]

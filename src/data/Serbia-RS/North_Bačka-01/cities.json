@@ -1,0 +1,54 @@
+[
+  {
+    "id": 97162,
+    "name": "Bačka Topola",
+    "state_id": 3714,
+    "state_code": "01",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "45.81516000",
+    "longitude": "19.63180000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97259,
+    "name": "Krivaja",
+    "state_id": 3714,
+    "state_code": "01",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.55021000",
+    "longitude": "19.59153000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155063,
+    "name": "Mali Iđoš",
+    "state_id": 3714,
+    "state_code": "01",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "45.71406240",
+    "longitude": "19.58678580",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97401,
+    "name": "Subotica",
+    "state_id": 3714,
+    "state_code": "01",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "46.10000000",
+    "longitude": "19.66667000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

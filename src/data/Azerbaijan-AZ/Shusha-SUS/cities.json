@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8177,
+    "name": "Shushi",
+    "state_id": 592,
+    "state_code": "SUS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.76006000",
+    "longitude": "46.74989000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

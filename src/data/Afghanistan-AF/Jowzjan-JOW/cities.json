@@ -1,0 +1,54 @@
+[
+  {
+    "id": 136,
+    "name": "Āqchah",
+    "state_id": 3886,
+    "state_code": "JOW",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.90500000",
+    "longitude": "66.18341000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 63,
+    "name": "Darzāb",
+    "state_id": 3886,
+    "state_code": "JOW",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "35.97744000",
+    "longitude": "65.37828000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 113,
+    "name": "Qarqīn",
+    "state_id": 3886,
+    "state_code": "JOW",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.41853000",
+    "longitude": "66.04358000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 122,
+    "name": "Shibirghān",
+    "state_id": 3886,
+    "state_code": "JOW",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.66757000",
+    "longitude": "65.75290000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

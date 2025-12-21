@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160113,
+    "name": "Aynaba",
+    "state_id": 5699,
+    "state_code": "SO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "8.95000000",
+    "longitude": "46.41666667",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 160114,
+    "name": "Hudun",
+    "state_id": 5699,
+    "state_code": "SO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "9.15416667",
+    "longitude": "47.47694444",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 160112,
+    "name": "Las Anod",
+    "state_id": 5699,
+    "state_code": "SO",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "8.47600000",
+    "longitude": "47.35700000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

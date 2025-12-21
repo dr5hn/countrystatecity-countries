@@ -1,0 +1,58 @@
+{
+  "id": 51,
+  "name": "Democratic Republic of the Congo",
+  "iso2": "CD",
+  "iso3": "COD",
+  "numeric_code": "180",
+  "phonecode": "243",
+  "capital": "Kinshasa",
+  "currency": "CDF",
+  "currency_name": "Congolese Franc",
+  "currency_symbol": "FC",
+  "tld": ".cd",
+  "native": "République démocratique du Congo",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "nationality": "Congolese",
+  "latitude": "0.00000000",
+  "longitude": "25.00000000",
+  "emoji": "🇨🇩",
+  "emojiU": "U+1F1E8 U+1F1E9",
+  "timezones": [
+    {
+      "zoneName": "Africa/Kinshasa",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    },
+    {
+      "zoneName": "Africa/Lubumbashi",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Kongo (RD)",
+    "ko": "콩고 민주 공화국",
+    "pt-BR": "RD Congo",
+    "pt": "RD Congo",
+    "nl": "Congo [DRC]",
+    "hr": "Kongo, Demokratska Republika",
+    "fa": "جمهوری کنگو",
+    "de": "Kongo (Dem. Rep.)",
+    "es": "Congo (Rep. Dem.)",
+    "fr": "Congo (Rép. dém.)",
+    "ja": "コンゴ民主共和国",
+    "it": "Congo (Rep. Dem.)",
+    "zh-CN": "刚果（金）",
+    "tr": "Kongo Demokratik Cumhuriyeti",
+    "ru": "Демократическая Республика Конго",
+    "uk": "Демократична Республіка Конго",
+    "pl": "Demokratyczna Republika Konga",
+    "hi": "कांगो लोकतांत्रिक गणराज्य",
+    "ar": "جمهورية الكونغو الديمقراطية"
+  }
+}

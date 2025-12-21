@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153581,
+    "name": "Gurabo",
+    "state_id": 5166,
+    "state_code": "063",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.25439870",
+    "longitude": "-65.97294210",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

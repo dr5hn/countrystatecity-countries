@@ -1,0 +1,15 @@
+[
+  {
+    "id": 49380,
+    "name": "Earlsfield",
+    "state_id": 2434,
+    "state_code": "WND",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.44390000",
+    "longitude": "-0.18540000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

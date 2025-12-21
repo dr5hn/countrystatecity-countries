@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8049,
+    "name": "Ağdam",
+    "state_id": 559,
+    "state_code": "AGM",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.99096000",
+    "longitude": "46.92736000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

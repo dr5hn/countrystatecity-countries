@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67813,
+    "name": "Ħal Tarxien",
+    "state_id": 103,
+    "state_code": "59",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.86583000",
+    "longitude": "14.51500000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

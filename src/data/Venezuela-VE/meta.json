@@ -1,0 +1,51 @@
+{
+  "id": 239,
+  "name": "Venezuela",
+  "iso2": "VE",
+  "iso3": "VEN",
+  "numeric_code": "862",
+  "phonecode": "58",
+  "capital": "Caracas",
+  "currency": "VES",
+  "currency_name": "Bolívar",
+  "currency_symbol": "Bs",
+  "tld": ".ve",
+  "native": "Venezuela",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Venezuelan",
+  "latitude": "8.00000000",
+  "longitude": "-66.00000000",
+  "emoji": "🇻🇪",
+  "emojiU": "U+1F1FB U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "America/Caracas",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "VET",
+      "tzName": "Venezuelan Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Venezuela",
+    "ko": "베네수엘라",
+    "pt-BR": "Venezuela",
+    "pt": "Venezuela",
+    "nl": "Venezuela",
+    "hr": "Venezuela",
+    "fa": "ونزوئلا",
+    "de": "Venezuela",
+    "es": "Venezuela",
+    "fr": "Venezuela",
+    "ja": "ベネズエラ・ボリバル共和国",
+    "it": "Venezuela",
+    "zh-CN": "委内瑞拉",
+    "tr": "Venezuela",
+    "ru": "Венесуэла",
+    "uk": "Венесуела",
+    "pl": "Wenezuela",
+    "hi": "वेनेज़ुएला",
+    "ar": "فنزويلا"
+  }
+}

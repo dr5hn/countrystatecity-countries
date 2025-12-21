@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104780,
+    "name": "Beledweyne",
+    "state_id": 915,
+    "state_code": "HI",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "4.73583000",
+    "longitude": "45.20361000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104784,
+    "name": "Buulobarde",
+    "state_id": 915,
+    "state_code": "HI",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "3.85375000",
+    "longitude": "45.56744000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104801,
+    "name": "Jalalaqsi",
+    "state_id": 915,
+    "state_code": "HI",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "3.37660000",
+    "longitude": "45.59960000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

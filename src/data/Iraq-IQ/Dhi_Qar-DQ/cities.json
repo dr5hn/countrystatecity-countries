@@ -1,0 +1,41 @@
+[
+  {
+    "id": 134500,
+    "name": "Ash Shaţrah",
+    "state_id": 3954,
+    "state_code": "DQ",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "31.40906000",
+    "longitude": "46.17270000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134529,
+    "name": "Nāḩiyat al Fuhūd",
+    "state_id": 3954,
+    "state_code": "DQ",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "30.96972000",
+    "longitude": "46.72278000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  },
+  {
+    "id": 134528,
+    "name": "Nasiriyah",
+    "state_id": 3954,
+    "state_code": "DQ",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "31.05799000",
+    "longitude": "46.25726000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  }
+]

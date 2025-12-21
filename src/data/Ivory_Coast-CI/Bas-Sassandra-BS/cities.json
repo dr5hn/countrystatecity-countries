@@ -1,0 +1,67 @@
+[
+  {
+    "id": 18901,
+    "name": "Gbôklé",
+    "state_id": 2643,
+    "state_code": "BS",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "4.95712000",
+    "longitude": "-6.09372000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18924,
+    "name": "Nawa",
+    "state_id": 2643,
+    "state_code": "BS",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "5.80112000",
+    "longitude": "-6.60313000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18928,
+    "name": "San-Pédro",
+    "state_id": 2643,
+    "state_code": "BS",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "4.76768000",
+    "longitude": "-6.65033000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18929,
+    "name": "Sassandra",
+    "state_id": 2643,
+    "state_code": "BS",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "4.95384000",
+    "longitude": "-6.08531000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18933,
+    "name": "Tabou",
+    "state_id": 2643,
+    "state_code": "BS",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "4.42295000",
+    "longitude": "-7.35280000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  }
+]

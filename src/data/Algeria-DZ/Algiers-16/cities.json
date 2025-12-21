@@ -1,0 +1,93 @@
+[
+  {
+    "id": 31249,
+    "name": "Aïn Taya",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.79333000",
+    "longitude": "3.28694000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31230,
+    "name": "Algiers",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.73225000",
+    "longitude": "3.08746000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31254,
+    "name": "Bab Ezzouar",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.72615000",
+    "longitude": "3.18291000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31274,
+    "name": "Birkhadem",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.71499000",
+    "longitude": "3.05002000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31281,
+    "name": "Bordj el Kiffan",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.74871000",
+    "longitude": "3.19249000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31312,
+    "name": "Dar el Beïda",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.71333000",
+    "longitude": "3.21250000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31413,
+    "name": "Rouiba",
+    "state_id": 1144,
+    "state_code": "16",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.73829000",
+    "longitude": "3.28079000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

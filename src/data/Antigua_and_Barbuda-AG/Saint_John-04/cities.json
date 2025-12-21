@@ -1,0 +1,28 @@
+[
+  {
+    "id": 149,
+    "name": "Potters Village",
+    "state_id": 3706,
+    "state_code": "04",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.11337000",
+    "longitude": "-61.81962000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  },
+  {
+    "id": 150,
+    "name": "Saint John’s",
+    "state_id": 3706,
+    "state_code": "04",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.12096000",
+    "longitude": "-61.84329000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  }
+]

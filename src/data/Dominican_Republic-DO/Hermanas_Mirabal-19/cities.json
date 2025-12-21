@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31178,
+    "name": "Salcedo",
+    "state_id": 4089,
+    "state_code": "19",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.41667000",
+    "longitude": "-70.38333000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31179,
+    "name": "Salsipuedes",
+    "state_id": 4089,
+    "state_code": "19",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.40552000",
+    "longitude": "-70.37985000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31205,
+    "name": "Tenares",
+    "state_id": 4089,
+    "state_code": "19",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.37439000",
+    "longitude": "-70.35087000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31220,
+    "name": "Villa Tapia",
+    "state_id": 4089,
+    "state_code": "19",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.30084000",
+    "longitude": "-70.42199000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  }
+]

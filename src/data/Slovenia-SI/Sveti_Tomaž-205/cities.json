@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104292,
+    "name": "Sveti Tomaž",
+    "state_id": 4273,
+    "state_code": "205",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.48417000",
+    "longitude": "16.08361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

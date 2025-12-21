@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104162,
+    "name": "Lesce",
+    "state_id": 4231,
+    "state_code": "102",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.36111000",
+    "longitude": "14.15778000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104245,
+    "name": "Radovljica",
+    "state_id": 4231,
+    "state_code": "102",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.34444000",
+    "longitude": "14.17444000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

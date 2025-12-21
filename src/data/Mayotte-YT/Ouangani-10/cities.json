@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160317,
+    "name": "Barakani",
+    "state_id": 5411,
+    "state_code": "10",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.83799000",
+    "longitude": "45.13120000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160315,
+    "name": "Kahani",
+    "state_id": 5411,
+    "state_code": "10",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.82385000",
+    "longitude": "45.13141000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160316,
+    "name": "Ouangani",
+    "state_id": 5411,
+    "state_code": "10",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.84639000",
+    "longitude": "45.13611000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

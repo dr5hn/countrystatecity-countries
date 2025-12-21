@@ -1,0 +1,80 @@
+[
+  {
+    "id": 134459,
+    "name": "Amli",
+    "state_id": 4033,
+    "state_code": "DH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "20.28333000",
+    "longitude": "73.01667000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 131639,
+    "name": "Dadra",
+    "state_id": 4033,
+    "state_code": "DH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "20.32504000",
+    "longitude": "72.96618000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 131640,
+    "name": "Dadra & Nagar Haveli",
+    "state_id": 4033,
+    "state_code": "DH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "20.20651000",
+    "longitude": "73.00811000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 131649,
+    "name": "Daman",
+    "state_id": 4033,
+    "state_code": "DH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "20.41431000",
+    "longitude": "72.83236000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 131779,
+    "name": "Diu",
+    "state_id": 4033,
+    "state_code": "DH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "20.72081000",
+    "longitude": "70.93989000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  },
+  {
+    "id": 133937,
+    "name": "Silvassa",
+    "state_id": 4033,
+    "state_code": "DH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "20.27386000",
+    "longitude": "72.99673000",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  }
+]

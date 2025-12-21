@@ -1,0 +1,51 @@
+{
+  "id": 129,
+  "name": "North Macedonia",
+  "iso2": "MK",
+  "iso3": "MKD",
+  "numeric_code": "807",
+  "phonecode": "389",
+  "capital": "Skopje",
+  "currency": "MKD",
+  "currency_name": "Denar",
+  "currency_symbol": "ден",
+  "tld": ".mk",
+  "native": "Северна Македонија",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Macedonian",
+  "latitude": "41.83333333",
+  "longitude": "22.00000000",
+  "emoji": "🇲🇰",
+  "emojiU": "U+1F1F2 U+1F1F0",
+  "timezones": [
+    {
+      "zoneName": "Europe/Skopje",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Makedonia an Norzh",
+    "ko": "북마케도니아",
+    "pt-BR": "Macedônia do Norte",
+    "pt": "Macedónia do Norte",
+    "nl": "Noord-Macedonië",
+    "hr": "Sjeverna Makedonija",
+    "fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+    "de": "Nordmazedonien",
+    "es": "Macedonia del Norte",
+    "fr": "Macédoine du Nord",
+    "ja": "北マケドニア",
+    "it": "Macedonia del Nord",
+    "zh-CN": "北馬其頓",
+    "tr": "Kuzey Makedonya",
+    "ru": "Северная Македония",
+    "uk": "Північна Македонія",
+    "pl": "Macedonia Północna",
+    "hi": "नॉर्थ मैसेडोनिया",
+    "ar": "شمال مقدونيا"
+  }
+}

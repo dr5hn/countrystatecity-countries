@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153567,
+    "name": "Ceiba",
+    "state_id": 5152,
+    "state_code": "037",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.24751770",
+    "longitude": "-65.90849530",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

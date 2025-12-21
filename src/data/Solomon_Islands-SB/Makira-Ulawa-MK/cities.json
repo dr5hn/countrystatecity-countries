@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102903,
+    "name": "Kirakira",
+    "state_id": 4782,
+    "state_code": "MK",
+    "country_id": 202,
+    "country_code": "SB",
+    "latitude": "-10.45442000",
+    "longitude": "161.92045000",
+    "native": null,
+    "timezone": "Pacific/Guadalcanal",
+    "translations": {}
+  }
+]

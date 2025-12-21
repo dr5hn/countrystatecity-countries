@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153898,
+    "name": "Dinajpur",
+    "state_id": 5487,
+    "state_code": "14",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "25.64261030",
+    "longitude": "88.18344620",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

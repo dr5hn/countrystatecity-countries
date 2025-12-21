@@ -1,0 +1,67 @@
+[
+  {
+    "id": 154920,
+    "name": "Ituʻau",
+    "state_id": 5375,
+    "state_code": "02",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.30616430",
+    "longitude": "-170.80691440",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154921,
+    "name": "Maʻoputasi",
+    "state_id": 5375,
+    "state_code": "02",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.25216850",
+    "longitude": "-170.74187670",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154924,
+    "name": "Saʻole",
+    "state_id": 5375,
+    "state_code": "02",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.29995700",
+    "longitude": "-170.61763370",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154923,
+    "name": "Sua",
+    "state_id": 5375,
+    "state_code": "02",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.27710880",
+    "longitude": "-170.71442630",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  },
+  {
+    "id": 154922,
+    "name": "Vaifanua",
+    "state_id": 5375,
+    "state_code": "02",
+    "country_id": 5,
+    "country_code": "AS",
+    "latitude": "-14.25578040",
+    "longitude": "-170.76301810",
+    "native": null,
+    "timezone": "Pacific/Pago_Pago",
+    "translations": {}
+  }
+]

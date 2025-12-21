@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67581,
+    "name": "Старо Нагоричане",
+    "state_id": 643,
+    "state_code": "706",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.19806000",
+    "longitude": "21.82861000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

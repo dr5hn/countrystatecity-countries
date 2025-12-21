@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160120,
+    "name": "Guadalupe",
+    "state_id": 5732,
+    "state_code": "05",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "0.38333000",
+    "longitude": "6.61667000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

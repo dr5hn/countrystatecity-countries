@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8094,
+    "name": "Imishli",
+    "state_id": 544,
+    "state_code": "IMI",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.87095000",
+    "longitude": "48.05995000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

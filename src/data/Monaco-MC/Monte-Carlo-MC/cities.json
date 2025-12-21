@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160056,
+    "name": "Monte-Carlo",
+    "state_id": 5675,
+    "state_code": "MC",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.73972222",
+    "longitude": "7.42722222",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

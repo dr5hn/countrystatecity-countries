@@ -1,0 +1,67 @@
+[
+  {
+    "id": 65583,
+    "name": "Ar Rumaythīyah",
+    "state_id": 973,
+    "state_code": "HA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.31167000",
+    "longitude": "48.07417000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65585,
+    "name": "As Sālimīyah",
+    "state_id": 973,
+    "state_code": "HA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.33389000",
+    "longitude": "48.07611000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65588,
+    "name": "Bayān",
+    "state_id": 973,
+    "state_code": "HA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.30320000",
+    "longitude": "48.04881000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65593,
+    "name": "Ḩawallī",
+    "state_id": 973,
+    "state_code": "HA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.33278000",
+    "longitude": "48.02861000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65591,
+    "name": "Salwá",
+    "state_id": 973,
+    "state_code": "HA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.29583000",
+    "longitude": "48.07861000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  }
+]

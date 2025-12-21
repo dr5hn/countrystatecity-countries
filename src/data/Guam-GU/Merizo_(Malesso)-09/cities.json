@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160264,
+    "name": "Merizo Village",
+    "state_id": 5262,
+    "state_code": "09",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.26584000",
+    "longitude": "144.66908000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

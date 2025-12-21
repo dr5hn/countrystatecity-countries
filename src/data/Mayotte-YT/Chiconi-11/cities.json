@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160318,
+    "name": "Chiconi",
+    "state_id": 5412,
+    "state_code": "11",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.83333000",
+    "longitude": "45.11056000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160319,
+    "name": "Sohoa",
+    "state_id": 5412,
+    "state_code": "11",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.82233000",
+    "longitude": "45.10552000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

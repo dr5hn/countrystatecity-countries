@@ -1,0 +1,15 @@
+[
+  {
+    "id": 17239,
+    "name": "Bunia",
+    "state_id": 2751,
+    "state_code": "IT",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "1.55941000",
+    "longitude": "30.25224000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

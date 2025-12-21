@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104216,
+    "name": "Ormož",
+    "state_id": 4221,
+    "state_code": "087",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.41139000",
+    "longitude": "16.15444000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

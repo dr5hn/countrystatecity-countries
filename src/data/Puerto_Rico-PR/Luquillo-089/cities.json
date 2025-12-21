@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153594,
+    "name": "Luquillo",
+    "state_id": 5179,
+    "state_code": "089",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.37245070",
+    "longitude": "-65.71655110",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

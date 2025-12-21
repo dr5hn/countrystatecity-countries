@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160072,
+    "name": "Arno",
+    "state_id": 5645,
+    "state_code": "ARN",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "7.08333333",
+    "longitude": "171.70000000",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

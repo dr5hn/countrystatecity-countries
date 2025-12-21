@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153880,
+    "name": "Khulna",
+    "state_id": 5500,
+    "state_code": "27",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "22.35351390",
+    "longitude": "88.83407090",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 106843,
+    "name": "Fatumean",
+    "state_id": 4522,
+    "state_code": "CO",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.22917000",
+    "longitude": "125.03583000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106844,
+    "name": "Fohorem",
+    "state_id": 4522,
+    "state_code": "CO",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.28361000",
+    "longitude": "125.08944000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106863,
+    "name": "Maucatar",
+    "state_id": 4522,
+    "state_code": "CO",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.21772000",
+    "longitude": "125.22981000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106871,
+    "name": "Suai",
+    "state_id": 4522,
+    "state_code": "CO",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.30000000",
+    "longitude": "125.25000000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106872,
+    "name": "Tilomar",
+    "state_id": 4522,
+    "state_code": "CO",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-9.34182000",
+    "longitude": "125.10887000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  }
+]

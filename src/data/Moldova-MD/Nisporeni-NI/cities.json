@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67314,
+    "name": "Nisporeni",
+    "state_id": 4363,
+    "state_code": "NI",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "47.08159000",
+    "longitude": "28.17138000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

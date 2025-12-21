@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8114,
+    "name": "Martakert",
+    "state_id": 519,
+    "state_code": "TAR",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.21127000",
+    "longitude": "46.82135000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8182,
+    "name": "Terter",
+    "state_id": 519,
+    "state_code": "TAR",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.34201000",
+    "longitude": "46.93161000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

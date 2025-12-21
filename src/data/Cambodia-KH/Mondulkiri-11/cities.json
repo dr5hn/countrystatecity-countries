@@ -1,0 +1,54 @@
+[
+  {
+    "id": 64964,
+    "name": "Krŏng Sênmônoŭrôm",
+    "state_id": 3985,
+    "state_code": "11",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.50480000",
+    "longitude": "107.15525000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 64978,
+    "name": "Sen Monorom",
+    "state_id": 3985,
+    "state_code": "11",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.45583000",
+    "longitude": "107.18811000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65002,
+    "name": "Srŏk Kaev Seima",
+    "state_id": 3985,
+    "state_code": "11",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.41722000",
+    "longitude": "106.77025000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  },
+  {
+    "id": 65014,
+    "name": "Srŏk Pech Chreada",
+    "state_id": 3985,
+    "state_code": "11",
+    "country_id": 37,
+    "country_code": "KH",
+    "latitude": "12.72780000",
+    "longitude": "107.09480000",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "translations": {}
+  }
+]

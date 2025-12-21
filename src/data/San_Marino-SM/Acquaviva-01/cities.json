@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104693,
+    "name": "Acquaviva",
+    "state_id": 59,
+    "state_code": "01",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.94593000",
+    "longitude": "12.41850000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

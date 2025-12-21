@@ -1,0 +1,28 @@
+[
+  {
+    "id": 108972,
+    "name": "Debe",
+    "state_id": 3365,
+    "state_code": "PED",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.20846000",
+    "longitude": "-61.45273000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  },
+  {
+    "id": 108979,
+    "name": "Peñal",
+    "state_id": 3365,
+    "state_code": "PED",
+    "country_id": 223,
+    "country_code": "TT",
+    "latitude": "10.16667000",
+    "longitude": "-61.46667000",
+    "native": null,
+    "timezone": "America/Port_of_Spain",
+    "translations": {}
+  }
+]

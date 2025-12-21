@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66874,
+    "name": "Alsunga",
+    "state_id": 4490,
+    "state_code": "050",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.98194000",
+    "longitude": "21.55938000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66916,
+    "name": "Kuldīga",
+    "state_id": 4490,
+    "state_code": "050",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.97399000",
+    "longitude": "21.95721000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66962,
+    "name": "Skrunda",
+    "state_id": 4490,
+    "state_code": "050",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.67749000",
+    "longitude": "22.01649000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

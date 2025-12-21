@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66937,
+    "name": "Ozolnieki",
+    "state_id": 4424,
+    "state_code": "041",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.68986000",
+    "longitude": "23.77610000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66973,
+    "name": "Tīreļi",
+    "state_id": 4424,
+    "state_code": "041",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.83991000",
+    "longitude": "23.58902000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

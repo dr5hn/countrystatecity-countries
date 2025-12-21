@@ -1,0 +1,28 @@
+[
+  {
+    "id": 31482,
+    "name": "Archidona",
+    "state_id": 2916,
+    "state_code": "N",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.90950000",
+    "longitude": "-77.80772000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31581,
+    "name": "Tena",
+    "state_id": 2916,
+    "state_code": "N",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.99380000",
+    "longitude": "-77.81286000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

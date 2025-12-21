@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64812,
+    "name": "Kitale",
+    "state_id": 183,
+    "state_code": "42",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "1.01572000",
+    "longitude": "35.00622000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

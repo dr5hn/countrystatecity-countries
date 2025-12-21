@@ -1,0 +1,28 @@
+[
+  {
+    "id": 48444,
+    "name": "Beckenham",
+    "state_id": 2358,
+    "state_code": "LEW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.40878000",
+    "longitude": "-0.02526000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48545,
+    "name": "Blackheath",
+    "state_id": 2358,
+    "state_code": "LEW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.46470000",
+    "longitude": "0.00790000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

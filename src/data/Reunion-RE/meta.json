@@ -1,0 +1,51 @@
+{
+  "id": 180,
+  "name": "Reunion",
+  "iso2": "RE",
+  "iso3": "REU",
+  "numeric_code": "638",
+  "phonecode": "262",
+  "capital": "Saint-Denis",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".re",
+  "native": "La Réunion",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Reunionese, Reunionnais",
+  "latitude": "-21.15000000",
+  "longitude": "55.50000000",
+  "emoji": "🇷🇪",
+  "emojiU": "U+1F1F7 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Indian/Reunion",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "RET",
+      "tzName": "Réunion Time"
+    }
+  ],
+  "translations": {
+    "br": "Reünion",
+    "ko": "레위니옹",
+    "pt-BR": "Reunião",
+    "pt": "Reunião",
+    "nl": "Réunion",
+    "hr": "Réunion",
+    "fa": "رئونیون",
+    "de": "Réunion",
+    "es": "Reunión",
+    "fr": "Réunion",
+    "ja": "レユニオン",
+    "it": "Riunione",
+    "zh-CN": "留尼汪岛",
+    "tr": "Réunion",
+    "ru": "Воссоединение",
+    "uk": "Возз'єднання",
+    "pl": "Reunion",
+    "hi": "रीयूनियन",
+    "ar": "جمع شمل"
+  }
+}

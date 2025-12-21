@@ -1,0 +1,54 @@
+[
+  {
+    "id": 81057,
+    "name": "Kandrian",
+    "state_id": 4830,
+    "state_code": "WBK",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.20655000",
+    "longitude": "149.54744000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81058,
+    "name": "Kandrian Gloucester",
+    "state_id": 4830,
+    "state_code": "WBK",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.08333000",
+    "longitude": "149.91667000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81065,
+    "name": "Kimbe",
+    "state_id": 4830,
+    "state_code": "WBK",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-5.55085000",
+    "longitude": "150.13766000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81112,
+    "name": "Talasea",
+    "state_id": 4830,
+    "state_code": "WBK",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-5.66667000",
+    "longitude": "149.58333000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

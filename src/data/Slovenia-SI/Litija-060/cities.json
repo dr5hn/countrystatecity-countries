@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104167,
+    "name": "Litija",
+    "state_id": 4347,
+    "state_code": "060",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.05861000",
+    "longitude": "14.82250000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

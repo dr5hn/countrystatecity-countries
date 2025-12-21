@@ -1,0 +1,80 @@
+[
+  {
+    "id": 155014,
+    "name": "Bras-Panon",
+    "state_id": 5436,
+    "state_code": "01",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.03158160",
+    "longitude": "55.54416340",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155015,
+    "name": "La Plaine-des-Palmistes",
+    "state_id": 5436,
+    "state_code": "01",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.15295070",
+    "longitude": "55.56180140",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155016,
+    "name": "Saint-André",
+    "state_id": 5436,
+    "state_code": "01",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-20.95677270",
+    "longitude": "55.55486740",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155017,
+    "name": "Saint-Benoît",
+    "state_id": 5436,
+    "state_code": "01",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.08859460",
+    "longitude": "55.46640760",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155018,
+    "name": "Sainte-Rose",
+    "state_id": 5436,
+    "state_code": "01",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.17782890",
+    "longitude": "55.65939810",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155019,
+    "name": "Salazie",
+    "state_id": 5436,
+    "state_code": "01",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-21.05240970",
+    "longitude": "55.43213370",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  }
+]

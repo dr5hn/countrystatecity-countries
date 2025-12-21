@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67450,
+    "name": "Kavadarci",
+    "state_id": 713,
+    "state_code": "104",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.43306000",
+    "longitude": "22.01194000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67550,
+    "name": "Vataša",
+    "state_id": 713,
+    "state_code": "104",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.41694000",
+    "longitude": "22.01889000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

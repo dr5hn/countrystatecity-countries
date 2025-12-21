@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15693,
+    "name": "Duncan Town",
+    "state_id": 3615,
+    "state_code": "RI",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "22.19083000",
+    "longitude": "-75.72583000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

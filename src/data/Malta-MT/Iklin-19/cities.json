@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67781,
+    "name": "L-Iklin",
+    "state_id": 93,
+    "state_code": "19",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.90414000",
+    "longitude": "14.45415000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

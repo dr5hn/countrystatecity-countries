@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31023,
+    "name": "Arroyo Salado",
+    "state_id": 4094,
+    "state_code": "14",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.50000000",
+    "longitude": "-69.90000000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31037,
+    "name": "Cabrera",
+    "state_id": 4094,
+    "state_code": "14",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.64260000",
+    "longitude": "-69.90489000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31059,
+    "name": "El Factor",
+    "state_id": 4094,
+    "state_code": "14",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.31834000",
+    "longitude": "-69.88827000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31106,
+    "name": "La Entrada",
+    "state_id": 4094,
+    "state_code": "14",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.55367000",
+    "longitude": "-69.90762000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31137,
+    "name": "Nagua",
+    "state_id": 4094,
+    "state_code": "14",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.38320000",
+    "longitude": "-69.84740000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  },
+  {
+    "id": 31168,
+    "name": "Río San Juan",
+    "state_id": 4094,
+    "state_code": "14",
+    "country_id": 62,
+    "country_code": "DO",
+    "latitude": "19.55022000",
+    "longitude": "-70.07703000",
+    "native": null,
+    "timezone": "America/Santo_Domingo",
+    "translations": {}
+  }
+]

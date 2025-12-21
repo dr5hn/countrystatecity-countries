@@ -1,0 +1,28 @@
+[
+  {
+    "id": 64816,
+    "name": "Lamu",
+    "state_id": 166,
+    "state_code": "21",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-2.27169000",
+    "longitude": "40.90201000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64878,
+    "name": "Witu",
+    "state_id": 166,
+    "state_code": "21",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-2.38892000",
+    "longitude": "40.43827000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

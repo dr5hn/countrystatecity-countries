@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64772,
+    "name": "Ahero",
+    "state_id": 171,
+    "state_code": "17",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.17359000",
+    "longitude": "34.91890000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64811,
+    "name": "Kisumu",
+    "state_id": 171,
+    "state_code": "17",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.10221000",
+    "longitude": "34.76171000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64841,
+    "name": "Muhoroni",
+    "state_id": 171,
+    "state_code": "17",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.15816000",
+    "longitude": "35.19645000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

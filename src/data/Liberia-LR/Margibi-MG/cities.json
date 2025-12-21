@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66556,
+    "name": "Kakata",
+    "state_id": 3043,
+    "state_code": "MG",
+    "country_id": 123,
+    "country_code": "LR",
+    "latitude": "6.53104000",
+    "longitude": "-10.35368000",
+    "native": null,
+    "timezone": "Africa/Monrovia",
+    "translations": {}
+  }
+]

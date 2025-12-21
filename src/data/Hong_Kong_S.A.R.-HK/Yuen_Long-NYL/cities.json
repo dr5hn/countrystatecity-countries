@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153492,
+    "name": "Yuen Long",
+    "state_id": 4883,
+    "state_code": "NYL",
+    "country_id": 98,
+    "country_code": "HK",
+    "latitude": "22.44400000",
+    "longitude": "114.02700000",
+    "native": null,
+    "timezone": "Asia/Hong_Kong",
+    "translations": {}
+  }
+]

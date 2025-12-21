@@ -1,0 +1,51 @@
+{
+  "id": 89,
+  "name": "Guam",
+  "iso2": "GU",
+  "iso3": "GUM",
+  "numeric_code": "316",
+  "phonecode": "1",
+  "capital": "Hagatna",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".gu",
+  "native": "Guam",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "nationality": "Guamanian, Guambat",
+  "latitude": "13.46666666",
+  "longitude": "144.78333333",
+  "emoji": "🇬🇺",
+  "emojiU": "U+1F1EC U+1F1FA",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Guam",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "CHST",
+      "tzName": "Chamorro Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Guam",
+    "ko": "괌",
+    "pt-BR": "Guam",
+    "pt": "Guame",
+    "nl": "Guam",
+    "hr": "Guam",
+    "fa": "گوام",
+    "de": "Guam",
+    "es": "Guam",
+    "fr": "Guam",
+    "ja": "グアム",
+    "it": "Guam",
+    "zh-CN": "关岛",
+    "tr": "Guam",
+    "ru": "Гуам",
+    "uk": "Гуам",
+    "pl": "Guam",
+    "hi": "गुआम",
+    "ar": "غوام"
+  }
+}

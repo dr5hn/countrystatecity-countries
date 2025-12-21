@@ -1,0 +1,28 @@
+[
+  {
+    "id": 15709,
+    "name": "Jakar",
+    "state_id": 240,
+    "state_code": "33",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.54918000",
+    "longitude": "90.75250000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  },
+  {
+    "id": 153824,
+    "name": "Tang Valley",
+    "state_id": 240,
+    "state_code": "33",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.50252420",
+    "longitude": "90.74495440",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

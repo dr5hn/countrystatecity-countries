@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5379,
+    "name": "Avannaata",
+    "country_id": 86,
+    "country_code": "GL",
+    "fips_code": null,
+    "iso2": "AV",
+    "type": "municipality",
+    "latitude": "76.50492650",
+    "longitude": "-56.29119760",
+    "native": "Avannaata",
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 5380,
+    "name": "Kujalleq",
+    "country_id": 86,
+    "country_code": "GL",
+    "fips_code": null,
+    "iso2": "KU",
+    "type": "municipality",
+    "latitude": "61.00000000",
+    "longitude": "-45.00000000",
+    "native": "Kujalleq",
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 5381,
+    "name": "Qeqertalik",
+    "country_id": 86,
+    "country_code": "GL",
+    "fips_code": null,
+    "iso2": "QT",
+    "type": "municipality",
+    "latitude": "68.82495530",
+    "longitude": "-54.76224720",
+    "native": "Qeqertalik",
+    "timezone": "America/Danmarkshavn",
+    "translations": {}
+  },
+  {
+    "id": 5382,
+    "name": "Qeqqata",
+    "country_id": 86,
+    "country_code": "GL",
+    "fips_code": null,
+    "iso2": "QE",
+    "type": "municipality",
+    "latitude": "66.50000000",
+    "longitude": "-48.00000000",
+    "native": "Qeqqata",
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 5383,
+    "name": "Sermersooq",
+    "country_id": 86,
+    "country_code": "GL",
+    "fips_code": null,
+    "iso2": "SM",
+    "type": "municipality",
+    "latitude": "66.00000000",
+    "longitude": "-40.00000000",
+    "native": "Sermersooq",
+    "timezone": "America/Nuuk",
+    "translations": {}
+  }
+]

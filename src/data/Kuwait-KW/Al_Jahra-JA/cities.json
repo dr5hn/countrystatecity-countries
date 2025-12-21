@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65577,
+    "name": "Al Jahrā’",
+    "state_id": 972,
+    "state_code": "JA",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.33750000",
+    "longitude": "47.65806000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  }
+]

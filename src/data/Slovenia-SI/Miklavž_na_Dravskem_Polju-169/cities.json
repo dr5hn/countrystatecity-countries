@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104188,
+    "name": "Miklavž na Dravskem Polju",
+    "state_id": 4223,
+    "state_code": "169",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.50583000",
+    "longitude": "15.69722000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

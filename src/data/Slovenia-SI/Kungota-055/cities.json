@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104328,
+    "name": "Zgornja Kungota",
+    "state_id": 4197,
+    "state_code": "055",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.63917000",
+    "longitude": "15.61556000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

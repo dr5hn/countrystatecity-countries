@@ -1,0 +1,41 @@
+[
+  {
+    "id": 56,
+    "name": "Baraki Barak",
+    "state_id": 3897,
+    "state_code": "LOG",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.96744000",
+    "longitude": "68.94920000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 139,
+    "name": "Ḩukūmatī Azrah",
+    "state_id": 3897,
+    "state_code": "LOG",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.17355000",
+    "longitude": "69.64573000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 106,
+    "name": "Pul-e ‘Alam",
+    "state_id": 3897,
+    "state_code": "LOG",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.99529000",
+    "longitude": "69.02274000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 31803,
+    "name": "Dahab",
+    "state_id": 3237,
+    "state_code": "JS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.48208000",
+    "longitude": "34.49505000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31812,
+    "name": "El-Tor",
+    "state_id": 3237,
+    "state_code": "JS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.24168000",
+    "longitude": "33.62220000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31849,
+    "name": "Nuwaybi‘a",
+    "state_id": 3237,
+    "state_code": "JS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "29.04681000",
+    "longitude": "34.66340000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31859,
+    "name": "Saint Catherine",
+    "state_id": 3237,
+    "state_code": "JS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.56191000",
+    "longitude": "33.94934000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31862,
+    "name": "Sharm el-Sheikh",
+    "state_id": 3237,
+    "state_code": "JS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "27.91582000",
+    "longitude": "34.32995000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  }
+]

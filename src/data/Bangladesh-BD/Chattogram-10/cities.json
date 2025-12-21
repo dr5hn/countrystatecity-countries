@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8481,
+    "name": "Chittagong",
+    "state_id": 5482,
+    "state_code": "10",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "22.48750000",
+    "longitude": "91.96333000",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

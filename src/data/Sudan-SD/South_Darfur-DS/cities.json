@@ -1,0 +1,28 @@
+[
+  {
+    "id": 102952,
+    "name": "Gereida",
+    "state_id": 894,
+    "state_code": "DS",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "11.27543000",
+    "longitude": "25.14026000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  },
+  {
+    "id": 102966,
+    "name": "Nyala",
+    "state_id": 894,
+    "state_code": "DS",
+    "country_id": 209,
+    "country_code": "SD",
+    "latitude": "12.04888000",
+    "longitude": "24.88069000",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "translations": {}
+  }
+]

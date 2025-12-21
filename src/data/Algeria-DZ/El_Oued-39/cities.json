@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31313,
+    "name": "Debila",
+    "state_id": 1099,
+    "state_code": "39",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "33.51667000",
+    "longitude": "6.95000000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31341,
+    "name": "El Oued",
+    "state_id": 1099,
+    "state_code": "39",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "33.35608000",
+    "longitude": "6.86319000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31408,
+    "name": "Reguiba",
+    "state_id": 1099,
+    "state_code": "39",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "33.56391000",
+    "longitude": "6.70326000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31411,
+    "name": "Robbah",
+    "state_id": 1099,
+    "state_code": "39",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "33.27967000",
+    "longitude": "6.90984000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

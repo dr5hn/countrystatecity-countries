@@ -1,0 +1,51 @@
+{
+  "id": 162,
+  "name": "Niue",
+  "iso2": "NU",
+  "iso3": "NIU",
+  "numeric_code": "570",
+  "phonecode": "683",
+  "capital": "Alofi",
+  "currency": "NZD",
+  "currency_name": "New Zealand dollar",
+  "currency_symbol": "$",
+  "tld": ".nu",
+  "native": "Niuē",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "nationality": "Niuean",
+  "latitude": "-19.03333333",
+  "longitude": "-169.86666666",
+  "emoji": "🇳🇺",
+  "emojiU": "U+1F1F3 U+1F1FA",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Niue",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "NUT",
+      "tzName": "Niue Time"
+    }
+  ],
+  "translations": {
+    "br": "Niue",
+    "ko": "니우에",
+    "pt-BR": "Niue",
+    "pt": "Niue",
+    "nl": "Niue",
+    "hr": "Niue",
+    "fa": "نیووی",
+    "de": "Niue",
+    "es": "Niue",
+    "fr": "Niue",
+    "ja": "ニウエ",
+    "it": "Niue",
+    "zh-CN": "纽埃",
+    "tr": "Niue",
+    "ru": "Ниуэ",
+    "uk": "Ніуе",
+    "pl": "Niue",
+    "hi": "नियू",
+    "ar": "نيو"
+  }
+}

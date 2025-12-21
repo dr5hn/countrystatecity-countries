@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104810,
+    "name": "Mogadishu",
+    "state_id": 927,
+    "state_code": "BN",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "2.03711000",
+    "longitude": "45.34375000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

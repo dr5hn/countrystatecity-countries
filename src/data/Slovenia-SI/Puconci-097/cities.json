@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104239,
+    "name": "Puconci",
+    "state_id": 4288,
+    "state_code": "097",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.70667000",
+    "longitude": "16.15639000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

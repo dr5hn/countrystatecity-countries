@@ -1,0 +1,50 @@
+{
+  "id": 242,
+  "name": "Virgin Islands (US)",
+  "iso2": "VI",
+  "iso3": "VIR",
+  "numeric_code": "850",
+  "phonecode": "1",
+  "capital": "Charlotte Amalie",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".vi",
+  "native": "United States Virgin Islands",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "U.S. Virgin Island",
+  "latitude": "18.34000000",
+  "longitude": "-64.93000000",
+  "emoji": "🇻🇮",
+  "emojiU": "U+1F1FB U+1F1EE",
+  "timezones": [
+    {
+      "zoneName": "America/St_Thomas",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Inizi Gwerc'h ar Stadoù-Unanet",
+    "ko": "미국령 버진아일랜드",
+    "pt-BR": "Ilhas Virgens Americanas",
+    "pt": "Ilhas Virgens Americanas",
+    "nl": "Verenigde Staten Maagdeneilanden",
+    "fa": "جزایر ویرجین آمریکا",
+    "de": "Amerikanische Jungferninseln",
+    "es": "Islas Vírgenes de los Estados Unidos",
+    "fr": "Îles Vierges des États-Unis",
+    "ja": "アメリカ領ヴァージン諸島",
+    "it": "Isole Vergini americane",
+    "zh-CN": "维尔京群岛（美国）",
+    "tr": "Abd Virjin Adalari",
+    "ru": "Виргинские острова (США)",
+    "uk": "Віргінські острови (США)",
+    "pl": "Wyspy Dziewicze (USA)",
+    "hi": "वर्जिन आइलैंड्स (यूएस)",
+    "ar": "جزر فيرجن (الولايات المتحدة)"
+  }
+}

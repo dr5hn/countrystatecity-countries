@@ -1,0 +1,93 @@
+[
+  {
+    "id": 16209,
+    "name": "Behchokǫ̀",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "62.80250000",
+    "longitude": "-116.04639000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  },
+  {
+    "id": 16431,
+    "name": "Fort McPherson",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "67.43863000",
+    "longitude": "-134.88543000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  },
+  {
+    "id": 16434,
+    "name": "Fort Smith",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "60.00439000",
+    "longitude": "-111.88871000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  },
+  {
+    "id": 16498,
+    "name": "Hay River",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "60.81555000",
+    "longitude": "-115.79993000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  },
+  {
+    "id": 16522,
+    "name": "Inuvik",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "68.34986000",
+    "longitude": "-133.72181000",
+    "native": null,
+    "timezone": "America/Toronto",
+    "translations": {}
+  },
+  {
+    "id": 16753,
+    "name": "Norman Wells",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "65.28201000",
+    "longitude": "-126.83290000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  },
+  {
+    "id": 17221,
+    "name": "Yellowknife",
+    "state_id": 878,
+    "state_code": "NT",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "62.45411000",
+    "longitude": "-114.37248000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  }
+]

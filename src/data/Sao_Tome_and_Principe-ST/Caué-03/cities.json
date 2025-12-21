@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160118,
+    "name": "São João dos Angolares",
+    "state_id": 5730,
+    "state_code": "03",
+    "country_id": 193,
+    "country_code": "ST",
+    "latitude": "0.13720000",
+    "longitude": "6.64972000",
+    "native": null,
+    "timezone": "Africa/Sao_Tome",
+    "translations": {}
+  }
+]

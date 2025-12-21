@@ -1,0 +1,41 @@
+[
+  {
+    "id": 48130,
+    "name": "Booué",
+    "state_id": 2724,
+    "state_code": "6",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "-0.09207000",
+    "longitude": "11.93846000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48140,
+    "name": "Makokou",
+    "state_id": 2724,
+    "state_code": "6",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "0.57381000",
+    "longitude": "12.86419000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  },
+  {
+    "id": 48156,
+    "name": "Zadie",
+    "state_id": 2724,
+    "state_code": "6",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "0.92582000",
+    "longitude": "13.90813000",
+    "native": null,
+    "timezone": "Africa/Libreville",
+    "translations": {}
+  }
+]

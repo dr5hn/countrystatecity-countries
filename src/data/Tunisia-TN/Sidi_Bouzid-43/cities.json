@@ -1,0 +1,67 @@
+[
+  {
+    "id": 106925,
+    "name": "Bir el Hafey",
+    "state_id": 2567,
+    "state_code": "43",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.93212000",
+    "longitude": "9.19321000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106949,
+    "name": "Er Regueb",
+    "state_id": 2567,
+    "state_code": "43",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.85932000",
+    "longitude": "9.78654000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106967,
+    "name": "Jilma",
+    "state_id": 2567,
+    "state_code": "43",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "35.27311000",
+    "longitude": "9.42385000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106995,
+    "name": "Mezzouna",
+    "state_id": 2567,
+    "state_code": "43",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "34.57758000",
+    "longitude": "9.84193000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107024,
+    "name": "Sidi Bouzid",
+    "state_id": 2567,
+    "state_code": "43",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "35.03823000",
+    "longitude": "9.48494000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

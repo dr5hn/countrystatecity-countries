@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67018,
+    "name": "Hūn",
+    "state_id": 2970,
+    "state_code": "JU",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "29.12684000",
+    "longitude": "15.94772000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67035,
+    "name": "Waddān",
+    "state_id": 2970,
+    "state_code": "JU",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "29.16140000",
+    "longitude": "16.13904000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 56361,
+    "name": "Bintan",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.95000000",
+    "longitude": "104.61944000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56441,
+    "name": "Karimun",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.80764000",
+    "longitude": "103.41911000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56450,
+    "name": "Kepulauan Anambas",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.00000000",
+    "longitude": "106.00000000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56716,
+    "name": "Kijang",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.90000000",
+    "longitude": "104.63333000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56495,
+    "name": "Lingga",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.20000000",
+    "longitude": "104.61667000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 56554,
+    "name": "Natuna",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.71417000",
+    "longitude": "107.97639000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  },
+  {
+    "id": 57018,
+    "name": "Tanjung Pinang",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.91667000",
+    "longitude": "104.45833000",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "translations": {}
+  }
+]

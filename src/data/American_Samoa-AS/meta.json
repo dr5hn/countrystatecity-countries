@@ -1,0 +1,51 @@
+{
+  "id": 5,
+  "name": "American Samoa",
+  "iso2": "AS",
+  "iso3": "ASM",
+  "numeric_code": "016",
+  "phonecode": "1",
+  "capital": "Pago Pago",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".as",
+  "native": "American Samoa",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "nationality": "American Samoan",
+  "latitude": "-14.33333333",
+  "longitude": "-170.00000000",
+  "emoji": "🇦🇸",
+  "emojiU": "U+1F1E6 U+1F1F8",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Pago_Pago",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "SST",
+      "tzName": "Samoa Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Samoa Amerikan",
+    "ko": "아메리칸사모아",
+    "pt-BR": "Samoa Americana",
+    "pt": "Samoa Americana",
+    "nl": "Amerikaans Samoa",
+    "hr": "Američka Samoa",
+    "fa": "ساموآی آمریکا",
+    "de": "Amerikanisch-Samoa",
+    "es": "Samoa Americana",
+    "fr": "Samoa américaines",
+    "ja": "アメリカ領サモア",
+    "it": "Samoa Americane",
+    "zh-CN": "美属萨摩亚",
+    "tr": "Amerikan Samoasi",
+    "ru": "Американское Самоа",
+    "uk": "Американське Самоа",
+    "pl": "Samoa Amerykańskie",
+    "hi": "अमेरिकी समोआ",
+    "ar": "ساموا الأمريكية"
+  }
+}

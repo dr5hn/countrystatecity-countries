@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135169,
+    "name": "Dalabyggð",
+    "state_id": 5561,
+    "state_code": "DAB",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.10121000",
+    "longitude": "-21.72871000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

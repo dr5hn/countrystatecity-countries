@@ -1,0 +1,51 @@
+{
+  "id": 92,
+  "name": "Guinea",
+  "iso2": "GN",
+  "iso3": "GIN",
+  "numeric_code": "324",
+  "phonecode": "224",
+  "capital": "Conakry",
+  "currency": "GNF",
+  "currency_name": "Guinean franc",
+  "currency_symbol": "FG",
+  "tld": ".gn",
+  "native": "Guinée",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "nationality": "Guinean",
+  "latitude": "11.00000000",
+  "longitude": "-10.00000000",
+  "emoji": "🇬🇳",
+  "emojiU": "U+1F1EC U+1F1F3",
+  "timezones": [
+    {
+      "zoneName": "Africa/Conakry",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Ginea",
+    "ko": "기니",
+    "pt-BR": "Guiné",
+    "pt": "Guiné",
+    "nl": "Guinee",
+    "hr": "Gvineja",
+    "fa": "گینه",
+    "de": "Guinea",
+    "es": "Guinea",
+    "fr": "Guinée",
+    "ja": "ギニア",
+    "it": "Guinea",
+    "zh-CN": "几内亚",
+    "tr": "Gine",
+    "ru": "Гвинея",
+    "uk": "Гвінея",
+    "pl": "Gwinea",
+    "hi": "गिनी",
+    "ar": "غينيا"
+  }
+}

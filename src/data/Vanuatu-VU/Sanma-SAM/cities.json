@@ -1,0 +1,28 @@
+[
+  {
+    "id": 130638,
+    "name": "Luganville",
+    "state_id": 4776,
+    "state_code": "SAM",
+    "country_id": 237,
+    "country_code": "VU",
+    "latitude": "-15.51989000",
+    "longitude": "167.16235000",
+    "native": null,
+    "timezone": "Pacific/Efate",
+    "translations": {}
+  },
+  {
+    "id": 130640,
+    "name": "Port-Olry",
+    "state_id": 4776,
+    "state_code": "SAM",
+    "country_id": 237,
+    "country_code": "VU",
+    "latitude": "-15.04175000",
+    "longitude": "167.07265000",
+    "native": null,
+    "timezone": "Pacific/Efate",
+    "translations": {}
+  }
+]

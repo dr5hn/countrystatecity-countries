@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67824,
+    "name": "Żejtun",
+    "state_id": 135,
+    "state_code": "67",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.85583000",
+    "longitude": "14.53306000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104258,
+    "name": "Rogaška Slatina",
+    "state_id": 4233,
+    "state_code": "106",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.23750000",
+    "longitude": "15.63972000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

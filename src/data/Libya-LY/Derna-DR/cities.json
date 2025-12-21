@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67003,
+    "name": "Al Qubbah",
+    "state_id": 2966,
+    "state_code": "DR",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.75684000",
+    "longitude": "22.24106000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67012,
+    "name": "Darnah",
+    "state_id": 2966,
+    "state_code": "DR",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.76704000",
+    "longitude": "22.63669000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

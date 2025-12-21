@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104256,
+    "name": "Ribnica na Pohorju",
+    "state_id": 4207,
+    "state_code": "177",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.53500000",
+    "longitude": "15.27278000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31490,
+    "name": "Boca Suno",
+    "state_id": 2926,
+    "state_code": "D",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.69832000",
+    "longitude": "-77.14083000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31506,
+    "name": "Francisco de Orellana Canton",
+    "state_id": 2926,
+    "state_code": "D",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.46667000",
+    "longitude": "-76.96667000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31523,
+    "name": "Loreto Canton",
+    "state_id": 2926,
+    "state_code": "D",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.69487000",
+    "longitude": "-77.30255000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31554,
+    "name": "Puerto Francisco de Orellana",
+    "state_id": 2926,
+    "state_code": "D",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-0.46645000",
+    "longitude": "-76.98719000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67739,
+    "name": "Undurkhaan",
+    "state_id": 1974,
+    "state_code": "039",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "47.31944000",
+    "longitude": "110.65556000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

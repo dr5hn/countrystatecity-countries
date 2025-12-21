@@ -1,0 +1,80 @@
+[
+  {
+    "id": 80565,
+    "name": "Atalaya",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-10.38980000",
+    "longitude": "-73.21977000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80589,
+    "name": "Campoverde",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-8.47533000",
+    "longitude": "-74.80709000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80744,
+    "name": "Padre Abad",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-8.79680000",
+    "longitude": "-75.42850000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80815,
+    "name": "Provincia de Coronel Portillo",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-9.50000000",
+    "longitude": "-73.33333000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80913,
+    "name": "Pucallpa",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-8.37915000",
+    "longitude": "-74.55387000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  },
+  {
+    "id": 80925,
+    "name": "Purus",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-10.37331000",
+    "longitude": "-71.58231000",
+    "native": null,
+    "timezone": "America/Lima",
+    "translations": {}
+  }
+]

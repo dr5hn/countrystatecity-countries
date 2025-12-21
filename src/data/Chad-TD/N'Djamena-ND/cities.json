@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153264,
+    "name": "N'Djamena",
+    "state_id": 3586,
+    "state_code": "ND",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.11000000",
+    "longitude": "15.05000000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

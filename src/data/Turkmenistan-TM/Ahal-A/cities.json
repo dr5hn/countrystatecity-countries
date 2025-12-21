@@ -1,0 +1,80 @@
+[
+  {
+    "id": 106880,
+    "name": "Abadan",
+    "state_id": 3374,
+    "state_code": "A",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "38.05415000",
+    "longitude": "58.19721000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106882,
+    "name": "Annau",
+    "state_id": 3374,
+    "state_code": "A",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.88754000",
+    "longitude": "58.51596000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106883,
+    "name": "Arçabil",
+    "state_id": 3374,
+    "state_code": "A",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.91500000",
+    "longitude": "58.08987000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106886,
+    "name": "Baharly",
+    "state_id": 3374,
+    "state_code": "A",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "38.43624000",
+    "longitude": "57.43158000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106896,
+    "name": "Kaka",
+    "state_id": 3374,
+    "state_code": "A",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.34821000",
+    "longitude": "59.61431000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  },
+  {
+    "id": 106905,
+    "name": "Tejen",
+    "state_id": 3374,
+    "state_code": "A",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "37.38338000",
+    "longitude": "60.50545000",
+    "native": null,
+    "timezone": "Asia/Ashgabat",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67361,
+    "name": "Plav",
+    "state_id": 19,
+    "state_code": "13",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.59694000",
+    "longitude": "19.94556000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104924,
+    "name": "Sensuntepeque",
+    "state_id": 4132,
+    "state_code": "CA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.86667000",
+    "longitude": "-88.63333000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104937,
+    "name": "Victoria",
+    "state_id": 4132,
+    "state_code": "CA",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.95000000",
+    "longitude": "-88.63333000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  }
+]

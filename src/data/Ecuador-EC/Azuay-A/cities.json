@@ -1,0 +1,80 @@
+[
+  {
+    "id": 31493,
+    "name": "Cantón San Fernando",
+    "state_id": 2923,
+    "state_code": "A",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-3.13349000",
+    "longitude": "-79.26893000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31501,
+    "name": "Cuenca",
+    "state_id": 2923,
+    "state_code": "A",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.90055000",
+    "longitude": "-79.00453000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31507,
+    "name": "Gualaceo",
+    "state_id": 2923,
+    "state_code": "A",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.89264000",
+    "longitude": "-78.77814000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31519,
+    "name": "La Unión",
+    "state_id": 2923,
+    "state_code": "A",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.85000000",
+    "longitude": "-78.78333000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31521,
+    "name": "Llacao",
+    "state_id": 2923,
+    "state_code": "A",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.86667000",
+    "longitude": "-78.88333000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31535,
+    "name": "Nulti",
+    "state_id": 2923,
+    "state_code": "A",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "-2.91667000",
+    "longitude": "-78.85000000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

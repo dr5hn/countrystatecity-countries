@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104069,
+    "name": "Bled",
+    "state_id": 4202,
+    "state_code": "003",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.36917000",
+    "longitude": "14.11361000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104144,
+    "name": "Kostanjevica na Krki",
+    "state_id": 4202,
+    "state_code": "003",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.84611000",
+    "longitude": "15.42222000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104326,
+    "name": "Zasip",
+    "state_id": 4202,
+    "state_code": "003",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.39284000",
+    "longitude": "14.10869000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

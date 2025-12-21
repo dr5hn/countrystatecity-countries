@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21937,
+    "name": "Nueva Gerona",
+    "state_id": 278,
+    "state_code": "99",
+    "country_id": 56,
+    "country_code": "CU",
+    "latitude": "21.88667000",
+    "longitude": "-82.80556000",
+    "native": null,
+    "timezone": "America/Havana",
+    "translations": {}
+  }
+]

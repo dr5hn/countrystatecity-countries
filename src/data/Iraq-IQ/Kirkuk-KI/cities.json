@@ -1,0 +1,15 @@
+[
+  {
+    "id": 134521,
+    "name": "Kirkuk",
+    "state_id": 3971,
+    "state_code": "KI",
+    "country_id": 104,
+    "country_code": "IQ",
+    "latitude": "35.46806000",
+    "longitude": "44.39222000",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "translations": {}
+  }
+]

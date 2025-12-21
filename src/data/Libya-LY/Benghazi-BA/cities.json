@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67010,
+    "name": "Benghazi",
+    "state_id": 2981,
+    "state_code": "BA",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "32.11486000",
+    "longitude": "20.06859000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  },
+  {
+    "id": 67026,
+    "name": "Qaryat Sulūq",
+    "state_id": 2981,
+    "state_code": "BA",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "31.66818000",
+    "longitude": "20.25205000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

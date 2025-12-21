@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102907,
+    "name": "Anse Royale",
+    "state_id": 502,
+    "state_code": "05",
+    "country_id": 197,
+    "country_code": "SC",
+    "latitude": "-4.73333000",
+    "longitude": "55.51667000",
+    "native": null,
+    "timezone": "Indian/Mahe",
+    "translations": {}
+  }
+]

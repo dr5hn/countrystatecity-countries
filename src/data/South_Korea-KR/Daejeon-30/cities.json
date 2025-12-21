@@ -1,0 +1,67 @@
+[
+  {
+    "id": 65301,
+    "name": "Daejeon",
+    "state_id": 3850,
+    "state_code": "30",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.34913000",
+    "longitude": "127.38493000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65486,
+    "name": "Seo-gu",
+    "state_id": 3850,
+    "state_code": "30",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.27211000",
+    "longitude": "127.33100000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65503,
+    "name": "Sintansin",
+    "state_id": 3850,
+    "state_code": "30",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.45361000",
+    "longitude": "127.43111000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65506,
+    "name": "Songgangdong",
+    "state_id": 3850,
+    "state_code": "30",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.43387000",
+    "longitude": "127.37587000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  },
+  {
+    "id": 65567,
+    "name": "Yuseong-gu",
+    "state_id": 3850,
+    "state_code": "30",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.36685000",
+    "longitude": "127.32700000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  }
+]

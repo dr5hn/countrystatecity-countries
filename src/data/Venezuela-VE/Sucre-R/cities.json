@@ -1,0 +1,54 @@
+[
+  {
+    "id": 130059,
+    "name": "Carúpano",
+    "state_id": 2056,
+    "state_code": "R",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.66516000",
+    "longitude": "-63.25387000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130072,
+    "name": "Cumaná",
+    "state_id": 2056,
+    "state_code": "R",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.45397000",
+    "longitude": "-64.18256000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130086,
+    "name": "Güiria",
+    "state_id": 2056,
+    "state_code": "R",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.57721000",
+    "longitude": "-62.29841000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130123,
+    "name": "Municipio Valdez",
+    "state_id": 2056,
+    "state_code": "R",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.57945000",
+    "longitude": "-62.30029000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

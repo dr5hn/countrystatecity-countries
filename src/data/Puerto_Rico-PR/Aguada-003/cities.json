@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153550,
+    "name": "Aguada",
+    "state_id": 5135,
+    "state_code": "003",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.38015790",
+    "longitude": "-67.18870400",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

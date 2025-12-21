@@ -1,0 +1,67 @@
+[
+  {
+    "id": 131329,
+    "name": "Chadiza",
+    "state_id": 1991,
+    "state_code": "03",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-14.06779000",
+    "longitude": "32.43917000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131338,
+    "name": "Chipata",
+    "state_id": 1991,
+    "state_code": "03",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-13.63333000",
+    "longitude": "32.65000000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131364,
+    "name": "Lundazi",
+    "state_id": 1991,
+    "state_code": "03",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-12.29292000",
+    "longitude": "33.17820000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131389,
+    "name": "Nyimba",
+    "state_id": 1991,
+    "state_code": "03",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-14.55656000",
+    "longitude": "30.81490000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  },
+  {
+    "id": 131390,
+    "name": "Petauke",
+    "state_id": 1991,
+    "state_code": "03",
+    "country_id": 246,
+    "country_code": "ZM",
+    "latitude": "-14.24117000",
+    "longitude": "31.31975000",
+    "native": null,
+    "timezone": "Africa/Lusaka",
+    "translations": {}
+  }
+]

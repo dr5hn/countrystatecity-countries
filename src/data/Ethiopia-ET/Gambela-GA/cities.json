@@ -1,0 +1,28 @@
+[
+  {
+    "id": 38588,
+    "name": "Administrative Zone 1",
+    "state_id": 10,
+    "state_code": "GA",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "8.14699000",
+    "longitude": "33.97335000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38632,
+    "name": "Gambēla",
+    "state_id": 10,
+    "state_code": "GA",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "8.25000000",
+    "longitude": "34.58333000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

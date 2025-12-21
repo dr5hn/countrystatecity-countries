@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17299,
+    "name": "Baoro",
+    "state_id": 1260,
+    "state_code": "NM",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "5.66667000",
+    "longitude": "15.96667000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17310,
+    "name": "Bouar",
+    "state_id": 1260,
+    "state_code": "NM",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "5.93404000",
+    "longitude": "15.59599000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

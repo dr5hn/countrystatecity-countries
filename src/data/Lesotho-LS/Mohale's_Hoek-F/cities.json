@@ -1,0 +1,15 @@
+[
+  {
+    "id": 66569,
+    "name": "Mohale’s Hoek",
+    "state_id": 3023,
+    "state_code": "F",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-30.15137000",
+    "longitude": "27.47691000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104259,
+    "name": "Rogašovci",
+    "state_id": 4264,
+    "state_code": "105",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.80000000",
+    "longitude": "16.03333000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

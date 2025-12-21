@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160073,
+    "name": "Aur",
+    "state_id": 5646,
+    "state_code": "AUR",
+    "country_id": 137,
+    "country_code": "MH",
+    "latitude": "8.20000000",
+    "longitude": "171.10000000",
+    "native": null,
+    "timezone": "Pacific/Kwajalein",
+    "translations": {}
+  }
+]

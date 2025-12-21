@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153571,
+    "name": "Comerío",
+    "state_id": 5156,
+    "state_code": "045",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.21920010",
+    "longitude": "-66.22560220",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

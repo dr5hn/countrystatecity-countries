@@ -1,0 +1,80 @@
+[
+  {
+    "id": 18873,
+    "name": "Bafing",
+    "state_id": 2650,
+    "state_code": "WR",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "8.40611000",
+    "longitude": "-7.58048000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18888,
+    "name": "Béré",
+    "state_id": 2650,
+    "state_code": "WR",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "8.18952000",
+    "longitude": "-6.17157000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18920,
+    "name": "Mankono",
+    "state_id": 2650,
+    "state_code": "WR",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "8.05861000",
+    "longitude": "-6.18972000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18932,
+    "name": "Séguéla",
+    "state_id": 2650,
+    "state_code": "WR",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "7.96111000",
+    "longitude": "-6.67306000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18937,
+    "name": "Touba",
+    "state_id": 2650,
+    "state_code": "WR",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "8.28333000",
+    "longitude": "-7.68333000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  },
+  {
+    "id": 18941,
+    "name": "Worodougou",
+    "state_id": 2650,
+    "state_code": "WR",
+    "country_id": 54,
+    "country_code": "CI",
+    "latitude": "8.16482000",
+    "longitude": "-6.66595000",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "translations": {}
+  }
+]

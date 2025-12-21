@@ -1,0 +1,15 @@
+[
+  {
+    "id": 48482,
+    "name": "Bethnal Green",
+    "state_id": 2411,
+    "state_code": "HCK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.52718000",
+    "longitude": "-0.06109000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

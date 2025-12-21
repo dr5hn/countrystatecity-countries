@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67549,
+    "name": "Vasilevo",
+    "state_id": 658,
+    "state_code": "404",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.47408000",
+    "longitude": "22.64301000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

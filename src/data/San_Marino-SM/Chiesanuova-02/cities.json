@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104699,
+    "name": "Poggio di Chiesanuova",
+    "state_id": 60,
+    "state_code": "02",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.90451000",
+    "longitude": "12.42142000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

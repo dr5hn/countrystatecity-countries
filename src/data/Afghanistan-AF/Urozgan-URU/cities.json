@@ -1,0 +1,28 @@
+[
+  {
+    "id": 127,
+    "name": "Tarinkot",
+    "state_id": 3898,
+    "state_code": "URU",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.62998000",
+    "longitude": "65.87806000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 130,
+    "name": "Uruzgān",
+    "state_id": 3898,
+    "state_code": "URU",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "32.92775000",
+    "longitude": "66.63253000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

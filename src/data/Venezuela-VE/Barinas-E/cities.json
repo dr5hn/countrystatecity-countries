@@ -1,0 +1,54 @@
+[
+  {
+    "id": 130040,
+    "name": "Alto Barinas",
+    "state_id": 2049,
+    "state_code": "E",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.59310000",
+    "longitude": "-70.22610000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130045,
+    "name": "Barinas",
+    "state_id": 2049,
+    "state_code": "E",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.62261000",
+    "longitude": "-70.20749000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130046,
+    "name": "Barinitas",
+    "state_id": 2049,
+    "state_code": "E",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.76171000",
+    "longitude": "-70.41199000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  },
+  {
+    "id": 130111,
+    "name": "Municipio Barinas",
+    "state_id": 2049,
+    "state_code": "E",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "8.61497000",
+    "longitude": "-70.19852000",
+    "native": null,
+    "timezone": "America/Caracas",
+    "translations": {}
+  }
+]

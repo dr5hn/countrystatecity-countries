@@ -1,0 +1,93 @@
+[
+  {
+    "id": 153256,
+    "name": "Baguirmi Department",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "11.39833333",
+    "longitude": "16.16750000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 153257,
+    "name": "Bousso",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "10.48250000",
+    "longitude": "16.71611111",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 153259,
+    "name": "Dababa",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.38000000",
+    "longitude": "17.06000000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 153260,
+    "name": "Gaoui",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.18070000",
+    "longitude": "15.14760000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 153261,
+    "name": "Linia",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "12.05621410",
+    "longitude": "15.30379870",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 153262,
+    "name": "Mandjafa",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "11.19861111",
+    "longitude": "15.36111111",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  },
+  {
+    "id": 153263,
+    "name": "Massenya",
+    "state_id": 5114,
+    "state_code": "CB",
+    "country_id": 43,
+    "country_code": "TD",
+    "latitude": "11.40277778",
+    "longitude": "16.17000000",
+    "native": null,
+    "timezone": "Africa/Ndjamena",
+    "translations": {}
+  }
+]

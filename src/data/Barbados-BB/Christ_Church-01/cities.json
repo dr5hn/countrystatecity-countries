@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8452,
+    "name": "Oistins",
+    "state_id": 1228,
+    "state_code": "01",
+    "country_id": 20,
+    "country_code": "BB",
+    "latitude": "13.07067000",
+    "longitude": "-59.54637000",
+    "native": null,
+    "timezone": "America/Barbados",
+    "translations": {}
+  }
+]

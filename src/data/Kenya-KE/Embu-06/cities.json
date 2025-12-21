@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64783,
+    "name": "Embu",
+    "state_id": 163,
+    "state_code": "06",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.53987000",
+    "longitude": "37.45743000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

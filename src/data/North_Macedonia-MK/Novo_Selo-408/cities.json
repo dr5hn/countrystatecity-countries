@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67493,
+    "name": "Novo Selo",
+    "state_id": 718,
+    "state_code": "408",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.41486000",
+    "longitude": "22.88164000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67540,
+    "name": "Sušica",
+    "state_id": 718,
+    "state_code": "408",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.43982000",
+    "longitude": "22.83676000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

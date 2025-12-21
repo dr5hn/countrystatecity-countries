@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104695,
+    "name": "Domagnano",
+    "state_id": 64,
+    "state_code": "03",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.94961000",
+    "longitude": "12.46828000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 594,
+    "name": "Camabatela",
+    "state_id": 217,
+    "state_code": "CNO",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-8.18812000",
+    "longitude": "15.37495000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
+    "id": 627,
+    "name": "N’dalatando",
+    "state_id": 217,
+    "state_code": "CNO",
+    "country_id": 7,
+    "country_code": "AO",
+    "latitude": "-9.29782000",
+    "longitude": "14.91162000",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  }
+]

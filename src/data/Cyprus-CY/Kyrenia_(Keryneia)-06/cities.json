@@ -1,0 +1,41 @@
+[
+  {
+    "id": 22045,
+    "name": "Kyrenia",
+    "state_id": 744,
+    "state_code": "06",
+    "country_id": 57,
+    "country_code": "CY",
+    "latitude": "35.33634000",
+    "longitude": "33.31729000",
+    "native": null,
+    "timezone": "Asia/Famagusta",
+    "translations": {}
+  },
+  {
+    "id": 22046,
+    "name": "Kyrenia Municipality",
+    "state_id": 744,
+    "state_code": "06",
+    "country_id": 57,
+    "country_code": "CY",
+    "latitude": "35.33672000",
+    "longitude": "33.31504000",
+    "native": null,
+    "timezone": "Asia/Famagusta",
+    "translations": {}
+  },
+  {
+    "id": 22059,
+    "name": "Lápithos",
+    "state_id": 744,
+    "state_code": "06",
+    "country_id": 57,
+    "country_code": "CY",
+    "latitude": "35.33823000",
+    "longitude": "33.17368000",
+    "native": null,
+    "timezone": "Asia/Famagusta",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135197,
+    "name": "Kópavogur",
+    "state_id": 5584,
+    "state_code": "KOP",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.11234000",
+    "longitude": "-21.91298000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154138,
+    "name": "Grande Vingtaine",
+    "state_id": 5318,
+    "state_code": "10",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21065500",
+    "longitude": "-2.19606360",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154139,
+    "name": "Vingtaine des Augerez",
+    "state_id": 5318,
+    "state_code": "10",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20776790",
+    "longitude": "-2.18629780",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154140,
+    "name": "Vingtaine du Coin Varin",
+    "state_id": 5318,
+    "state_code": "10",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.21451950",
+    "longitude": "-2.18722550",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  },
+  {
+    "id": 154137,
+    "name": "Vingtaine du Douet",
+    "state_id": 5318,
+    "state_code": "10",
+    "country_id": 110,
+    "country_code": "JE",
+    "latitude": "49.20988070",
+    "longitude": "-2.18453420",
+    "native": null,
+    "timezone": "Europe/Jersey",
+    "translations": {}
+  }
+]

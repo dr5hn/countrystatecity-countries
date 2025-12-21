@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8117,
+    "name": "Mincivan",
+    "state_id": 581,
+    "state_code": "ZAN",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.03023000",
+    "longitude": "46.72329000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8202,
+    "name": "Zangilan",
+    "state_id": 581,
+    "state_code": "ZAN",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.08371000",
+    "longitude": "46.65988000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

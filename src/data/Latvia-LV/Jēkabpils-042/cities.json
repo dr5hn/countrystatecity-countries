@@ -1,0 +1,54 @@
+[
+  {
+    "id": 66872,
+    "name": "Aknīste",
+    "state_id": 4438,
+    "state_code": "042",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.16152000",
+    "longitude": "25.74783000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66908,
+    "name": "Jēkabpils",
+    "state_id": 4438,
+    "state_code": "042",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.49903000",
+    "longitude": "25.85735000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66914,
+    "name": "Krustpils",
+    "state_id": 4438,
+    "state_code": "042",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.51068000",
+    "longitude": "25.86117000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66985,
+    "name": "Viesīte",
+    "state_id": 4438,
+    "state_code": "042",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.34751000",
+    "longitude": "25.55514000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

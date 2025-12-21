@@ -1,0 +1,93 @@
+[
+  {
+    "id": 67424,
+    "name": "Drugovo",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.48490000",
+    "longitude": "20.92636000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67452,
+    "name": "Kičevo",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.51267000",
+    "longitude": "20.95886000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67530,
+    "name": "Srbica",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.58672000",
+    "longitude": "21.03027000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67535,
+    "name": "Strelci",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.54046000",
+    "longitude": "21.00563000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67545,
+    "name": "Tuin",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.61944000",
+    "longitude": "21.04528000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67557,
+    "name": "Vraneštica",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.44496000",
+    "longitude": "21.02683000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67561,
+    "name": "Zajas",
+    "state_id": 688,
+    "state_code": "307",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.60722000",
+    "longitude": "20.93833000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

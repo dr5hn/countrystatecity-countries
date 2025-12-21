@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104696,
+    "name": "Faetano",
+    "state_id": 62,
+    "state_code": "04",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.92831000",
+    "longitude": "12.49798000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

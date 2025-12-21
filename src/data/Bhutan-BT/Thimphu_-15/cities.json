@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15722,
+    "name": "Thimphu",
+    "state_id": 241,
+    "state_code": "15",
+    "country_id": 26,
+    "country_code": "BT",
+    "latitude": "27.46609000",
+    "longitude": "89.64191000",
+    "native": null,
+    "timezone": "Asia/Thimphu",
+    "translations": {}
+  }
+]

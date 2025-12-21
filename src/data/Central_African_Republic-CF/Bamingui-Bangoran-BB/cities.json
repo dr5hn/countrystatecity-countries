@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17296,
+    "name": "Bamingui",
+    "state_id": 1259,
+    "state_code": "BB",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "7.88897000",
+    "longitude": "20.04875000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  },
+  {
+    "id": 17329,
+    "name": "Ndélé",
+    "state_id": 1259,
+    "state_code": "BB",
+    "country_id": 42,
+    "country_code": "CF",
+    "latitude": "8.74287000",
+    "longitude": "20.89108000",
+    "native": null,
+    "timezone": "Africa/Bangui",
+    "translations": {}
+  }
+]

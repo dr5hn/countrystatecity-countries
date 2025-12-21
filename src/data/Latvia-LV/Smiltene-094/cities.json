@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66876,
+    "name": "Ape",
+    "state_id": 4462,
+    "state_code": "094",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.53928000",
+    "longitude": "26.69291000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66946,
+    "name": "Rauna",
+    "state_id": 4462,
+    "state_code": "094",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.33173000",
+    "longitude": "25.60947000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66964,
+    "name": "Smiltene",
+    "state_id": 4462,
+    "state_code": "094",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "57.42444000",
+    "longitude": "25.90164000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

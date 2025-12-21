@@ -1,0 +1,54 @@
+[
+  {
+    "id": 111028,
+    "name": "Adams Morgan",
+    "state_id": 1437,
+    "state_code": "DC",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "38.92150000",
+    "longitude": "-77.04220000",
+    "native": null,
+    "timezone": "America/New_York",
+    "translations": {}
+  },
+  {
+    "id": 112444,
+    "name": "Bloomingdale",
+    "state_id": 1437,
+    "state_code": "DC",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "38.91678000",
+    "longitude": "-77.01137000",
+    "native": null,
+    "timezone": "America/New_York",
+    "translations": {}
+  },
+  {
+    "id": 113920,
+    "name": "Chevy Chase",
+    "state_id": 1437,
+    "state_code": "DC",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "38.96400000",
+    "longitude": "-77.06776000",
+    "native": null,
+    "timezone": "America/New_York",
+    "translations": {}
+  },
+  {
+    "id": 128587,
+    "name": "Washington D.C.",
+    "state_id": 1437,
+    "state_code": "DC",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "38.89511000",
+    "longitude": "-77.03637000",
+    "native": null,
+    "timezone": "America/New_York",
+    "translations": {}
+  }
+]

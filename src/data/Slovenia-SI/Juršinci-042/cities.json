@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104131,
+    "name": "Juršinci",
+    "state_id": 4266,
+    "state_code": "042",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.48472000",
+    "longitude": "15.97139000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

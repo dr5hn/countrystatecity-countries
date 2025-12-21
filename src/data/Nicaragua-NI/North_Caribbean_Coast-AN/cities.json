@@ -1,0 +1,80 @@
+[
+  {
+    "id": 77161,
+    "name": "Bonanza",
+    "state_id": 951,
+    "state_code": "AN",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "14.02885000",
+    "longitude": "-84.59103000",
+    "native": null,
+    "timezone": "America/Managua",
+    "translations": {}
+  },
+  {
+    "id": 77248,
+    "name": "Prinzapolka",
+    "state_id": 951,
+    "state_code": "AN",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "13.40708000",
+    "longitude": "-83.56452000",
+    "native": null,
+    "timezone": "America/Managua",
+    "translations": {}
+  },
+  {
+    "id": 77250,
+    "name": "Puerto Cabezas",
+    "state_id": 951,
+    "state_code": "AN",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "14.03507000",
+    "longitude": "-83.38882000",
+    "native": null,
+    "timezone": "America/Managua",
+    "translations": {}
+  },
+  {
+    "id": 77279,
+    "name": "Siuna",
+    "state_id": 951,
+    "state_code": "AN",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "13.73321000",
+    "longitude": "-84.77725000",
+    "native": null,
+    "timezone": "America/Managua",
+    "translations": {}
+  },
+  {
+    "id": 77294,
+    "name": "Waslala",
+    "state_id": 951,
+    "state_code": "AN",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "13.23333000",
+    "longitude": "-85.38333000",
+    "native": null,
+    "timezone": "America/Managua",
+    "translations": {}
+  },
+  {
+    "id": 77295,
+    "name": "Waspán",
+    "state_id": 951,
+    "state_code": "AN",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "14.74189000",
+    "longitude": "-83.97170000",
+    "native": null,
+    "timezone": "America/Managua",
+    "translations": {}
+  }
+]

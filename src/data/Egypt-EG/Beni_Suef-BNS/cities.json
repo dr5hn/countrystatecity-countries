@@ -1,0 +1,54 @@
+[
+  {
+    "id": 31768,
+    "name": "Al Fashn",
+    "state_id": 3230,
+    "state_code": "BNS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.82431000",
+    "longitude": "30.89948000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31798,
+    "name": "Banī Suwayf",
+    "state_id": 3230,
+    "state_code": "BNS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "29.07441000",
+    "longitude": "31.09785000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31801,
+    "name": "Būsh",
+    "state_id": 3230,
+    "state_code": "BNS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "29.14816000",
+    "longitude": "31.12733000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  },
+  {
+    "id": 31869,
+    "name": "Sumusţā as Sulţānī",
+    "state_id": 3230,
+    "state_code": "BNS",
+    "country_id": 65,
+    "country_code": "EG",
+    "latitude": "28.91667000",
+    "longitude": "30.85000000",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "translations": {}
+  }
+]

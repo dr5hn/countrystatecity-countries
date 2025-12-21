@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67761,
+    "name": "Birżebbuġa",
+    "state_id": 88,
+    "state_code": "05",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.82583000",
+    "longitude": "14.52694000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  },
+  {
+    "id": 153734,
+    "name": "Ħal Far",
+    "state_id": 88,
+    "state_code": "05",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.81134900",
+    "longitude": "14.51068600",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 69,
+    "name": "Gardez",
+    "state_id": 3894,
+    "state_code": "PIA",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "33.59744000",
+    "longitude": "69.22592000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

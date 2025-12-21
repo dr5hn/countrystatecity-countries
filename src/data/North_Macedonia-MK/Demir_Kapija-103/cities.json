@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67411,
+    "name": "Demir Kapija",
+    "state_id": 655,
+    "state_code": "103",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.40613000",
+    "longitude": "22.24631000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

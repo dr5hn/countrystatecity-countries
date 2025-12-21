@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104834,
+    "name": "Yirol",
+    "state_id": 2090,
+    "state_code": "LK",
+    "country_id": 206,
+    "country_code": "SS",
+    "latitude": "6.55250000",
+    "longitude": "30.49806000",
+    "native": null,
+    "timezone": "Africa/Juba",
+    "translations": {}
+  }
+]

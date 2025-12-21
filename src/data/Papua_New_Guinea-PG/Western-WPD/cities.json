@@ -1,0 +1,80 @@
+[
+  {
+    "id": 81035,
+    "name": "Daru",
+    "state_id": 4850,
+    "state_code": "WPD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-9.07786000",
+    "longitude": "143.20893000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81067,
+    "name": "Kiunga",
+    "state_id": 4850,
+    "state_code": "WPD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-6.12193000",
+    "longitude": "141.29061000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81083,
+    "name": "Middle Fly",
+    "state_id": 4850,
+    "state_code": "WPD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-7.16667000",
+    "longitude": "142.03333000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81085,
+    "name": "Morehead",
+    "state_id": 4850,
+    "state_code": "WPD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-8.71065000",
+    "longitude": "141.63668000",
+    "native": null,
+    "timezone": "Pacific/Port_Moresby",
+    "translations": {}
+  },
+  {
+    "id": 81092,
+    "name": "North Fly",
+    "state_id": 4850,
+    "state_code": "WPD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-5.72896000",
+    "longitude": "141.37482000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  },
+  {
+    "id": 81110,
+    "name": "South Fly",
+    "state_id": 4850,
+    "state_code": "WPD",
+    "country_id": 171,
+    "country_code": "PG",
+    "latitude": "-8.61667000",
+    "longitude": "142.11667000",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67799,
+    "name": "Qrendi",
+    "state_id": 111,
+    "state_code": "44",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.83472000",
+    "longitude": "14.45833000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

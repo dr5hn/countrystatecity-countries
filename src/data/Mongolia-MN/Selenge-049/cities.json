@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67716,
+    "name": "Dzüünharaa",
+    "state_id": 1980,
+    "state_code": "049",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "48.85229000",
+    "longitude": "106.45786000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  },
+  {
+    "id": 67731,
+    "name": "Sühbaatar",
+    "state_id": 1980,
+    "state_code": "049",
+    "country_id": 146,
+    "country_code": "MN",
+    "latitude": "50.23139000",
+    "longitude": "106.20778000",
+    "native": null,
+    "timezone": "Asia/Ulaanbaatar",
+    "translations": {}
+  }
+]

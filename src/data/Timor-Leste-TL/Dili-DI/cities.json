@@ -1,0 +1,54 @@
+[
+  {
+    "id": 106833,
+    "name": "Atauro Island",
+    "state_id": 4524,
+    "state_code": "DI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.26785000",
+    "longitude": "125.59699000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106839,
+    "name": "Cristo Rei",
+    "state_id": 4524,
+    "state_code": "DI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.52047000",
+    "longitude": "125.60837000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106840,
+    "name": "Dili",
+    "state_id": 4524,
+    "state_code": "DI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.55861000",
+    "longitude": "125.57361000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106864,
+    "name": "Metinaro",
+    "state_id": 4524,
+    "state_code": "DI",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.53007000",
+    "longitude": "125.74163000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  }
+]

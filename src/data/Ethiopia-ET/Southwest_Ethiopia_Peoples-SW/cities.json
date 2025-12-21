@@ -1,0 +1,67 @@
+[
+  {
+    "id": 38603,
+    "name": "Bench Maji Zone",
+    "state_id": 5466,
+    "state_code": "SW",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.45994000",
+    "longitude": "35.30549000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38607,
+    "name": "Bonga",
+    "state_id": 5466,
+    "state_code": "SW",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "7.28333000",
+    "longitude": "36.23333000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38683,
+    "name": "Mīzan Teferī",
+    "state_id": 5466,
+    "state_code": "SW",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "6.99865000",
+    "longitude": "35.58879000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38696,
+    "name": "Sheka Zone",
+    "state_id": 5466,
+    "state_code": "SW",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "7.56166000",
+    "longitude": "35.40174000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 38705,
+    "name": "Tippi",
+    "state_id": 5466,
+    "state_code": "SW",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "7.20000000",
+    "longitude": "35.45000000",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  }
+]

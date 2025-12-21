@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154085,
+    "name": "Lonan",
+    "state_id": 5304,
+    "state_code": "02",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.22104520",
+    "longitude": "-4.50103060",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  },
+  {
+    "id": 154086,
+    "name": "Maughold",
+    "state_id": 5304,
+    "state_code": "02",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.25494540",
+    "longitude": "-4.51223490",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  },
+  {
+    "id": 154087,
+    "name": "Onchan",
+    "state_id": 5304,
+    "state_code": "02",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.19815080",
+    "longitude": "-4.54908980",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  }
+]

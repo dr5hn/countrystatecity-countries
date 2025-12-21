@@ -1,0 +1,54 @@
+[
+  {
+    "id": 104815,
+    "name": "Tayeeglow",
+    "state_id": 917,
+    "state_code": "BK",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "4.01897000",
+    "longitude": "44.51111000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104816,
+    "name": "Waajid",
+    "state_id": 917,
+    "state_code": "BK",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "3.80958000",
+    "longitude": "43.24627000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104819,
+    "name": "Xuddur",
+    "state_id": 917,
+    "state_code": "BK",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "4.12129000",
+    "longitude": "43.88945000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  },
+  {
+    "id": 104820,
+    "name": "Yeed",
+    "state_id": 917,
+    "state_code": "BK",
+    "country_id": 203,
+    "country_code": "SO",
+    "latitude": "4.55000000",
+    "longitude": "43.03333000",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "translations": {}
+  }
+]

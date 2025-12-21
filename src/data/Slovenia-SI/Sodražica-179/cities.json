@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104275,
+    "name": "Sodražica",
+    "state_id": 4277,
+    "state_code": "179",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.76111000",
+    "longitude": "14.63556000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

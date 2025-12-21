@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104202,
+    "name": "Muta",
+    "state_id": 4208,
+    "state_code": "081",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.61139000",
+    "longitude": "15.16611000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

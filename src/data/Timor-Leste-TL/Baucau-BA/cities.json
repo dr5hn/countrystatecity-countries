@@ -1,0 +1,93 @@
+[
+  {
+    "id": 106834,
+    "name": "Baguia",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.62787000",
+    "longitude": "126.65743000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106836,
+    "name": "Baucau",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.46667000",
+    "longitude": "126.45000000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106837,
+    "name": "Baukau",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.47572000",
+    "longitude": "126.45633000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106852,
+    "name": "Laga",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.47411000",
+    "longitude": "126.59228000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106866,
+    "name": "Quelicai",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.60135000",
+    "longitude": "126.55904000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106877,
+    "name": "Vemasse",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.51036000",
+    "longitude": "126.20823000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106878,
+    "name": "Venilale",
+    "state_id": 4521,
+    "state_code": "BA",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.64306000",
+    "longitude": "126.37833000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  }
+]

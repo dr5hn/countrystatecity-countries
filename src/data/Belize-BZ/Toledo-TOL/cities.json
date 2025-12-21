@@ -1,0 +1,15 @@
+[
+  {
+    "id": 16141,
+    "name": "Punta Gorda",
+    "state_id": 267,
+    "state_code": "TOL",
+    "country_id": 23,
+    "country_code": "BZ",
+    "latitude": "16.09835000",
+    "longitude": "-88.80970000",
+    "native": null,
+    "timezone": "America/Belize",
+    "translations": {}
+  }
+]

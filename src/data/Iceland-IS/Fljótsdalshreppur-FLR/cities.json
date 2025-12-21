@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135178,
+    "name": "Fljótsdalshreppur",
+    "state_id": 5568,
+    "state_code": "FLR",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "64.85275000",
+    "longitude": "-15.25680000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

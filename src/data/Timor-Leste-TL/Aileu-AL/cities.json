@@ -1,0 +1,41 @@
+[
+  {
+    "id": 106830,
+    "name": "Aileu",
+    "state_id": 4520,
+    "state_code": "AL",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.72806000",
+    "longitude": "125.56639000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106854,
+    "name": "Lequidoe",
+    "state_id": 4520,
+    "state_code": "AL",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.69139000",
+    "longitude": "125.63611000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  },
+  {
+    "id": 106868,
+    "name": "Remexio",
+    "state_id": 4520,
+    "state_code": "AL",
+    "country_id": 63,
+    "country_code": "TL",
+    "latitude": "-8.61667000",
+    "longitude": "125.66667000",
+    "native": null,
+    "timezone": "Asia/Dili",
+    "translations": {}
+  }
+]

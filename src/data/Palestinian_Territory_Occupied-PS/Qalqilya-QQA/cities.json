@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154031,
+    "name": "Azzun",
+    "state_id": 5128,
+    "state_code": "QQA",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.17713520",
+    "longitude": "35.03535730",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154032,
+    "name": "Hableh",
+    "state_id": 5128,
+    "state_code": "QQA",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.16387820",
+    "longitude": "34.95768030",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154034,
+    "name": "Kafr Thulth",
+    "state_id": 5128,
+    "state_code": "QQA",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.15283320",
+    "longitude": "35.02469030",
+    "native": null,
+    "timezone": "Asia/Hebron",
+    "translations": {}
+  },
+  {
+    "id": 154033,
+    "name": "Qalqilya",
+    "state_id": 5128,
+    "state_code": "QQA",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.19604910",
+    "longitude": "34.96091330",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

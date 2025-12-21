@@ -1,0 +1,28 @@
+[
+  {
+    "id": 79953,
+    "name": "‘Ibrī",
+    "state_id": 3047,
+    "state_code": "ZA",
+    "country_id": 166,
+    "country_code": "OM",
+    "latitude": "23.22573000",
+    "longitude": "56.51572000",
+    "native": null,
+    "timezone": "Asia/Muscat",
+    "translations": {}
+  },
+  {
+    "id": 79950,
+    "name": "Yanqul",
+    "state_id": 3047,
+    "state_code": "ZA",
+    "country_id": 166,
+    "country_code": "OM",
+    "latitude": "23.58645000",
+    "longitude": "56.53969000",
+    "native": null,
+    "timezone": "Asia/Muscat",
+    "translations": {}
+  }
+]

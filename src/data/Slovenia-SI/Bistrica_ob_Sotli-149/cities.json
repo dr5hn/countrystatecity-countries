@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104067,
+    "name": "Bistrica ob Sotli",
+    "state_id": 4179,
+    "state_code": "149",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.05889000",
+    "longitude": "15.66417000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

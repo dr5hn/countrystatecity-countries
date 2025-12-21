@@ -1,0 +1,54 @@
+[
+  {
+    "id": 106929,
+    "name": "Bou Attouche",
+    "state_id": 2558,
+    "state_code": "81",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "33.89927000",
+    "longitude": "9.78496000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106945,
+    "name": "El Hamma",
+    "state_id": 2558,
+    "state_code": "81",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "33.89152000",
+    "longitude": "9.79629000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106952,
+    "name": "Gabès",
+    "state_id": 2558,
+    "state_code": "81",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "33.88146000",
+    "longitude": "10.09820000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106984,
+    "name": "Matmata",
+    "state_id": 2558,
+    "state_code": "81",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "33.54445000",
+    "longitude": "9.97157000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153612,
+    "name": "San Germán",
+    "state_id": 5197,
+    "state_code": "125",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.08070820",
+    "longitude": "-67.04110960",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 154082,
+    "name": "Andreas",
+    "state_id": 5303,
+    "state_code": "01",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.36841400",
+    "longitude": "-4.52114630",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  },
+  {
+    "id": 154083,
+    "name": "Bride",
+    "state_id": 5303,
+    "state_code": "01",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.38316570",
+    "longitude": "-4.40803560",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  },
+  {
+    "id": 154084,
+    "name": "Lezayre",
+    "state_id": 5303,
+    "state_code": "01",
+    "country_id": 136,
+    "country_code": "IM",
+    "latitude": "54.29621930",
+    "longitude": "-4.53110150",
+    "native": null,
+    "timezone": "Europe/Isle_of_Man",
+    "translations": {}
+  }
+]

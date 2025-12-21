@@ -1,0 +1,15 @@
+[
+  {
+    "id": 31534,
+    "name": "Nueva Loja",
+    "state_id": 2906,
+    "state_code": "U",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "0.08600000",
+    "longitude": "-76.89528000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

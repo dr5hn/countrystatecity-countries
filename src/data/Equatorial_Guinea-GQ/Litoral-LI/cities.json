@@ -1,0 +1,80 @@
+[
+  {
+    "id": 52379,
+    "name": "Bata",
+    "state_id": 3441,
+    "state_code": "LI",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.86391000",
+    "longitude": "9.76582000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52381,
+    "name": "Bitica",
+    "state_id": 3441,
+    "state_code": "LI",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.42610000",
+    "longitude": "9.62316000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52382,
+    "name": "Cogo",
+    "state_id": 3441,
+    "state_code": "LI",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.08425000",
+    "longitude": "9.69300000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52386,
+    "name": "Machinda",
+    "state_id": 3441,
+    "state_code": "LI",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.88262000",
+    "longitude": "9.95133000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52388,
+    "name": "Mbini",
+    "state_id": 3441,
+    "state_code": "LI",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "1.58267000",
+    "longitude": "9.61478000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  },
+  {
+    "id": 52396,
+    "name": "Río Campo",
+    "state_id": 3441,
+    "state_code": "LI",
+    "country_id": 67,
+    "country_code": "GQ",
+    "latitude": "2.33812000",
+    "longitude": "9.82212000",
+    "native": null,
+    "timezone": "Africa/Malabo",
+    "translations": {}
+  }
+]

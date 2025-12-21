@@ -1,0 +1,54 @@
+[
+  {
+    "id": 107155,
+    "name": "Amasra",
+    "state_id": 2148,
+    "state_code": "74",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.74633000",
+    "longitude": "32.38633000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108057,
+    "name": "Kurucaşile",
+    "state_id": 2148,
+    "state_code": "74",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.83781000",
+    "longitude": "32.71621000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107286,
+    "name": "Merkez",
+    "state_id": 2148,
+    "state_code": "74",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.63583000",
+    "longitude": "32.33750000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108629,
+    "name": "Ulus",
+    "state_id": 2148,
+    "state_code": "74",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.59373000",
+    "longitude": "32.65066000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

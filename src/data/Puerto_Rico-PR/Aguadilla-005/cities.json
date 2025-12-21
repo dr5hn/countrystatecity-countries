@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153551,
+    "name": "Aguadilla",
+    "state_id": 5136,
+    "state_code": "005",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.42744540",
+    "longitude": "-67.15406980",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 102908,
+    "name": "Beau Vallon",
+    "state_id": 512,
+    "state_code": "08",
+    "country_id": 197,
+    "country_code": "SC",
+    "latitude": "-4.62091000",
+    "longitude": "55.43015000",
+    "native": null,
+    "timezone": "Indian/Mahe",
+    "translations": {}
+  }
+]

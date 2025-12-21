@@ -1,0 +1,15 @@
+[
+  {
+    "id": 157073,
+    "name": "Naftalan",
+    "state_id": 5470,
+    "state_code": "NA",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.50610000",
+    "longitude": "46.82440000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

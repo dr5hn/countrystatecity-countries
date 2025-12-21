@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153869,
+    "name": "Narsingdi",
+    "state_id": 5516,
+    "state_code": "42",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "24.00966000",
+    "longitude": "90.44480420",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

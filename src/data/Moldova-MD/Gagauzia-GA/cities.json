@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67279,
+    "name": "Bugeac",
+    "state_id": 4385,
+    "state_code": "GA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.36554000",
+    "longitude": "28.66250000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67284,
+    "name": "Ceadîr-Lunga",
+    "state_id": 4385,
+    "state_code": "GA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.06169000",
+    "longitude": "28.83078000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67290,
+    "name": "Comrat",
+    "state_id": 4385,
+    "state_code": "GA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "46.29456000",
+    "longitude": "28.65650000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  },
+  {
+    "id": 67340,
+    "name": "Vulcăneşti",
+    "state_id": 4385,
+    "state_code": "GA",
+    "country_id": 144,
+    "country_code": "MD",
+    "latitude": "45.68492000",
+    "longitude": "28.40613000",
+    "native": null,
+    "timezone": "Europe/Chisinau",
+    "translations": {}
+  }
+]

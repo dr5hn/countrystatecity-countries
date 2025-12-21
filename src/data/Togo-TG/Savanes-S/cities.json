@@ -1,0 +1,28 @@
+[
+  {
+    "id": 105163,
+    "name": "Dapaong",
+    "state_id": 2578,
+    "state_code": "S",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "10.86225000",
+    "longitude": "0.20762000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  },
+  {
+    "id": 105172,
+    "name": "Sansanné-Mango",
+    "state_id": 2578,
+    "state_code": "S",
+    "country_id": 220,
+    "country_code": "TG",
+    "latitude": "10.35917000",
+    "longitude": "0.47083000",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "translations": {}
+  }
+]

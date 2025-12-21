@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8449,
+    "name": "Crane",
+    "state_id": 1220,
+    "state_code": "10",
+    "country_id": 20,
+    "country_code": "BB",
+    "latitude": "13.10487000",
+    "longitude": "-59.44861000",
+    "native": null,
+    "timezone": "America/Barbados",
+    "translations": {}
+  }
+]

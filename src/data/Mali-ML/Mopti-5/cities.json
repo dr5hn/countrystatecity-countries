@@ -1,0 +1,80 @@
+[
+  {
+    "id": 67589,
+    "name": "Bandiagara",
+    "state_id": 255,
+    "state_code": "5",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "14.35005000",
+    "longitude": "-3.61038000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67598,
+    "name": "Djénné",
+    "state_id": 255,
+    "state_code": "5",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "13.90608000",
+    "longitude": "-4.55332000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67599,
+    "name": "Douentza",
+    "state_id": 255,
+    "state_code": "5",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "15.00155000",
+    "longitude": "-2.94978000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67600,
+    "name": "Douentza Cercle",
+    "state_id": 255,
+    "state_code": "5",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "15.06947000",
+    "longitude": "-2.40875000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67620,
+    "name": "Mopti",
+    "state_id": 255,
+    "state_code": "5",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "14.48430000",
+    "longitude": "-4.18296000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  },
+  {
+    "id": 67629,
+    "name": "Ténenkou",
+    "state_id": 255,
+    "state_code": "5",
+    "country_id": 134,
+    "country_code": "ML",
+    "latitude": "14.45722000",
+    "longitude": "-4.91690000",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "translations": {}
+  }
+]

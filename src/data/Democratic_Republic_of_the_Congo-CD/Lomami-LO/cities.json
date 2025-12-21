@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17271,
+    "name": "Lubao",
+    "state_id": 2747,
+    "state_code": "LO",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-5.38771000",
+    "longitude": "25.74885000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17285,
+    "name": "Mwene-Ditu",
+    "state_id": 2747,
+    "state_code": "LO",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-7.00906000",
+    "longitude": "23.45278000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 76629,
+    "name": "Bethanie",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-26.48333000",
+    "longitude": "17.15000000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76635,
+    "name": "Karasburg",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-28.01667000",
+    "longitude": "18.75000000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76639,
+    "name": "Keetmanshoop",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-26.58333000",
+    "longitude": "18.13333000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76642,
+    "name": "Lüderitz",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-26.64807000",
+    "longitude": "15.15383000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76655,
+    "name": "Oranjemund",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-28.55000000",
+    "longitude": "16.43333000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76668,
+    "name": "Tses",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-25.88333000",
+    "longitude": "18.00000000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  },
+  {
+    "id": 76672,
+    "name": "Warmbad",
+    "state_id": 45,
+    "state_code": "KA",
+    "country_id": 152,
+    "country_code": "NA",
+    "latitude": "-28.45000000",
+    "longitude": "18.73333000",
+    "native": null,
+    "timezone": "Africa/Windhoek",
+    "translations": {}
+  }
+]

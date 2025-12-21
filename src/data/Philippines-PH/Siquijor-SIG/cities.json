@@ -1,0 +1,80 @@
+[
+  {
+    "id": 82509,
+    "name": "Enrique Villanueva",
+    "state_id": 1276,
+    "state_code": "SIG",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.25850550",
+    "longitude": "123.59464550",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154800,
+    "name": "Larena",
+    "state_id": 1276,
+    "state_code": "SIG",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.24753350",
+    "longitude": "123.55786710",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 83058,
+    "name": "Lazi",
+    "state_id": 1276,
+    "state_code": "SIG",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.14598110",
+    "longitude": "123.53644920",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154801,
+    "name": "Maria",
+    "state_id": 1276,
+    "state_code": "SIG",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.17721240",
+    "longitude": "123.61709010",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 154802,
+    "name": "San Juan",
+    "state_id": 1276,
+    "state_code": "SIG",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.14737990",
+    "longitude": "123.42456900",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  },
+  {
+    "id": 84827,
+    "name": "Siquijor",
+    "state_id": 1276,
+    "state_code": "SIG",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "9.19173800",
+    "longitude": "123.44340890",
+    "native": null,
+    "timezone": "Asia/Manila",
+    "translations": {}
+  }
+]

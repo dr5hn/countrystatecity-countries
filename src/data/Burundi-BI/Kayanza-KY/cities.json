@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9769,
+    "name": "Kayanza",
+    "state_id": 3192,
+    "state_code": "KY",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-2.92210000",
+    "longitude": "29.62930000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

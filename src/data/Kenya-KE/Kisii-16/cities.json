@@ -1,0 +1,28 @@
+[
+  {
+    "id": 64810,
+    "name": "Kisii",
+    "state_id": 159,
+    "state_code": "16",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.68174000",
+    "longitude": "34.76666000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  },
+  {
+    "id": 64857,
+    "name": "Ogembo",
+    "state_id": 159,
+    "state_code": "16",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-0.80116000",
+    "longitude": "34.72579000",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "translations": {}
+  }
+]

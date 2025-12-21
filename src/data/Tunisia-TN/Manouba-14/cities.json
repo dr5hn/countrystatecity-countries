@@ -1,0 +1,54 @@
+[
+  {
+    "id": 106942,
+    "name": "El Battan",
+    "state_id": 2555,
+    "state_code": "14",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.80368000",
+    "longitude": "9.84424000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106982,
+    "name": "Manouba",
+    "state_id": 2555,
+    "state_code": "14",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.81006000",
+    "longitude": "10.09557000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 106999,
+    "name": "Mu‘tamadīyat Manūbah",
+    "state_id": 2555,
+    "state_code": "14",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.80907000",
+    "longitude": "10.09467000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  },
+  {
+    "id": 107004,
+    "name": "Oued Lill",
+    "state_id": 2555,
+    "state_code": "14",
+    "country_id": 224,
+    "country_code": "TN",
+    "latitude": "36.83408000",
+    "longitude": "10.04057000",
+    "native": null,
+    "timezone": "Africa/Tunis",
+    "translations": {}
+  }
+]

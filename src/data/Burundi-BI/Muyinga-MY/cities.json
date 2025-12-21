@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9773,
+    "name": "Muyinga",
+    "state_id": 3186,
+    "state_code": "MY",
+    "country_id": 36,
+    "country_code": "BI",
+    "latitude": "-2.84510000",
+    "longitude": "30.34140000",
+    "native": null,
+    "timezone": "Africa/Bujumbura",
+    "translations": {}
+  }
+]

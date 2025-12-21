@@ -1,0 +1,67 @@
+[
+  {
+    "id": 153769,
+    "name": "Húsavík",
+    "state_id": 5231,
+    "state_code": "SA",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "61.80964950",
+    "longitude": "-6.67949560",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153761,
+    "name": "Sandur",
+    "state_id": 5231,
+    "state_code": "SA",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "61.83481550",
+    "longitude": "-6.81758260",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153768,
+    "name": "Skálavík",
+    "state_id": 5231,
+    "state_code": "SA",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "61.83026760",
+    "longitude": "-6.66403200",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153762,
+    "name": "Skopun",
+    "state_id": 5231,
+    "state_code": "SA",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "62.01230000",
+    "longitude": "-6.98760000",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  },
+  {
+    "id": 153772,
+    "name": "Skúvoy",
+    "state_id": 5231,
+    "state_code": "SA",
+    "country_id": 72,
+    "country_code": "FO",
+    "latitude": "61.76644320",
+    "longitude": "-6.82696200",
+    "native": null,
+    "timezone": "Atlantic/Faroe",
+    "translations": {}
+  }
+]

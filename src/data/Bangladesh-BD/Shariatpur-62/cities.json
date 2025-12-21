@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153875,
+    "name": "Shariatpur",
+    "state_id": 5530,
+    "state_code": "62",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "23.23124340",
+    "longitude": "90.08293470",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

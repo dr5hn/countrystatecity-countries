@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153606,
+    "name": "Ponce",
+    "state_id": 5078,
+    "state_code": "PO",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.01107680",
+    "longitude": "-66.61406160",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

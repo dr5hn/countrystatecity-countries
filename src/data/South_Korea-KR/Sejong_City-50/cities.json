@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65483,
+    "name": "Sejong",
+    "state_id": 3861,
+    "state_code": "50",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.59245000",
+    "longitude": "127.29223000",
+    "native": null,
+    "timezone": "Asia/Seoul",
+    "translations": {}
+  }
+]

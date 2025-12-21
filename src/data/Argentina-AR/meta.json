@@ -1,0 +1,128 @@
+{
+  "id": 11,
+  "name": "Argentina",
+  "iso2": "AR",
+  "iso3": "ARG",
+  "numeric_code": "032",
+  "phonecode": "54",
+  "capital": "Buenos Aires",
+  "currency": "ARS",
+  "currency_name": "Argentine peso",
+  "currency_symbol": "$",
+  "tld": ".ar",
+  "native": "Argentina",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Argentine",
+  "latitude": "-34.00000000",
+  "longitude": "-64.00000000",
+  "emoji": "🇦🇷",
+  "emojiU": "U+1F1E6 U+1F1F7",
+  "timezones": [
+    {
+      "zoneName": "America/Argentina/Buenos_Aires",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Catamarca",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Cordoba",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Jujuy",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/La_Rioja",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Mendoza",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Rio_Gallegos",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Salta",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/San_Juan",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/San_Luis",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Tucuman",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    },
+    {
+      "zoneName": "America/Argentina/Ushuaia",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "ART",
+      "tzName": "Argentina Time"
+    }
+  ],
+  "translations": {
+    "br": "Arc'hantina",
+    "ko": "아르헨티나",
+    "pt-BR": "Argentina",
+    "pt": "Argentina",
+    "nl": "Argentinië",
+    "hr": "Argentina",
+    "fa": "آرژانتین",
+    "de": "Argentinien",
+    "es": "Argentina",
+    "fr": "Argentine",
+    "ja": "アルゼンチン",
+    "it": "Argentina",
+    "zh-CN": "阿根廷",
+    "tr": "Arjantin",
+    "ru": "Аргентина",
+    "uk": "Аргентина",
+    "pl": "Argentyna",
+    "hi": "अर्जेंटीना",
+    "ar": "الأرجنتين"
+  }
+}

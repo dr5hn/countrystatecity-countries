@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1217,
+    "name": "Belait",
+    "country_id": 33,
+    "country_code": "BN",
+    "fips_code": null,
+    "iso2": "BE",
+    "type": "district",
+    "latitude": "4.43499380",
+    "longitude": "114.49465240",
+    "native": "Belait",
+    "timezone": "Asia/Brunei",
+    "translations": {}
+  },
+  {
+    "id": 1216,
+    "name": "Brunei-Muara",
+    "country_id": 33,
+    "country_code": "BN",
+    "fips_code": null,
+    "iso2": "BM",
+    "type": "district",
+    "latitude": "4.97520980",
+    "longitude": "114.93676630",
+    "native": "Brunei-Muara",
+    "timezone": "Asia/Brunei",
+    "translations": {}
+  },
+  {
+    "id": 1218,
+    "name": "Temburong",
+    "country_id": 33,
+    "country_code": "BN",
+    "fips_code": null,
+    "iso2": "TE",
+    "type": "district",
+    "latitude": "4.62918400",
+    "longitude": "115.16344080",
+    "native": "Temburong",
+    "timezone": "Asia/Brunei",
+    "translations": {}
+  },
+  {
+    "id": 1219,
+    "name": "Tutong",
+    "country_id": 33,
+    "country_code": "BN",
+    "fips_code": null,
+    "iso2": "TU",
+    "type": "district",
+    "latitude": "4.68268100",
+    "longitude": "114.65627060",
+    "native": "Tutong",
+    "timezone": "Asia/Brunei",
+    "translations": {}
+  }
+]

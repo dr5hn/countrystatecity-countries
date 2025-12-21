@@ -1,0 +1,58 @@
+{
+  "id": 158,
+  "name": "New Zealand",
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "numeric_code": "554",
+  "phonecode": "64",
+  "capital": "Wellington",
+  "currency": "NZD",
+  "currency_name": "New Zealand dollar",
+  "currency_symbol": "$",
+  "tld": ".nz",
+  "native": "New Zealand",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "nationality": "New Zealand, NZ",
+  "latitude": "-41.00000000",
+  "longitude": "174.00000000",
+  "emoji": "🇳🇿",
+  "emojiU": "U+1F1F3 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Auckland",
+      "gmtOffset": 46800,
+      "gmtOffsetName": "UTC+13:00",
+      "abbreviation": "NZDT",
+      "tzName": "New Zealand Daylight Time"
+    },
+    {
+      "zoneName": "Pacific/Chatham",
+      "gmtOffset": 49500,
+      "gmtOffsetName": "UTC+13:45",
+      "abbreviation": "CHAST",
+      "tzName": "Chatham Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Zeland-Nevez",
+    "ko": "뉴질랜드",
+    "pt-BR": "Nova Zelândia",
+    "pt": "Nova Zelândia",
+    "nl": "Nieuw-Zeeland",
+    "hr": "Novi Zeland",
+    "fa": "نیوزیلند",
+    "de": "Neuseeland",
+    "es": "Nueva Zelanda",
+    "fr": "Nouvelle-Zélande",
+    "ja": "ニュージーランド",
+    "it": "Nuova Zelanda",
+    "zh-CN": "新西兰",
+    "tr": "Yeni Zelanda",
+    "ru": "Новая Зеландия",
+    "uk": "Нова Зеландія",
+    "pl": "Nowa Zelandia",
+    "hi": "न्यूज़ीलैंड",
+    "ar": "نيوزيلندا"
+  }
+}

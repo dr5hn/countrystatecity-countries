@@ -1,0 +1,28 @@
+[
+  {
+    "id": 65933,
+    "name": "Baalbek",
+    "state_id": 2283,
+    "state_code": "BH",
+    "country_id": 121,
+    "country_code": "LB",
+    "latitude": "34.00583000",
+    "longitude": "36.21806000",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "translations": {}
+  },
+  {
+    "id": 65941,
+    "name": "Caza de Baalbek",
+    "state_id": 2283,
+    "state_code": "BH",
+    "country_id": 121,
+    "country_code": "LB",
+    "latitude": "34.09822000",
+    "longitude": "36.27157000",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "translations": {}
+  }
+]

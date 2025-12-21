@@ -1,0 +1,28 @@
+[
+  {
+    "id": 67349,
+    "name": "Danilovgrad",
+    "state_id": 14,
+    "state_code": "07",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.55384000",
+    "longitude": "19.14608000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67368,
+    "name": "Spuž",
+    "state_id": 14,
+    "state_code": "07",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.51500000",
+    "longitude": "19.19500000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

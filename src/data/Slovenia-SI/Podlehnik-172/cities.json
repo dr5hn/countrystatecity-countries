@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104224,
+    "name": "Podlehnik",
+    "state_id": 4161,
+    "state_code": "172",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.33528000",
+    "longitude": "15.88000000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

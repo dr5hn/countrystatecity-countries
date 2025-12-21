@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104204,
+    "name": "Nazarje",
+    "state_id": 4329,
+    "state_code": "083",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.31757000",
+    "longitude": "14.94674000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

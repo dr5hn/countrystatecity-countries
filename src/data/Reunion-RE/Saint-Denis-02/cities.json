@@ -1,0 +1,41 @@
+[
+  {
+    "id": 155020,
+    "name": "Saint-Denis",
+    "state_id": 5437,
+    "state_code": "02",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-20.96456720",
+    "longitude": "55.41835300",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155021,
+    "name": "Sainte-Marie",
+    "state_id": 5437,
+    "state_code": "02",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-20.94628420",
+    "longitude": "55.44095870",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  },
+  {
+    "id": 155022,
+    "name": "Sainte-Suzanne",
+    "state_id": 5437,
+    "state_code": "02",
+    "country_id": 180,
+    "country_code": "RE",
+    "latitude": "-20.95063790",
+    "longitude": "55.51114750",
+    "native": null,
+    "timezone": "Indian/Reunion",
+    "translations": {}
+  }
+]

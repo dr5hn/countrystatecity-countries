@@ -1,0 +1,67 @@
+[
+  {
+    "id": 155095,
+    "name": "Boljevac",
+    "state_id": 3731,
+    "state_code": "15",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.83114320",
+    "longitude": "21.92158620",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97181,
+    "name": "Boljevci",
+    "state_id": 3731,
+    "state_code": "15",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.72355000",
+    "longitude": "20.22348000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97247,
+    "name": "Knjazevac",
+    "state_id": 3731,
+    "state_code": "15",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.56634000",
+    "longitude": "22.25701000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 155096,
+    "name": "Sokobanja",
+    "state_id": 3731,
+    "state_code": "15",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.63431460",
+    "longitude": "21.82442590",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  },
+  {
+    "id": 97445,
+    "name": "Zaječar",
+    "state_id": 3731,
+    "state_code": "15",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "43.69917000",
+    "longitude": "21.98778000",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "translations": {}
+  }
+]

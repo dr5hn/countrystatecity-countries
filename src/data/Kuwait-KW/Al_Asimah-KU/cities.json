@@ -1,0 +1,67 @@
+[
+  {
+    "id": 65571,
+    "name": "Ad Dasmah",
+    "state_id": 976,
+    "state_code": "KU",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.36500000",
+    "longitude": "48.00139000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65584,
+    "name": "Ar Rābiyah",
+    "state_id": 976,
+    "state_code": "KU",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.29500000",
+    "longitude": "47.93306000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65586,
+    "name": "Ash Shāmīyah",
+    "state_id": 976,
+    "state_code": "KU",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.34722000",
+    "longitude": "47.96167000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65587,
+    "name": "Az Zawr",
+    "state_id": 976,
+    "state_code": "KU",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.44250000",
+    "longitude": "48.27472000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  },
+  {
+    "id": 65590,
+    "name": "Kuwait City",
+    "state_id": 976,
+    "state_code": "KU",
+    "country_id": 117,
+    "country_code": "KW",
+    "latitude": "29.36972000",
+    "longitude": "47.97833000",
+    "native": null,
+    "timezone": "Asia/Kuwait",
+    "translations": {}
+  }
+]

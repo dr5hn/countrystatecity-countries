@@ -1,0 +1,51 @@
+{
+  "id": 27,
+  "name": "Bolivia",
+  "iso2": "BO",
+  "iso3": "BOL",
+  "numeric_code": "068",
+  "phonecode": "591",
+  "capital": "Sucre",
+  "currency": "BOB",
+  "currency_name": "Bolivian boliviano",
+  "currency_symbol": "Bs.",
+  "tld": ".bo",
+  "native": "Bolivia",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Bolivian",
+  "latitude": "-17.00000000",
+  "longitude": "-65.00000000",
+  "emoji": "🇧🇴",
+  "emojiU": "U+1F1E7 U+1F1F4",
+  "timezones": [
+    {
+      "zoneName": "America/La_Paz",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "BOT",
+      "tzName": "Bolivia Time"
+    }
+  ],
+  "translations": {
+    "br": "Bolivia",
+    "ko": "볼리비아",
+    "pt-BR": "Bolívia",
+    "pt": "Bolívia",
+    "nl": "Bolivia",
+    "hr": "Bolivija",
+    "fa": "بولیوی",
+    "de": "Bolivien",
+    "es": "Bolivia",
+    "fr": "Bolivie",
+    "ja": "ボリビア多民族国",
+    "it": "Bolivia",
+    "zh-CN": "玻利维亚",
+    "tr": "Bolivya",
+    "ru": "Боливия",
+    "uk": "Болівія",
+    "pl": "Boliwia",
+    "hi": "बोलीविया",
+    "ar": "بوليفيا"
+  }
+}

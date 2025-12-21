@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153511,
+    "name": "Southampton",
+    "state_id": 4869,
+    "state_code": "SOU",
+    "country_id": 25,
+    "country_code": "BM",
+    "latitude": "32.24900000",
+    "longitude": "-64.86100000",
+    "native": null,
+    "timezone": "Atlantic/Bermuda",
+    "translations": {}
+  }
+]

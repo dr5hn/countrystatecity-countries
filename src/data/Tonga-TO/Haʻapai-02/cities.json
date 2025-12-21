@@ -1,0 +1,15 @@
+[
+  {
+    "id": 107049,
+    "name": "Pangai",
+    "state_id": 3913,
+    "state_code": "02",
+    "country_id": 222,
+    "country_code": "TO",
+    "latitude": "-19.81468000",
+    "longitude": "-174.35423000",
+    "native": null,
+    "timezone": "Pacific/Tongatapu",
+    "translations": {}
+  }
+]

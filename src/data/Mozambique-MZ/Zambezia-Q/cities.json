@@ -1,0 +1,41 @@
+[
+  {
+    "id": 76588,
+    "name": "Alto Molócuè",
+    "state_id": 3328,
+    "state_code": "Q",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-15.64932000",
+    "longitude": "37.66384000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76594,
+    "name": "Chinde",
+    "state_id": 3328,
+    "state_code": "Q",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-18.58111000",
+    "longitude": "36.45861000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  },
+  {
+    "id": 76622,
+    "name": "Quelimane",
+    "state_id": 3328,
+    "state_code": "Q",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-17.87861000",
+    "longitude": "36.88833000",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "translations": {}
+  }
+]

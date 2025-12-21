@@ -1,0 +1,54 @@
+[
+  {
+    "id": 154937,
+    "name": "Aasiaat",
+    "state_id": 5381,
+    "state_code": "QT",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "68.70762800",
+    "longitude": "-52.89951360",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154938,
+    "name": "Kangaatsiaq",
+    "state_id": 5381,
+    "state_code": "QT",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "68.30818450",
+    "longitude": "-53.47685330",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154939,
+    "name": "Qasigiannguit",
+    "state_id": 5381,
+    "state_code": "QT",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "68.81986320",
+    "longitude": "-51.20916370",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  },
+  {
+    "id": 154940,
+    "name": "Qeqertarsuaq",
+    "state_id": 5381,
+    "state_code": "QT",
+    "country_id": 86,
+    "country_code": "GL",
+    "latitude": "69.24430370",
+    "longitude": "-53.56440060",
+    "native": null,
+    "timezone": "America/Nuuk",
+    "translations": {}
+  }
+]

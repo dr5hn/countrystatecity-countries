@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104297,
+    "name": "Trbovlje",
+    "state_id": 4246,
+    "state_code": "129",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.15500000",
+    "longitude": "15.05333000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

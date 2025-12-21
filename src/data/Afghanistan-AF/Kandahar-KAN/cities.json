@@ -1,0 +1,15 @@
+[
+  {
+    "id": 81,
+    "name": "Kandahār",
+    "state_id": 3890,
+    "state_code": "KAN",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "31.61332000",
+    "longitude": "65.71013000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

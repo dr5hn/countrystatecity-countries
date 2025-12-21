@@ -1,0 +1,15 @@
+[
+  {
+    "id": 30563,
+    "name": "Arta",
+    "state_id": 2932,
+    "state_code": "AR",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.52639000",
+    "longitude": "42.85194000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  }
+]

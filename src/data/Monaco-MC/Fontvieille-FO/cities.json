@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160046,
+    "name": "Fontvieille",
+    "state_id": 5668,
+    "state_code": "FO",
+    "country_id": 145,
+    "country_code": "MC",
+    "latitude": "43.72944444",
+    "longitude": "7.41500000",
+    "native": null,
+    "timezone": "Europe/Monaco",
+    "translations": {}
+  }
+]

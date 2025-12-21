@@ -1,0 +1,41 @@
+[
+  {
+    "id": 104079,
+    "name": "Celje",
+    "state_id": 4191,
+    "state_code": "011",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.23092000",
+    "longitude": "15.26044000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104168,
+    "name": "Ljubečna",
+    "state_id": 4191,
+    "state_code": "011",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.25567000",
+    "longitude": "15.32430000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  },
+  {
+    "id": 104299,
+    "name": "Trnovlje pri Celju",
+    "state_id": 4191,
+    "state_code": "011",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.25667000",
+    "longitude": "15.29528000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 137,
+    "name": "Ārt Khwājah",
+    "state_id": 3893,
+    "state_code": "TAK",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "37.08571000",
+    "longitude": "69.47958000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 126,
+    "name": "Taloqan",
+    "state_id": 3893,
+    "state_code": "TAK",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "36.73605000",
+    "longitude": "69.53451000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

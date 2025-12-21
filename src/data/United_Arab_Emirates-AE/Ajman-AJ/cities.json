@@ -1,0 +1,41 @@
+[
+  {
+    "id": 14,
+    "name": "Ajman",
+    "state_id": 3395,
+    "state_code": "AJ",
+    "country_id": 231,
+    "country_code": "AE",
+    "latitude": "25.40328000",
+    "longitude": "55.52341000",
+    "native": null,
+    "timezone": "Asia/Dubai",
+    "translations": {}
+  },
+  {
+    "id": 37,
+    "name": "Manama",
+    "state_id": 3395,
+    "state_code": "AJ",
+    "country_id": 231,
+    "country_code": "AE",
+    "latitude": "25.32568000",
+    "longitude": "56.00259000",
+    "native": null,
+    "timezone": "Asia/Dubai",
+    "translations": {}
+  },
+  {
+    "id": 38,
+    "name": "Masfut",
+    "state_id": 3395,
+    "state_code": "AJ",
+    "country_id": 231,
+    "country_code": "AE",
+    "latitude": "24.83982000",
+    "longitude": "56.05158000",
+    "native": null,
+    "timezone": "Asia/Dubai",
+    "translations": {}
+  }
+]

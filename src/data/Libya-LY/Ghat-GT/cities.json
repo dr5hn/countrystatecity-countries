@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67015,
+    "name": "Ghat",
+    "state_id": 2969,
+    "state_code": "GT",
+    "country_id": 124,
+    "country_code": "LY",
+    "latitude": "24.96334000",
+    "longitude": "10.18003000",
+    "native": null,
+    "timezone": "Africa/Tripoli",
+    "translations": {}
+  }
+]

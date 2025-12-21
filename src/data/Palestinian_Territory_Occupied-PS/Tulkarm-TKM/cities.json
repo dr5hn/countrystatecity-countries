@@ -1,0 +1,93 @@
+[
+  {
+    "id": 154075,
+    "name": "Anabta",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.30728710",
+    "longitude": "35.09887830",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154076,
+    "name": "Attil",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.37010310",
+    "longitude": "35.05193830",
+    "native": null,
+    "timezone": "Asia/Hebron",
+    "translations": {}
+  },
+  {
+    "id": 154077,
+    "name": "Bal'a",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.33255610",
+    "longitude": "35.08935330",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154078,
+    "name": "Baqa ash-Sharqiyya",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.41117510",
+    "longitude": "35.05059330",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154079,
+    "name": "Beit Lid",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.26158210",
+    "longitude": "35.10968030",
+    "native": null,
+    "timezone": "Asia/Hebron",
+    "translations": {}
+  },
+  {
+    "id": 154080,
+    "name": "Qaffin",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.43341200",
+    "longitude": "35.06370030",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  },
+  {
+    "id": 154081,
+    "name": "Tulkarm",
+    "state_id": 5133,
+    "state_code": "TKM",
+    "country_id": 169,
+    "country_code": "PS",
+    "latitude": "32.30796480",
+    "longitude": "35.00802890",
+    "native": null,
+    "timezone": "Asia/Gaza",
+    "translations": {}
+  }
+]

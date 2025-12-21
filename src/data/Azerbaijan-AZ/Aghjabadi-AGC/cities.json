@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8037,
+    "name": "Agdzhabedy",
+    "state_id": 577,
+    "state_code": "AGC",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.05015000",
+    "longitude": "47.45937000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 8048,
+    "name": "Avşar",
+    "state_id": 577,
+    "state_code": "AGC",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "39.97389000",
+    "longitude": "47.42389000",
+    "native": null,
+    "timezone": "Asia/Baku",
+    "translations": {}
+  }
+]

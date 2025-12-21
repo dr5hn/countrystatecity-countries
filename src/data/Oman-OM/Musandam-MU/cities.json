@@ -1,0 +1,41 @@
+[
+  {
+    "id": 79935,
+    "name": "Dib Dibba",
+    "state_id": 3052,
+    "state_code": "MU",
+    "country_id": 166,
+    "country_code": "OM",
+    "latitude": "26.19778000",
+    "longitude": "56.25778000",
+    "native": null,
+    "timezone": "Asia/Muscat",
+    "translations": {}
+  },
+  {
+    "id": 79938,
+    "name": "Khasab",
+    "state_id": 3052,
+    "state_code": "MU",
+    "country_id": 166,
+    "country_code": "OM",
+    "latitude": "26.17993000",
+    "longitude": "56.24774000",
+    "native": null,
+    "timezone": "Asia/Muscat",
+    "translations": {}
+  },
+  {
+    "id": 79940,
+    "name": "Madḩā’ al Jadīdah",
+    "state_id": 3052,
+    "state_code": "MU",
+    "country_id": 166,
+    "country_code": "OM",
+    "latitude": "25.28345000",
+    "longitude": "56.33280000",
+    "native": null,
+    "timezone": "Asia/Muscat",
+    "translations": {}
+  }
+]

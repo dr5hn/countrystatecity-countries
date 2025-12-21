@@ -1,0 +1,15 @@
+[
+  {
+    "id": 148,
+    "name": "Piggotts",
+    "state_id": 3709,
+    "state_code": "03",
+    "country_id": 10,
+    "country_code": "AG",
+    "latitude": "17.11667000",
+    "longitude": "-61.80000000",
+    "native": null,
+    "timezone": "America/Antigua",
+    "translations": {}
+  }
+]

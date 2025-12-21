@@ -1,0 +1,80 @@
+[
+  {
+    "id": 148554,
+    "name": "Bamnet Narong",
+    "state_id": 4954,
+    "state_code": "36",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.50189000",
+    "longitude": "101.68982000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 148555,
+    "name": "Chaiyaphum",
+    "state_id": 4954,
+    "state_code": "36",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.81047000",
+    "longitude": "102.02881000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 148556,
+    "name": "Kaeng Khro",
+    "state_id": 4954,
+    "state_code": "36",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.10861111",
+    "longitude": "102.25805556",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 148557,
+    "name": "Kaset Sombun",
+    "state_id": 4954,
+    "state_code": "36",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.28053000",
+    "longitude": "101.95422000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 148558,
+    "name": "Nakhon Nayok",
+    "state_id": 4954,
+    "state_code": "36",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.20305600",
+    "longitude": "101.21500000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 148559,
+    "name": "Phu Khiao",
+    "state_id": 4954,
+    "state_code": "36",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.37650000",
+    "longitude": "102.12853000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  }
+]

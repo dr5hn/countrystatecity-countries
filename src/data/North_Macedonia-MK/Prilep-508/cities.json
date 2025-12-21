@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67448,
+    "name": "Kanatlarci",
+    "state_id": 666,
+    "state_code": "508",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.21028000",
+    "longitude": "21.50333000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67479,
+    "name": "Markov Grad",
+    "state_id": 666,
+    "state_code": "508",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.35722000",
+    "longitude": "21.53250000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67509,
+    "name": "Prilep",
+    "state_id": 666,
+    "state_code": "508",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.34514000",
+    "longitude": "21.55504000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67544,
+    "name": "Topolčani",
+    "state_id": 666,
+    "state_code": "508",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.22772000",
+    "longitude": "21.43113000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 17235,
+    "name": "Bukama",
+    "state_id": 2758,
+    "state_code": "HL",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-9.20443000",
+    "longitude": "25.85475000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  },
+  {
+    "id": 17256,
+    "name": "Kamina",
+    "state_id": 2758,
+    "state_code": "HL",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-8.73508000",
+    "longitude": "24.99798000",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "translations": {}
+  }
+]

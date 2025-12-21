@@ -1,0 +1,15 @@
+[
+  {
+    "id": 59,
+    "name": "Bāzārak",
+    "state_id": 3881,
+    "state_code": "PAN",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "35.31292000",
+    "longitude": "69.51519000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

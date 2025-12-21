@@ -1,0 +1,80 @@
+[
+  {
+    "id": 108853,
+    "name": "Çıldır",
+    "state_id": 2185,
+    "state_code": "75",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.13783000",
+    "longitude": "43.14169000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107444,
+    "name": "Damal",
+    "state_id": 2185,
+    "state_code": "75",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.34145000",
+    "longitude": "42.83680000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107692,
+    "name": "Göle",
+    "state_id": 2185,
+    "state_code": "75",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.78746000",
+    "longitude": "42.60603000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107788,
+    "name": "Hanak",
+    "state_id": 2185,
+    "state_code": "75",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.23344000",
+    "longitude": "42.84037000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107179,
+    "name": "Merkez",
+    "state_id": 2185,
+    "state_code": "75",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.10871000",
+    "longitude": "42.70222000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 108347,
+    "name": "Posof",
+    "state_id": 2185,
+    "state_code": "75",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "41.51111000",
+    "longitude": "42.72917000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

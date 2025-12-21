@@ -1,0 +1,28 @@
+[
+  {
+    "id": 160325,
+    "name": "Acoua",
+    "state_id": 5415,
+    "state_code": "14",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.72391000",
+    "longitude": "45.05819000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  },
+  {
+    "id": 160324,
+    "name": "Mtsangadoua",
+    "state_id": 5415,
+    "state_code": "14",
+    "country_id": 141,
+    "country_code": "YT",
+    "latitude": "-12.71112000",
+    "longitude": "45.05118000",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "translations": {}
+  }
+]

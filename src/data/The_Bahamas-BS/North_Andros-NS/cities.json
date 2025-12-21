@@ -1,0 +1,28 @@
+[
+  {
+    "id": 15687,
+    "name": "Andros Town",
+    "state_id": 3617,
+    "state_code": "NS",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "24.70502000",
+    "longitude": "-77.76912000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  },
+  {
+    "id": 15702,
+    "name": "San Andros",
+    "state_id": 3617,
+    "state_code": "NS",
+    "country_id": 17,
+    "country_code": "BS",
+    "latitude": "25.06667000",
+    "longitude": "-78.05000000",
+    "native": null,
+    "timezone": "America/Nassau",
+    "translations": {}
+  }
+]

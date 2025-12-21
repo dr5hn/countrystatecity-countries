@@ -1,0 +1,54 @@
+[
+  {
+    "id": 66882,
+    "name": "Bauska",
+    "state_id": 4465,
+    "state_code": "016",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.40794000",
+    "longitude": "24.19443000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66898,
+    "name": "Iecava",
+    "state_id": 4465,
+    "state_code": "016",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.59766000",
+    "longitude": "24.20763000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66938,
+    "name": "Pilsrundāle",
+    "state_id": 4465,
+    "state_code": "016",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.41812000",
+    "longitude": "24.01625000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  },
+  {
+    "id": 66982,
+    "name": "Vecumnieki",
+    "state_id": 4465,
+    "state_code": "016",
+    "country_id": 120,
+    "country_code": "LV",
+    "latitude": "56.60608000",
+    "longitude": "24.52232000",
+    "native": null,
+    "timezone": "Europe/Riga",
+    "translations": {}
+  }
+]

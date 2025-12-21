@@ -1,0 +1,41 @@
+[
+  {
+    "id": 31503,
+    "name": "El Ángel",
+    "state_id": 2915,
+    "state_code": "C",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "0.62279000",
+    "longitude": "-77.94003000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31567,
+    "name": "San Gabriel",
+    "state_id": 2915,
+    "state_code": "C",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "0.59318000",
+    "longitude": "-77.83078000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  },
+  {
+    "id": 31583,
+    "name": "Tulcán",
+    "state_id": 2915,
+    "state_code": "C",
+    "country_id": 64,
+    "country_code": "EC",
+    "latitude": "0.81187000",
+    "longitude": "-77.71727000",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "translations": {}
+  }
+]

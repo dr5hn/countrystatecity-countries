@@ -1,0 +1,41 @@
+[
+  {
+    "id": 65934,
+    "name": "Batroûn",
+    "state_id": 2284,
+    "state_code": "AS",
+    "country_id": 121,
+    "country_code": "LB",
+    "latitude": "34.25528000",
+    "longitude": "35.65806000",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "translations": {}
+  },
+  {
+    "id": 65935,
+    "name": "Bcharré",
+    "state_id": 2284,
+    "state_code": "AS",
+    "country_id": 121,
+    "country_code": "LB",
+    "latitude": "34.25083000",
+    "longitude": "36.01056000",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "translations": {}
+  },
+  {
+    "id": 65953,
+    "name": "Tripoli",
+    "state_id": 2284,
+    "state_code": "AS",
+    "country_id": 121,
+    "country_code": "LB",
+    "latitude": "34.43352000",
+    "longitude": "35.84415000",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "translations": {}
+  }
+]

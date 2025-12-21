@@ -1,0 +1,15 @@
+[
+  {
+    "id": 21995,
+    "name": "Nova Sintra",
+    "state_id": 2996,
+    "state_code": "BR",
+    "country_id": 40,
+    "country_code": "CV",
+    "latitude": "14.87139000",
+    "longitude": "-24.69556000",
+    "native": null,
+    "timezone": "Atlantic/Cape_Verde",
+    "translations": {}
+  }
+]

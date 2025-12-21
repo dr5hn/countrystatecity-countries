@@ -1,0 +1,28 @@
+[
+  {
+    "id": 66568,
+    "name": "Maseru",
+    "state_id": 3028,
+    "state_code": "A",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-29.31667000",
+    "longitude": "27.48333000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  },
+  {
+    "id": 66571,
+    "name": "Nako",
+    "state_id": 3028,
+    "state_code": "A",
+    "country_id": 122,
+    "country_code": "LS",
+    "latitude": "-29.61667000",
+    "longitude": "27.76667000",
+    "native": null,
+    "timezone": "Africa/Maseru",
+    "translations": {}
+  }
+]

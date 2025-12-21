@@ -1,0 +1,28 @@
+[
+  {
+    "id": 150088,
+    "name": "Arafat",
+    "state_id": 3347,
+    "state_code": "15",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "18.04639000",
+    "longitude": "-15.97194000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  },
+  {
+    "id": 150089,
+    "name": "Riyad",
+    "state_id": 3347,
+    "state_code": "15",
+    "country_id": 139,
+    "country_code": "MR",
+    "latitude": "18.00784270",
+    "longitude": "-15.97404000",
+    "native": null,
+    "timezone": "Africa/Nouakchott",
+    "translations": {}
+  }
+]

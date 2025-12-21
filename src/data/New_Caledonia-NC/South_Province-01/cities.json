@@ -1,0 +1,67 @@
+[
+  {
+    "id": 153634,
+    "name": "Bourail",
+    "state_id": 5225,
+    "state_code": "01",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-21.57010000",
+    "longitude": "165.48040000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  },
+  {
+    "id": 153632,
+    "name": "Dumbéa",
+    "state_id": 5225,
+    "state_code": "01",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-22.15000000",
+    "longitude": "166.45000000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  },
+  {
+    "id": 153631,
+    "name": "Le Mont-Dore",
+    "state_id": 5225,
+    "state_code": "01",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-22.21570000",
+    "longitude": "166.46650000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  },
+  {
+    "id": 153630,
+    "name": "Nouméa",
+    "state_id": 5225,
+    "state_code": "01",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-22.27580000",
+    "longitude": "166.45800000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  },
+  {
+    "id": 153633,
+    "name": "Païta",
+    "state_id": 5225,
+    "state_code": "01",
+    "country_id": 157,
+    "country_code": "NC",
+    "latitude": "-22.13370000",
+    "longitude": "166.35050000",
+    "native": null,
+    "timezone": "Pacific/Noumea",
+    "translations": {}
+  }
+]

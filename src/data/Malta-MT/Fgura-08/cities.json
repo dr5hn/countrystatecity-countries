@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67764,
+    "name": "Fgura",
+    "state_id": 129,
+    "state_code": "08",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "35.87028000",
+    "longitude": "14.51333000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

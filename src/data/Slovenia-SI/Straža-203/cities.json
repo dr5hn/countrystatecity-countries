@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104286,
+    "name": "Straža",
+    "state_id": 4333,
+    "state_code": "203",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "45.78000000",
+    "longitude": "15.07278000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

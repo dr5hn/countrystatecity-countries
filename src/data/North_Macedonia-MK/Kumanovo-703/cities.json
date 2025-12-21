@@ -1,0 +1,41 @@
+[
+  {
+    "id": 67387,
+    "name": "Bedinje",
+    "state_id": 683,
+    "state_code": "703",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.14167000",
+    "longitude": "21.69639000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67465,
+    "name": "Kumanovo",
+    "state_id": 683,
+    "state_code": "703",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.13222000",
+    "longitude": "21.71444000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67516,
+    "name": "Romanovci",
+    "state_id": 683,
+    "state_code": "703",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.09472000",
+    "longitude": "21.69306000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

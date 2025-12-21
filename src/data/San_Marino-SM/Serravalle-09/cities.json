@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104701,
+    "name": "Serravalle",
+    "state_id": 65,
+    "state_code": "09",
+    "country_id": 192,
+    "country_code": "SM",
+    "latitude": "43.96897000",
+    "longitude": "12.48167000",
+    "native": null,
+    "timezone": "Europe/San_Marino",
+    "translations": {}
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 57,
+    "name": "Bāmyān",
+    "state_id": 3872,
+    "state_code": "BAM",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.82156000",
+    "longitude": "67.82734000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  },
+  {
+    "id": 104,
+    "name": "Panjāb",
+    "state_id": 3872,
+    "state_code": "BAM",
+    "country_id": 1,
+    "country_code": "AF",
+    "latitude": "34.38795000",
+    "longitude": "67.02327000",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "translations": {}
+  }
+]

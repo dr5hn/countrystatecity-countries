@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104106,
+    "name": "Gorenja Vas",
+    "state_id": 4293,
+    "state_code": "027",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.10722000",
+    "longitude": "14.14806000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

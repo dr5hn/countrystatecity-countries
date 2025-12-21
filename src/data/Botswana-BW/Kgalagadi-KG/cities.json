@@ -1,0 +1,80 @@
+[
+  {
+    "id": 15740,
+    "name": "Hukuntsi",
+    "state_id": 3066,
+    "state_code": "KG",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-23.99880000",
+    "longitude": "21.77962000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15743,
+    "name": "Kang",
+    "state_id": 3066,
+    "state_code": "KG",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-23.67518000",
+    "longitude": "22.78762000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15748,
+    "name": "Lehututu",
+    "state_id": 3066,
+    "state_code": "KG",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-23.96667000",
+    "longitude": "21.86667000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15759,
+    "name": "Manyana",
+    "state_id": 3066,
+    "state_code": "KG",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-23.40000000",
+    "longitude": "21.71667000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15802,
+    "name": "Tshabong",
+    "state_id": 3066,
+    "state_code": "KG",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-26.05000000",
+    "longitude": "22.45000000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  },
+  {
+    "id": 15803,
+    "name": "Werda",
+    "state_id": 3066,
+    "state_code": "KG",
+    "country_id": 29,
+    "country_code": "BW",
+    "latitude": "-25.26667000",
+    "longitude": "23.28333000",
+    "native": null,
+    "timezone": "Africa/Gaborone",
+    "translations": {}
+  }
+]

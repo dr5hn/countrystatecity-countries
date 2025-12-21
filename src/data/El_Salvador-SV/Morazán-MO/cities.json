@@ -1,0 +1,80 @@
+[
+  {
+    "id": 104851,
+    "name": "Cacaopera",
+    "state_id": 4130,
+    "state_code": "MO",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.76667000",
+    "longitude": "-88.08333000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104865,
+    "name": "Corinto",
+    "state_id": 4130,
+    "state_code": "MO",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.81083000",
+    "longitude": "-87.97139000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104872,
+    "name": "Guatajiagua",
+    "state_id": 4130,
+    "state_code": "MO",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.66667000",
+    "longitude": "-88.20000000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104879,
+    "name": "Jocoro",
+    "state_id": 4130,
+    "state_code": "MO",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.61667000",
+    "longitude": "-88.01667000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104905,
+    "name": "San Francisco",
+    "state_id": 4130,
+    "state_code": "MO",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.70000000",
+    "longitude": "-88.10000000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  },
+  {
+    "id": 104926,
+    "name": "Sociedad",
+    "state_id": 4130,
+    "state_code": "MO",
+    "country_id": 66,
+    "country_code": "SV",
+    "latitude": "13.70000000",
+    "longitude": "-88.01667000",
+    "native": null,
+    "timezone": "America/El_Salvador",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67792,
+    "name": "Nadur",
+    "state_id": 133,
+    "state_code": "37",
+    "country_id": 135,
+    "country_code": "MT",
+    "latitude": "36.03778000",
+    "longitude": "14.29417000",
+    "native": null,
+    "timezone": "Europe/Malta",
+    "translations": {}
+  }
+]

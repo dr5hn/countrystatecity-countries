@@ -1,0 +1,51 @@
+{
+  "id": 213,
+  "name": "Sweden",
+  "iso2": "SE",
+  "iso3": "SWE",
+  "numeric_code": "752",
+  "phonecode": "46",
+  "capital": "Stockholm",
+  "currency": "SEK",
+  "currency_name": "Swedish krona",
+  "currency_symbol": "ko",
+  "tld": ".se",
+  "native": "Sverige",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Swedish",
+  "latitude": "62.00000000",
+  "longitude": "15.00000000",
+  "emoji": "🇸🇪",
+  "emojiU": "U+1F1F8 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Europe/Stockholm",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Sveden",
+    "ko": "스웨덴",
+    "pt-BR": "Suécia",
+    "pt": "Suécia",
+    "nl": "Zweden",
+    "hr": "Švedska",
+    "fa": "سوئد",
+    "de": "Schweden",
+    "es": "Suecia",
+    "fr": "Suède",
+    "ja": "スウェーデン",
+    "it": "Svezia",
+    "zh-CN": "瑞典",
+    "tr": "İsveç",
+    "ru": "Швеция",
+    "uk": "Швеція",
+    "pl": "Szwecja",
+    "hi": "स्वीडन",
+    "ar": "السويد"
+  }
+}

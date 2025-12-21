@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153873,
+    "name": "Madaripur",
+    "state_id": 5506,
+    "state_code": "36",
+    "country_id": 19,
+    "country_code": "BD",
+    "latitude": "23.23455490",
+    "longitude": "89.81089030",
+    "native": null,
+    "timezone": "Asia/Dhaka",
+    "translations": {}
+  }
+]

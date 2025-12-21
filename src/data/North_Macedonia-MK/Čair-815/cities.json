@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67566,
+    "name": "Čair",
+    "state_id": 704,
+    "state_code": "815",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.01528000",
+    "longitude": "21.44111000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

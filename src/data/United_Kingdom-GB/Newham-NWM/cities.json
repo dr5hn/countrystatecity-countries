@@ -1,0 +1,28 @@
+[
+  {
+    "id": 48386,
+    "name": "Barking",
+    "state_id": 2418,
+    "state_code": "NWM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.53333000",
+    "longitude": "0.08333000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48842,
+    "name": "Canary Wharf",
+    "state_id": 2418,
+    "state_code": "NWM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50519000",
+    "longitude": "-0.02085000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

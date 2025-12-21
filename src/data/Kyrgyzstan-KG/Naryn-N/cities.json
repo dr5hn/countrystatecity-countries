@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64885,
+    "name": "At-Bashi",
+    "state_id": 999,
+    "state_code": "N",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "41.16951000",
+    "longitude": "75.80099000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64900,
+    "name": "Jumgal",
+    "state_id": 999,
+    "state_code": "N",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "41.94924000",
+    "longitude": "74.40566000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  },
+  {
+    "id": 64918,
+    "name": "Naryn",
+    "state_id": 999,
+    "state_code": "N",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "41.42866000",
+    "longitude": "75.99111000",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "translations": {}
+  }
+]

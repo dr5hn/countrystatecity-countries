@@ -1,0 +1,93 @@
+[
+  {
+    "id": 31278,
+    "name": "Bordj Bou Arreridj",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.07321000",
+    "longitude": "4.76108000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31279,
+    "name": "Bordj Ghdir",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.90111000",
+    "longitude": "4.89806000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31280,
+    "name": "Bordj Zemoura",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.27462000",
+    "longitude": "4.85668000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31327,
+    "name": "El Achir",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.06386000",
+    "longitude": "4.62744000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31373,
+    "name": "Mansourah",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.08725000",
+    "longitude": "4.45192000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31381,
+    "name": "Melouza",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.97999000",
+    "longitude": "4.18665000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  },
+  {
+    "id": 31416,
+    "name": "Râs el Oued",
+    "state_id": 1116,
+    "state_code": "34",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "35.94410000",
+    "longitude": "5.03107000",
+    "native": null,
+    "timezone": "Africa/Algiers",
+    "translations": {}
+  }
+]

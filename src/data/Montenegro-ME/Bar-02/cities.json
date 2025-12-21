@@ -1,0 +1,54 @@
+[
+  {
+    "id": 67344,
+    "name": "Bar",
+    "state_id": 13,
+    "state_code": "02",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.09306000",
+    "longitude": "19.10028000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67369,
+    "name": "Stari Bar",
+    "state_id": 13,
+    "state_code": "02",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.09700000",
+    "longitude": "19.13600000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67375,
+    "name": "Šušanj",
+    "state_id": 13,
+    "state_code": "02",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.11556000",
+    "longitude": "19.08833000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67370,
+    "name": "Sutomore",
+    "state_id": 13,
+    "state_code": "02",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.14278000",
+    "longitude": "19.04667000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

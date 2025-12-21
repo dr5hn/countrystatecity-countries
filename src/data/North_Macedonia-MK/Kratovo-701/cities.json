@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67458,
+    "name": "Kratovo",
+    "state_id": 641,
+    "state_code": "701",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "42.07838000",
+    "longitude": "22.18070000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 65927,
+    "name": "Vientiane",
+    "state_id": 979,
+    "state_code": "VT",
+    "country_id": 119,
+    "country_code": "LA",
+    "latitude": "17.96667000",
+    "longitude": "102.60000000",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "translations": {}
+  }
+]

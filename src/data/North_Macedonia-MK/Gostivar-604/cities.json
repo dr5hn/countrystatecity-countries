@@ -1,0 +1,80 @@
+[
+  {
+    "id": 67404,
+    "name": "Cegrane",
+    "state_id": 693,
+    "state_code": "604",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.83889000",
+    "longitude": "20.97583000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67417,
+    "name": "Dolna Banjica",
+    "state_id": 693,
+    "state_code": "604",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.78611000",
+    "longitude": "20.90611000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67426,
+    "name": "Forino",
+    "state_id": 693,
+    "state_code": "604",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.82334000",
+    "longitude": "20.96174000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67433,
+    "name": "Gostivar",
+    "state_id": 693,
+    "state_code": "604",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.79601000",
+    "longitude": "20.90819000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67531,
+    "name": "Srbinovo",
+    "state_id": 693,
+    "state_code": "604",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.70586000",
+    "longitude": "20.95859000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  },
+  {
+    "id": 67560,
+    "name": "Vrutok",
+    "state_id": 693,
+    "state_code": "604",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.76861000",
+    "longitude": "20.83917000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

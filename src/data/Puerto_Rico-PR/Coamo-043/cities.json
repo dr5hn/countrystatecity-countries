@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153570,
+    "name": "Coamo",
+    "state_id": 5155,
+    "state_code": "043",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.07996160",
+    "longitude": "-66.35794730",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

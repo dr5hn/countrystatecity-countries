@@ -1,0 +1,28 @@
+[
+  {
+    "id": 104822,
+    "name": "Brokopondo",
+    "state_id": 2846,
+    "state_code": "BR",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.05594000",
+    "longitude": "-54.98043000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  },
+  {
+    "id": 104823,
+    "name": "Brownsweg",
+    "state_id": 2846,
+    "state_code": "BR",
+    "country_id": 210,
+    "country_code": "SR",
+    "latitude": "5.00435000",
+    "longitude": "-55.15333000",
+    "native": null,
+    "timezone": "America/Paramaribo",
+    "translations": {}
+  }
+]

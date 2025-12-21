@@ -1,0 +1,93 @@
+[
+  {
+    "id": 130557,
+    "name": "Hà Tĩnh",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.34282000",
+    "longitude": "105.90569000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 130277,
+    "name": "Huyện Cẩm Xuyên",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.19059000",
+    "longitude": "106.00186000",
+    "native": null,
+    "timezone": "Asia/Bangkok",
+    "translations": {}
+  },
+  {
+    "id": 130243,
+    "name": "Huyện Can Lộc",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.44414000",
+    "longitude": "105.76350000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130525,
+    "name": "Huyện Ðức Thọ",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.49699000",
+    "longitude": "105.61016000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130337,
+    "name": "Huyện Kỳ Anh",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.05805000",
+    "longitude": "106.24580000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130382,
+    "name": "Huyện Nghi Xuân",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.62419000",
+    "longitude": "105.76829000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130447,
+    "name": "Huyện Thạch Hà",
+    "state_id": 3816,
+    "state_code": "23",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.35091000",
+    "longitude": "105.81123000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  }
+]

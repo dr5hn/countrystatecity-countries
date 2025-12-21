@@ -1,0 +1,15 @@
+[
+  {
+    "id": 160274,
+    "name": "Talofofo Village",
+    "state_id": 5269,
+    "state_code": "16",
+    "country_id": 89,
+    "country_code": "GU",
+    "latitude": "13.35513000",
+    "longitude": "144.75835000",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "translations": {}
+  }
+]

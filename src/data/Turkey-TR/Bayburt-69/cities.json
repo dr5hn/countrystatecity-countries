@@ -1,0 +1,41 @@
+[
+  {
+    "id": 107226,
+    "name": "Aydıntepe",
+    "state_id": 2177,
+    "state_code": "69",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.38325000",
+    "longitude": "40.14272000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107466,
+    "name": "Demirözü",
+    "state_id": 2177,
+    "state_code": "69",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.16560000",
+    "longitude": "39.89343000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  },
+  {
+    "id": 107297,
+    "name": "Merkez",
+    "state_id": 2177,
+    "state_code": "69",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "40.25631000",
+    "longitude": "40.22289000",
+    "native": null,
+    "timezone": "Europe/Istanbul",
+    "translations": {}
+  }
+]

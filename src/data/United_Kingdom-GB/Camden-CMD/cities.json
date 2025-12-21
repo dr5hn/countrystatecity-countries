@@ -1,0 +1,28 @@
+[
+  {
+    "id": 48466,
+    "name": "Belsize Park",
+    "state_id": 2349,
+    "state_code": "CMD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.54767000",
+    "longitude": "-0.17228000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 48837,
+    "name": "Camden Town",
+    "state_id": 2349,
+    "state_code": "CMD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.54057000",
+    "longitude": "-0.14334000",
+    "native": null,
+    "timezone": "Europe/London",
+    "translations": {}
+  }
+]

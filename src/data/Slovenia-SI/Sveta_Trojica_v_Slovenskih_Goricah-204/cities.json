@@ -1,0 +1,15 @@
+[
+  {
+    "id": 104290,
+    "name": "Sv. Trojica v Slov. Goricah",
+    "state_id": 4260,
+    "state_code": "204",
+    "country_id": 201,
+    "country_code": "SI",
+    "latitude": "46.57667000",
+    "longitude": "15.87694000",
+    "native": null,
+    "timezone": "Europe/Ljubljana",
+    "translations": {}
+  }
+]

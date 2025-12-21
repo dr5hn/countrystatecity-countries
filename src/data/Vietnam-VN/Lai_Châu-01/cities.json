@@ -1,0 +1,41 @@
+[
+  {
+    "id": 130361,
+    "name": "Huyện Mưòng Tè",
+    "state_id": 3825,
+    "state_code": "01",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "22.37443000",
+    "longitude": "102.73835000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130431,
+    "name": "Huyện Tam Đường",
+    "state_id": 3825,
+    "state_code": "01",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "22.35391000",
+    "longitude": "103.59342000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  },
+  {
+    "id": 130433,
+    "name": "Huyện Than Uyên",
+    "state_id": 3825,
+    "state_code": "01",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "21.91424000",
+    "longitude": "103.82857000",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "translations": {}
+  }
+]

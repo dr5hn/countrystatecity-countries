@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153596,
+    "name": "Maricao",
+    "state_id": 5181,
+    "state_code": "093",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.18079020",
+    "longitude": "-66.97990010",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 67526,
+    "name": "Skopje",
+    "state_id": 681,
+    "state_code": "808",
+    "country_id": 129,
+    "country_code": "MK",
+    "latitude": "41.99646000",
+    "longitude": "21.43141000",
+    "native": null,
+    "timezone": "Europe/Skopje",
+    "translations": {}
+  }
+]

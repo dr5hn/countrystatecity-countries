@@ -1,0 +1,15 @@
+[
+  {
+    "id": 135185,
+    "name": "Grýtubakkahreppur",
+    "state_id": 5573,
+    "state_code": "GRY",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "65.98333000",
+    "longitude": "-18.11667000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

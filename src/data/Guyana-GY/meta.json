@@ -1,0 +1,51 @@
+{
+  "id": 94,
+  "name": "Guyana",
+  "iso2": "GY",
+  "iso3": "GUY",
+  "numeric_code": "328",
+  "phonecode": "592",
+  "capital": "Georgetown",
+  "currency": "GYD",
+  "currency_name": "Guyanese dollar",
+  "currency_symbol": "$",
+  "tld": ".gy",
+  "native": "Guyana",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "Guyanese",
+  "latitude": "5.00000000",
+  "longitude": "-59.00000000",
+  "emoji": "🇬🇾",
+  "emojiU": "U+1F1EC U+1F1FE",
+  "timezones": [
+    {
+      "zoneName": "America/Guyana",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "GYT",
+      "tzName": "Guyana Time"
+    }
+  ],
+  "translations": {
+    "br": "Guyana",
+    "ko": "가이아나",
+    "pt-BR": "Guiana",
+    "pt": "Guiana",
+    "nl": "Guyana",
+    "hr": "Gvajana",
+    "fa": "گویان",
+    "de": "Guyana",
+    "es": "Guyana",
+    "fr": "Guyane",
+    "ja": "ガイアナ",
+    "it": "Guyana",
+    "zh-CN": "圭亚那",
+    "tr": "Guyana",
+    "ru": "Гайана",
+    "uk": "Гайана",
+    "pl": "Gujana",
+    "hi": "गुयाना",
+    "ar": "غيانا"
+  }
+}

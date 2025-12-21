@@ -1,0 +1,28 @@
+[
+  {
+    "id": 135176,
+    "name": "Fjallabyggð",
+    "state_id": 5566,
+    "state_code": "FJL",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.05962000",
+    "longitude": "-18.78220000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  },
+  {
+    "id": 135212,
+    "name": "Siglufjörður",
+    "state_id": 5566,
+    "state_code": "FJL",
+    "country_id": 100,
+    "country_code": "IS",
+    "latitude": "66.15198000",
+    "longitude": "-18.90815000",
+    "native": null,
+    "timezone": "Atlantic/Reykjavik",
+    "translations": {}
+  }
+]

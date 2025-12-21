@@ -1,0 +1,28 @@
+[
+  {
+    "id": 30562,
+    "name": "Alaïli Ḏaḏḏa‘",
+    "state_id": 2928,
+    "state_code": "OB",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "12.42167000",
+    "longitude": "42.89556000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  },
+  {
+    "id": 30571,
+    "name": "Obock",
+    "state_id": 2928,
+    "state_code": "OB",
+    "country_id": 60,
+    "country_code": "DJ",
+    "latitude": "11.96693000",
+    "longitude": "43.28835000",
+    "native": null,
+    "timezone": "Africa/Djibouti",
+    "translations": {}
+  }
+]

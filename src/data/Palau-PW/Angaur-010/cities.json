@@ -1,0 +1,15 @@
+[
+  {
+    "id": 89700,
+    "name": "Angaur State",
+    "state_id": 4538,
+    "state_code": "010",
+    "country_id": 168,
+    "country_code": "PW",
+    "latitude": "6.90601000",
+    "longitude": "134.12997000",
+    "native": null,
+    "timezone": "Pacific/Palau",
+    "translations": {}
+  }
+]

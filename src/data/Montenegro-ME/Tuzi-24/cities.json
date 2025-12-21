@@ -1,0 +1,41 @@
+[
+  {
+    "id": 160068,
+    "name": "Dinoša",
+    "state_id": 5683,
+    "state_code": "24",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.38333000",
+    "longitude": "19.38333000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67356,
+    "name": "Mataguži",
+    "state_id": 5683,
+    "state_code": "24",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.35000000",
+    "longitude": "19.41667000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  },
+  {
+    "id": 67372,
+    "name": "Tuzi",
+    "state_id": 5683,
+    "state_code": "24",
+    "country_id": 147,
+    "country_code": "ME",
+    "latitude": "42.36667000",
+    "longitude": "19.40000000",
+    "native": null,
+    "timezone": "Europe/Podgorica",
+    "translations": {}
+  }
+]

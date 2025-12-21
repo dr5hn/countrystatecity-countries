@@ -1,0 +1,15 @@
+[
+  {
+    "id": 153558,
+    "name": "Barranquitas",
+    "state_id": 5143,
+    "state_code": "019",
+    "country_id": 178,
+    "country_code": "PR",
+    "latitude": "18.18662420",
+    "longitude": "-66.30628020",
+    "native": null,
+    "timezone": "America/Puerto_Rico",
+    "translations": {}
+  }
+]
