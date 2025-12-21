@@ -1,6 +1,12 @@
 # @countrystatecity/countries
 
+[![npm](https://img.shields.io/npm/v/@countrystatecity/countries)](https://www.npmjs.com/package/@countrystatecity/countries)
+[![CI](https://github.com/dr5hn/countrystatecity-countries/workflows/CI/badge.svg)](https://github.com/dr5hn/countrystatecity-countries/actions/workflows/ci.yml)
+[![npm downloads](https://img.shields.io/npm/dm/@countrystatecity/countries)](https://www.npmjs.com/package/@countrystatecity/countries)
+
 Official countries, states, and cities database with iOS/Safari support and minimal bundle size.
+
+**Environment:** 🖥️ **Server-side only** (Node.js, Next.js API routes, Express, etc.)
 
 ## ✨ Features
 
@@ -23,6 +29,7 @@ yarn add @countrystatecity/countries
 pnpm add @countrystatecity/countries
 ```
 
+> **⚠️ Server-Side Only**: This package requires Node.js file system access and cannot be used in browser environments. For frontend use, create API endpoints using this package and fetch data from your client.
 
 ## 🚀 Quick Start
 
@@ -164,6 +171,28 @@ npm run test:ios
 npm run test:watch
 ```
 
+All packages include comprehensive tests:
+- ✅ Unit tests
+- ✅ Integration tests
+- ✅ iOS/Safari compatibility tests
+
+## 🔄 CI/CD & Automation
+
+### Continuous Integration
+Every push and PR automatically:
+- ✅ Runs type checking
+- ✅ Executes comprehensive tests
+- ✅ Builds the package
+- ✅ Validates bundle sizes
+- ✅ Tests iOS/Safari compatibility
+
+### Automated Publishing
+Automated publishing to NPM on version changes:
+- 🔍 Detects version bumps in package.json
+- 📦 Builds and tests before publishing
+- 🚀 Publishes to NPM registry
+- 🏷️ Creates GitHub release with changelog
+
 ## 📄 License
 
 [ODbL-1.0](LICENSE) © [dr5hn](https://github.com/dr5hn)
@@ -181,14 +210,51 @@ Contributions are welcome! Please open an issue or PR.
 
 **For data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues) repository, which is the source of data for this package.
 
-## 🔗 Related Packages
+## 📦 Package Ecosystem
 
-This package is part of the @countrystatecity ecosystem:
-- [@countrystatecity/countries](https://www.npmjs.com/package/@countrystatecity/countries) - This package
-- [@countrystatecity/react](https://www.npmjs.com/package/@countrystatecity/react) - React components for country/state/city selection
+This package is part of the [@countrystatecity package ecosystem](https://github.com/dr5hn/countrystatecity-countries):
+
+### Available Packages
+
+- **[@countrystatecity/countries](https://www.npmjs.com/package/@countrystatecity/countries)** (This package)
+  - Server-side countries, states, and cities database
+  - Environment: Node.js, Next.js API routes, Express
+  - Bundle: <10KB initial load
+
+- **[@countrystatecity/timezones](https://www.npmjs.com/package/@countrystatecity/timezones)**
+  - Comprehensive timezone data with conversion utilities
+  - Environment: Server-side only
+  - Bundle: <20KB initial load
+
+### Environment Guide
+
+**Use this package (`@countrystatecity/countries`) when:**
+- ✅ Building API endpoints or backends
+- ✅ Using Next.js App Router server components
+- ✅ Running in Node.js, serverless functions (Vercel, AWS Lambda)
+- ✅ You have file system access
+- ✅ Building command-line tools
+
+**For browser/frontend use:**
+
+Until the browser package is available, create API endpoints:
+
+```typescript
+// pages/api/countries.ts (Next.js API route)
+import { getCountries } from '@countrystatecity/countries';
+
+export default async function handler(req, res) {
+  const countries = await getCountries();
+  res.json(countries);
+}
+
+// components/CountrySelector.tsx (Frontend)
+const countries = await fetch('/api/countries').then(r => r.json());
+```
 
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/dr5hn/countrystatecity-countries)
 - [Issues](https://github.com/dr5hn/countrystatecity-countries/issues)
 - [NPM Package](https://www.npmjs.com/package/@countrystatecity/countries)
+- [NPM Organization](https://www.npmjs.com/org/countrystatecity)
