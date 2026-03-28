@@ -205,6 +205,9 @@ export async function getCountryByCode(countryCode: string): Promise<ICountryMet
     if (!countryDir) return null;
     return await loadJSON<ICountryMeta>(`./data/${countryDir}/meta.json`);
   } catch (error) {
+    if (error instanceof Error && (error.message.includes('browser') || error.message.includes('Node.js environment'))) {
+      console.warn(`@countrystatecity/countries: ${error.message}`);
+    }
     // Country not found or file doesn't exist
     return null;
   }
@@ -222,6 +225,9 @@ export async function getStatesOfCountry(countryCode: string): Promise<IState[]>
     if (!countryDir) return [];
     return await loadJSON<IState[]>(`./data/${countryDir}/states.json`);
   } catch (error) {
+    if (error instanceof Error && (error.message.includes('browser') || error.message.includes('Node.js environment'))) {
+      console.warn(`@countrystatecity/countries: ${error.message}`);
+    }
     // Country not found or has no states
     return [];
   }
@@ -263,6 +269,9 @@ export async function getCitiesOfState(
     
     return await loadJSON<ICity[]>(`./data/${countryDir}/${stateDir}/cities.json`);
   } catch (error) {
+    if (error instanceof Error && (error.message.includes('browser') || error.message.includes('Node.js environment'))) {
+      console.warn(`@countrystatecity/countries: ${error.message}`);
+    }
     // State not found or has no cities
     return [];
   }
