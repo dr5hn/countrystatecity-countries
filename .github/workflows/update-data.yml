@@ -88,21 +88,13 @@ jobs:
             echo "No data changes detected"
           fi
       
-      - name: Bump patch version
-        if: steps.check-changes.outputs.changed == 'true'
-        id: bump-version
-        run: |
-          NEW_VERSION=$(npm version patch --no-git-tag-version)
-          echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
-          echo "Bumped version to $NEW_VERSION"
-
       - name: Create Pull Request
         if: steps.check-changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: update countries/states/cities data'
-          title: '🔄 Automated Data Update ${{ steps.bump-version.outputs.version }}'
+          title: '🔄 Automated Data Update'
           body: |
             ## Automated Data Update
 
