@@ -19,6 +19,21 @@ Official countries, states, and cities database with iOS/Safari support and mini
 - 📝 **TypeScript**: Full type definitions included
 - 🔧 **Tree-Shakeable**: Only bundle what you use
 
+### Why This Package?
+
+The popular `country-state-city` package (162K weekly downloads) has critical issues:
+- 🔴 8MB bundle size (includes ALL data)
+- 🔴 iOS Safari crashes with stack overflow errors
+- 🔴 Unmaintained for 2+ years
+- 🔴 Static imports force entire bundle
+
+This package solves each of those problems:
+- ✅ Minimal bundle (<10KB initial)
+- ✅ Dynamic imports & lazy loading
+- ✅ iOS/Safari compatible
+- ✅ Always updated from authoritative database
+- ✅ Tree-shakeable & code-splittable
+
 ## 📦 Installation
 
 ```bash
@@ -29,7 +44,7 @@ yarn add @countrystatecity/countries
 pnpm add @countrystatecity/countries
 ```
 
-> **⚠️ Server-Side Only**: This package requires Node.js file system access and cannot be used in browser environments. For frontend use, create API endpoints using this package and fetch data from your client.
+> **⚠️ Server-Side Only**: This package requires Node.js file system access and cannot be used in browser environments. For frontend use, install [`@countrystatecity/countries-browser`](https://www.npmjs.com/package/@countrystatecity/countries-browser) instead — same API, works in React/Vue/Svelte/Vite.
 
 ## 🚀 Quick Start
 
@@ -130,23 +145,7 @@ Get all timezones for a country.
 import type { ICountry, ICountryMeta, IState, ICity, ITimezone } from '@countrystatecity/countries';
 ```
 
-## 🎯 Why This Package?
-
-### The Problem
-The popular `country-state-city` package (162K weekly downloads) has critical issues:
-- 🔴 8MB bundle size (includes ALL data)
-- 🔴 iOS Safari crashes with stack overflow errors
-- 🔴 Unmaintained for 2+ years
-- 🔴 Static imports force entire bundle
-
-### Our Solution
-- ✅ Minimal bundle (<10KB initial)
-- ✅ Dynamic imports & lazy loading
-- ✅ iOS/Safari compatible
-- ✅ Always updated from authoritative database
-- ✅ Tree-shakeable & code-splittable
-
-## 📊 Bundle Size Comparison
+## 📊 Bundle Size
 
 | Action | @countrystatecity/countries | country-state-city |
 |--------|----------------------------|-------------------|
@@ -199,10 +198,7 @@ Automated publishing to NPM on version changes:
 
 This package and its data are licensed under the Open Database License (ODbL) v1.0. The data is sourced from the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) which is also licensed under ODbL-1.0.
 
-You are free to share, create, and adapt this database as long as you:
-- **Attribute**: Credit the original sources
-- **Share-Alike**: Distribute adaptations under the same license
-- **Keep Open**: Don't use technical restrictions
+You are free to share, create, and adapt this database as long as you attribute the original sources, distribute adaptations under the same license, and don't use technical restrictions to lock down the data.
 
 ## 🤝 Contributing
 
@@ -214,17 +210,11 @@ Contributions are welcome! Please open an issue or PR.
 
 This package is part of the [@countrystatecity package ecosystem](https://github.com/dr5hn/countrystatecity-countries):
 
-### Available Packages
+- **[@countrystatecity/countries](https://www.npmjs.com/package/@countrystatecity/countries)** (This package) — Server-side countries, states, and cities database. Environment: Node.js, Next.js API routes, Express. Bundle: <10KB initial load.
 
-- **[@countrystatecity/countries](https://www.npmjs.com/package/@countrystatecity/countries)** (This package)
-  - Server-side countries, states, and cities database
-  - Environment: Node.js, Next.js API routes, Express
-  - Bundle: <10KB initial load
+- **[@countrystatecity/countries-browser](https://www.npmjs.com/package/@countrystatecity/countries-browser)** — Browser-native version with jsDelivr CDN and lazy loading. Environment: React, Vue, Svelte, Vite, any browser. Same API as this package — zero config, just import and use.
 
-- **[@countrystatecity/timezones](https://www.npmjs.com/package/@countrystatecity/timezones)**
-  - Comprehensive timezone data with conversion utilities
-  - Environment: Server-side only
-  - Bundle: <20KB initial load
+- **[@countrystatecity/timezones](https://www.npmjs.com/package/@countrystatecity/timezones)** — Comprehensive timezone data with conversion utilities. Environment: Server-side only. Bundle: <20KB initial load.
 
 ### Environment Guide
 
@@ -237,19 +227,18 @@ This package is part of the [@countrystatecity package ecosystem](https://github
 
 **For browser/frontend use:**
 
-Until the browser package is available, create API endpoints:
+Use [`@countrystatecity/countries-browser`](https://www.npmjs.com/package/@countrystatecity/countries-browser) — same API, works directly in React, Vue, Svelte, Vite:
+
+```bash
+npm install @countrystatecity/countries-browser
+```
 
 ```typescript
-// pages/api/countries.ts (Next.js API route)
-import { getCountries } from '@countrystatecity/countries';
+import { getCountries, getStatesOfCountry, getCitiesOfState } from '@countrystatecity/countries-browser';
 
-export default async function handler(req, res) {
-  const countries = await getCountries();
-  res.json(countries);
-}
-
-// components/CountrySelector.tsx (Frontend)
-const countries = await fetch('/api/countries').then(r => r.json());
+const countries = await getCountries();
+const states = await getStatesOfCountry('US');
+const cities = await getCitiesOfState('US', 'CA');
 ```
 
 ## 🔗 Links
