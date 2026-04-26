@@ -9,7 +9,7 @@
     "latitude": "48.70971000",
     "longitude": "30.44827000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.09252000",
     "longitude": "30.40355000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.42854000",
     "longitude": "32.06207000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "49.66644000",
     "longitude": "32.32932000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "49.08376000",
     "longitude": "32.65549000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "49.96029000",
     "longitude": "32.14070000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "49.28489000",
     "longitude": "31.44513000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "49.03180000",
     "longitude": "32.10396000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "49.75182000",
     "longitude": "31.46004000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "48.81577000",
     "longitude": "29.97703000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "49.41894000",
     "longitude": "31.25865000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "48.96349000",
     "longitude": "30.33366000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "48.99090000",
     "longitude": "29.80470000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "49.00687000",
     "longitude": "31.39471000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "49.22242000",
     "longitude": "31.88714000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "49.40186000",
     "longitude": "31.09764000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "49.07907000",
     "longitude": "29.84727000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "49.15231000",
     "longitude": "31.53739000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "48.74838000",
     "longitude": "30.22184000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "49.01502000",
     "longitude": "31.06211000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "48.82849000",
     "longitude": "30.03957000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "48.99062000",
     "longitude": "30.98818000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "49.24545000",
     "longitude": "30.11020000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "49.66832000",
     "longitude": "32.04047000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "49.07866000",
     "longitude": "30.96755000",
     "native": null,
-    "timezone": "Europe/Kiev",
+    "timezone": "Europe/Kyiv",
     "translations": {}
   }
 ]
