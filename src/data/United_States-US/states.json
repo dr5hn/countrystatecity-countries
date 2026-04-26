@@ -70,6 +70,48 @@
     "translations": {}
   },
   {
+    "id": 5815,
+    "name": "Armed Forces Europe",
+    "country_id": 233,
+    "country_code": "US",
+    "fips_code": null,
+    "iso2": "AE",
+    "type": "military postal region",
+    "latitude": null,
+    "longitude": null,
+    "native": "Armed Forces Europe",
+    "timezone": null,
+    "translations": {}
+  },
+  {
+    "id": 5816,
+    "name": "Armed Forces of the Americas",
+    "country_id": 233,
+    "country_code": "US",
+    "fips_code": null,
+    "iso2": "AA",
+    "type": "military postal region",
+    "latitude": null,
+    "longitude": null,
+    "native": "Armed Forces of the Americas",
+    "timezone": null,
+    "translations": {}
+  },
+  {
+    "id": 5817,
+    "name": "Armed Forces Pacific",
+    "country_id": 233,
+    "country_code": "US",
+    "fips_code": null,
+    "iso2": "AP",
+    "type": "military postal region",
+    "latitude": null,
+    "longitude": null,
+    "native": "Armed Forces Pacific",
+    "timezone": null,
+    "translations": {}
+  },
+  {
     "id": 1416,
     "name": "California",
     "country_id": 233,
