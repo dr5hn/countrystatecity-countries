@@ -1,5 +1,44 @@
 [
   {
+    "id": 161645,
+    "name": "Agua Dulce de Santa María",
+    "state_id": 2785,
+    "state_code": "16",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-19.98378500",
+    "longitude": "-59.75844700",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 161646,
+    "name": "Bahía Negra",
+    "state_id": 2785,
+    "state_code": "16",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-20.22861111",
+    "longitude": "-58.16777778",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 161647,
+    "name": "Capitán Carmelo Peralta",
+    "state_id": 2785,
+    "state_code": "16",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-21.67830556",
+    "longitude": "-57.91458333",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
     "id": 89736,
     "name": "Capitán Pablo Lagerenza",
     "state_id": 2785,
@@ -21,6 +60,19 @@
     "country_code": "PY",
     "latitude": "-21.04153000",
     "longitude": "-57.87377000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
+  },
+  {
+    "id": 161651,
+    "name": "Puerto Casado",
+    "state_id": 2785,
+    "state_code": "16",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-22.29000000",
+    "longitude": "-57.94000000",
     "native": null,
     "timezone": "America/Asuncion",
     "translations": {}

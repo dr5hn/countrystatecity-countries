@@ -37,5 +37,18 @@
     "native": null,
     "timezone": "America/Asuncion",
     "translations": {}
+  },
+  {
+    "id": 161652,
+    "name": "Villa Oliva",
+    "state_id": 2781,
+    "state_code": "12",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-26.02000000",
+    "longitude": "-57.87000000",
+    "native": null,
+    "timezone": "America/Asuncion",
+    "translations": {}
   }
 ]

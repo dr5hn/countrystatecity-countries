@@ -52,6 +52,19 @@
     "translations": {}
   },
   {
+    "id": 136769,
+    "name": "Capirro",
+    "state_id": 1686,
+    "state_code": "BT",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "41.25403000",
+    "longitude": "16.42242000",
+    "native": null,
+    "timezone": "Europe/Rome",
+    "translations": {}
+  },
+  {
     "id": 139863,
     "name": "Margherita di Savoia",
     "state_id": 1686,

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 5821,
+    "name": "Saint-Pierre and Miquelon",
+    "country_id": 187,
+    "country_code": "PM",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "overseas collectivity",
+    "latitude": "46.83333333",
+    "longitude": "-56.33333333",
+    "native": "Saint-Pierre-et-Miquelon",
+    "timezone": "America/Miquelon",
+    "translations": {}
+  }
+]

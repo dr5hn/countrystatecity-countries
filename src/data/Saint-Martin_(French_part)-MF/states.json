@@ -1,0 +1,16 @@
+[
+  {
+    "id": 5820,
+    "name": "Saint-Martin",
+    "country_id": 190,
+    "country_code": "MF",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "overseas collectivity",
+    "latitude": "18.07310000",
+    "longitude": "-63.08220000",
+    "native": "Saint-Martin",
+    "timezone": "America/Marigot",
+    "translations": {}
+  }
+]

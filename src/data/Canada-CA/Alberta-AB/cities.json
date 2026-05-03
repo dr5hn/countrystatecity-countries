@@ -351,6 +351,19 @@
     "translations": {}
   },
   {
+    "id": 161644,
+    "name": "Diamond Valley",
+    "state_id": 872,
+    "state_code": "AB",
+    "country_id": 39,
+    "country_code": "CA",
+    "latitude": "50.67200000",
+    "longitude": "-114.23300000",
+    "native": null,
+    "timezone": "America/Edmonton",
+    "translations": {}
+  },
+  {
     "id": 16372,
     "name": "Didsbury",
     "state_id": 872,

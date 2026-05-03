@@ -303,7 +303,7 @@
     "type": "region",
     "latitude": "14.16583140",
     "longitude": "121.35355770",
-    "native": "CALABARZON",
+    "native": "Calabarzon",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "province",
     "latitude": "13.64282160",
     "longitude": "123.32823380",
-    "native": "Camarines on",
+    "native": "Camarines Sur",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -527,7 +527,7 @@
     "type": "province",
     "latitude": "6.69836580",
     "longitude": "125.36121350",
-    "native": "South Davao",
+    "native": "Davao del Sur",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -667,7 +667,7 @@
     "type": "province",
     "latitude": "17.20000000",
     "longitude": "120.50000000",
-    "native": "Ilocos Sur Ilocos Sur",
+    "native": "Ilocos Sur",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -723,7 +723,7 @@
     "type": "province",
     "latitude": "16.57359570",
     "longitude": "120.40898990",
-    "native": "Union",
+    "native": "La Union",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -765,7 +765,7 @@
     "type": "province",
     "latitude": "7.87764430",
     "longitude": "124.37547590",
-    "native": "Lanao of the South",
+    "native": "Lanao del Sur",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -807,7 +807,7 @@
     "type": "province",
     "latitude": "6.92341960",
     "longitude": "124.53653570",
-    "native": "South.",
+    "native": "Maguindanao del Sur",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -849,7 +849,7 @@
     "type": "region",
     "latitude": "13.01064360",
     "longitude": "121.41157470",
-    "native": "MIMAROPA",
+    "native": "Mimaropa",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -877,7 +877,7 @@
     "type": "province",
     "latitude": "8.65348070",
     "longitude": "124.82352050",
-    "native": "Eastern Misamis",
+    "native": "Misamis Oriental",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -919,7 +919,7 @@
     "type": "province",
     "latitude": "10.41666700",
     "longitude": "123.00000000",
-    "native": "Western blacks",
+    "native": "Negros Occidental",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -933,7 +933,7 @@
     "type": "province",
     "latitude": "9.75000000",
     "longitude": "123.00000000",
-    "native": "Eastern blacks",
+    "native": "Negros Oriental",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -975,7 +975,7 @@
     "type": "province",
     "latitude": "15.58333300",
     "longitude": "121.00000000",
-    "native": "New Ecija",
+    "native": "Nueva Ecija",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -989,7 +989,7 @@
     "type": "province",
     "latitude": "16.35000000",
     "longitude": "121.13000000",
-    "native": "New Biscay",
+    "native": "Nueva Vizcaya",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -1283,7 +1283,7 @@
     "type": "province",
     "latitude": "5.20570000",
     "longitude": "120.02650000",
-    "native": "Tawi-tawi",
+    "native": "Tawi-Tawi",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -1339,7 +1339,7 @@
     "type": "province",
     "latitude": "8.00000000",
     "longitude": "122.66666700",
-    "native": "North Zamboanga",
+    "native": "Zamboanga del Norte",
     "timezone": "Asia/Manila",
     "translations": {}
   },
@@ -1353,7 +1353,7 @@
     "type": "province",
     "latitude": "7.90430000",
     "longitude": "123.31940000",
-    "native": "South Zamboanga",
+    "native": "Zamboanga del Sur",
     "timezone": "Asia/Manila",
     "translations": {}
   },
