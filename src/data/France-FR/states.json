@@ -9,7 +9,7 @@
     "type": "metropolitan department",
     "latitude": "46.06523850",
     "longitude": "5.28477170",
-    "native": "Se faire",
+    "native": "Ain",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "metropolitan department",
     "latitude": "43.05427330",
     "longitude": "2.51247150",
-    "native": "entendus",
+    "native": "Aude",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -356,10 +356,10 @@
     "country_code": "FR",
     "fips_code": null,
     "iso2": "20R",
-    "type": "metropolitan collectivity with special status",
+    "type": "metropolitan region",
     "latitude": "42.18808960",
     "longitude": "9.06841380",
-    "native": "Corsée",
+    "native": "Corse",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -499,7 +499,7 @@
     "type": "metropolitan department",
     "latitude": "49.07563580",
     "longitude": "0.96518290",
-    "native": "Ton",
+    "native": "Eure",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -541,7 +541,7 @@
     "type": "overseas region",
     "latitude": "4.00398820",
     "longitude": "-52.99999800",
-    "native": "French Guiana",
+    "native": "Guyane",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -583,7 +583,7 @@
     "type": "metropolitan department",
     "latitude": "43.95995000",
     "longitude": "4.29763700",
-    "native": "Gardien",
+    "native": "Gard",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -597,7 +597,7 @@
     "type": "metropolitan department",
     "latitude": "43.69552760",
     "longitude": "0.41010190",
-    "native": "Génie",
+    "native": "Gers",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -653,7 +653,7 @@
     "type": "metropolitan department",
     "latitude": "47.86547460",
     "longitude": "7.23154330",
-    "native": "Peau",
+    "native": "Haut-Rhin",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -863,7 +863,7 @@
     "type": "metropolitan department",
     "latitude": "46.81210570",
     "longitude": "1.53820520",
-    "native": "Interne",
+    "native": "Indre",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -1003,7 +1003,7 @@
     "type": "metropolitan department",
     "latitude": "44.62499180",
     "longitude": "1.66577420",
-    "native": "Parcelle",
+    "native": "Lot",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -1059,7 +1059,7 @@
     "type": "metropolitan department",
     "latitude": "49.09189520",
     "longitude": "-1.24549520",
-    "native": "Quelques",
+    "native": "Manche",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -1157,7 +1157,7 @@
     "type": "metropolitan department",
     "latitude": "49.01296850",
     "longitude": "5.42866910",
-    "native": "Miuse",
+    "native": "Meuse",
     "timezone": "Europe/Paris",
     "translations": {}
   },
@@ -1633,7 +1633,7 @@
     "type": "metropolitan department",
     "latitude": "43.41735510",
     "longitude": "6.26646370",
-    "native": "Notre",
+    "native": "Var",
     "timezone": "Europe/Paris",
     "translations": {}
   },

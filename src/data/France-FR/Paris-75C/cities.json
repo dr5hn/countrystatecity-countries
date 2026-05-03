@@ -1,0 +1,15 @@
+[
+  {
+    "id": 44856,
+    "name": "Paris",
+    "state_id": 4816,
+    "state_code": "75C",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.85340000",
+    "longitude": "2.34860000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 76,
+  "name": "French Guiana",
+  "iso2": "GF",
+  "iso3": "GUF",
+  "numeric_code": "254",
+  "phonecode": "594",
+  "capital": "Cayenne",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".gf",
+  "native": "Guyane française",
+  "region": "Americas",
+  "subregion": "South America",
+  "nationality": "French Guianese",
+  "latitude": "4.00000000",
+  "longitude": "-53.00000000",
+  "emoji": "🇬🇫",
+  "emojiU": "U+1F1EC U+1F1EB",
+  "timezones": [
+    {
+      "zoneName": "America/Cayenne",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "GFT",
+      "tzName": "French Guiana Time"
+    }
+  ],
+  "translations": {
+    "br": "Gwiana",
+    "ko": "프랑스령 기아나",
+    "pt-BR": "Guiana Francesa",
+    "pt": "Guiana Francesa",
+    "nl": "Frans-Guyana",
+    "hr": "Francuska Gvajana",
+    "fa": "گویان فرانسه",
+    "de": "Französisch Guyana",
+    "es": "Guayana Francesa",
+    "fr": "Guayane",
+    "ja": "フランス領ギアナ",
+    "it": "Guyana francese",
+    "zh-CN": "法属圭亚那",
+    "tr": "Fransiz Guyanasi",
+    "ru": "Французская Гвиана",
+    "uk": "Французька Гвіана",
+    "pl": "Gujana Francuska",
+    "hi": "फ्रेंच गुआना",
+    "ar": "غويانا الفرنسية"
+  }
+}

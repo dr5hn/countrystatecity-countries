@@ -1,0 +1,15 @@
+[
+  {
+    "id": 45943,
+    "name": "Saint-François",
+    "state_id": 4829,
+    "state_code": "971",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "46.41537000",
+    "longitude": "3.90542000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  }
+]

@@ -468,6 +468,19 @@
     "translations": {}
   },
   {
+    "id": 161558,
+    "name": "Auburndale",
+    "state_id": 1452,
+    "state_code": "NY",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "40.76110000",
+    "longitude": "-73.79000000",
+    "native": null,
+    "timezone": "America/New_York",
+    "translations": {}
+  },
+  {
     "id": 111650,
     "name": "Augusta",
     "state_id": 1452,
@@ -3908,6 +3921,19 @@
     "country_code": "US",
     "latitude": "40.80732000",
     "longitude": "-73.68124000",
+    "native": null,
+    "timezone": "America/New_York",
+    "translations": {}
+  },
+  {
+    "id": 161557,
+    "name": "Flushing",
+    "state_id": 1452,
+    "state_code": "NY",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "40.76580000",
+    "longitude": "-73.83310000",
     "native": null,
     "timezone": "America/New_York",
     "translations": {}

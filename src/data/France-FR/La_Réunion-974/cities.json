@@ -1,0 +1,15 @@
+[
+  {
+    "id": 46192,
+    "name": "Saint-Leu",
+    "state_id": 4823,
+    "state_code": "974",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "46.73060000",
+    "longitude": "4.50083000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  }
+]

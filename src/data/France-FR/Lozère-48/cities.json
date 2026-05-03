@@ -91,6 +91,19 @@
     "translations": {}
   },
   {
+    "id": 39617,
+    "name": "Aumont-Aubrac",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.72205000",
+    "longitude": "3.28466000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 155447,
     "name": "Auroux",
     "state_id": 5016,
@@ -299,6 +312,19 @@
     "translations": {}
   },
   {
+    "id": 40755,
+    "name": "Chanac",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.46614000",
+    "longitude": "3.34327000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 155464,
     "name": "Chastanier",
     "state_id": 5016,
@@ -429,6 +455,19 @@
     "translations": {}
   },
   {
+    "id": 41631,
+    "name": "Département de la Lozère",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.50000000",
+    "longitude": "3.50000000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 155474,
     "name": "Esclanèdes",
     "state_id": 5016,
@@ -437,6 +476,19 @@
     "country_code": "FR",
     "latitude": "44.48423720",
     "longitude": "3.28838770",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 41860,
+    "name": "Florac",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.32632000",
+    "longitude": "3.59301000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -637,6 +689,19 @@
     "translations": {}
   },
   {
+    "id": 42665,
+    "name": "La Canourgue",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.43133000",
+    "longitude": "3.21584000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 155491,
     "name": "La Fage-Montivernoux",
     "state_id": 5016,
@@ -676,6 +741,19 @@
     "translations": {}
   },
   {
+    "id": 42828,
+    "name": "La Panouse",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "43.25576000",
+    "longitude": "5.42963000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 155519,
     "name": "La Tieule",
     "state_id": 5016,
@@ -710,6 +788,19 @@
     "country_code": "FR",
     "latitude": "44.82626630",
     "longitude": "3.35445860",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 43025,
+    "name": "Langogne",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.72726000",
+    "longitude": "3.85539000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -801,6 +892,19 @@
     "country_code": "FR",
     "latitude": "44.87146660",
     "longitude": "3.30717150",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 43219,
+    "name": "Le Malzieu-Ville",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.85699000",
+    "longitude": "3.33302000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -949,6 +1053,19 @@
     "translations": {}
   },
   {
+    "id": 43922,
+    "name": "Marvejols",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.55378000",
+    "longitude": "3.29137000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 155512,
     "name": "Mas-Saint-Chély",
     "state_id": 5016,
@@ -970,6 +1087,32 @@
     "country_code": "FR",
     "latitude": "44.30788700",
     "longitude": "3.04101180",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 43999,
+    "name": "Mende",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.51849000",
+    "longitude": "3.50372000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 44061,
+    "name": "Meyrueis",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.17737000",
+    "longitude": "3.43083000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -1022,6 +1165,19 @@
     "country_code": "FR",
     "latitude": "44.59911360",
     "longitude": "3.55374580",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 44319,
+    "name": "Montrodat",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.55038000",
+    "longitude": "3.32929000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -1282,6 +1438,19 @@
     "country_code": "FR",
     "latitude": "44.19413200",
     "longitude": "3.48743470",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 45738,
+    "name": "Saint-Alban-sur-Limagnole",
+    "state_id": 5016,
+    "state_code": "48",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "44.78100000",
+    "longitude": "3.38793000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}

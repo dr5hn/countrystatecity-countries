@@ -1,0 +1,16 @@
+[
+  {
+    "id": 5819,
+    "name": "Saint-Barthélemy",
+    "country_id": 189,
+    "country_code": "BL",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "overseas collectivity",
+    "latitude": "17.90000000",
+    "longitude": "-62.83333333",
+    "native": "Saint-Barthélemy",
+    "timezone": "America/St_Barthelemy",
+    "translations": {}
+  }
+]

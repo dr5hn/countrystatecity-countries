@@ -1,0 +1,28 @@
+[
+  {
+    "id": 162132,
+    "name": "Miquelon-Langlade",
+    "state_id": 5821,
+    "state_code": "01",
+    "country_id": 187,
+    "country_code": "PM",
+    "latitude": "47.09722222",
+    "longitude": "-56.38138889",
+    "native": null,
+    "timezone": "America/Miquelon",
+    "translations": {}
+  },
+  {
+    "id": 162133,
+    "name": "Saint-Pierre",
+    "state_id": 5821,
+    "state_code": "01",
+    "country_id": 187,
+    "country_code": "PM",
+    "latitude": "46.77833333",
+    "longitude": "-56.17750000",
+    "native": null,
+    "timezone": "America/Miquelon",
+    "translations": {}
+  }
+]

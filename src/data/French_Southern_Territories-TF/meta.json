@@ -1,0 +1,51 @@
+{
+  "id": 78,
+  "name": "French Southern Territories",
+  "iso2": "TF",
+  "iso3": "ATF",
+  "numeric_code": "260",
+  "phonecode": "262",
+  "capital": "Port-aux-Francais",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".tf",
+  "native": "Territoire des Terres australes et antarctiques fr",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "nationality": "French Southern Territories",
+  "latitude": "-49.25000000",
+  "longitude": "69.16700000",
+  "emoji": "🇹🇫",
+  "emojiU": "U+1F1F9 U+1F1EB",
+  "timezones": [
+    {
+      "zoneName": "Indian/Kerguelen",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TFT",
+      "tzName": "French Southern and Antarctic Time"
+    }
+  ],
+  "translations": {
+    "br": "Douaroù Aostral hag Antarktikel Frañs",
+    "ko": "프랑스령 남방 및 남극",
+    "pt-BR": "Terras Austrais e Antárticas Francesas",
+    "pt": "Terras Austrais e Antárticas Francesas",
+    "nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+    "hr": "Francuski južni i antarktički teritoriji",
+    "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه",
+    "de": "Französische Süd- und Antarktisgebiete",
+    "es": "Tierras Australes y Antárticas Francesas",
+    "fr": "Terres australes et antarctiques françaises",
+    "ja": "フランス領南方・南極地域",
+    "it": "Territori Francesi del Sud",
+    "zh-CN": "法属南部领地",
+    "tr": "Fransiz Güney Topraklari",
+    "ru": "Французские южные территории",
+    "uk": "Французькі південні території",
+    "pl": "Francuskie terytoria południowe",
+    "hi": "फ्रांसीसी दक्षिणी क्षेत्र",
+    "ar": "الأقاليم الجنوبية الفرنسية"
+  }
+}

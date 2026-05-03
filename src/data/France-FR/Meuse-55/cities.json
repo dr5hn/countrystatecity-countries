@@ -78,6 +78,19 @@
     "translations": {}
   },
   {
+    "id": 39372,
+    "name": "Ancerville",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.63574000",
+    "longitude": "5.02091000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156523,
     "name": "Andernay",
     "state_id": 5023,
@@ -273,6 +286,19 @@
     "translations": {}
   },
   {
+    "id": 39765,
+    "name": "Bar-le-Duc",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.77275000",
+    "longitude": "5.16108000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156539,
     "name": "Baudonvilliers",
     "state_id": 5023,
@@ -424,6 +450,19 @@
     "country_code": "FR",
     "latitude": "49.12816470",
     "longitude": "5.33195000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 39925,
+    "name": "Belleville-sur-Meuse",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.17863000",
+    "longitude": "5.37190000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -632,6 +671,19 @@
     "country_code": "FR",
     "latitude": "48.84400040",
     "longitude": "5.68321140",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 40169,
+    "name": "Bouligny",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.29189000",
+    "longitude": "5.74248000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -1235,6 +1287,19 @@
     "translations": {}
   },
   {
+    "id": 41050,
+    "name": "Clermont-en-Argonne",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.10711000",
+    "longitude": "5.07002000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156616,
     "name": "Cléry-le-Grand",
     "state_id": 5023,
@@ -1282,6 +1347,19 @@
     "country_code": "FR",
     "latitude": "49.06337160",
     "longitude": "5.59950120",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 41121,
+    "name": "Commercy",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.76128000",
+    "longitude": "5.59067000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -1586,6 +1664,19 @@
     "translations": {}
   },
   {
+    "id": 41472,
+    "name": "Dieue-sur-Meuse",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.07200000",
+    "longitude": "5.42248000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156645,
     "name": "Dombasle-en-Argonne",
     "state_id": 5023,
@@ -1885,6 +1976,19 @@
     "translations": {}
   },
   {
+    "id": 48092,
+    "name": "Étain",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.21259000",
+    "longitude": "5.64022000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156669,
     "name": "Éton",
     "state_id": 5023,
@@ -1911,6 +2015,19 @@
     "translations": {}
   },
   {
+    "id": 41746,
+    "name": "Euville",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.75030000",
+    "longitude": "5.62603000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156672,
     "name": "Èvres",
     "state_id": 5023,
@@ -1919,6 +2036,19 @@
     "country_code": "FR",
     "latitude": "48.98242380",
     "longitude": "5.08814040",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 41764,
+    "name": "Fains-Véel",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.78333000",
+    "longitude": "5.13333000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -2218,6 +2348,19 @@
     "country_code": "FR",
     "latitude": "48.65654630",
     "longitude": "5.27917760",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 42126,
+    "name": "Gondrecourt-le-Château",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.51366000",
+    "longitude": "5.51058000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -2977,6 +3120,19 @@
     "translations": {}
   },
   {
+    "id": 43689,
+    "name": "Lérouville",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.79261000",
+    "longitude": "5.54063000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156756,
     "name": "Les Éparges",
     "state_id": 5023,
@@ -3107,6 +3263,19 @@
     "translations": {}
   },
   {
+    "id": 43477,
+    "name": "Ligny-en-Barrois",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.68861000",
+    "longitude": "5.32543000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156762,
     "name": "Liny-devant-Dun",
     "state_id": 5023,
@@ -3206,6 +3375,19 @@
     "country_code": "FR",
     "latitude": "48.64047460",
     "longitude": "5.30677090",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 43556,
+    "name": "Longeville-en-Barrois",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.74242000",
+    "longitude": "5.20905000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -3575,6 +3757,19 @@
     "translations": {}
   },
   {
+    "id": 44052,
+    "name": "Meuse",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.97176000",
+    "longitude": "5.36371000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156805,
     "name": "Milly-sur-Bradon",
     "state_id": 5023,
@@ -3713,6 +3908,19 @@
     "country_code": "FR",
     "latitude": "48.57842130",
     "longitude": "5.58350230",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 44290,
+    "name": "Montmédy",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.52096000",
+    "longitude": "5.36835000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -4550,6 +4758,19 @@
     "translations": {}
   },
   {
+    "id": 45477,
+    "name": "Revigny-sur-Ornain",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.83016000",
+    "longitude": "4.98558000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156882,
     "name": "Réville-aux-Bois",
     "state_id": 5023,
@@ -4909,6 +5130,19 @@
     "country_code": "FR",
     "latitude": "49.01146950",
     "longitude": "5.62798720",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 46342,
+    "name": "Saint-Mihiel",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.88746000",
+    "longitude": "5.55099000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -5330,6 +5564,19 @@
     "translations": {}
   },
   {
+    "id": 47105,
+    "name": "Stenay",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.49489000",
+    "longitude": "5.18606000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156944,
     "name": "Taillancourt",
     "state_id": 5023,
@@ -5351,6 +5598,19 @@
     "country_code": "FR",
     "latitude": "48.71914340",
     "longitude": "5.17825040",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 47231,
+    "name": "Thierville-sur-Meuse",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.17050000",
+    "longitude": "5.35266000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -5486,6 +5746,19 @@
     "translations": {}
   },
   {
+    "id": 47380,
+    "name": "Tronville-en-Barrois",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.71977000",
+    "longitude": "5.27808000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156958,
     "name": "Troussey",
     "state_id": 5023,
@@ -5533,6 +5806,19 @@
     "country_code": "FR",
     "latitude": "49.23183630",
     "longitude": "5.30611930",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 47450,
+    "name": "Vacon",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.66865000",
+    "longitude": "5.60024000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -5642,6 +5928,19 @@
     "translations": {}
   },
   {
+    "id": 47529,
+    "name": "Vaucouleurs",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.60313000",
+    "longitude": "5.66659000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156971,
     "name": "Vaudeville-le-Haut",
     "state_id": 5023,
@@ -5707,6 +6006,19 @@
     "translations": {}
   },
   {
+    "id": 47558,
+    "name": "Velaines",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.69880000",
+    "longitude": "5.30483000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
     "id": 156977,
     "name": "Velosnes",
     "state_id": 5023,
@@ -5715,6 +6027,19 @@
     "country_code": "FR",
     "latitude": "49.50077970",
     "longitude": "5.43529340",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 47593,
+    "name": "Verdun",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "49.15964000",
+    "longitude": "5.38290000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -5767,6 +6092,32 @@
     "country_code": "FR",
     "latitude": "49.50890470",
     "longitude": "5.31032850",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 47695,
+    "name": "Vigneulles-lès-Hattonchâtel",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.98152000",
+    "longitude": "5.70464000",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 47699,
+    "name": "Vignot",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.77418000",
+    "longitude": "5.60904000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}
@@ -5988,6 +6339,19 @@
     "country_code": "FR",
     "latitude": "49.38485200",
     "longitude": "5.37147030",
+    "native": null,
+    "timezone": "Europe/Paris",
+    "translations": {}
+  },
+  {
+    "id": 47891,
+    "name": "Void-Vacon",
+    "state_id": 5023,
+    "state_code": "55",
+    "country_id": 75,
+    "country_code": "FR",
+    "latitude": "48.68333000",
+    "longitude": "5.61667000",
     "native": null,
     "timezone": "Europe/Paris",
     "translations": {}

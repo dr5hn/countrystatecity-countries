@@ -117,6 +117,32 @@
     "translations": {}
   },
   {
+    "id": 160558,
+    "name": "Al Quwayiyah",
+    "state_id": 2849,
+    "state_code": "01",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "24.07390000",
+    "longitude": "45.28060000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 161642,
+    "name": "Al-Quway'iyah",
+    "state_id": 2849,
+    "state_code": "01",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "24.04638889",
+    "longitude": "45.26555556",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
     "id": 149020,
     "name": "Ar Rayn",
     "state_id": 2849,
@@ -208,6 +234,19 @@
     "translations": {}
   },
   {
+    "id": 160557,
+    "name": "Hotat Bani Tamim",
+    "state_id": 2849,
+    "state_code": "01",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "23.52500000",
+    "longitude": "46.83720000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
     "id": 149025,
     "name": "Jalajil",
     "state_id": 2849,
@@ -294,6 +333,19 @@
     "country_code": "SA",
     "latitude": "25.18251000",
     "longitude": "44.59964000",
+    "native": null,
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 161643,
+    "name": "Shaqra",
+    "state_id": 2849,
+    "state_code": "01",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "25.24833333",
+    "longitude": "45.25277778",
     "native": null,
     "timezone": "Asia/Riyadh",
     "translations": {}

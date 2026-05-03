@@ -1,0 +1,15 @@
+[
+  {
+    "id": 162135,
+    "name": "Dumont d'Urville Station",
+    "state_id": 5822,
+    "state_code": "01",
+    "country_id": 78,
+    "country_code": "TF",
+    "latitude": "-66.66277778",
+    "longitude": "140.00111111",
+    "native": null,
+    "timezone": "Antarctica/DumontDUrville",
+    "translations": {}
+  }
+]

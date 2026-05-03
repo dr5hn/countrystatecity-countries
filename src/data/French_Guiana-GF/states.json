@@ -1,0 +1,16 @@
+[
+  {
+    "id": 5818,
+    "name": "Guyane",
+    "country_id": 76,
+    "country_code": "GF",
+    "fips_code": null,
+    "iso2": "01",
+    "type": "overseas region",
+    "latitude": "4.00000000",
+    "longitude": "-53.00000000",
+    "native": "Guyane",
+    "timezone": "America/Cayenne",
+    "translations": {}
+  }
+]
